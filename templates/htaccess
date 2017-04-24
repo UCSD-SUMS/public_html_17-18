@@ -1,0 +1,2 @@
+RewriteEngine on$for(links)$
+RewriteRule ^-$short$$$ $target$$endfor$

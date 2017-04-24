@@ -133,6 +133,28 @@ main = hakyll $ do
         makeItem ""
           >>= loadAndApplyTemplate "templates/ical.ics" eventsCtx
 
+    match "links" $ do
+      -- INTENTIONAL: Do not route. Just using this to allow loading
+      -- in htaccess (below). We could route this to htaccess, but in
+      -- the future might want to combine multiple pieces of data
+      -- there.
+      compile getResourceBody
+
+    create [".htaccess"] $ do
+      route idRoute
+      compile $ do
+        x <- loadBody "links"
+        l <- mapM makeItem $ splitAll "\n" x
+        let shortUrl  = return . head . splitAll " " . itemBody
+            targetUrl = return . head . tail . splitAll " " . itemBody
+            urlCtx = field "short"  shortUrl  `mappend`
+                     field "target" targetUrl `mappend`
+                     defaultContext
+            ctx = listField "links" urlCtx (return l) `mappend`
+                  defaultContext
+        makeItem ""
+          >>= loadAndApplyTemplate "templates/htaccess" ctx
+
     match "index.html" $ do
         route idRoute
         compile $ do
