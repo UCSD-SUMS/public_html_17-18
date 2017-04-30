@@ -25,7 +25,16 @@ stack exec site watch
 Once it is finished, you can then navigate to `localhost:8000` to see the site.
 
 
-# Updating Events
+# Editing Existing Events
+Todo: Describe how to do this through the UI. Describe layout / organization of events, structure of yaml header.
+
+# Adding a New Event
+Todo: Describe how to do this through the Github UI, how to add binary content like images, etc.
+
+# Adding a New Page
+Todo: Describe where to add new directories or pages, how to make sub-pages, how to edit existing pages to add links to new pags.
+
+# Other Notes
 
 All changes should be pushed to the `hakyll` branch, which kicks off the automated
 build and deploy process.
