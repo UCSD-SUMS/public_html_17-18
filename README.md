@@ -8,7 +8,7 @@ architecture, and how-tos are on the
 [wiki](https://github.com/UCSD-SUMS/UCSD-SUMS.github.io/wiki).
 
 # Installation
-- Install [Stack](https://www.haskellstack.org/)
+- Install [Stack](https://www.haskellstack.org/) [Windows-specific issues](https://github.com/UCSD-SUMS/UCSD-SUMS.github.io/wiki#windows)
 ```
 curl -sSL https://get.haskellstack.org/ | sh
 ```
