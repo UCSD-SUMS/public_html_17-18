@@ -3,6 +3,10 @@ This repository contains the files that generate the SUMS website.
 
 Built with [Hakyll](https://jaspervdj.be/hakyll/) [![CircleCI](https://circleci.com/gh/UCSD-SUMS/UCSD-SUMS.github.io/tree/hakyll.svg?style=svg)](https://circleci.com/gh/UCSD-SUMS/UCSD-SUMS.github.io/tree/hakyll)
 
+The most up-to-date docs about installation, building, technical
+architecture, and how-tos are on the
+[wiki](https://github.com/UCSD-SUMS/UCSD-SUMS.github.io/wiki).
+
 # Installation
 - Install [Stack](https://www.haskellstack.org/)
 ```
@@ -24,6 +28,9 @@ stack exec site watch
 
 Once it is finished, you can then navigate to `localhost:8000` to see the site.
 
+There may be some windows issues. See the
+[wiki](https://github.com/UCSD-SUMS/UCSD-SUMS.github.io/wiki) for
+more.
 
 # Editing Existing Events
 Todo: Describe how to do this through the UI. Describe layout / organization of events, structure of yaml header.
