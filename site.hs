@@ -15,6 +15,8 @@ import           Data.Function
 import qualified Data.Map as M
 import           Text.Pandoc.Shared (headerShift)
 import           Data.Time.Format
+import           Network.HTTP.Types.URI
+import qualified Data.ByteString.UTF8 as BS_U8
 
 --------------------------------------------------------------------------------
 newtype Year = Year Int deriving (Eq, Ord)
@@ -121,11 +123,18 @@ main = hakyll $ do
             fmtdTime f = liftA2 (<|>)
               (fmtDateTime . itemTime' [dateTimeFormat] f)
               (fmtDate     . itemTime' [dateFormat] f)
+            uidName = return
+                    . BS_U8.toString
+                    . urlEncode True
+                    . BS_U8.fromString
+                    . toFilePath
+                    . itemIdentifier
             icalEvCtx =
-              field "uid"   (fmtDateTime . itemTime "start")       `mappend`
-              field "start" (fmtdTime "start")                     `mappend`
-              field "end"   (fmtdTime "end")                       `mappend`
-              modificationTimeField "lastmodified" icalDateTimeFmt `mappend`
+              field "uidname" uidName                                `mappend`
+              field "uidtime" (fmtDateTime . itemTime "start")       `mappend`
+              field "start"   (fmtdTime "start")                     `mappend`
+              field "end"     (fmtdTime "end")                       `mappend`
+              modificationTimeField "lastmodified" icalDateTimeFmt   `mappend`
               eventCtx
             eventsCtx =
               listField "events" icalEvCtx (return events) `mappend`

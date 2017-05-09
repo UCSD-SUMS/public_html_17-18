@@ -6,7 +6,7 @@ NAME:UCSD SUMS Events
 X-WR-CALNAME:UCSD SUMS Events
 X-WR-TIMEZONE:America/Los_Angeles
 $for(events)$BEGIN:VEVENT
-UID:event-$uid$@sums.ucsd.edu
+UID:event-$uidtime$-$uidname$@sums.ucsd.edu
 DTSTAMP$lastmodified$
 DTSTART$start$$if(end)$
 DTEND$end$$endif$$if(location)$
