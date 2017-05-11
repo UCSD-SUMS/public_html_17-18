@@ -12,11 +12,9 @@ This year's theme is: "(In)Famous 20th Century Mathematicians"
 
 ## Screening: "The Imitation Game"
 
+![](/static/sp17/Turing_Movie_Night.png)
+
 A biopic of the legendary cryptanalyst Alan Turing, starring Benedict Cumberbatch. 
 
 There'll also be a talk by graduate student Quang Bach, and much FREE food, so stay tuned!
-
-## Flyer
-
-![](/static/sp17/Turing_Movie_Night.png)
 
