@@ -1,6 +1,6 @@
 ---
 title: Math Movie Night
-start: 2017-05-19 17:00:00
+start: 2017-05-19 17:30:00
 end: 2017-05-19 22:00:00
 location: AP&M 6402 (Halkins Seminar Room)
 future: true
