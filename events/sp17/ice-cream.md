@@ -10,8 +10,5 @@ future: true
 
 ![](/static/sp17/ice-cream-308972_1280.png)
 
-Come get some **free** ice cream and snacks with fellow math enthusiasts! Perhaps learn a
-little about Alan Turing too! 
-
-
-
+Come get some **free** ice cream and snacks with fellow math enthusiasts! Perhaps  
+learn a little about Alan Turing too! 
