@@ -2,7 +2,7 @@
 title: "Board Game Night"
 start: 2017-05-12 17:00:00
 end: 2017-05-12 22:00:00
-location: AP&M 6402
+location: Price Center ERC Room
 future: true
 ---
 ![](/static/sp17/board-games.jpg)
