@@ -3,6 +3,7 @@ title: Ice Cream Social
 start: 2017-05-19 17:00:00
 end: 2017-05-19 17:30:00
 location: AP&M 6402 (Halkins Seminar Room)
+future: true
 ---
 
 # Ice Cream Social and Alan Turing Appreciation
