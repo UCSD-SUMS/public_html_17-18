@@ -1,7 +1,7 @@
 ---
 title: Catch-Up Board Meeting
-start: 2017-05-19 17:00:00
-end: 2017-05-19 18:00:00
+start: 2017-05-19 16:30:00
+end: 2017-05-19 17:00:00
 location: AP&M 7421
 ---
 
