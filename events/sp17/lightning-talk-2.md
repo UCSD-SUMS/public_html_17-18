@@ -6,6 +6,8 @@ location: AP&M 7421
 future: true
 ---
 
+![](/static/sp17/light_talks.png)
+
 "Lightning Talks" are short presentation meant to introduce a topic to
 audiences of all backgrounds.
 
