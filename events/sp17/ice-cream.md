@@ -1,7 +1,7 @@
 ---
 title: Burnout/Ice Cream Social
-start: 2017-07-09 17:00:00
-end: 2017-07-09 18:00:00
+start: 2017-06-07 17:00:00
+end: 2017-06-07 18:00:00
 location: AP&M 6402 (Halkins Seminar Room)
 future: true
 ---
