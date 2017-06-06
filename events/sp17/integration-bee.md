@@ -3,7 +3,6 @@ title: "Integration Bee"
 start: 2017-06-02 16:00:00
 end: 2017-06-02 19:00:00
 location: APM 6402
-future: true
 ---
 ![](/static/sp17/IntegrationB.png)
 
