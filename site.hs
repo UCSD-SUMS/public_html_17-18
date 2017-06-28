@@ -110,7 +110,7 @@ main = hakyll $ do
         nextEvent <- nextNEvents 1 =<< loadAll @String "events/*/*"
         -- If no future events, fall back to the "last" events page
         let event = fromJust (  itemIdentifier <$> listToMaybe nextEvent
-                            <|> head . snd <$> M.lookupMin (paginateMap pag)
+                            <|> head . fst <$> M.minView (paginateMap pag)
                              )
         let q = getQuarter event
         let n = fst . M.findMin . M.filter ((q==) . snd)
