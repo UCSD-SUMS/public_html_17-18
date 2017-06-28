@@ -1,6 +1,7 @@
 --------------------------------------------------------------------------------
 {-# LANGUAGE OverloadedStrings #-}
-{-# LANGUAGE TupleSections #-}
+{-# LANGUAGE TupleSections     #-}
+{-# LANGUAGE TypeApplications  #-}
 import           Data.Monoid (mappend)
 import           Hakyll
 import           Data.Time.Clock               (UTCTime (..))
@@ -103,11 +104,15 @@ main = hakyll $ do
 
     create ["events.html"] $ do
       route idRoute
-      -- Figure out which quarter to do by looking at the next
-      -- upcoming event and then reverse-looking-up
       compile $ do
-        event <- ((head <$> (nextNEvents 1 =<< loadAll "events/*/*")) :: Compiler (Item String))
-        let q = getQuarter (itemIdentifier event)
+        -- Figure out which quarter to do by looking at the next
+        -- upcoming event and then reverse-looking-up.
+        nextEvent <- nextNEvents 1 =<< loadAll @String "events/*/*"
+        -- If no future events, fall back to the "last" events page
+        let event = fromJust (  itemIdentifier <$> listToMaybe nextEvent
+                            <|> head . snd <$> M.lookupMin (paginateMap pag)
+                             )
+        let q = getQuarter event
         let n = fst . M.findMin . M.filter ((q==) . snd)
               $ M.map ((id &&& getQuarter . head)) (paginateMap pag)
         loadBody (eventPageId n) >>= makeItem :: Compiler (Item String)
