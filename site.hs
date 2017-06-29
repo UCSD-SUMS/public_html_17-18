@@ -51,6 +51,13 @@ main = hakyll $ do
         route   idRoute
         compile compressCssCompiler
 
+    match "events/past" $ do
+      -- INTENTIONAL: Do not route. Just using this to allow loading
+      -- when deciding whether or not events are upcoming (below). We
+      -- could route this to htaccess, but in the future might want to
+      -- combine multiple pieces of data there.
+      compile getResourceBody
+
     match "events/*/*" $ do
         route $ setExtension "html"
         let pandocCompilerLevelShift = pandocCompilerWithTransform
@@ -116,6 +123,17 @@ main = hakyll $ do
         let n = fst . M.findMin . M.filter ((q==) . snd)
               $ M.map ((id &&& getQuarter . head)) (paginateMap pag)
         loadBody (eventPageId n) >>= makeItem :: Compiler (Item String)
+
+    create ["events/next"] $ do
+      route idRoute
+      compile $ do
+        nextEvent <- nextNEvents 1 =<< loadAll @String "events/*/*"
+        case listToMaybe nextEvent of
+          (Just ev) -> do
+            let id = itemIdentifier ev
+            ts <- fromJust <$> getMetadataField id "start"
+            makeItem (unlines [toFilePath id, ts]) :: Compiler (Item String)
+          Nothing -> makeItem "" :: Compiler (Item String)
 
     create ["events.ics"] $ do
       route idRoute
@@ -246,20 +264,6 @@ eventCtx =
                                 ss ++
                                 " to " ++
                                 formatTime defaultTimeLocale dtFmt e
-        {-formatItemDate i = do
-          s <- itemTime "start" i
-          (formatTwoTimes s <$> itemTime "end" i) <|> return (formatOneTime s)
-        formatTwoTimes s e =
-          if (utctDay s == utctDay e)
-          then ( formatTime defaultTimeLocale "%B %e, %Y %l:%M %p" s
-              ++ " to "
-              ++ formatTime defaultTimeLocale "%l:%M %p" e
-               )
-          else ( formatTime defaultTimeLocale "%B %e, %Y %l:%M %p" s
-              ++ " to "
-              ++ formatTime defaultTimeLocale "%B %e, %Y %l:%M %p" e
-               )
-        formatOneTime = formatTime defaultTimeLocale "%B %e, %Y %l:%M %p"-}
 
 autoTeaserField :: String -> Snapshot -> Context String
 autoTeaserField key snapshot = field key $ \item -> do
@@ -272,13 +276,14 @@ chronological' = fmap sortNewest . annotateTimes
         annotateTimes = mapM $ sequence . (id &&& itemTime "start")
         sortNewest :: [(Item a, UTCTime)] -> [Item a]
         sortNewest = map fst . sortOn snd
-nextNEvents :: MonadMetadata m => Int -> [Item a] -> m [Item a]
-nextNEvents n = fmap (take n) . chronological' <=< dropOld
-  where dropOld :: MonadMetadata m => [Item a] -> m [Item a]
-        dropOld = filterM ( fmap isJust
-                          . flip getMetadataField "future"
-                          . itemIdentifier
-                          )
+nextNEvents :: Int -> [Item a] -> Compiler [Item a]
+nextNEvents n is = do
+  past <- load "events/past"
+  nextNEvents' n (fromFilePath <$> lines (itemBody past)) is
+nextNEvents' :: Int -> [Identifier] -> [Item a] -> Compiler [Item a]
+nextNEvents' n olds = fmap (take n . dropOld) . chronological'
+  where dropOld :: [Item a] -> [Item a]
+        dropOld = filter (not . flip elem olds . itemIdentifier)
 
 itemTime :: (MonadMetadata m) => String -> Item a -> m UTCTime
 itemTime = itemTime' [dateTimeFormat, dateFormat]
