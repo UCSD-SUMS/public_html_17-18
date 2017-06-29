@@ -117,6 +117,17 @@ main = hakyll $ do
               $ M.map ((id &&& getQuarter . head)) (paginateMap pag)
         loadBody (eventPageId n) >>= makeItem :: Compiler (Item String)
 
+    create ["events/next"] $ do
+      route idRoute
+      compile $ do
+        nextEvent <- nextNEvents 1 =<< loadAll @String "events/*/*"
+        case listToMaybe nextEvent of
+          (Just ev) -> do
+            let id = itemIdentifier ev
+            ts <- fromJust <$> getMetadataField id "start"
+            makeItem (unlines [toFilePath id, ts]) :: Compiler (Item String)
+          Nothing -> makeItem "" :: Compiler (Item String)
+
     create ["events.ics"] $ do
       route idRoute
       compile $ do
