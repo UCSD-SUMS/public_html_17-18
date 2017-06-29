@@ -288,7 +288,7 @@ nextNEvents' n olds = fmap (take n . dropOld) . chronological'
 itemTime :: (MonadMetadata m) => String -> Item a -> m UTCTime
 itemTime = itemTime' [dateTimeFormat, dateFormat]
 dateTimeFormat :: String
-dateTimeFormat = "%Y-%m-%d %H:%M:%S"
+dateTimeFormat = "%Y-%m-%d %-H:%M:%S"
 dateFormat :: String
 dateFormat = "%Y-%m-%d"
 itemTime' :: (MonadMetadata m) => [String] -> String -> Item a -> m UTCTime
