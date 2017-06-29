@@ -246,20 +246,6 @@ eventCtx =
                                 ss ++
                                 " to " ++
                                 formatTime defaultTimeLocale dtFmt e
-        {-formatItemDate i = do
-          s <- itemTime "start" i
-          (formatTwoTimes s <$> itemTime "end" i) <|> return (formatOneTime s)
-        formatTwoTimes s e =
-          if (utctDay s == utctDay e)
-          then ( formatTime defaultTimeLocale "%B %e, %Y %l:%M %p" s
-              ++ " to "
-              ++ formatTime defaultTimeLocale "%l:%M %p" e
-               )
-          else ( formatTime defaultTimeLocale "%B %e, %Y %l:%M %p" s
-              ++ " to "
-              ++ formatTime defaultTimeLocale "%B %e, %Y %l:%M %p" e
-               )
-        formatOneTime = formatTime defaultTimeLocale "%B %e, %Y %l:%M %p"-}
 
 autoTeaserField :: String -> Snapshot -> Context String
 autoTeaserField key snapshot = field key $ \item -> do
