@@ -1,6 +1,6 @@
 ---
 title: "Board Game Night"
-start: 2017-06-29 1:00:00
+start: 2017-06-29 01:00:00
 location: Unknown
 ---
 
