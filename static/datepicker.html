@@ -1,0 +1,97 @@
+<!DOCTYPE HTML>
+<html>
+
+	<head>
+		<link href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.2.2/css/bootstrap-combined.min.css" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" media="screen" href="/datepicker/css/bootstrap-datetimepicker.min.css">
+	</head>
+
+	<body>
+		<h1 class="text-center"> SUMS Event Generator </h1>
+		<h5>Event Name</h5>
+		<input type="text" id="name"></input>
+		<hr>
+
+		<h5>Location</h5>
+		<input type="text" id="location"></input>
+		<hr>
+
+		<h5>Start Date and Time</h5>
+		<div id="startDatePicker" class="input-append date">
+			<input type="text"></input>
+			<span class="add-on">
+        <i data-time-icon="icon-time" data-date-icon="icon-calendar"></i>
+      </span>
+		</div>
+		<hr>
+		<h5>End Date and Time</h5>
+		<div id="endDatePicker" class="input-append date">
+			<input type="text"></input>
+			<span class="add-on">
+        <i data-time-icon="icon-time" data-date-icon="icon-calendar"></i>
+      </span>
+		</div>
+		<hr>
+
+		<h5> Description </h5>
+		<textarea id="textContent" style="width: 75vw; height: 20vh;">
+		</textarea>
+		<hr>
+
+		<button class="btn btn-primary" onclick="downloadFile()">Download Markdown File</button>
+
+
+		<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+		<script type="text/javascript" src="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.2.2/js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="/datepicker/js/bootstrap-datetimepicker.min.js"></script>
+		<script type="text/javascript" src="/datepicker/js/bootstrap-datetimepicker.min.js"></script>
+		<script type="text/javascript" src="/datepicker/js/moment.js"></script>
+		<script src="https://fastcdn.org/FileSaver.js/1.1.20151003/FileSaver.min.js"></script>
+
+		<script type="text/javascript">
+document.getElementById("textContent").value = ""; // Fixes a tab bug
+const slugify = (text) =>
+	text.toString().toLowerCase()
+	.replace(/\s+/g, '-')
+	.replace(/[^\w\-]+/g, '')
+	.replace(/\-\-+/g, '-')
+	.replace(/^-+/, '')
+	.replace(/-+$/, '');
+
+const downloadFile = () => {
+	const startDatePicker = $('#startDatePicker').data('datetimepicker');
+	const startDateString = moment(startDatePicker.getLocalDate())
+		.format('YYYY-MM-DD hh:mm:ss');
+
+	const endDatePicker = $('#endDatePicker').data('datetimepicker');
+	const endDateString = moment(startDatePicker.getLocalDate())
+		.format('YYYY-MM-DD hh:mm:ss');
+
+
+	const eventName = $('#name').val();
+	const eventLocation = $('#location').val();
+
+	const fileString =
+		`
+---
+title: "${eventName}"
+start: ${startDateString}
+end: ${endDateString}
+location: ${eventLocation}
+---
+${$('#textContent').val()}
+`
+	const blob = new Blob([fileString], {
+		type: "text/plain;charset=utf-8"
+	});
+	saveAs(blob, `${slugify(eventName)}.md`);
+};
+
+$('.date').datetimepicker({
+	format: 'dd/MM/yyyy hh:mm:ss',
+	language: 'pt-BR'
+});
+
+		</script>
+	</body>
+	<html>
