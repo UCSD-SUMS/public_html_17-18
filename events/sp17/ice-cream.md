@@ -9,5 +9,4 @@ location: AP&M 6402 (Halkins Seminar Room)
 
 ![](/static/sp17/ice-cream-308972_1280.png)
 
-Feel like you need to let out some steam with some cool ice cream? Come-on down to SUMS,  
-since we've got what you need! 
+A fabulous ice cream social! Come by, chill out, and relax during finals week.
