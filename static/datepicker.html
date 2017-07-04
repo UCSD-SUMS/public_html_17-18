@@ -72,8 +72,7 @@ const downloadFile = () => {
 	const eventLocation = $('#location').val();
 
 	const fileString =
-		`
----
+		`---
 title: "${eventName}"
 start: ${startDateString}
 end: ${endDateString}
@@ -84,7 +83,7 @@ ${$('#textContent').val()}
 	const blob = new Blob([fileString], {
 		type: "text/plain;charset=utf-8"
 	});
-	saveAs(blob, `${slugify(eventName)}.md`);
+	saveAs(blob, `${slugify(eventName)}.md`, true);
 };
 
 $('.date').datetimepicker({
