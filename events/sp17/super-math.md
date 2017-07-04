@@ -1,4 +1,3 @@
-﻿
 ---
 title: "Super Math"
 start: 2017-07-03 18:49:08
