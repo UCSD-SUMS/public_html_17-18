@@ -11,7 +11,7 @@
 	</body>
 
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.4.0/fullcalendar.css" />
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.4.0/fullcalendar.print.css" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.4.0/fullcalendar.print.css" media='print' />
 	<style type="text/css">
 body {
 	margin-top: 40px;
@@ -33,15 +33,20 @@ body {
 	<script src="ical.js"></script>
 
 	<script>
+Date.prototype.addHours = function(h) {
+	this.setHours(this.getHours() + h);
+	return this;
+}
 const now = new Date();
 
-let initCalendar = (events) => {
+const initCalendar = (events) => {
 	$('#calendar').fullCalendar({
 		header: {
 			left: 'prev,next today',
 			center: 'title',
-			right: 'month,agendaWeek,agendaDay'
+			right: 'month,agendaWeek'
 		},
+		defaultDate: now,
 		defaultView: 'month',
 		selectable: false,
 		editable: false,
@@ -56,16 +61,16 @@ $.ajax({
 		const eventData = new ICAL.Component(
 			ICAL.parse(result)
 		).getAllSubcomponents();
-		debugger;
 
 		const events = eventData.map(a => {
 			return {
 				title: a.getFirstPropertyValue('summary'),
 				start: a.getFirstPropertyValue('dtstart').toJSDate(),
-				end: a.getFirstPropertyValue('dtend').toJSDate(),
+				end: a.hasProperty('dtend') ?
+					a.getFirstPropertyValue('dtend').toJSDate() : a.getFirstPropertyValue('dtstart').toJSDate().addHours(1),
 				url: a.getFirstPropertyValue('url')
 			}
-		}).filter(a => a.start > now);
+		});
 
 		initCalendar(events);
 	}
