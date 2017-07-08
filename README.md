@@ -8,43 +8,56 @@ The most up-to-date technical documentation is on the
 [wiki](https://github.com/UCSD-SUMS/UCSD-SUMS.github.io/wiki).
 
 # Installation
-1. Install [Stack](https://www.haskellstack.org/) and [Node/NPM](https://nodejs.org).
+
+## TL;DR
+
 ```
+git clone https://github.com/UCSD-SUMS/UCSD-SUMS.github.io
 curl -sSL https://get.haskellstack.org/ | sh
+npm install -g yarn
+cd UCSD-SUMS/github.io
+yarn install
+npm run stackSetup
+npm run watchSite
 ```
 
-2. Use Stack to install GHC, and clone the repository.
+## Individual Steps
+- Install [Stack](https://www.haskellstack.org/) and [Node/NPM](https://nodejs.org).
+
+- Use Stack to install GHC:
 ```
 stack setup
+```
+
+- Clone this repository:
+```
 git clone https://github.com/UCSD-SUMS/UCSD-SUMS.github.io
 ```
 
-
-3. Use Yarn to install dependencies
+- Use Yarn to install frontend dependencies
 ```
 npm install -g yarn
 yarn install
 ```
 
-(This takes care of compiling the relevant Haskell files, as well as
-building/generating minified JS files for certain parts of the site.)
+(This takes care of building/generating minified JS files for certain parts of the site.)
 
-3a. Alternatively, just use NPM directly (note: this can be much slower than using Yarn!)
-```
-npm install
-```
+  - Alternatively, just use NPM directly (note: this can be much slower than using Yarn!)
+  ```
+  npm install
+  ```
 
-4. Start the local webserver
+- Start the local webserver
 ```
 npm run watchSite
 ```
 
 Once this has finished, you can then navigate to `localhost:8000` to see the site.
 
-4a. Alternatively, you can run the Hakyll command directly:
-```
-stack exec site watch
-```
+  - Alternatively, you can run the Hakyll command directly:
+  ```
+  stack exec site watch
+  ```
 
 There may be issues on Windows-based systems. See the
 [wiki](https://github.com/UCSD-SUMS/UCSD-SUMS.github.io/wiki) for

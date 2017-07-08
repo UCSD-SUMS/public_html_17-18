@@ -23,7 +23,8 @@
     "bundlejs": "webpack --progress --profile --colors",
     "buildStaticDeps": "npm install --prefix ./static",
     "clean": "rm -rf ./node_modules && rm -rf ./static/node_modules",
-    "postinstall": "npm run buildStaticDeps && npm run bundlejs && stack setup && stack build"
+    "postinstall": "npm run buildStaticDeps && npm run bundlejs",
+    "stackSetup": "stack setup && stack build"
   },
   "repository": {
     "type": "git",
