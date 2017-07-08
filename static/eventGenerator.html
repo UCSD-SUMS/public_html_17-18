@@ -1,0 +1,112 @@
+<!DOCTYPE HTML>
+<html>
+
+	<head>
+
+		<script type="text/javascript" src="./node_modules/jquery/dist/jquery.min.js"></script>
+
+		<script type="text/javascript" src="./node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+		<link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css" />
+
+		<script type="text/javascript" src="./node_modules/moment/min/moment.min.js"></script>
+
+		<script type="text/javascript" src="./node_modules/eonasdan-bootstrap-datetimepicker/build/js/bootstrap-datetimepicker.min.js"></script>
+		<link rel="stylesheet" href="./node_modules/eonasdan-bootstrap-datetimepicker/build/css/bootstrap-datetimepicker.min.css" />
+
+		<script src="./node_modules/file-saver/FileSaver.min.js"></script>
+	</head>
+
+	<body>
+		<form action="javascript:downloadFile();">
+			<h1 class="text-center"> SUMS Event Generator </h1>
+			<h3>Event Name</h3>
+			<div class="form-group">
+				<input type="text" id="name" required></input>
+			</div>
+			<hr>
+
+			<h3>Location</h3>
+			<div class="form-group">
+				<input type="text" id="location" required></input>
+			</div>
+			<hr>
+
+			<h3>Start Date and Time</h3>
+			<div style="overflow:hidden;">
+				<div class="form-group">
+					<div class="row">
+						<div class="col-md-8">
+							<div id="startDatePicker" class="datepicker"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<hr>
+			<h3>End Date and Time</h3>
+			<div style="overflow:hidden;">
+				<div class="form-group">
+					<div class="row">
+						<div class="col-md-8">
+							<div id="endDatePicker" class="datepicker"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<hr>
+
+			<h3> Description </h3>
+			<textarea id="textContent" style="width: 75vw; height: 20vh;" required></textarea>
+			<hr>
+
+			<button type="submit" class="btn btn-primary">Download Markdown File</button>
+		</form>
+
+
+		<script type="text/javascript">
+document.getElementById("textContent").value = ""; // Fixes a tab bug
+const slugify = (text) =>
+	text.toString().toLowerCase()
+	.replace(/\s+/g, '-')
+	.replace(/[^\w\-]+/g, '')
+	.replace(/\-\-+/g, '-')
+	.replace(/^-+/, '')
+	.replace(/-+$/, '');
+
+const downloadFile = () => {
+	const startDatePicker = $('#startDatePicker').data('DateTimePicker');
+	const startDateString = moment(startDatePicker.date())
+		.format('YYYY-MM-DD HH:mm:ss');
+
+	const endDatePicker = $('#endDatePicker').data('DateTimePicker');
+	const endDateString = moment(endDatePicker.date())
+		.format('YYYY-MM-DD HH:mm:ss');
+
+	const eventName = $('#name').val();
+	const eventLocation = $('#location').val();
+
+	const fileString = `---
+title: "${eventName}"
+start: ${startDateString}
+end: ${endDateString}
+location: ${eventLocation}
+---
+${$('#textContent').val()}
+`
+	const blob = new Blob([fileString], {
+		type: "text/plain;charset=utf-8"
+	});
+	saveAs(blob, `${slugify(eventName)}.md`, true);
+};
+
+$('.datepicker').datetimepicker({
+	inline: true,
+	sideBySide: true
+});
+
+$("#startDatePicker").on("dp.change", function(e) {
+	$('#endDatePicker').data("DateTimePicker").minDate(e.date.add('1', 'hour'));
+});
+
+		</script>
+	</body>
+	<html>
