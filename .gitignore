@@ -2,3 +2,7 @@
 .stack-work/
 _cache
 _site
+node_modules
+static/node_modules
+yarn.lock
+static/yarn.lock

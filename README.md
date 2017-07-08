@@ -1,55 +1,78 @@
 # UCSD-SUMS.github.io
 This repository contains the files that generate the SUMS website.
 
-Built with [Hakyll](https://jaspervdj.be/hakyll/) [![CircleCI](https://circleci.com/gh/UCSD-SUMS/UCSD-SUMS.github.io/tree/hakyll.svg?style=svg)](https://circleci.com/gh/UCSD-SUMS/UCSD-SUMS.github.io/tree/hakyll)
+Built with [Hakyll](https://jaspervdj.be/hakyll/)
+[![CircleCI](https://circleci.com/gh/UCSD-SUMS/UCSD-SUMS.github.io/tree/hakyll.svg?style=svg)](https://circleci.com/gh/UCSD-SUMS/UCSD-SUMS.github.io/tree/hakyll)
 
-The most up-to-date docs about installation, building, technical
-architecture, and how-tos are on the
+The most up-to-date technical documentation is on the
 [wiki](https://github.com/UCSD-SUMS/UCSD-SUMS.github.io/wiki).
 
 # Installation
-- Install [Stack](https://www.haskellstack.org/)
+1. Install [Stack](https://www.haskellstack.org/) and [Node/NPM](https://nodejs.org).
 ```
 curl -sSL https://get.haskellstack.org/ | sh
 ```
 
-- Use Stack to install GHC
+2. Use Stack to install GHC, and clone the repository.
 ```
 stack setup
-```
-
-
-- Use Stack to build and deploy locally
-```
 git clone https://github.com/UCSD-SUMS/UCSD-SUMS.github.io
-stack build
+```
+
+
+3. Use Yarn to install dependencies
+```
+npm install -g yarn
+yarn install
+```
+
+(This takes care of compiling the relevant Haskell files, as well as
+building/generating minified JS files for certain parts of the site.)
+
+3a. Alternatively, just use NPM directly (note: this can be much slower than using Yarn!)
+```
+npm install
+```
+
+4. Start the local webserver
+```
+npm run watchSite
+```
+
+Once this has finished, you can then navigate to `localhost:8000` to see the site.
+
+4a. Alternatively, you can run the Hakyll command directly:
+```
 stack exec site watch
 ```
 
-Once it is finished, you can then navigate to `localhost:8000` to see the site.
-
-There may be some windows issues. See the
+There may be issues on Windows-based systems. See the
 [wiki](https://github.com/UCSD-SUMS/UCSD-SUMS.github.io/wiki) for
-more.
+more information.
 
 # Editing Existing Events
-Todo: Describe how to do this through the UI. Describe layout / organization of events, structure of yaml header.
+All events are written in markdown files and kept in the `events` subfolder. If you aren't familiar with
+markdown syntax, you can find most of what you need
+[here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+To edit an event, first sign up for a Github account and ensure you have read/write access to the repository.
+
+You can then navigate directly to the relevant file using Github's web UI, click the edit button on that file,
+and commit your changes directly without having to download the repository.
 
 # Adding a New Event
-Todo: Describe how to do this through the Github UI, how to add binary content like images, etc.
+Use the
+[Event Generator Tool](sums.ucsd.edu/static/eventGenerator.html)
+to create a markdown file to start with. You can link to images
+using standard markdown syntax - just upload images to the `static` folder through Github, then include them using something like
+`[image alt text](static/imageName.png)`.
 
 # Adding a New Page
-Todo: Describe where to add new directories or pages, how to make sub-pages, how to edit existing pages to add links to new pags.
+To add an entirely new page, contact the web coordinator!
+
+(ToDo: describe guidelines for where new pages should go, how to ensure they're included in the build, etc)
 
 # Other Notes
-
 All changes should be pushed to the `hakyll` branch, which kicks off the automated
-build and deploy process.
+build and deploy process through CircleCI.
 
-After making a change, run the following:
-```
-stack exec site clean
-stack exec site watch
-```
-
-Test edit
