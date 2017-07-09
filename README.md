@@ -75,7 +75,7 @@ and commit your changes directly without having to download the repository.
 
 # Adding a New Event
 Use the
-[Event Generator Tool](sums.ucsd.edu/static/eventGenerator.html)
+[Event Generator Tool](http://sums.ucsd.edu/static/eventGenerator.html)
 to create a markdown file to start with. You can link to images
 using standard markdown syntax - just upload images to the `static` folder through Github, then include them using something like
 `[image alt text](static/imageName.png)`.
