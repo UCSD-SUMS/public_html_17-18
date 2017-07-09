@@ -12,6 +12,6 @@ DTSTART$start$$if(end)$
 DTEND$end$$endif$$if(location)$
 LOCATION:$location$$endif$
 SUMMARY:$title$
-URL:http://sums.ucsd.edu/$url$
+URL:$url$
 END:VEVENT
 $endfor$END:VCALENDAR
