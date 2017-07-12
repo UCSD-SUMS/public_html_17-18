@@ -1,4 +1,5 @@
 /* global $ */
+import "default.css";
 import "fullcalendar";
 import ICAL from "ical.js";
 
