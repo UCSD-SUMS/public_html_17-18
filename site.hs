@@ -14,7 +14,9 @@ import           Data.List
 import           Data.Ord
 import           Data.Function
 import qualified Data.Map as M
+import qualified Data.Set as S
 import           Text.Pandoc.Shared (headerShift)
+import           Text.Pandoc.Options
 import           Data.Time.Format
 import           Network.HTTP.Types.URI
 import qualified Data.ByteString.UTF8 as BS_U8
@@ -40,6 +42,16 @@ fromQuarter :: Quarter -> String
 fromQuarter (Fall (Year y)) = "fa" ++ show y
 fromQuarter (Winter (Year y)) = "wi" ++ show y
 fromQuarter (Spring (Year y)) = "sp" ++ show y
+
+rawHTMLPandocCompiler :: Compiler (Item String)
+rawHTMLPandocCompiler =
+    let customExtensions = [Ext_raw_html]
+        newExtensions = S.fromList customExtensions
+        readerOptions = defaultHakyllReaderOptions {readerExtensions = newExtensions}
+        writerOptions = defaultHakyllWriterOptions {
+                          writerExtensions = newExtensions
+                        }
+    in pandocCompilerWith readerOptions writerOptions
 
 main :: IO ()
 main = hakyll $ do
@@ -209,7 +221,7 @@ main = hakyll $ do
 
     match "officers.md" $ do
         route   $ setExtension "html"
-        compile $ pandocCompiler
+        compile $ rawHTMLPandocCompiler
             >>= loadAndApplyTemplate "templates/default.html" defaultContext
             >>= relativizeUrls
 
