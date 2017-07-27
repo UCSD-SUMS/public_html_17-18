@@ -1,0 +1,4332 @@
+a1a1a1
+	ignored (87)
+a1a1a1a1
+	ignored (13)
+a_1
+	3 web/archives.html
+	3 web/archives.html
+	=6
+	(0)
+a_2
+	3 web/archives.html
+	3 web/archives.html
+	=6
+	(0)
+a_3
+	3 web/archives.html
+	3 web/archives.html
+	=6
+	(0)
+a_i
+	2 web/archives.html
+	=2
+	(0)
+a_n
+	3 web/nov04soln.html
+	3 web/nov04soln.html
+	2 web/archives.html
+	=8
+	(1)
+abel
+	2 web/nov04soln.html
+	=2
+	(0)
+about
+	2 web/home.html
+	2 web/home.html
+	2 web/index.html
+	=6
+	(0)
+above
+	2 web/oct04soln.html
+	=2
+	(0)
+absolute
+	ignored (37)
+abstract
+	2 web/jeremy.html
+	=2
+	(0)
+academic
+	2 web/home.html
+	2 web/home.html
+	2 web/resources1.html
+	=6
+	(0)
+academically
+	2 web/resources1.html
+	=2
+	(0)
+accredited
+	2 web/resources1.html
+	=2
+	(0)
+achievement
+	2 web/resources1.html
+	=2
+	(0)
+activities
+	ignored (7)
+actvities
+	2 web/gallery1.html
+	2 web/gallery1.html
+	2 web/gallery2.html
+	2 web/gallery3.html
+	=8
+	(1)
+add
+	2 web/home.html
+	2 web/home.html
+	2 web/join.html
+	2 web/oct04soln.html
+	=8
+	(1)
+added
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+address
+	4 web/join.html
+	4 web/join.html
+	4 web/join.html
+	=12
+	(1)
+admitted
+	2 web/resources1.html
+	=2
+	(0)
+advanced
+	2 web/grfx.html
+	=2
+	(0)
+advising
+	2 web/resources1.html
+	=2
+	(0)
+affairs
+	2 web/resources1.html
+	=2
+	(0)
+african
+	2 web/resources1.html
+	=2
+	(0)
+aid
+	3 web/resources1.html
+	3 web/resources1.html
+	=6
+	(0)
+alaskan
+	2 web/resources1.html
+	=2
+	(0)
+algebra
+	3 web/jeremy.html
+	3 web/jeremy.html
+	2 web/links.html
+	2 web/will.html
+	=10
+	(1)
+alice
+	2 web/links.html
+	=2
+	(0)
+alien
+	3 web/resources1.html
+	3 web/resources1.html
+	=6
+	(0)
+aliens
+	2 web/resources1.html
+	=2
+	(0)
+all
+	ignored (16)
+already
+	3 web/oct04soln.html
+	3 web/oct04soln.html
+	2 web/resources1.html
+	=8
+	(1)
+also
+	ignored (5)
+american
+	2 web/resources1.html
+	=2
+	(0)
+americans
+	3 web/resources1.html
+	3 web/resources1.html
+	=6
+	(0)
+among
+	2 web/resources1.html
+	=2
+	(0)
+analysis
+	2 web/jeremy.html
+	=2
+	(0)
+and
+	ignored (90)
+anfinson
+	2 web/careersem.html
+	=2
+	(0)
+anime
+	2 web/moni.html
+	=2
+	(0)
+annually
+	2 web/resources1.html
+	=2
+	(0)
+answer
+	2 web/links.html
+	2 web/resources1.html
+	=4
+	(0)
+answers
+	2 web/brainteasers.html
+	=2
+	(0)
+any
+	3 web/oct04soln.html
+	3 web/oct04soln.html
+	2 web/archives.html
+	2 web/careersem.html
+	=10
+	(1)
+applicants
+	2 web/resources1.html
+	=2
+	(0)
+application
+	5 web/resources1.html
+	5 web/resources1.html
+	5 web/resources1.html
+	5 web/resources1.html
+	=20
+	(3)
+applications
+	4 web/resources1.html
+	4 web/resources1.html
+	4 web/resources1.html
+	2 web/careersem.html
+	=14
+	(2)
+applied
+	2 web/will.html
+	=2
+	(0)
+apply
+	3 web/resources1.html
+	3 web/resources1.html
+	=6
+	(0)
+april
+	2 web/brainteasers.html
+	=2
+	(0)
+archives
+	2 web/archives.html
+	2 web/brainteasers.html
+	2 web/dec04soln.html
+	2 web/jan05soln.html
+	2 web/nov04soln.html
+	2 web/oct04soln.html
+	2 web/resources.html
+	=14
+	(2)
+are
+	ignored (27)
+areas
+	2 web/home.html
+	2 web/home.html
+	2 web/jonathan.html
+	=6
+	(0)
+around
+	2 web/jan05soln.html
+	=2
+	(0)
+aspects
+	2 web/membership.html
+	=2
+	(0)
+associate
+	2 web/careersem.html
+	=2
+	(0)
+assume
+	2 web/jan05soln.html
+	=2
+	(0)
+attach
+	3 web/resources1.html
+	3 web/resources1.html
+	=6
+	(0)
+attending
+	2 web/resources1.html
+	=2
+	(0)
+auto
+	ignored (37)
+available
+	5 web/resources1.html
+	5 web/resources1.html
+	5 web/resources1.html
+	5 web/resources1.html
+	=20
+	(3)
+average
+	3 web/resources1.html
+	3 web/resources1.html
+	=6
+	(0)
+award
+	5 web/resources1.html
+	5 web/resources1.html
+	5 web/resources1.html
+	5 web/resources1.html
+	=20
+	(3)
+awarded
+	3 web/resources1.html
+	3 web/resources1.html
+	=6
+	(0)
+awards
+	4 web/resources1.html
+	4 web/resources1.html
+	4 web/resources1.html
+	=12
+	(1)
+awareness
+	3 web/gallery3.html
+	3 web/gallery3.html
+	2 web/pics.html
+	=8
+	(1)
+axis
+	2 web/oct04soln.html
+	=2
+	(0)
+b_n
+	4 web/nov04soln.html
+	4 web/nov04soln.html
+	4 web/nov04soln.html
+	=12
+	(1)
+back
+	2 web/gallery2.html
+	2 web/home.html
+	2 web/home.html
+	2 web/resources.html
+	=8
+	(1)
+background
+	ignored (37)
+background-attachment
+	2 web/resources1.html
+	=2
+	(0)
+background-color
+	2 web/activities.html
+	2 web/careersem.html
+	=4
+	(0)
+background-image
+	2 web/resources1.html
+	=2
+	(0)
+background-position
+	2 web/resources1.html
+	=2
+	(0)
+background-repeat
+	2 web/resources1.html
+	=2
+	(0)
+backgrund
+	2 web/grfx.html
+	=2
+	(0)
+ball
+	2 web/jan05soln.html
+	=2
+	(0)
+bank
+	ignored (35)
+basic
+	2 web/resources1.html
+	=2
+	(0)
+bavarian
+	2 web/gallery3.html
+	=2
+	(0)
+because
+	3 web/oct04soln.html
+	3 web/oct04soln.html
+	=6
+	(0)
+become
+	2 web/will.html
+	=2
+	(0)
+becomes
+	2 web/oct04soln.html
+	=2
+	(0)
+before
+	2 web/kristin.html
+	2 web/resources1.html
+	=4
+	(0)
+being
+	2 web/jan05soln.html
+	=2
+	(0)
+bell
+	2 web/links.html
+	=2
+	(0)
+below
+	2 web/grfx.html
+	2 web/resources1.html
+	=4
+	(0)
+between
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+bijective
+	2 web/archives.html
+	=2
+	(0)
+bill
+	2 web/careersem.html
+	=2
+	(0)
+bio
+	2 web/jeremy.html
+	2 web/jonathan.html
+	2 web/kristin.html
+	2 web/moni.html
+	2 web/will.html
+	=10
+	(1)
+bishop
+	4 web/resources1.html
+	4 web/resources1.html
+	4 web/resources1.html
+	2 web/links.html
+	=14
+	(2)
+bit
+	2 web/grfx.html
+	=2
+	(0)
+blending
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+board
+	ignored (10)
+body
+	2 web/home.html
+	2 web/home.html
+	2 web/index.html
+	2 web/join.html
+	2 web/resources1.html
+	=10
+	(1)
+bold
+	ignored (13)
+books
+	2 web/resources1.html
+	=2
+	(0)
+border-bottom
+	ignored (37)
+border-left
+	ignored (37)
+border-right
+	ignored (37)
+border-top
+	ignored (37)
+both
+	2 web/archives.html
+	2 web/grfx.html
+	2 web/resources1.html
+	=6
+	(0)
+bounded
+	2 web/nov04soln.html
+	=2
+	(0)
+brain
+	ignored (6)
+brainteaser
+	ignored (5)
+brainteasers
+	3 web/brainteasers.html
+	3 web/brainteasers.html
+	3 web/links.html
+	3 web/links.html
+	2 web/archives.html
+	2 web/dec04soln.html
+	2 web/index.html
+	2 web/jan05soln.html
+	2 web/nov04soln.html
+	2 web/oct04soln.html
+	2 web/resources.html
+	=26
+	(3)
+breakers
+	2 web/links.html
+	=2
+	(0)
+browse
+	2 web/resources.html
+	=2
+	(0)
+buffet
+	2 web/gallery2.html
+	=2
+	(0)
+bulletin
+	2 web/resources1.html
+	=2
+	(0)
+bunch
+	ignored (5)
+bursars
+	2 web/resources1.html
+	=2
+	(0)
+business
+	2 web/resources1.html
+	=2
+	(0)
+buss
+	4 web/166a.html
+	4 web/166a.html
+	4 web/166a.html
+	2 web/gallery1.html
+	2 web/gallery1.html
+	=16
+	(2)
+but
+	2 web/archives.html
+	2 web/dec04soln.html
+	2 web/membership.html
+	=6
+	(0)
+c6c7ce
+	ignored (117)
+c_0
+	2 web/nov04soln.html
+	=2
+	(0)
+c_1
+	2 web/nov04soln.html
+	=2
+	(0)
+c_2
+	2 web/nov04soln.html
+	=2
+	(0)
+c_n
+	4 web/nov04soln.html
+	4 web/nov04soln.html
+	4 web/nov04soln.html
+	=12
+	(1)
+cake
+	ignored (13)
+calculus
+	2 web/jonathan.html
+	2 web/links.html
+	2 web/will.html
+	=6
+	(0)
+california
+	2 web/resources1.html
+	=2
+	(0)
+can
+	4 web/oct04soln.html
+	4 web/oct04soln.html
+	4 web/oct04soln.html
+	4 web/resources1.html
+	4 web/resources1.html
+	4 web/resources1.html
+	2 web/home.html
+	2 web/home.html
+	2 web/jan05soln.html
+	2 web/join.html
+	=32
+	(4)
+candidates
+	3 web/resources1.html
+	3 web/resources1.html
+	=6
+	(0)
+cannot
+	2 web/jan05soln.html
+	=2
+	(0)
+card
+	2 web/gallery2.html
+	2 web/resources1.html
+	=4
+	(0)
+cardtricks
+	2 web/links.html
+	=2
+	(0)
+career
+	ignored (8)
+careers
+	3 web/links.html
+	3 web/links.html
+	2 web/home.html
+	2 web/home.html
+	=10
+	(1)
+change
+	2 web/kristin.html
+	=2
+	(0)
+check
+	2 web/resources.html
+	=2
+	(0)
+choose
+	2 web/resources1.html
+	=2
+	(0)
+citizen
+	3 web/resources1.html
+	3 web/resources1.html
+	=6
+	(0)
+citizens
+	2 web/resources1.html
+	=2
+	(0)
+citizenship
+	2 web/resources1.html
+	=2
+	(0)
+class
+	2 web/resources1.html
+	=2
+	(0)
+classes
+	2 web/grfx.html
+	2 web/will.html
+	=4
+	(0)
+clearly
+	2 web/dec04soln.html
+	=2
+	(0)
+click
+	2 web/grfx.html
+	2 web/pics.html
+	=4
+	(0)
+closed
+	2 web/jan05soln.html
+	=2
+	(0)
+club
+	ignored (28)
+co-founder
+	2 web/careersem.html
+	=2
+	(0)
+coefficients
+	3 web/oct04soln.html
+	3 web/oct04soln.html
+	2 web/archives.html
+	=8
+	(1)
+coffee
+	2 web/moni.html
+	=2
+	(0)
+cognitive
+	3 web/moni.html
+	3 web/moni.html
+	=6
+	(0)
+collection
+	3 web/links.html
+	3 web/links.html
+	2 web/grfx.html
+	2 web/resources.html
+	=10
+	(1)
+college
+	5 web/resources1.html
+	5 web/resources1.html
+	5 web/resources1.html
+	5 web/resources1.html
+	2 web/careersem.html
+	=22
+	(3)
+color
+	ignored (82)
+come
+	2 web/home.html
+	2 web/home.html
+	2 web/links.html
+	=6
+	(0)
+coming
+	2 web/m_board.html
+	=2
+	(0)
+committee
+	2 web/resources1.html
+	=2
+	(0)
+communication
+	2 web/careersem.html
+	=2
+	(0)
+communications
+	2 web/careersem.html
+	=2
+	(0)
+community
+	3 web/resources1.html
+	3 web/resources1.html
+	2 web/home.html
+	2 web/home.html
+	2 web/membership.html
+	=12
+	(1)
+compact
+	4 web/jan05soln.html
+	4 web/jan05soln.html
+	4 web/jan05soln.html
+	2 web/archives.html
+	=14
+	(2)
+company
+	2 web/careersem.html
+	=2
+	(0)
+complete
+	2 web/resources1.html
+	=2
+	(0)
+completed
+	3 web/resources1.html
+	3 web/resources1.html
+	=6
+	(0)
+complex
+	2 web/archives.html
+	2 web/jeremy.html
+	=4
+	(0)
+complies
+	2 web/oct04soln.html
+	=2
+	(0)
+composition
+	2 web/dec04soln.html
+	=2
+	(0)
+computation
+	2 web/careersem.html
+	=2
+	(0)
+computer
+	4 web/grfx.html
+	4 web/grfx.html
+	4 web/grfx.html
+	3 web/resources1.html
+	3 web/resources1.html
+	2 web/links.html
+	=20
+	(3)
+concerning
+	2 web/join.html
+	=2
+	(0)
+condition
+	3 web/oct04soln.html
+	3 web/oct04soln.html
+	=6
+	(0)
+consider
+	3 web/dec04soln.html
+	3 web/dec04soln.html
+	=6
+	(0)
+consideration
+	2 web/resources1.html
+	=2
+	(0)
+considered
+	2 web/resources1.html
+	=2
+	(0)
+constant
+	2 web/oct04soln.html
+	=2
+	(0)
+construct
+	2 web/archives.html
+	=2
+	(0)
+contact
+	2 web/index.html
+	2 web/jeremy.html
+	2 web/jonathan.html
+	2 web/kristin.html
+	2 web/moni.html
+	2 web/will.html
+	=12
+	(1)
+contains
+	2 web/oct04soln.html
+	=2
+	(0)
+contests
+	2 web/join.html
+	=2
+	(0)
+continuous
+	2 web/archives.html
+	2 web/jan05soln.html
+	=4
+	(0)
+contradicting
+	2 web/jan05soln.html
+	=2
+	(0)
+contradiction
+	2 web/brainteasers.html
+	=2
+	(0)
+contribute
+	2 web/grfx.html
+	=2
+	(0)
+convergence
+	2 web/nov04soln.html
+	=2
+	(0)
+convergent
+	2 web/jan05soln.html
+	=2
+	(0)
+converges
+	3 web/archives.html
+	3 web/archives.html
+	2 web/nov04soln.html
+	=8
+	(1)
+copies
+	2 web/resources1.html
+	=2
+	(0)
+costs
+	2 web/membership.html
+	=2
+	(0)
+couldn
+	2 web/grfx.html
+	=2
+	(0)
+counting
+	2 web/gallery2.html
+	=2
+	(0)
+course
+	2 web/exambank.html
+	2 web/oct04soln.html
+	2 web/resources1.html
+	=6
+	(0)
+courses
+	2 web/grfx.html
+	2 web/jonathan.html
+	=4
+	(0)
+cover
+	2 web/resources1.html
+	=2
+	(0)
+cream
+	ignored (5)
+create
+	2 web/membership.html
+	=2
+	(0)
+creating
+	2 web/grfx.html
+	=2
+	(0)
+criteria
+	3 web/resources1.html
+	3 web/resources1.html
+	=6
+	(0)
+csems
+	5 web/resources1.html
+	5 web/resources1.html
+	5 web/resources1.html
+	5 web/resources1.html
+	=20
+	(3)
+cto
+	2 web/careersem.html
+	=2
+	(0)
+current
+	2 web/resources.html
+	=2
+	(0)
+currently
+	2 web/kristin.html
+	2 web/t-shirt.html
+	2 web/will.html
+	=6
+	(0)
+cutting
+	2 web/gallery3.html
+	=2
+	(0)
+cynthia
+	2 web/careersem.html
+	=2
+	(0)
+day
+	2 web/kristin.html
+	=2
+	(0)
+death
+	2 web/kristin.html
+	=2
+	(0)
+december
+	2 web/archives.html
+	2 web/dec04soln.html
+	=4
+	(0)
+decisions
+	2 web/kristin.html
+	=2
+	(0)
+declared
+	2 web/kristin.html
+	2 web/resources1.html
+	=4
+	(0)
+define
+	2 web/jan05soln.html
+	2 web/nov04soln.html
+	=4
+	(0)
+degree
+	5 web/oct04soln.html
+	5 web/oct04soln.html
+	5 web/oct04soln.html
+	5 web/oct04soln.html
+	3 web/resources1.html
+	3 web/resources1.html
+	=26
+	(3)
+degrees
+	2 web/resources1.html
+	=2
+	(0)
+denoting
+	2 web/archives.html
+	=2
+	(0)
+department
+	ignored (8)
+design
+	2 web/moni.html
+	=2
+	(0)
+desire
+	2 web/membership.html
+	=2
+	(0)
+desired
+	2 web/nov04soln.html
+	=2
+	(0)
+detailed
+	2 web/resources1.html
+	=2
+	(0)
+did
+	2 web/resources1.html
+	=2
+	(0)
+diego
+	2 web/grfx.html
+	2 web/will.html
+	=4
+	(0)
+differentiating
+	2 web/oct04soln.html
+	=2
+	(0)
+disabilities
+	2 web/resources1.html
+	=2
+	(0)
+discover
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+disjoint
+	2 web/jan05soln.html
+	=2
+	(0)
+distinct
+	2 web/brainteasers.html
+	=2
+	(0)
+double
+	4 web/oct04soln.html
+	4 web/oct04soln.html
+	4 web/oct04soln.html
+	2 web/archives.html
+	=14
+	(2)
+downloaded
+	2 web/resources1.html
+	=2
+	(0)
+dues
+	2 web/membership.html
+	=2
+	(0)
+during
+	2 web/home.html
+	2 web/home.html
+	2 web/membership.html
+	=6
+	(0)
+dyed
+	2 web/moni.html
+	=2
+	(0)
+each
+	2 web/resources.html
+	2 web/resources1.html
+	=4
+	(0)
+earthkam
+	2 web/moni.html
+	=2
+	(0)
+easily
+	2 web/dec04soln.html
+	=2
+	(0)
+easy
+	2 web/archives.html
+	2 web/brainteasers.html
+	=4
+	(0)
+education
+	2 web/resources1.html
+	=2
+	(0)
+educational
+	2 web/resources1.html
+	=2
+	(0)
+eff3f7
+	ignored (11)
+efficient
+	2 web/careersem.html
+	=2
+	(0)
+element
+	2 web/archives.html
+	2 web/jan05soln.html
+	=4
+	(0)
+elements
+	2 web/archives.html
+	2 web/oct04soln.html
+	=4
+	(0)
+eligibility
+	2 web/resources1.html
+	=2
+	(0)
+eligibilty
+	2 web/resources1.html
+	=2
+	(0)
+eligible
+	2 web/resources1.html
+	=2
+	(0)
+email
+	4 web/join.html
+	4 web/join.html
+	4 web/join.html
+	2 web/brainteasers.html
+	2 web/grfx.html
+	=16
+	(2)
+emails
+	2 web/join.html
+	=2
+	(0)
+enable
+	2 web/careersem.html
+	=2
+	(0)
+enclosed
+	2 web/resources1.html
+	=2
+	(0)
+encourage
+	2 web/grfx.html
+	2 web/membership.html
+	=4
+	(0)
+end
+	2 web/brainteasers.html
+	=2
+	(0)
+engineering
+	ignored (7)
+enjoy
+	2 web/membership.html
+	=2
+	(0)
+enjoyable
+	2 web/membership.html
+	=2
+	(0)
+enjoying
+	4 web/gallery3.html
+	4 web/gallery3.html
+	4 web/gallery3.html
+	2 web/gallery2.html
+	=14
+	(2)
+enough
+	2 web/kristin.html
+	=2
+	(0)
+enrolled
+	2 web/resources1.html
+	=2
+	(0)
+enrollment
+	2 web/resources1.html
+	=2
+	(0)
+envelope
+	2 web/resources1.html
+	=2
+	(0)
+epsilon
+	2 web/jan05soln.html
+	=2
+	(0)
+equality
+	2 web/oct04soln.html
+	=2
+	(0)
+equation
+	3 web/oct04soln.html
+	3 web/oct04soln.html
+	=6
+	(0)
+errett
+	3 web/resources1.html
+	3 web/resources1.html
+	2 web/links.html
+	=8
+	(1)
+especially
+	2 web/jonathan.html
+	2 web/oct04soln.html
+	=4
+	(0)
+etc
+	2 web/archives.html
+	2 web/links.html
+	=4
+	(0)
+evaluates
+	2 web/oct04soln.html
+	=2
+	(0)
+evaluations
+	2 web/archives.html
+	2 web/oct04soln.html
+	=4
+	(0)
+evans
+	3 web/100b.html
+	3 web/100b.html
+	3 web/10c.html
+	3 web/10c.html
+	2 web/100a.html
+	2 web/10b.html
+	=16
+	(2)
+even
+	3 web/archives.html
+	3 web/archives.html
+	3 web/dec04soln.html
+	3 web/dec04soln.html
+	2 web/home.html
+	2 web/home.html
+	2 web/oct04soln.html
+	=18
+	(2)
+events
+	2 web/activities.html
+	2 web/careersem.html
+	2 web/gallery1.html
+	2 web/gallery1.html
+	2 web/gallery2.html
+	2 web/gallery3.html
+	2 web/index.html
+	2 web/join.html
+	2 web/membership.html
+	2 web/pics.html
+	=20
+	(3)
+ever
+	2 web/links.html
+	=2
+	(0)
+every
+	2 web/archives.html
+	2 web/kristin.html
+	2 web/resources1.html
+	=6
+	(0)
+everyone
+	2 web/home.html
+	2 web/home.html
+	2 web/membership.html
+	=6
+	(0)
+evolutionary
+	2 web/careersem.html
+	=2
+	(0)
+exactly
+	2 web/oct04soln.html
+	=2
+	(0)
+exam
+	ignored (39)
+example
+	2 web/archives.html
+	2 web/brainteasers.html
+	=4
+	(0)
+exams
+	4 web/resources.html
+	4 web/resources.html
+	4 web/resources.html
+	=12
+	(1)
+executive
+	2 web/careersem.html
+	=2
+	(0)
+exists
+	2 web/archives.html
+	=2
+	(0)
+experience
+	2 web/resources1.html
+	=2
+	(0)
+exploring
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+extra
+	2 web/resources1.html
+	=2
+	(0)
+factor
+	3 web/archives.html
+	3 web/archives.html
+	=6
+	(0)
+faculty
+	3 web/resources1.html
+	3 web/resources1.html
+	2 web/membership.html
+	=8
+	(1)
+fall
+	ignored (7)
+family
+	2 web/resources1.html
+	=2
+	(0)
+fast
+	2 web/careersem.html
+	=2
+	(0)
+fees
+	2 web/resources1.html
+	=2
+	(0)
+fellowship
+	4 web/links.html
+	4 web/links.html
+	4 web/links.html
+	=12
+	(1)
+fellowships
+	4 web/links.html
+	4 web/links.html
+	4 web/links.html
+	2 web/index.html
+	=14
+	(2)
+few
+	2 web/links.html
+	2 web/resources1.html
+	=4
+	(0)
+ffffff
+	ignored (9)
+fields
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+filling
+	2 web/gallery3.html
+	=2
+	(0)
+final
+	ignored (6)
+financial
+	4 web/resources1.html
+	4 web/resources1.html
+	4 web/resources1.html
+	=12
+	(1)
+find
+	3 web/resources.html
+	3 web/resources.html
+	2 web/grfx.html
+	2 web/jan05soln.html
+	2 web/links.html
+	=12
+	(1)
+finite
+	3 web/dec04soln.html
+	3 web/dec04soln.html
+	2 web/archives.html
+	=8
+	(1)
+first
+	2 web/home.html
+	2 web/home.html
+	2 web/resources1.html
+	=6
+	(0)
+fitzsimmons
+	2 web/20a.html
+	=2
+	(0)
+five
+	2 web/resources1.html
+	=2
+	(0)
+fixed
+	2 web/resources1.html
+	=2
+	(0)
+fleet
+	2 web/links.html
+	2 web/resources1.html
+	=4
+	(0)
+following
+	2 web/grfx.html
+	2 web/resources1.html
+	=4
+	(0)
+follows
+	2 web/oct04soln.html
+	=2
+	(0)
+font
+	2 web/index.html
+	=2
+	(0)
+font-family
+	ignored (82)
+font-size
+	ignored (82)
+font-weight
+	ignored (13)
+for
+	ignored (75)
+form
+	2 web/nov04soln.html
+	=2
+	(0)
+foundation
+	2 web/resources1.html
+	=2
+	(0)
+four
+	3 web/resources1.html
+	3 web/resources1.html
+	=6
+	(0)
+fourth
+	2 web/resources1.html
+	2 web/will.html
+	=4
+	(0)
+francisco
+	2 web/resources1.html
+	=2
+	(0)
+free
+	3 web/gallery3.html
+	3 web/gallery3.html
+	=6
+	(0)
+from
+	4 web/resources1.html
+	4 web/resources1.html
+	4 web/resources1.html
+	2 web/dec04soln.html
+	2 web/exambank.html
+	2 web/jan05soln.html
+	2 web/oct04soln.html
+	=20
+	(3)
+full
+	4 web/resources1.html
+	4 web/resources1.html
+	4 web/resources1.html
+	2 web/membership.html
+	=14
+	(2)
+full-time
+	2 web/resources1.html
+	=2
+	(0)
+fully
+	2 web/resources1.html
+	=2
+	(0)
+fun
+	2 web/grfx.html
+	2 web/home.html
+	2 web/home.html
+	=6
+	(0)
+functions
+	2 web/dec04soln.html
+	=2
+	(0)
+fund
+	3 web/resources1.html
+	3 web/resources1.html
+	2 web/links.html
+	=8
+	(1)
+further
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+furthermore
+	2 web/jan05soln.html
+	=2
+	(0)
+fuzzy
+	2 web/careersem.html
+	=2
+	(0)
+gallery
+	2 web/pics.html
+	2 web/resources.html
+	=4
+	(0)
+garner
+	4 web/will.html
+	4 web/will.html
+	4 web/will.html
+	3 web/officers.html
+	3 web/officers.html
+	2 web/index.html
+	2 web/jeremy.html
+	2 web/jonathan.html
+	2 web/kristin.html
+	2 web/moni.html
+	=28
+	(4)
+gathering
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+general
+	2 web/home.html
+	2 web/home.html
+	2 web/resources1.html
+	=6
+	(0)
+generally
+	2 web/resources1.html
+	=2
+	(0)
+generate
+	2 web/grfx.html
+	=2
+	(0)
+geometry
+	2 web/links.html
+	=2
+	(0)
+get
+	2 web/jeremy.html
+	2 web/membership.html
+	2 web/oct04soln.html
+	2 web/resources.html
+	=8
+	(1)
+getting
+	2 web/dec04soln.html
+	2 web/kristin.html
+	=4
+	(0)
+given
+	2 web/archives.html
+	2 web/dec04soln.html
+	2 web/oct04soln.html
+	2 web/resources.html
+	2 web/resources1.html
+	=10
+	(1)
+giving
+	2 web/gallery1.html
+	2 web/gallery1.html
+	=4
+	(0)
+goal
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+goals
+	2 web/resources1.html
+	=2
+	(0)
+goldwater
+	6 web/resources1.html
+	6 web/resources1.html
+	6 web/resources1.html
+	6 web/resources1.html
+	6 web/resources1.html
+	2 web/links.html
+	=32
+	(4)
+government
+	2 web/links.html
+	=2
+	(0)
+gpa
+	3 web/resources1.html
+	3 web/resources1.html
+	=6
+	(0)
+grade
+	3 web/resources1.html
+	3 web/resources1.html
+	=6
+	(0)
+grader
+	2 web/jeremy.html
+	2 web/jonathan.html
+	=4
+	(0)
+graduate
+	3 web/resources1.html
+	3 web/resources1.html
+	2 web/jeremy.html
+	2 web/links.html
+	=10
+	(1)
+grant
+	2 web/resources1.html
+	=2
+	(0)
+graphics
+	ignored (24)
+greene
+	4 web/jeremy.html
+	4 web/jeremy.html
+	4 web/jeremy.html
+	3 web/officers.html
+	3 web/officers.html
+	2 web/index.html
+	2 web/jonathan.html
+	2 web/kristin.html
+	2 web/moni.html
+	2 web/will.html
+	=28
+	(4)
+ground
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+growing
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+guidelines
+	2 web/resources1.html
+	=2
+	(0)
+hair
+	2 web/moni.html
+	=2
+	(0)
+half
+	3 web/resources1.html
+	3 web/resources1.html
+	=6
+	(0)
+hard
+	2 web/links.html
+	=2
+	(0)
+hart
+	2 web/careersem.html
+	=2
+	(0)
+has
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+hausdorff
+	2 web/jan05soln.html
+	=2
+	(0)
+have
+	ignored (8)
+hci
+	2 web/moni.html
+	=2
+	(0)
+height
+	ignored (37)
+helton
+	5 web/20c.html
+	5 web/20c.html
+	5 web/20c.html
+	5 web/20c.html
+	3 web/20a.html
+	3 web/20a.html
+	2 web/20b.html
+	=28
+	(4)
+hence
+	2 web/dec04soln.html
+	=2
+	(0)
+her
+	2 web/kristin.html
+	2 web/resources.html
+	=4
+	(0)
+here
+	4 web/links.html
+	4 web/links.html
+	4 web/links.html
+	3 web/resources1.html
+	3 web/resources1.html
+	2 web/grfx.html
+	2 web/resources.html
+	=22
+	(3)
+high
+	2 web/gallery2.html
+	=2
+	(0)
+high-tech
+	2 web/careersem.html
+	=2
+	(0)
+higher
+	2 web/resources1.html
+	=2
+	(0)
+him
+	2 web/resources1.html
+	=2
+	(0)
+his
+	2 web/resources.html
+	2 web/will.html
+	=4
+	(0)
+hispanic
+	5 web/resources1.html
+	5 web/resources1.html
+	5 web/resources1.html
+	5 web/resources1.html
+	2 web/links.html
+	=22
+	(3)
+home
+	2 web/home.html
+	2 web/home.html
+	2 web/index.html
+	=6
+	(0)
+honor
+	2 web/resources1.html
+	=2
+	(0)
+honors
+	2 web/resources1.html
+	=2
+	(0)
+hopes
+	2 web/will.html
+	=2
+	(0)
+hover
+	ignored (13)
+how
+	2 web/resources1.html
+	=2
+	(0)
+html
+	2 web/index.html
+	=2
+	(0)
+http
+	2 index.html
+	=2
+	(0)
+i.e
+	2 web/archives.html
+	2 web/brainteasers.html
+	=4
+	(0)
+ice
+	6 web/gallery2.html
+	6 web/gallery2.html
+	6 web/gallery2.html
+	6 web/gallery2.html
+	6 web/gallery2.html
+	2 web/pics.html
+	=32
+	(4)
+identity
+	2 web/archives.html
+	=2
+	(0)
+important
+	2 web/home.html
+	2 web/home.html
+	2 web/join.html
+	=6
+	(0)
+inc
+	2 web/careersem.html
+	=2
+	(0)
+including
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+increasing
+	2 web/resources.html
+	=2
+	(0)
+indeed
+	3 web/oct04soln.html
+	3 web/oct04soln.html
+	=6
+	(0)
+independent
+	3 web/brainteasers.html
+	3 web/brainteasers.html
+	=6
+	(0)
+indeterminate
+	2 web/archives.html
+	=2
+	(0)
+indians
+	2 web/resources1.html
+	=2
+	(0)
+induction
+	2 web/jan05soln.html
+	2 web/oct04soln.html
+	=4
+	(0)
+industries
+	2 web/links.html
+	=2
+	(0)
+infinite
+	2 web/archives.html
+	=2
+	(0)
+infinity
+	2 web/nov04soln.html
+	=2
+	(0)
+information
+	3 web/join.html
+	3 web/join.html
+	2 web/home.html
+	2 web/home.html
+	2 web/index.html
+	2 web/membership.html
+	2 web/resources1.html
+	2 web/t-shirt.html
+	=18
+	(2)
+injective
+	2 web/archives.html
+	2 web/dec04soln.html
+	=4
+	(0)
+injectivity
+	2 web/jan05soln.html
+	=2
+	(0)
+integer
+	5 web/oct04soln.html
+	5 web/oct04soln.html
+	5 web/oct04soln.html
+	5 web/oct04soln.html
+	4 web/archives.html
+	4 web/archives.html
+	4 web/archives.html
+	=32
+	(4)
+integers
+	2 web/oct04soln.html
+	=2
+	(0)
+intent
+	2 web/resources1.html
+	=2
+	(0)
+interest
+	2 web/t-shirt.html
+	2 web/will.html
+	=4
+	(0)
+interested
+	2 web/grfx.html
+	2 web/home.html
+	2 web/home.html
+	2 web/kristin.html
+	2 web/membership.html
+	=10
+	(1)
+interests
+	3 web/kristin.html
+	3 web/kristin.html
+	2 web/home.html
+	2 web/home.html
+	2 web/jeremy.html
+	2 web/jonathan.html
+	2 web/moni.html
+	2 web/will.html
+	=18
+	(2)
+internships
+	4 web/links.html
+	4 web/links.html
+	4 web/links.html
+	2 web/home.html
+	2 web/home.html
+	2 web/index.html
+	=18
+	(2)
+interpolytion
+	2 web/oct04soln.html
+	=2
+	(0)
+into
+	3 web/home.html
+	3 web/home.html
+	3 web/home.html
+	3 web/home.html
+	2 web/grfx.html
+	=14
+	(2)
+intr
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+introducing
+	2 web/gallery1.html
+	2 web/gallery1.html
+	=4
+	(0)
+introduction
+	3 web/gallery1.html
+	3 web/gallery1.html
+	3 web/gallery1.html
+	3 web/gallery1.html
+	2 web/pics.html
+	=14
+	(2)
+involved
+	2 web/resources1.html
+	=2
+	(0)
+involvement
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+irrational
+	2 web/brainteasers.html
+	=2
+	(0)
+islanders
+	2 web/resources1.html
+	=2
+	(0)
+isometry
+	2 web/archives.html
+	=2
+	(0)
+iss
+	2 web/moni.html
+	=2
+	(0)
+itself
+	2 web/dec04soln.html
+	=2
+	(0)
+j1greene
+	2 web/jeremy.html
+	=2
+	(0)
+january
+	2 web/archives.html
+	2 web/jan05soln.html
+	=4
+	(0)
+jeremy
+	4 web/jeremy.html
+	4 web/jeremy.html
+	4 web/jeremy.html
+	3 web/officers.html
+	3 web/officers.html
+	2 web/index.html
+	2 web/jonathan.html
+	2 web/kristin.html
+	2 web/moni.html
+	2 web/will.html
+	=28
+	(4)
+jkommemi
+	2 web/jonathan.html
+	=2
+	(0)
+join
+	4 web/join.html
+	4 web/join.html
+	4 web/join.html
+	3 web/membership.html
+	3 web/membership.html
+	2 web/home.html
+	2 web/home.html
+	2 web/index.html
+	2 web/t-shirt.html
+	=26
+	(3)
+jolla
+	2 web/careersem.html
+	=2
+	(0)
+jonathan
+	4 web/jonathan.html
+	4 web/jonathan.html
+	4 web/jonathan.html
+	3 web/officers.html
+	3 web/officers.html
+	2 web/index.html
+	2 web/jeremy.html
+	2 web/kristin.html
+	2 web/moni.html
+	2 web/will.html
+	=28
+	(4)
+june
+	2 web/resources1.html
+	=2
+	(0)
+junior
+	3 web/resources1.html
+	3 web/resources1.html
+	=6
+	(0)
+juniors
+	2 web/resources1.html
+	=2
+	(0)
+just
+	2 web/links.html
+	=2
+	(0)
+k-1
+	2 web/oct04soln.html
+	=2
+	(0)
+kais
+	2 web/archives.html
+	2 web/oct04soln.html
+	=4
+	(0)
+know
+	4 web/oct04soln.html
+	4 web/oct04soln.html
+	4 web/oct04soln.html
+	=12
+	(1)
+kommemi
+	4 web/jonathan.html
+	4 web/jonathan.html
+	4 web/jonathan.html
+	3 web/officers.html
+	3 web/officers.html
+	2 web/index.html
+	2 web/jeremy.html
+	2 web/kristin.html
+	2 web/moni.html
+	2 web/will.html
+	=28
+	(4)
+kristin
+	ignored (5)
+ktngo
+	2 web/kristin.html
+	=2
+	(0)
+lab
+	2 web/jonathan.html
+	2 web/will.html
+	=4
+	(0)
+labs
+	3 web/links.html
+	3 web/links.html
+	=6
+	(0)
+latinos
+	2 web/resources1.html
+	=2
+	(0)
+leads
+	2 web/oct04soln.html
+	=2
+	(0)
+least
+	4 web/resources1.html
+	4 web/resources1.html
+	4 web/resources1.html
+	2 web/grfx.html
+	=14
+	(2)
+left
+	ignored (39)
+let
+	3 web/archives.html
+	3 web/archives.html
+	3 web/oct04soln.html
+	3 web/oct04soln.html
+	2 web/brainteasers.html
+	2 web/dec04soln.html
+	2 web/jan05soln.html
+	=18
+	(2)
+letter
+	2 web/resources1.html
+	=2
+	(0)
+letters
+	2 web/resources1.html
+	=2
+	(0)
+level
+	3 web/resources1.html
+	3 web/resources1.html
+	=6
+	(0)
+library
+	3 web/grfx.html
+	3 web/grfx.html
+	=6
+	(0)
+life
+	2 web/kristin.html
+	=2
+	(0)
+like
+	2 web/grfx.html
+	2 web/home.html
+	2 web/home.html
+	=6
+	(0)
+lin
+	4 web/20c.html
+	4 web/20c.html
+	4 web/20c.html
+	2 web/109.html
+	2 web/20a.html
+	2 web/20e.html
+	=18
+	(2)
+linear
+	2 web/jeremy.html
+	2 web/oct04soln.html
+	2 web/will.html
+	=6
+	(0)
+linearly
+	3 web/brainteasers.html
+	3 web/brainteasers.html
+	=6
+	(0)
+lining
+	2 web/gallery3.html
+	=2
+	(0)
+link
+	ignored (13)
+links
+	4 web/links.html
+	4 web/links.html
+	4 web/links.html
+	3 web/index.html
+	3 web/index.html
+	=18
+	(2)
+list
+	3 web/resources1.html
+	3 web/resources1.html
+	2 web/exambank.html
+	2 web/join.html
+	=10
+	(1)
+listed
+	2 web/brainteasers.html
+	2 web/resources1.html
+	=4
+	(0)
+listing
+	2 web/links.html
+	=2
+	(0)
+lobby
+	2 web/resources1.html
+	=2
+	(0)
+location
+	2 web/careersem.html
+	=2
+	(0)
+logic
+	2 web/links.html
+	=2
+	(0)
+long
+	2 web/resources1.html
+	=2
+	(0)
+look
+	2 web/grfx.html
+	=2
+	(0)
+loves
+	2 web/will.html
+	=2
+	(0)
+low-income
+	2 web/resources1.html
+	=2
+	(0)
+lucent
+	2 web/links.html
+	=2
+	(0)
+made
+	2 web/resources1.html
+	=2
+	(0)
+mail
+	2 web/resources1.html
+	=2
+	(0)
+main
+	ignored (11)
+maintained
+	2 web/resources1.html
+	=2
+	(0)
+major
+	3 web/kristin.html
+	3 web/kristin.html
+	2 web/jeremy.html
+	2 web/jonathan.html
+	2 web/moni.html
+	2 web/resources1.html
+	2 web/will.html
+	=16
+	(2)
+majoring
+	2 web/resources1.html
+	=2
+	(0)
+majors
+	2 web/grfx.html
+	=2
+	(0)
+make
+	2 web/membership.html
+	=2
+	(0)
+many
+	3 web/home.html
+	3 web/home.html
+	3 web/home.html
+	3 web/home.html
+	2 web/links.html
+	=14
+	(2)
+map
+	5 web/dec04soln.html
+	5 web/dec04soln.html
+	5 web/dec04soln.html
+	5 web/dec04soln.html
+	=20
+	(3)
+marble
+	2 web/gallery3.html
+	=2
+	(0)
+math
+	ignored (25)
+math-club
+	2 web/join.html
+	=2
+	(0)
+math-econ
+	2 web/kristin.html
+	=2
+	(0)
+mathclub
+	2 web/links.html
+	=2
+	(0)
+mathematical
+	3 web/grfx.html
+	3 web/grfx.html
+	2 web/jonathan.html
+	2 web/links.html
+	=10
+	(1)
+mathematicians
+	2 web/links.html
+	=2
+	(0)
+mathematics
+	ignored (53)
+mathematics-economics
+	2 web/kristin.html
+	=2
+	(0)
+may
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+means
+	2 web/archives.html
+	2 web/oct04soln.html
+	=4
+	(0)
+meet
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+meeting
+	2 web/home.html
+	2 web/home.html
+	2 web/membership.html
+	=6
+	(0)
+meetings
+	2 web/join.html
+	=2
+	(0)
+meets
+	3 web/oct04soln.html
+	3 web/oct04soln.html
+	=6
+	(0)
+members
+	2 web/membership.html
+	2 web/resources1.html
+	=4
+	(0)
+membership
+	ignored (5)
+memorial
+	3 web/links.html
+	3 web/links.html
+	3 web/resources1.html
+	3 web/resources1.html
+	=12
+	(1)
+message
+	ignored (9)
+metric
+	2 web/archives.html
+	2 web/jan05soln.html
+	=4
+	(0)
+michael
+	2 web/archives.html
+	2 web/nov04soln.html
+	=4
+	(0)
+middot
+	4 web/careersem.html
+	4 web/careersem.html
+	4 web/careersem.html
+	=12
+	(1)
+midterm
+	ignored (14)
+mike
+	3 web/archives.html
+	3 web/archives.html
+	2 web/dec04soln.html
+	2 web/jan05soln.html
+	=10
+	(1)
+mind
+	2 web/links.html
+	=2
+	(0)
+minimum
+	ignored (6)
+minor
+	2 web/will.html
+	=2
+	(0)
+minority
+	2 web/resources1.html
+	=2
+	(0)
+mokubo
+	2 web/moni.html
+	=2
+	(0)
+mold
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+monica
+	ignored (5)
+monoid
+	3 web/archives.html
+	3 web/archives.html
+	2 web/dec04soln.html
+	=8
+	(1)
+month
+	2 web/resources.html
+	=2
+	(0)
+more
+	2 web/gallery2.html
+	2 web/gallery3.html
+	2 web/home.html
+	2 web/home.html
+	2 web/resources.html
+	=10
+	(1)
+most
+	5 web/oct04soln.html
+	5 web/oct04soln.html
+	5 web/oct04soln.html
+	5 web/oct04soln.html
+	2 web/brainteasers.html
+	=22
+	(3)
+multiple
+	2 web/grfx.html
+	=2
+	(0)
+multiplication
+	2 web/dec04soln.html
+	=2
+	(0)
+multiply
+	2 web/dec04soln.html
+	=2
+	(0)
+must
+	4 web/oct04soln.html
+	4 web/oct04soln.html
+	4 web/oct04soln.html
+	4 web/resources1.html
+	4 web/resources1.html
+	4 web/resources1.html
+	=24
+	(3)
+n-1
+	3 web/oct04soln.html
+	3 web/oct04soln.html
+	2 web/jan05soln.html
+	=8
+	(1)
+name
+	2 web/brainteasers.html
+	2 web/resources.html
+	=4
+	(0)
+nationals
+	2 web/resources1.html
+	=2
+	(0)
+native
+	3 web/resources1.html
+	3 web/resources1.html
+	=6
+	(0)
+natural
+	2 web/careersem.html
+	2 web/nov04soln.html
+	2 web/oct04soln.html
+	2 web/resources1.html
+	=8
+	(1)
+naturals
+	2 web/dec04soln.html
+	=2
+	(0)
+nbsp
+	ignored (436)
+need
+	2 web/archives.html
+	=2
+	(0)
+neural
+	2 web/careersem.html
+	=2
+	(0)
+new
+	2 web/home.html
+	2 web/home.html
+	2 web/resources1.html
+	=6
+	(0)
+news
+	3 web/home.html
+	3 web/home.html
+	3 web/home.html
+	3 web/home.html
+	2 web/index.html
+	=14
+	(2)
+next
+	2 web/kristin.html
+	=2
+	(0)
+ngo
+	4 web/kristin.html
+	4 web/kristin.html
+	4 web/kristin.html
+	3 web/officers.html
+	3 web/officers.html
+	2 web/index.html
+	2 web/jeremy.html
+	2 web/jonathan.html
+	2 web/moni.html
+	2 web/will.html
+	=28
+	(4)
+nick
+	2 web/links.html
+	=2
+	(0)
+no-repeat
+	2 web/resources1.html
+	=2
+	(0)
+nominate
+	2 web/resources1.html
+	=2
+	(0)
+nominees
+	2 web/resources1.html
+	=2
+	(0)
+non-existant
+	2 web/gallery2.html
+	=2
+	(0)
+none
+	ignored (39)
+noon
+	2 web/kristin.html
+	=2
+	(0)
+not
+	3 web/dec04soln.html
+	3 web/dec04soln.html
+	2 web/links.html
+	2 web/membership.html
+	2 web/resources1.html
+	=12
+	(1)
+note
+	2 web/nov04soln.html
+	=2
+	(0)
+nothing
+	2 web/membership.html
+	=2
+	(0)
+november
+	2 web/archives.html
+	2 web/nov04soln.html
+	=4
+	(0)
+now
+	2 web/dec04soln.html
+	2 web/oct04soln.html
+	=4
+	(0)
+nsf
+	2 web/links.html
+	=2
+	(0)
+number
+	2 web/links.html
+	2 web/will.html
+	=4
+	(0)
+numbers
+	2 web/brainteasers.html
+	2 web/nov04soln.html
+	=4
+	(0)
+objective
+	3 web/resources1.html
+	3 web/resources1.html
+	=6
+	(0)
+obtain
+	2 web/resources1.html
+	=2
+	(0)
+obtained
+	2 web/resources1.html
+	=2
+	(0)
+occupation
+	2 web/kristin.html
+	=2
+	(0)
+october
+	2 web/archives.html
+	2 web/oct04soln.html
+	=4
+	(0)
+odd
+	3 web/archives.html
+	3 web/archives.html
+	2 web/dec04soln.html
+	2 web/oct04soln.html
+	=10
+	(1)
+offer
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+offers
+	2 web/grfx.html
+	=2
+	(0)
+office
+	3 web/resources1.html
+	3 web/resources1.html
+	=6
+	(0)
+officers
+	ignored (9)
+official
+	2 web/membership.html
+	=2
+	(0)
+often
+	2 web/resources.html
+	=2
+	(0)
+okubo
+	4 web/moni.html
+	4 web/moni.html
+	4 web/moni.html
+	3 web/officers.html
+	3 web/officers.html
+	2 web/index.html
+	2 web/jeremy.html
+	2 web/jonathan.html
+	2 web/kristin.html
+	2 web/will.html
+	=28
+	(4)
+old
+	2 web/resources.html
+	=2
+	(0)
+one
+	4 web/oct04soln.html
+	4 web/oct04soln.html
+	4 web/oct04soln.html
+	4 web/resources1.html
+	4 web/resources1.html
+	4 web/resources1.html
+	2 web/dec04soln.html
+	=26
+	(3)
+only
+	5 web/oct04soln.html
+	5 web/oct04soln.html
+	5 web/oct04soln.html
+	5 web/oct04soln.html
+	2 web/membership.html
+	=22
+	(3)
+onto
+	3 web/dec04soln.html
+	3 web/dec04soln.html
+	=6
+	(0)
+open
+	2 web/jan05soln.html
+	2 web/membership.html
+	=4
+	(0)
+opportunities
+	2 web/home.html
+	2 web/home.html
+	2 web/resources1.html
+	=6
+	(0)
+options
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+other
+	3 web/home.html
+	3 web/home.html
+	3 web/home.html
+	3 web/home.html
+	2 web/careersem.html
+	2 web/index.html
+	2 web/links.html
+	=18
+	(2)
+our
+	ignored (5)
+out
+	2 web/home.html
+	2 web/home.html
+	2 web/links.html
+	2 web/t-shirt.html
+	=8
+	(1)
+outside
+	2 web/membership.html
+	=2
+	(0)
+outstanding
+	2 web/resources1.html
+	=2
+	(0)
+over
+	3 web/brainteasers.html
+	3 web/brainteasers.html
+	3 web/links.html
+	3 web/links.html
+	=12
+	(1)
+overflow
+	ignored (37)
+overview
+	2 web/gallery1.html
+	2 web/gallery1.html
+	=4
+	(0)
+p-1
+	2 web/oct04soln.html
+	=2
+	(0)
+p_1
+	3 web/brainteasers.html
+	3 web/brainteasers.html
+	=6
+	(0)
+p_2
+	3 web/brainteasers.html
+	3 web/brainteasers.html
+	=6
+	(0)
+p_n
+	2 web/brainteasers.html
+	=2
+	(0)
+pacific
+	2 web/resources1.html
+	=2
+	(0)
+padding-bottom
+	ignored (37)
+padding-left
+	ignored (37)
+padding-right
+	ignored (37)
+padding-top
+	ignored (37)
+palomar
+	2 web/careersem.html
+	=2
+	(0)
+parent
+	2 web/resources1.html
+	=2
+	(0)
+parents
+	2 web/resources1.html
+	=2
+	(0)
+part
+	3 web/archives.html
+	3 web/archives.html
+	3 web/dec04soln.html
+	3 web/dec04soln.html
+	3 web/oct04soln.html
+	3 web/oct04soln.html
+	=18
+	(2)
+part-time
+	2 web/membership.html
+	=2
+	(0)
+partial
+	2 web/nov04soln.html
+	=2
+	(0)
+participates
+	2 web/moni.html
+	=2
+	(0)
+parts
+	2 web/archives.html
+	=2
+	(0)
+past
+	4 web/resources.html
+	4 web/resources.html
+	4 web/resources.html
+	=12
+	(1)
+pell
+	2 web/resources1.html
+	=2
+	(0)
+people
+	4 web/gallery3.html
+	4 web/gallery3.html
+	4 web/gallery3.html
+	3 web/home.html
+	3 web/home.html
+	3 web/home.html
+	3 web/home.html
+	2 web/gallery2.html
+	2 web/resources.html
+	=28
+	(4)
+permanent
+	2 web/resources1.html
+	=2
+	(0)
+personal
+	2 web/resources1.html
+	=2
+	(0)
+persons
+	2 web/resources1.html
+	=2
+	(0)
+ph.d
+	2 web/jeremy.html
+	=2
+	(0)
+photo
+	2 web/pics.html
+	=2
+	(0)
+photos
+	ignored (9)
+physics
+	2 web/jonathan.html
+	=2
+	(0)
+pictures
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+place
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+planning
+	2 web/resources1.html
+	=2
+	(0)
+please
+	2 web/brainteasers.html
+	2 web/resources1.html
+	=4
+	(0)
+pleasing
+	2 web/grfx.html
+	=2
+	(0)
+point
+	3 web/resources1.html
+	3 web/resources1.html
+	=6
+	(0)
+polynesians
+	2 web/resources1.html
+	=2
+	(0)
+polynomial
+	ignored (5)
+porto
+	2 web/careersem.html
+	=2
+	(0)
+position
+	ignored (42)
+positive
+	5 web/oct04soln.html
+	5 web/oct04soln.html
+	5 web/oct04soln.html
+	5 web/oct04soln.html
+	4 web/archives.html
+	4 web/archives.html
+	4 web/archives.html
+	=32
+	(4)
+possible
+	2 web/home.html
+	2 web/home.html
+	2 web/membership.html
+	=6
+	(0)
+post
+	2 web/resources.html
+	=2
+	(0)
+posted
+	2 web/home.html
+	2 web/home.html
+	2 web/resources.html
+	=6
+	(0)
+ppt
+	4 web/careersem.html
+	4 web/careersem.html
+	4 web/careersem.html
+	=12
+	(1)
+presentations
+	4 web/careersem.html
+	4 web/careersem.html
+	4 web/careersem.html
+	2 web/activities.html
+	2 web/gallery1.html
+	2 web/gallery1.html
+	2 web/gallery2.html
+	2 web/gallery3.html
+	2 web/index.html
+	2 web/pics.html
+	=26
+	(3)
+president
+	3 web/jeremy.html
+	3 web/jeremy.html
+	3 web/will.html
+	3 web/will.html
+	2 web/jonathan.html
+	2 web/kristin.html
+	2 web/moni.html
+	2 web/officers.html
+	=20
+	(3)
+prestigious
+	2 web/resources1.html
+	=2
+	(0)
+primary
+	2 web/resources1.html
+	=2
+	(0)
+primes
+	2 web/brainteasers.html
+	=2
+	(0)
+prize
+	2 web/brainteasers.html
+	2 web/links.html
+	=4
+	(0)
+probability
+	2 web/links.html
+	=2
+	(0)
+problem
+	3 web/resources.html
+	3 web/resources.html
+	=6
+	(0)
+problems
+	2 web/brainteasers.html
+	2 web/resources.html
+	=4
+	(0)
+produces
+	2 web/careersem.html
+	=2
+	(0)
+products
+	2 web/careersem.html
+	=2
+	(0)
+professor
+	2 web/20f.html
+	2 web/careersem.html
+	2 web/gallery1.html
+	2 web/gallery1.html
+	2 web/will.html
+	=10
+	(1)
+professors
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+program
+	ignored (7)
+programming
+	2 web/grfx.html
+	=2
+	(0)
+programs
+	2 web/grfx.html
+	=2
+	(0)
+projects
+	2 web/grfx.html
+	=2
+	(0)
+promote
+	2 web/membership.html
+	2 web/resources1.html
+	=4
+	(0)
+provide
+	2 web/home.html
+	2 web/home.html
+	2 web/resources1.html
+	=6
+	(0)
+provided
+	2 web/resources1.html
+	=2
+	(0)
+psychology
+	2 web/will.html
+	=2
+	(0)
+publicity
+	3 web/kristin.html
+	3 web/kristin.html
+	2 web/jeremy.html
+	2 web/jonathan.html
+	2 web/moni.html
+	2 web/officers.html
+	2 web/will.html
+	=16
+	(2)
+pure
+	2 web/jeremy.html
+	2 web/jonathan.html
+	=4
+	(0)
+pursuing
+	2 web/resources1.html
+	=2
+	(0)
+put
+	2 web/links.html
+	=2
+	(0)
+puzzles
+	4 web/links.html
+	4 web/links.html
+	4 web/links.html
+	=12
+	(1)
+qed
+	3 web/oct04soln.html
+	3 web/oct04soln.html
+	=6
+	(0)
+qualify
+	2 web/resources1.html
+	=2
+	(0)
+quarter
+	3 web/resources1.html
+	3 web/resources1.html
+	=6
+	(0)
+question
+	2 web/links.html
+	=2
+	(0)
+questions
+	2 web/resources1.html
+	=2
+	(0)
+quite
+	2 web/gallery3.html
+	=2
+	(0)
+rabin
+	4 web/102.html
+	4 web/102.html
+	4 web/102.html
+	4 web/20d.html
+	4 web/20d.html
+	4 web/20d.html
+	3 web/109.html
+	3 web/109.html
+	=30
+	(4)
+radius
+	2 web/jan05soln.html
+	=2
+	(0)
+range
+	2 web/resources1.html
+	=2
+	(0)
+ranging
+	2 web/links.html
+	=2
+	(0)
+ratioals
+	2 web/brainteasers.html
+	=2
+	(0)
+ratioanls
+	2 web/brainteasers.html
+	=2
+	(0)
+rational
+	3 web/brainteasers.html
+	3 web/brainteasers.html
+	3 web/oct04soln.html
+	3 web/oct04soln.html
+	2 web/archives.html
+	=14
+	(2)
+rationals
+	2 web/brainteasers.html
+	=2
+	(0)
+reaches
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+real
+	2 web/kristin.html
+	=2
+	(0)
+real-world
+	2 web/careersem.html
+	=2
+	(0)
+reasons
+	2 web/resources1.html
+	=2
+	(0)
+recall
+	2 web/archives.html
+	=2
+	(0)
+receive
+	2 web/brainteasers.html
+	2 web/join.html
+	=4
+	(0)
+received
+	2 web/resources1.html
+	=2
+	(0)
+recognition
+	2 web/resources1.html
+	=2
+	(0)
+recommendation
+	2 web/resources1.html
+	=2
+	(0)
+refer
+	2 web/resources1.html
+	=2
+	(0)
+refugees
+	2 web/resources1.html
+	=2
+	(0)
+registered
+	2 web/membership.html
+	=2
+	(0)
+registration
+	2 web/resources1.html
+	=2
+	(0)
+relationship
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+render
+	2 web/grfx.html
+	=2
+	(0)
+required
+	2 web/membership.html
+	=2
+	(0)
+requirements
+	3 web/resources1.html
+	3 web/resources1.html
+	=6
+	(0)
+research
+	2 web/links.html
+	2 web/resources1.html
+	=4
+	(0)
+resident
+	3 web/resources1.html
+	3 web/resources1.html
+	=6
+	(0)
+resource
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+resources
+	ignored (9)
+review
+	2 web/100b.html
+	2 web/resources1.html
+	=4
+	(0)
+riddles
+	2 web/links.html
+	=2
+	(0)
+right
+	2 web/brainteasers.html
+	2 web/resources1.html
+	=4
+	(0)
+room
+	2 web/resources1.html
+	=2
+	(0)
+root
+	ignored (6)
+roots
+	3 web/archives.html
+	3 web/archives.html
+	=6
+	(0)
+rothschild
+	3 web/142a.html
+	3 web/142a.html
+	2 web/100a.html
+	2 web/20f.html
+	=10
+	(1)
+row
+	2 web/gallery2.html
+	=2
+	(0)
+rueben
+	2 web/links.html
+	2 web/resources1.html
+	=4
+	(0)
+s.t
+	2 web/dec04soln.html
+	2 web/jan05soln.html
+	=4
+	(0)
+said
+	2 web/grfx.html
+	=2
+	(0)
+same
+	2 web/grfx.html
+	=2
+	(0)
+samuel
+	2 web/gallery1.html
+	2 web/gallery1.html
+	=4
+	(0)
+san
+	2 web/grfx.html
+	2 web/resources1.html
+	2 web/will.html
+	=6
+	(0)
+sansome
+	2 web/resources1.html
+	=2
+	(0)
+satellite
+	2 web/careersem.html
+	=2
+	(0)
+say
+	2 web/brainteasers.html
+	=2
+	(0)
+scale
+	3 web/resources1.html
+	3 web/resources1.html
+	=6
+	(0)
+schafer
+	2 web/links.html
+	=2
+	(0)
+scheduled
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+scholarship
+	ignored (45)
+scholarships
+	ignored (5)
+school
+	3 web/resources1.html
+	3 web/resources1.html
+	2 web/brainteasers.html
+	2 web/jeremy.html
+	=10
+	(1)
+science
+	ignored (5)
+sciences
+	2 web/home.html
+	2 web/home.html
+	2 web/resources1.html
+	=6
+	(0)
+scientific
+	2 web/grfx.html
+	=2
+	(0)
+script
+	ignored (44)
+scrollbar-3dlight-color
+	2 web/index.html
+	=2
+	(0)
+scrollbar-arrow-color
+	2 web/index.html
+	=2
+	(0)
+scrollbar-base-color
+	2 web/index.html
+	=2
+	(0)
+scrollbar-darkshadow-color
+	2 web/index.html
+	=2
+	(0)
+scrollbar-face-color
+	2 web/index.html
+	=2
+	(0)
+scrollbar-highlight-color
+	2 web/index.html
+	=2
+	(0)
+scrollbar-shadow-color
+	2 web/index.html
+	=2
+	(0)
+scrollbar-track-color
+	2 web/index.html
+	=2
+	(0)
+second
+	2 web/jonathan.html
+	=2
+	(0)
+secretary
+	2 web/jeremy.html
+	2 web/jonathan.html
+	2 web/kristin.html
+	2 web/moni.html
+	2 web/officers.html
+	2 web/will.html
+	=12
+	(1)
+section
+	3 web/home.html
+	3 web/home.html
+	3 web/home.html
+	3 web/home.html
+	2 web/links.html
+	=14
+	(2)
+secure
+	2 web/careersem.html
+	=2
+	(0)
+see
+	2 web/archives.html
+	2 web/brainteasers.html
+	2 web/oct04soln.html
+	=6
+	(0)
+select
+	2 web/exambank.html
+	2 web/resources1.html
+	=4
+	(0)
+selection
+	2 web/careersem.html
+	=2
+	(0)
+self-addressed
+	2 web/resources1.html
+	=2
+	(0)
+semester
+	2 web/resources1.html
+	=2
+	(0)
+seminar
+	3 web/careersem.html
+	3 web/careersem.html
+	3 web/home.html
+	3 web/home.html
+	3 web/home.html
+	3 web/home.html
+	2 web/index.html
+	=20
+	(3)
+seminars
+	2 web/join.html
+	=2
+	(0)
+send
+	2 web/join.html
+	2 web/resources.html
+	=4
+	(0)
+senior
+	2 web/jeremy.html
+	=2
+	(0)
+seniors
+	2 web/resources1.html
+	=2
+	(0)
+sequence
+	2 web/brainteasers.html
+	2 web/jan05soln.html
+	2 web/nov04soln.html
+	=6
+	(0)
+series
+	2 web/archives.html
+	=2
+	(0)
+serve
+	2 web/home.html
+	2 web/home.html
+	2 web/join.html
+	=6
+	(0)
+set
+	3 web/dec04soln.html
+	3 web/dec04soln.html
+	=6
+	(0)
+she
+	3 web/kristin.html
+	3 web/kristin.html
+	2 web/moni.html
+	=8
+	(1)
+sheet
+	2 web/100b.html
+	=2
+	(0)
+show
+	ignored (7)
+shown
+	2 web/oct04soln.html
+	=2
+	(0)
+side
+	ignored (13)
+sign
+	2 web/join.html
+	=2
+	(0)
+similiar
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+simultaneously
+	2 web/gallery3.html
+	=2
+	(0)
+since
+	3 web/dec04soln.html
+	3 web/dec04soln.html
+	2 web/home.html
+	2 web/home.html
+	2 web/nov04soln.html
+	2 web/oct04soln.html
+	=14
+	(2)
+sites
+	2 web/index.html
+	=2
+	(0)
+skirvin
+	3 web/archives.html
+	3 web/archives.html
+	2 web/dec04soln.html
+	2 web/jan05soln.html
+	=10
+	(1)
+sleep
+	2 web/kristin.html
+	=2
+	(0)
+slice
+	3 web/gallery3.html
+	3 web/gallery3.html
+	=6
+	(0)
+small
+	2 web/careersem.html
+	=2
+	(0)
+social
+	3 web/gallery2.html
+	3 web/gallery2.html
+	2 web/home.html
+	2 web/home.html
+	2 web/pics.html
+	=12
+	(1)
+software
+	3 web/grfx.html
+	3 web/grfx.html
+	=6
+	(0)
+sold
+	2 web/t-shirt.html
+	=2
+	(0)
+solid
+	ignored (449)
+solution
+	ignored (6)
+solve
+	2 web/archives.html
+	2 web/brainteasers.html
+	=4
+	(0)
+solved
+	5 web/archives.html
+	5 web/archives.html
+	5 web/archives.html
+	5 web/archives.html
+	=20
+	(3)
+solves
+	2 web/brainteasers.html
+	2 web/resources.html
+	=4
+	(0)
+some
+	2 web/dec04soln.html
+	2 web/home.html
+	2 web/home.html
+	2 web/oct04soln.html
+	=8
+	(1)
+someday
+	2 web/will.html
+	=2
+	(0)
+sophomore
+	2 web/resources1.html
+	=2
+	(0)
+sorry
+	2 web/t-shirt.html
+	=2
+	(0)
+sorts
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+space
+	2 web/archives.html
+	2 web/jan05soln.html
+	=4
+	(0)
+speaker
+	2 web/gallery2.html
+	=2
+	(0)
+speakers
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+special
+	2 web/resources1.html
+	=2
+	(0)
+specializing
+	2 web/careersem.html
+	=2
+	(0)
+spring
+	ignored (11)
+staff
+	2 web/membership.html
+	=2
+	(0)
+stamped
+	2 web/resources1.html
+	=2
+	(0)
+standing
+	2 web/resources1.html
+	=2
+	(0)
+statement
+	2 web/resources1.html
+	=2
+	(0)
+steve
+	2 web/careersem.html
+	=2
+	(0)
+street
+	2 web/resources1.html
+	=2
+	(0)
+strengthen
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+string
+	2 web/jonathan.html
+	=2
+	(0)
+strive
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+student
+	4 web/resources1.html
+	4 web/resources1.html
+	4 web/resources1.html
+	2 web/brainteasers.html
+	2 web/kristin.html
+	=16
+	(2)
+students
+	ignored (14)
+study
+	2 web/resources1.html
+	=2
+	(0)
+subject
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+submit
+	3 web/resources1.html
+	3 web/resources1.html
+	2 web/brainteasers.html
+	2 web/grfx.html
+	=10
+	(1)
+submitted
+	2 web/grfx.html
+	2 web/resources1.html
+	=4
+	(0)
+subsequence
+	2 web/jan05soln.html
+	=2
+	(0)
+such
+	4 web/archives.html
+	4 web/archives.html
+	4 web/archives.html
+	2 web/grfx.html
+	2 web/join.html
+	2 web/oct04soln.html
+	=18
+	(2)
+sugar
+	2 web/gallery2.html
+	=2
+	(0)
+suite
+	2 web/resources1.html
+	=2
+	(0)
+sum
+	5 web/nov04soln.html
+	5 web/nov04soln.html
+	5 web/nov04soln.html
+	5 web/nov04soln.html
+	=20
+	(3)
+summer
+	2 web/10c.html
+	2 web/20e.html
+	2 web/20f.html
+	2 web/links.html
+	=8
+	(1)
+sums
+	2 web/nov04soln.html
+	=2
+	(0)
+suppose
+	3 web/archives.html
+	3 web/archives.html
+	2 web/jan05soln.html
+	=8
+	(1)
+surjective
+	2 web/jan05soln.html
+	=2
+	(0)
+symmetric
+	2 web/oct04soln.html
+	=2
+	(0)
+symmetry
+	2 web/oct04soln.html
+	=2
+	(0)
+system
+	2 web/oct04soln.html
+	=2
+	(0)
+t-shirt
+	4 web/t-shirt.html
+	4 web/t-shirt.html
+	4 web/t-shirt.html
+	2 web/index.html
+	2 web/join.html
+	2 web/membership.html
+	=18
+	(2)
+t-shirts
+	2 web/t-shirt.html
+	=2
+	(0)
+taken
+	2 web/links.html
+	2 web/resources.html
+	=4
+	(0)
+talented
+	2 web/resources1.html
+	=2
+	(0)
+talk
+	2 web/gallery3.html
+	2 web/pics.html
+	=4
+	(0)
+teach
+	2 web/will.html
+	=2
+	(0)
+teaches
+	2 web/will.html
+	=2
+	(0)
+teasers
+	ignored (6)
+tend
+	2 web/resources.html
+	=2
+	(0)
+term
+	2 web/resources1.html
+	=2
+	(0)
+terms
+	2 web/resources1.html
+	=2
+	(0)
+text-align
+	2 web/index.html
+	=2
+	(0)
+text-decoration
+	ignored (39)
+thank
+	2 web/t-shirt.html
+	=2
+	(0)
+that
+	ignored (54)
+the
+	ignored (196)
+their
+	3 web/gallery3.html
+	3 web/gallery3.html
+	2 web/gallery2.html
+	2 web/home.html
+	2 web/home.html
+	=12
+	(1)
+them
+	2 web/links.html
+	2 web/membership.html
+	=4
+	(0)
+then
+	ignored (8)
+theorem
+	2 web/nov04soln.html
+	=2
+	(0)
+theory
+	2 web/jonathan.html
+	2 web/links.html
+	2 web/will.html
+	=6
+	(0)
+there
+	4 web/oct04soln.html
+	4 web/oct04soln.html
+	4 web/oct04soln.html
+	3 web/links.html
+	3 web/links.html
+	2 web/archives.html
+	2 web/dec04soln.html
+	2 web/membership.html
+	2 web/resources1.html
+	=26
+	(3)
+therefore
+	5 web/oct04soln.html
+	5 web/oct04soln.html
+	5 web/oct04soln.html
+	5 web/oct04soln.html
+	2 web/home.html
+	2 web/home.html
+	2 web/jan05soln.html
+	=26
+	(3)
+these
+	2 web/grfx.html
+	2 web/oct04soln.html
+	=4
+	(0)
+they
+	2 web/resources.html
+	=2
+	(0)
+third
+	2 web/moni.html
+	=2
+	(0)
+this
+	ignored (11)
+those
+	2 web/membership.html
+	2 web/resources1.html
+	=4
+	(0)
+though
+	2 web/kristin.html
+	=2
+	(0)
+threatening
+	2 web/kristin.html
+	=2
+	(0)
+through
+	4 web/resources1.html
+	4 web/resources1.html
+	4 web/resources1.html
+	=12
+	(1)
+thus
+	2 web/oct04soln.html
+	=2
+	(0)
+time
+	4 web/resources1.html
+	4 web/resources1.html
+	4 web/resources1.html
+	2 web/grfx.html
+	=14
+	(2)
+times
+	2 web/membership.html
+	=2
+	(0)
+together
+	2 web/links.html
+	2 web/membership.html
+	=4
+	(0)
+top
+	ignored (37)
+topics
+	2 web/membership.html
+	=2
+	(0)
+transparent
+	ignored (13)
+treasurer
+	3 web/jonathan.html
+	3 web/jonathan.html
+	2 web/jeremy.html
+	2 web/kristin.html
+	2 web/moni.html
+	2 web/officers.html
+	2 web/will.html
+	=16
+	(2)
+treats
+	2 web/gallery2.html
+	=2
+	(0)
+true
+	2 web/oct04soln.html
+	=2
+	(0)
+try
+	2 web/membership.html
+	=2
+	(0)
+trying
+	2 web/kristin.html
+	=2
+	(0)
+tuition
+	2 web/resources1.html
+	=2
+	(0)
+tumbnails
+	2 web/grfx.html
+	=2
+	(0)
+tutor
+	2 web/jeremy.html
+	2 web/moni.html
+	=4
+	(0)
+tutors
+	2 web/jonathan.html
+	=2
+	(0)
+twas
+	2 web/gallery3.html
+	=2
+	(0)
+two
+	3 web/resources1.html
+	3 web/resources1.html
+	=6
+	(0)
+two-year
+	2 web/resources1.html
+	=2
+	(0)
+type
+	2 web/join.html
+	=2
+	(0)
+u.s
+	3 web/resources1.html
+	3 web/resources1.html
+	=6
+	(0)
+ucsd
+	ignored (33)
+ucsd.edu
+	2 web/jeremy.html
+	2 web/join.html
+	2 web/jonathan.html
+	2 web/kristin.html
+	2 web/moni.html
+	2 web/will.html
+	=12
+	(1)
+umbrella
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+under
+	2 web/dec04soln.html
+	2 web/home.html
+	2 web/home.html
+	=6
+	(0)
+undergraduate
+	3 web/resources1.html
+	3 web/resources1.html
+	2 web/brainteasers.html
+	=8
+	(1)
+undergraduates
+	2 web/resources1.html
+	=2
+	(0)
+unique
+	2 web/archives.html
+	=2
+	(0)
+unite
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+units
+	4 web/resources1.html
+	4 web/resources1.html
+	4 web/resources1.html
+	=12
+	(1)
+universtiy
+	2 web/resources1.html
+	=2
+	(0)
+unknown
+	2 web/20f.html
+	=2
+	(0)
+upcoming
+	2 web/activities.html
+	=2
+	(0)
+updated
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+upper
+	2 web/resources1.html
+	=2
+	(0)
+upper-division
+	2 web/resources1.html
+	=2
+	(0)
+used
+	2 web/oct04soln.html
+	=2
+	(0)
+usually
+	2 web/resources1.html
+	=2
+	(0)
+various
+	2 web/jonathan.html
+	2 web/membership.html
+	=4
+	(0)
+verdana
+	ignored (82)
+verifies
+	2 web/dec04soln.html
+	=2
+	(0)
+version
+	5 web/20c.html
+	5 web/20c.html
+	5 web/20c.html
+	5 web/20c.html
+	3 web/20a.html
+	3 web/20a.html
+	=26
+	(3)
+via
+	2 web/brainteasers.html
+	2 web/grfx.html
+	=4
+	(0)
+viasat
+	3 web/careersem.html
+	3 web/careersem.html
+	=6
+	(0)
+vice
+	2 web/jeremy.html
+	=2
+	(0)
+vice-president
+	2 web/careersem.html
+	2 web/jeremy.html
+	2 web/jonathan.html
+	2 web/kristin.html
+	2 web/moni.html
+	2 web/officers.html
+	2 web/will.html
+	=14
+	(2)
+view
+	2 web/grfx.html
+	=2
+	(0)
+viscardi
+	2 web/archives.html
+	2 web/nov04soln.html
+	=4
+	(0)
+visited
+	ignored (13)
+visual
+	2 web/resources.html
+	=2
+	(0)
+visually
+	2 web/grfx.html
+	=2
+	(0)
+waiting
+	2 web/links.html
+	=2
+	(0)
+wake
+	2 web/kristin.html
+	=2
+	(0)
+want
+	2 web/join.html
+	=2
+	(0)
+wants
+	2 web/jeremy.html
+	=2
+	(0)
+was
+	2 web/resources1.html
+	=2
+	(0)
+web
+	2 web/moni.html
+	=2
+	(0)
+webmaster
+	2 web/moni.html
+	=2
+	(0)
+website
+	2 web/links.html
+	2 web/moni.html
+	2 web/resources.html
+	=6
+	(0)
+websites
+	2 web/links.html
+	=2
+	(0)
+week
+	3 web/home.html
+	3 web/home.html
+	3 web/home.html
+	3 web/home.html
+	3 web/kristin.html
+	3 web/kristin.html
+	=18
+	(2)
+welcome
+	2 web/home.html
+	2 web/home.html
+	2 web/links.html
+	2 web/resources1.html
+	=8
+	(1)
+well
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+were
+	2 web/resources1.html
+	=2
+	(0)
+wgarner
+	2 web/will.html
+	=2
+	(0)
+what
+	3 web/resources1.html
+	3 web/resources1.html
+	2 web/links.html
+	=8
+	(1)
+whenever
+	2 web/brainteasers.html
+	=2
+	(0)
+where
+	2 web/home.html
+	2 web/home.html
+	2 web/join.html
+	=6
+	(0)
+whereas
+	2 web/brainteasers.html
+	=2
+	(0)
+which
+	2 web/join.html
+	2 web/resources1.html
+	=4
+	(0)
+while
+	2 web/home.html
+	2 web/home.html
+	=4
+	(0)
+who
+	2 web/brainteasers.html
+	2 web/membership.html
+	2 web/resources.html
+	2 web/resources1.html
+	=8
+	(1)
+whoever
+	2 web/grfx.html
+	2 web/resources.html
+	=4
+	(0)
+why
+	2 web/resources1.html
+	=2
+	(0)
+width
+	ignored (37)
+will
+	ignored (14)
+willing
+	2 web/resources.html
+	=2
+	(0)
+winter
+	ignored (6)
+wireless
+	2 web/careersem.html
+	=2
+	(0)
+with
+	ignored (8)
+wolfgang
+	2 web/archives.html
+	2 web/oct04soln.html
+	=4
+	(0)
+women
+	2 web/resources1.html
+	=2
+	(0)
+wondered
+	2 web/links.html
+	=2
+	(0)
+wonderful
+	2 web/gallery3.html
+	=2
+	(0)
+works
+	2 web/jeremy.html
+	2 web/moni.html
+	=4
+	(0)
+would
+	2 web/grfx.html
+	2 web/home.html
+	2 web/home.html
+	=6
+	(0)
+write
+	2 web/resources1.html
+	=2
+	(0)
+x-1
+	3 web/oct04soln.html
+	3 web/oct04soln.html
+	=6
+	(0)
+x_1
+	3 web/brainteasers.html
+	3 web/brainteasers.html
+	3 web/jan05soln.html
+	3 web/jan05soln.html
+	=12
+	(1)
+x_2
+	2 web/brainteasers.html
+	=2
+	(0)
+x_m
+	2 web/jan05soln.html
+	=2
+	(0)
+x_n
+	4 web/jan05soln.html
+	4 web/jan05soln.html
+	4 web/jan05soln.html
+	3 web/brainteasers.html
+	3 web/brainteasers.html
+	=18
+	(2)
+year
+	4 web/resources1.html
+	4 web/resources1.html
+	4 web/resources1.html
+	2 web/brainteasers.html
+	2 web/jeremy.html
+	2 web/jonathan.html
+	2 web/kristin.html
+	2 web/moni.html
+	2 web/will.html
+	=24
+	(3)
+you
+	ignored (7)
+your
+	5 web/resources1.html
+	5 web/resources1.html
+	5 web/resources1.html
+	5 web/resources1.html
+	3 web/brainteasers.html
+	3 web/brainteasers.html
+	2 web/exambank.html
+	2 web/grfx.html
+	2 web/links.html
+	2 web/t-shirt.html
+esources.html
+	2 web/t-shirt.html
+	=50
+rs.html
+	3 web/pics.html
+	3 web/pics.html
+	3 web/resources.html
+	3 web/resources.html
+	3 web/t-shirt.html
+	3 web/t-shirt.html
+	3 web/will.html
+	3 web/will.html
+	2 web/index.html
+	=248

@@ -1,0 +1,76 @@
+<html>
+
+<!-- Mirrored from www.math.ucsd.edu/~sums/archive/04-05/jan05soln.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 27 Jul 2017 03:34:34 GMT -->
+<head><title>UCSD Mathematics Club::Brainteasers::Archives::January 2005 Solution</title>
+
+<base >
+<link rel="stylesheet" href="style.html" type="text/css" id="style">
+
+<style>
+
+A:link
+{
+	font-family: verdana;
+	font-size: 7pt;
+	color: #94aaad;
+	text-decoration: none;
+}
+
+A:visited
+{
+	font-family: verdana;
+	font-size: 7pt;
+	color: #94aaad;
+	text-decoration: none;
+}
+
+A:hover
+{
+	font-family: verdana;
+	font-size: 7pt;
+	color: #78A07D;
+	font-weight: bold;
+}
+</style>
+</head>
+<body>
+<span class="head">Solution by Mike Skirvin</span><BR>
+<BR>
+<span class="text">
+Suppose X != f(X) and let y be an element of X - f(X).  X compact and
+f(X) continuous => f(X) compact.  Furthermore, X metric space => X is
+Hausdorff, so f(X) is closed => X - f(X) is open.  Therefore we can
+find e > 0 s.t. the ball of radius epsilon around y is disjoint from
+f(X).<BR>
+<BR>
+Define x_1 = y and x_n = f(x_(n-1)).  We will show that d(x_n, x_m) >=
+e for all n != m by induction on n.  If n = 1, x_1 = y, and x_m is in
+f(X) for m != 1 => d(y, x_m) > e.<BR>
+<BR>
+Assume d(x_(n-1), x_m) > e for n-1 != m.  Then e > d(x_(n-1), x_m)
+=(by isometry) d(f(x_(n-1), x_m) = d(x_n, x_m).<BR>
+<BR>
+Then the sequence {x_n} cannot have a convergent subsequence,
+contradicting X being compact.  So X = f(X) and f is surjective.<BR>
+<BR>
+For injectivity, if f(x) = f(y), then 0 = d(f(x), f(y)) = d(x, y) => x = y.
+</span>
+
+</center>
+
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript" language="javascript">
+var sc_project=663163; 
+var sc_partition=5; 
+var sc_security="e4bd771d"; 
+var sc_invisible=1; 
+</script>
+
+<script type="text/javascript" language="javascript" src="js/counter.js"></script><noscript><a href="../external.html?link=http://www.statcounter.com/" target="_blank"><img  src="gif/counter016b.gif?sc_project=663163&amp;java=0&amp;security=e4bd771d&amp;invisible=1" alt="free statistics" border="0"></a> </noscript>
+<!-- End of StatCounter Code -->
+
+</body>
+
+<!-- Mirrored from www.math.ucsd.edu/~sums/archive/04-05/jan05soln.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 27 Jul 2017 03:34:34 GMT -->
+</html>

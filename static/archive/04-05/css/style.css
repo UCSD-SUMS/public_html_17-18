@@ -1,0 +1,127 @@
+body
+{
+	text-align: left;
+	scrollbar-face-color:#EFEFEF;
+	scrollbar-shadow-color:#EFEFEF; 
+	scrollbar-3dlight-color:#EFEFEF;
+	scrollbar-arrow-color:#78A07D;
+	scrollbar-base-color:#EFEFEF;
+	scrollbar-track-color:#EFEFEF;
+	scrollbar-darkshadow-color:#EFEFEF;
+	scrollbar-highlight-color:#EFEFEF;
+	background-color: #EFEFEF;
+	}
+
+.head
+{
+	font-family: verdana;
+	font-weight: bold;
+	font-size: 10pt;
+	color: #000000;
+}
+
+.text
+{
+	font-family: verdana;
+	font-size: 8pt;
+	color: #000000;
+}
+
+.subhead
+{
+	font-family: verdana;
+	font-weight: bold;
+	font-size: 8pt;
+	color: #000000;
+}
+
+.subsubhead
+{
+	font-family: verdana;
+	font-style: italic;
+	font-size: 8pt;
+	color: #000000;
+}
+
+.list
+{
+	font-family: verdana;
+	font-size: 8pt;
+	color: #000000;
+	indent: 10px;
+}
+
+.sublist
+{
+	font-family: verdana;
+	font-size: 8pt;
+	color: #000000;
+	text-indent: 20px;
+}
+
+.tinybitch
+{
+	font-family: verdana;
+	font-size: 8pt;
+	color: #000000;
+}
+
+.news
+{
+	font-family: verdana;
+	font-weight: bold;
+	font-size: 8pt;
+	color: #990000;
+}
+
+.newstext
+{
+	font-family: verdana;
+	font-size: 8pt;
+	color: #990000;
+}
+
+.side
+{
+	font-family: verdana;
+	font-size: 7pt;
+	color: #94aaad;
+}
+
+.there
+{
+	font-family: verdana;
+	font-size: 7pt;
+	color: #990000;
+}
+
+.caption
+{
+	font-family: verdana;
+	font-size: 7pt;
+	color: #000000;
+}
+
+A:link
+{
+	font-family: verdana;
+	font-size: 8pt;
+	color: #3C5170;
+	text-decoration: none;
+}
+
+A:visited
+{
+	font-family: verdana;
+	font-size: 8pt;
+	color: #78A07D;
+	text-decoration: none;
+}
+
+A:hover
+{
+	font-family: verdana;
+	font-size: 8pt;
+	color: #78A07D;
+	font-weight: bold;
+}
