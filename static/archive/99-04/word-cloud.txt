@@ -1,0 +1,29 @@
+arial
+	ignored (315)
+background-image
+	ignored (105)
+background-repeat
+	ignored (105)
+big
+	ignored (105)
+body
+	ignored (105)
+club
+	ignored (105)
+font-family
+	ignored (315)
+font-size
+	ignored (315)
+helvetica
+	ignored (315)
+http
+	ignored (105)
+math
+	ignored (105)
+no-repeat
+	ignored (105)
+script
+	ignored (315)
+ucsd
+	2 web/index.html
+
