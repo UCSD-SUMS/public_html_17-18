@@ -88,6 +88,7 @@ img {
         <div id="collapse5" class="panel-collapse collapse">
             <div class="panel-body">
             
+                <a href="https://www.flickr.com/photos/ucsdmath">Photo Gallery</a>
                <a href="static/archive/06-07">Archived Website</a>
                 
             </div>
