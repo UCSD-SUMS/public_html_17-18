@@ -218,6 +218,12 @@ main = hakyll $ do
         compile $ pandocCompiler
             >>= loadAndApplyTemplate "templates/default.html" defaultContext
             >>= relativizeUrls
+            
+    match "archive.md" $ do
+        route   $ setExtension "html"
+        compile $ rawHTMLPandocCompiler
+            >>= loadAndApplyTemplate "templates/default.html" defaultContext
+            >>= relativizeUrls
 
     match "officers.md" $ do
         route   $ setExtension "html"
