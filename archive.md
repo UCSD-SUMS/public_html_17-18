@@ -34,7 +34,7 @@ img {
         <div id="collapse1" class="panel-collapse collapse in">
             <div class="panel-body">
 
-                <a href="archive/15-16">2015-2016<a>
+                <a href="static/archive/15-16">2015-2016<a>
 
             </div>
         </div>
