@@ -1,0 +1,55 @@
+/*
+**
+** calendar style sheet
+** encore, je vais dormir ce matin
+**
+*/
+
+.calendar * {
+	text-align: center;
+	//background: #fefaf5;
+}
+
+.calendar td {
+	//background: #eeeeee;
+	background: #eefdd0;
+	padding: 1px;
+	width: 20px;
+	border: 1px solid #eefdd0;
+}
+
+.calendar .blank {
+	width: 20px;
+	padding: 2px;
+	background: transparent;
+}
+
+.calendar a:link, .calendar a:visited {
+	font-weight: bold;
+	text-decoration: none;
+	//color: #999999;
+	color: #990000;
+	background: transparent;
+}
+
+.calendar a:hover {
+	font-weight: bold;
+	text-decoration: none;
+	color: #eefffe;
+	background: transparent;
+}
+
+.calendar .event {
+	//background: #eefffe;
+	background: #a7c76a;
+	border-bottom: 1px solid #999999;
+	border-right: 1px solid #999999;
+}
+
+.calendar .event:hover {
+	background: #a1a1a1;
+}
+
+.month { font-size:11px; font-weight: normal; }
+
+.days { font-size: 9px; }

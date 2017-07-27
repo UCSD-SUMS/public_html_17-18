@@ -1,0 +1,119 @@
+/*
+**
+** style sheet for mac safari, firefox & netscape
+** navigation menu kiss my ass IE
+**
+*/
+
+#menu > ul {
+	font-family: georgia, garamond, times new roman, serif;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#nav a {
+	font-weight: normal;
+	color: #83271f;
+}
+
+#nav a {
+	text-decoration: none;
+}
+
+#nav li li a {
+	display: block;
+	font-weight: normal;
+	color: #83271f;
+	padding: 5px 10px;
+	margin: 1px 0 2px 0;
+}
+
+#nav li li a:hover {
+	border-top: 1px dotted #83271f;
+	border-bottom: 2px solid #83271f;
+	background: #eeeeee;
+	margin: 0 -1px 0 -1px;
+	border-left: 1px solid #83271f;
+	border-right: 1px solid #83271f;
+}
+
+#nav > li {
+	float: left;
+	text-align: center;
+	position: relative;
+	line-height: 34px;
+	font-size: 18px;
+	color: #333333;
+	z-index: 5;
+	width: 160px;
+}
+
+#nav > li.first {
+	background: url(../gif/firsttab.gif) no-repeat;
+	width: 161px;
+}
+
+#nav > li.firstthere {
+	background: url(../gif/firsttabhover.gif) no-repeat;
+	width: 161px;
+}
+
+#nav > li.tab {
+	background: url(../gif/tab.gif) no-repeat;
+}
+
+#nav > li.there {
+	background: url(../gif/tabhover.gif) no-repeat;
+}
+
+/* fucking shit fix for mac ie */
+#nav > li.tabthere {
+	background: url(../gif/tabhover.gif) no-repeat;
+}
+
+#nav > li ul {
+	display: none;
+	text-align: center;
+	position: absolute;
+	top: 34px;
+
+	font-weight: normal;
+	background: #00ff00;
+	background: url(../gif/menubg.gif) bottom left no-repeat;
+	padding: 5px 0 10px 0;
+	z-index: 5;
+}
+
+#nav > li.first ul, #nav > li.firstthere ul {
+	left: 1px;
+}
+
+#nav > li > ul {
+	top: auto;
+	left: auto;
+}
+
+#nav > li li {
+	display: block;
+	float: none;
+	font-size: 14px;
+	line-height: 15px;
+	background-color: transparent;
+	border: 0;
+	width: 159px;
+	border-top: 1px dotted transparent;
+	border-bottom: 2px dotted transparent;
+}
+
+#nav > li:hover ul, #nav > li.over ul {
+	display: block;
+}
+
+#nav > li.tab:hover {
+	background: url(../gif/tabhover.gif) no-repeat;
+}
+
+#nav > li.first:hover {
+	background: url(../gif/firsttabhover.gif) no-repeat;
+}
