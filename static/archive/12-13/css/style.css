@@ -1,0 +1,286 @@
+
+/* General */
+body {
+	background-color: #4e4964;
+	background-image: url('../png/grid.png');
+	background-repeat: no-repeat;
+	background-position: top center;
+}
+
+#main {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+	position: absolute;
+	left: 0; 
+	right: 0;
+	top: 0;
+	
+	width: 778px;
+	padding: 0;
+	
+	background-color: #ffffff;
+	border: 1px solid #000000;
+	border-top: 0;
+	
+	font-family: Sans-serif;
+	font-size: 11px;
+}
+
+
+/* Banner */
+#banner {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* Navigation */
+#navigation {
+	display: block;
+	margin: auto;
+	padding: 0;
+	width: 400px;
+	
+	position: relative;
+	top: -29px;
+	left: 160px;
+}
+
+#navigation li {	
+	list-style: none;
+	float: left;
+	font-weight: bold;
+}
+
+#navigation li a {	
+	display: block;
+	margin-right: 1px;
+	width: 75px;
+	padding: 0.3em 1em 0.3em 1em;
+	
+	background: #ffffff;
+	border: 1px dotted #000000;
+	
+	color: #000000;
+	text-align: center;
+	text-decoration: none;
+}
+
+#navigation li a:hover {
+	background: #4e4964;
+	color: #ffffff;	
+}
+
+#navigation div {	
+	position: absolute;
+	visibility: hidden;
+}
+
+#navigation div a {	
+	// position: relative;
+	display: block;
+	width: 75px;
+	background: #eeeeee;
+	
+	text-decoration: none;
+	color: #000000;
+	font-weight: normal;
+}
+
+#navigation div a:hover {	
+	background: #4e4964;
+	color: #ffffff;
+}
+
+/* Content */
+#content {
+	margin-left: 2em;
+	margin-right: 2em;
+}
+
+h1.title {
+	text-align: center;
+	font-variant: small-caps;
+	font-size: 2em;
+	color: #4e4964;
+}
+
+/* Links */
+a {
+	color: #4e4964;
+}
+
+a:hover {
+	color: #b2adc8;
+}
+
+hr {
+	clear: both;
+	border: 0px;
+  	border-top: 1px dotted;
+  	width: 75%;
+  	float: bottom;
+}
+
+.copyright {
+	text-align: center;
+	font-size: 0.8em;
+}
+
+#footer {
+	text-align: center;
+}
+
+#copyleft {
+	display: inline;
+	width: 0.8em;
+	height: 0.8em;
+	margin: 0;
+	padding: 0;
+}
+
+/* Box */
+div.box {
+	background: #eeeeee;
+	border: 1px dotted #000000;
+	margin: 1em;
+	overflow: auto; 
+}
+
+h2.box {
+	color: #ffffff;
+	background-color: #4e4964;
+	text-align: center;
+	font-variant: small-caps;
+	margin: 0px;
+	border-bottom: 1px dotted #000000;
+	padding-top: 0.3em;
+	padding-bottom: 0.10em;
+}
+
+p.box {
+	margin: 1em;
+}
+
+/* Outline */
+ol.outline {
+	list-style-type: upper-roman;
+	font-weight: bold;
+}
+
+ol.article {
+	padding: 1em 3em 1em 3em;
+	font-weight: normal;
+}
+
+/* Form */
+table.form {
+	margin: auto;
+	font-size: 1em;
+	text-align: right;
+}
+
+input, select, textarea {
+	width: 18em;
+	border: 1px dotted #000000;
+}
+
+textarea {
+	padding: 0;
+}
+
+#submit {
+	width: 8em;
+	color: #ffffff;
+	font-weight: bold;
+	background-color: #4e4964;
+}
+
+/* Home */
+#news, #events {
+	width: 46.70%;
+	float: left;
+}
+
+h3.event {
+	margin-bottom: 0;
+}
+
+ul.event {
+	list-style: none;
+	padding: 0 1em 0 1em;
+}
+
+/* Officers */
+ul.officer {
+	list-style: none;
+	padding: 0 1em 0 1em;
+}
+
+h3.officer {
+	margin: 0;
+}
+
+img.officer {
+	float: right;
+	width: 40%;
+	margin: 1em;
+	border: 1px solid #000000;
+}
+
+/* Exam Bank */
+div#exambank {
+	margin: auto;
+	padding-bottom: 1em;
+	width: 50%;
+}
+
+table#exambanktable {
+	margin: auto;
+	font-size: 1em;
+	text-align: left;
+}
+
+tr.title {
+	font-weight: bold;
+}
+
+td.instructor {
+	padding: 0 2em 0 2em;
+	width: 25%;
+}
+
+
+td.class {
+	padding: 0 2em 0 2em;
+}
+
+td.exam {
+	align: right;
+}
+
+/* Career */
+ul.careers {
+	list-style: none;
+	margin: 0;
+	padding: 1em 1em 0 1em;
+	font-weight: bold;
+}
+
+ul.career {
+	list-style: none;
+	font-weight: normal;
+	padding: 0;
+	margin-bottom: 1em;
+}
+
+/* Links */
+ul.links {
+	list-style: none;
+	padding: 0 1em 0 1em;
+}
+
+ul.links li {
+	padding-bottom: 1em;
+}
