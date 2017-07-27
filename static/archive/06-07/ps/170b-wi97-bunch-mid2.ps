@@ -1,0 +1,2008 @@
+%!PS-Adobe-2.0
+%%Title: TeX output 1998.06.08:1450
+%%Creator: DVILASER/PS, ArborText, Inc.
+%%BoundingBox: (atend)
+%%Pages: (atend)
+%%DocumentFonts: (atend)
+%%DocumentMedia: Plain 509 660 75 white {}
+%%EndComments
+
+%! 
+%  Dvips.pro - included prolog for DviLaser-generated PostScript files.
+% 
+%  Copyright (c) 1986-91, ArborText, Inc.
+%  Permission to copy is granted so long as the PostScript code
+%  is not resold or used in a commercial product.
+%
+%  $Header: /ati/src/tex/dvips/src/RCS/dvips.pro.dist,v 1.3 1992/04/29 20:00:53 mmb Exp $
+%
+systemdict /setpacking known  % use array packing mode if its available
+  {/savepackingmode currentpacking def 
+   true setpacking}
+  if
+ 
+/$DviLaser 400 dict def
+ 
+% Begin document
+/BeginDviLaserDoc {
+  0 0 moveto
+  vmstatus pop pop 0 eq 
+    { $DviLaser begin 
+      InitializeState }
+    { /DviLaserJob save def
+      $DviLaser begin
+      InitializeState
+      /DviLaserFonts save def }
+    ifelse
+} bind def
+ 
+% End document
+/EndDviLaserDoc {
+  vmstatus pop pop 0 eq 
+    { end }
+    { DviLaserFonts restore
+      end
+      DviLaserJob restore }
+    ifelse
+} bind def
+ 
+$DviLaser begin
+
+/tempstr 64 string def
+/tempint 0 def
+/tempmatrix matrix def
+ 
+%
+%  Debugging routines
+%
+/DebugMode false def
+
+/PrintInt {
+  tempstr cvs print
+} bind def
+
+/PrintLn {
+  (\n) print flush
+} bind def
+ 
+/PrintVMStats {
+  print
+  PrintLn
+  (VM status - ) print
+  vmstatus
+  3 copy
+  PrintInt (\(total\), ) print
+  PrintInt (\(used\), ) print
+  pop
+  exch sub 
+  PrintInt (\(remaining\), ) print
+  PrintInt (\(level\)) print
+  PrintLn
+} bind def
+ 
+/VMS /PrintVMStats load def 
+ 
+/VMSDebug {
+  DebugMode
+    {PrintVMStats}
+    {pop}
+    ifelse
+} bind def
+ 
+(beginning of common prolog) VMSDebug 
+
+% Make it easy to bind definitions.
+/bdef { bind def } bind def
+/xdef { exch def } bdef
+
+% Bind some procedures that do restores and such to avoid InvalRestore problems.
+/RestoreDviLaserPage {
+  /DviLaserPage where {pop DviLaserPage restore} if
+} bdef
+
+/RestoreDviLaserFonts {
+  DocumentType 0 eq 
+    {/DviLaserFonts where 
+      {pop DviLaserFonts restore} 
+      if
+    }
+    if
+} bdef
+
+/SaveDviLaserFonts {
+  DocumentType 0 eq 
+   {/DviLaserFonts save def}
+   if
+} bdef
+
+/SetCurrentPoint {
+  /currentpoint cvx stopped {0 0 moveto currentpoint} if
+} bdef
+
+% Begin page
+/BP {
+  /Magnification xdef
+  /DviLaserPage save def
+  (beginning of page) VMSDebug 
+} bdef
+ 
+% End page
+/EP {
+  DviLaserPage restore
+} bdef
+ 
+% Exit page (temporarily) to add fonts/characters.
+/XP {
+  % Save current point information so it can be reset later. 
+  /Xpos where {pop Xpos} {0} ifelse
+  /Ypos where {pop Ypos} {0} ifelse
+  SetCurrentPoint
+  RestoreDviLaserPage
+  moveto
+  /Ypos xdef
+  /Xpos xdef
+} bdef
+ 
+% Resume page
+/RP {
+  /DviLaserPage save def
+} bdef
+ 
+% Purge all fonts to reclaim memory space. 
+/PF {
+  GlobalMode
+  LocalMode
+} bdef
+ 
+% Switch to base save/restore level, saving state information. 
+/GlobalMode {
+  /UserSave where {pop UserSave} if  % invoke "UserSave" if available
+  PortraitMode 
+  PaperWidth 
+  PaperHeight 
+  PxlResolution 
+  Resolution 
+  Magnification
+  Ymax
+  RasterScaleFactor
+  SetCurrentPoint
+  RestoreDviLaserPage
+  RestoreDviLaserFonts
+  RecoverState
+} bdef
+ 
+% Preserve state at the base level.
+/RecoverState {
+  10 copy
+  /Ypos xdef
+  /Xpos xdef
+  /RasterScaleFactor xdef
+  /Ymax xdef
+  /Magnification xdef
+  /Resolution xdef
+  /PxlResolution xdef
+  /PaperHeight xdef
+  /PaperWidth xdef
+  /PortraitMode xdef
+  DoInitialScaling
+  PortraitMode not {PaperWidth 0 SetupLandscape} if
+  Xpos Ypos moveto
+} bdef
+
+% Initialize state variables to default values.
+/InitializeState {
+  /DocumentType 0 def
+  /Resolution 3600.0 def
+  /PxlResolution 300.0 def
+  /RasterScaleFactor PxlResolution Resolution div def
+  /PortraitMode true def
+  11.0 Resolution mul /PaperHeight xdef
+  8.5 Resolution mul /PaperWidth xdef
+  /Ymax PaperHeight def
+  /Magnification 1000.0 def
+  /Xpos 0.0 def
+  /Ypos 0.0 def
+  /InitialMatrix matrix currentmatrix def
+} bdef
+
+% Switch from base save/restore level, restoring state information. 
+/LocalMode {
+  /Ypos xdef
+  /Xpos xdef
+  /RasterScaleFactor xdef
+  /Ymax xdef
+  /Magnification xdef
+  /Resolution xdef
+  /PxlResolution xdef
+  /PaperHeight xdef
+  /PaperWidth xdef
+  /PortraitMode xdef
+  DoInitialScaling
+  PortraitMode not {PaperWidth 0 SetupLandscape} if
+  Xpos Ypos moveto
+  /UserRestore where {pop UserRestore} if  % invoke "UserRestore" if available
+  SaveDviLaserFonts 
+  /DviLaserPage save def
+} bdef
+ 
+% Abbreviations 
+/S /show load def
+/SV /save load def
+/RST /restore load def
+ 
+/Yadjust {Ymax exch sub} bdef
+ 
+% (x,y) position absolute, just set Xpos & Ypos, don't move.
+/SXY {
+  Yadjust 
+  /Ypos xdef /Xpos xdef
+} bdef
+ 
+% (x,y) position absolute
+/XY {
+  Yadjust 
+  2 copy /Ypos xdef /Xpos xdef
+  moveto
+} bdef
+ 
+% (x,0) position absolute
+/X {
+  currentpoint exch pop 
+  2 copy /Ypos xdef /Xpos xdef
+  moveto
+} bdef
+ 
+% (0,y) position absolute
+/Y {
+  currentpoint pop exch Yadjust 
+  2 copy /Ypos xdef /Xpos xdef
+  moveto
+} bdef
+ 
+% (x,y) position relative
+/xy {
+  neg rmoveto
+  currentpoint /Ypos xdef /Xpos xdef
+} bdef
+ 
+% (x,0) position relative
+/x {
+  0.0 rmoveto
+  currentpoint /Ypos xdef /Xpos xdef
+} bdef
+ 
+% (0,y) position relative
+/y {
+  0.0 exch neg rmoveto
+  currentpoint /Ypos xdef /Xpos xdef
+  } bdef
+ 
+%
+% Print a rule.  Normally this is done with a filled area defined by rlineto.
+% Unfortunately, doing it this way introduces a 1 pixel error on some
+% PostScript printer implementations.  In order to get exactly correct
+% pixel size and positioning, an alternate approach is implemented under
+% control of boolean "PreciseRulePositioning".  With this approach,
+% we create a temporary font in which the rule is the only character.
+% Since the alternate mechanism causes documents with lots of rules to
+% print much more slowly, and since the 1 pixel maximum difference is
+% rarely noticed, it is not used by default.  Enable it by setting
+% "PreciseRulePositioning" true.
+%
+/PreciseRulePositioning false def
+
+/R {
+  /ht xdef
+  /wd xdef
+  PreciseRulePositioning ht 1950 le wd 1950 le and PxlResolution 400 le and and
+    {save
+    /tfd 6 dict def
+    tfd begin
+      /FontType 3 def
+      /FontMatrix [1 0 0 1 0 0] def
+      /FontBBox [0 0 wd ht] def
+      /Encoding 256 array dup 97 /a put def
+      /BuildChar {
+        pop   % ignore character code
+        pop   % ignore font dict, too
+        wd 0 0 0 wd ht setcachedevice
+        wd ht true
+        [1 0 0 -1 0 ht] {<FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF>} imagemask
+        } def
+      end % tfd
+    /tf tfd definefont setfont
+    (a) show
+    restore
+    }
+    {gsave
+    0 setgray
+    currentpoint
+    newpath
+      moveto
+      0.0 ht rlineto
+      wd 0.0 rlineto
+      0.0 ht neg rlineto
+      wd neg 0.0 rlineto
+    closepath fill
+    grestore
+    }
+  ifelse
+  wd 0.0 rmoveto
+  currentpoint /Ypos xdef /Xpos xdef
+} bdef
+
+/SHADE {
+  /percent xdef
+  /ht xdef
+  /wd xdef
+  /Red xdef
+  /Green xdef
+  /Blue xdef
+  gsave
+  0.01 percent mul setgray
+  currentpoint
+  newpath
+    moveto
+    0.0 ht rlineto
+    wd 0.0 rlineto
+    0.0 ht neg rlineto
+    wd neg 0.0 rlineto
+  closepath fill
+  grestore
+  wd 0.0 rmoveto
+  currentpoint /Ypos xdef /Xpos xdef
+} bdef
+
+%
+%  <PXL-file resolution(pix/inch)> <resolution(pix/inch)> RES
+%
+/RES {
+  /Resolution xdef
+  /PxlResolution xdef
+  /RasterScaleFactor PxlResolution Resolution div def
+  DoInitialScaling
+} bdef
+
+% Document type: 0-document; 1-page; 2-EPS
+/DT {
+  /DocumentType xdef
+} bdef
+
+%
+% Do initial scaling.
+%
+/DoInitialScaling {
+  InitialMatrix setmatrix
+  72.0 Resolution div dup scale   
+} bdef
+ 
+%
+%  <paper-height(pix)> <paper-width(pix)> PM 
+%
+/PM { 
+  XP
+  /PaperWidth xdef 
+  /PaperHeight xdef
+  /Ymax PaperHeight def
+  /PortraitMode true def
+  DoInitialScaling
+  RP
+} bdef  
+ 
+%
+%  <paper-height(pix)> <paper-width(pix)> LM 
+%
+/LM {
+  XP
+  /PaperWidth xdef 
+  /PaperHeight xdef
+  /Ymax PaperWidth def
+  /PortraitMode false def
+  DoInitialScaling
+  PaperWidth 0 SetupLandscape
+  RP
+} bdef  
+  
+% Change magnification setting
+/MAG {
+  XP
+  /Magnification xdef
+  RP
+} bdef
+ 
+%
+%  Switch to landscape mode
+%
+/SetupLandscape {
+  translate
+  90.0 rotate
+} bdef
+ 
+%
+%  <mode> SPB - begin "\special" mode
+%
+%  This is the PostScript procedure used to transfer from the internal
+%  environment used for the DVI translation code emitted by DVIPS to
+%  a standard PostScript environment.
+%
+%  Parameters: 0 - Local
+%              1 - Global
+%              2 - Inline
+%
+/SPB {
+  /spc_mode xdef
+  spc_mode 0 eq spc_mode 2 eq or
+    {XP}
+    {spc_mode 1 eq {GlobalMode} if} 
+    ifelse
+  Resolution 72.0 div dup scale        % Restore default scaling...
+  Magnification 1000.0 div dup scale   % Adjust for any magnification...
+  /Xpos Xpos 72.0 Resolution div mul 1000.0 Magnification div mul def
+  /Ypos Ypos 72.0 Resolution div mul 1000.0 Magnification div mul def
+} bdef
+ 
+%
+%  <mode> SPE - end "\special" mode
+%
+%  This is the PostScript procedure used to reenter the internal
+%  environment used for the DVI translation code emitted by DVIPS from 
+%  the standard PostScript environment provided for processing user-supplied
+%  PostScript code.
+%
+%  Parameters: 0 - Local
+%              1 - Global
+%              2 - Inline
+%
+/SPE {
+  /spc_mode xdef
+  1000.0 Magnification div dup scale   % Un-adjust for any magnification...
+  72.0 Resolution div dup scale        % Restore default internal scaling...
+  spc_mode 0 eq spc_mode 2 eq or
+    {RP}
+    {spc_mode 1 eq {LocalMode} if} 
+    ifelse
+} bdef
+ 
+%
+%  <num-copies> PP
+%
+/PP {
+  /#copies xdef
+  showpage
+  /#copies 1 def
+} bdef
+ 
+%
+%  /font-name <point-size(pix)> DMF
+%
+/DMF {
+  /psz xdef
+  /nam xdef
+  nam findfont psz scalefont setfont
+} bdef
+ 
+%
+%  /abcd (xxx) str-concat  ==> /abcdxxx
+%
+/str-concatstr 64 string def
+
+/str-concat {
+  /xxx xdef
+  /nam xdef
+  /namstr nam str-concatstr cvs def
+  /newnam namstr length xxx length add string def
+  newnam 0 namstr putinterval
+  newnam namstr length xxx putinterval
+  newnam cvn 
+} bdef
+ 
+%
+%  /abcdef 2 str-strip ==> /cdef
+%
+/str-strip {
+  /num xdef
+  /nam xdef
+  /namstr nam tempstr cvs def
+  /newlen namstr length num sub def
+  namstr num newlen getinterval
+  cvn
+} bdef
+ 
+%
+%  <old-dict> copydict ==> new-dict on stack
+%
+/copydict {
+  dup length 1 add dict /newdict xdef
+    {1 index /FID ne
+      {newdict 3 1 roll put}
+      {pop pop}
+     ifelse
+    } forall 
+  newdict
+} bdef
+ 
+%
+%  <font-type> DefineCMEncoding
+%
+/DefineCMEncoding {
+  /EncodeType xdef
+ 
+  /CMEncoding 256 array def
+  /Times-Roman findfont /Encoding get aload pop CMEncoding astore pop
+ 
+  EncodeType 11 eq {Do-CM-rm-encoding} if
+  EncodeType 12 eq {Do-CM-it-encoding} if
+  EncodeType 13 eq {Do-CM-tt-encoding} if
+} bdef
+ 
+%
+%  Do special mappings for the various CM-font types.  Characters that
+%  get "covered up" are repositioned in the range (128,128+32).  The 
+%  range (256-64,255) is filled with the standard ISO Latin/1 mappings.
+%
+/Do-standard-CM-encodings {
+  CMEncoding
+  dup 0 /.notdef put
+  dup 1 /.notdef put
+  dup 2 /.notdef put
+  dup 3 /.notdef put
+  dup 4 /.notdef put
+  dup 5 /.notdef put
+  dup 6 /.notdef put
+  dup 7 /.notdef put
+ 
+  dup 8 /.notdef put
+  dup 9 /.notdef put
+  dup 10 /.notdef put
+  dup 11 /.notdef put
+  dup 12 /fi put
+  dup 13 /fl put
+  dup 14 /.notdef put
+  dup 15 /.notdef put
+ 
+  dup 16 /dotlessi put
+  dup 17 /ogonek put
+  dup 18 /grave put
+  dup 19 /acute put
+  dup 20 /caron put
+  dup 21 /breve put
+  dup 22 /macron put
+  dup 23 /ring put
+ 
+  dup 24 /cedilla put
+  dup 25 /germandbls put
+  dup 26 /ae put
+  dup 27 /oe put
+  dup 28 /oslash put
+  dup 29 /AE put
+  dup 30 /OE put
+  dup 31 /Oslash put
+
+  dup 127 /dieresis put
+
+  dup 128 /space put
+  dup 129 /quotedbl put
+  dup 130 /sterling put
+  dup 131 /dollar put
+  dup 132 /less put
+  dup 133 /greater put
+  dup 134 /backslash put
+  dup 135 /asciicircum put
+
+  dup 136 /underscore put
+  dup 137 /braceleft put
+  dup 138 /bar put
+  dup 139 /braceright put
+  dup 140 /asciitilde put
+
+  dup 141 /brokenbar put
+  dup 142 /copyright put
+  dup 143 /logicalnot put
+  dup 144 /registered put
+  dup 145 /plusminus put
+  dup 146 /twosuperior put
+  dup 147 /threesuperior put
+  dup 148 /mu put
+  dup 149 /onesuperior put
+  dup 150 /onequarter put
+  dup 151 /onehalf put
+  dup 152 /threequarters put
+  dup 153 /Eth put
+  dup 154 /multiply put
+  dup 155 /Thorn put
+  dup 156 /eth put
+  dup 157 /divide put
+  dup 158 /thorn put
+  dup 159 /ordfeminine put
+  dup 160 /ordmasculine put
+  dup 176 /Lslash put
+  dup 181 /lslash put
+  pop
+  Do-ISO-Latin1-Encoding 
+} bdef
+
+% Fill the last 64 positions with ISOLatin1 composite character definitions.
+/Do-ISO-Latin1-Encoding {
+  CMEncoding
+  dup 192 /Agrave put
+  dup 193 /Aacute put
+  dup 194 /Acircumflex put
+  dup 195 /Atilde put
+  dup 196 /Adieresis put
+  dup 197 /Aring put
+  dup 198 /AE put
+  dup 199 /Ccedilla put
+
+  dup 200 /Egrave put
+  dup 201 /Eacute put
+  dup 202 /Ecircumflex put
+  dup 203 /Edieresis put
+  dup 204 /Igrave put
+  dup 205 /Iacute put
+  dup 206 /Icircumflex put
+  dup 207 /Idieresis put
+
+  dup 208 /Eth put
+  dup 209 /Ntilde put
+  dup 210 /Ograve put
+  dup 211 /Oacute put
+  dup 212 /Ocircumflex put
+  dup 213 /Otilde put
+  dup 214 /Odieresis put
+  dup 215 /multiply put
+
+  dup 216 /Oslash put
+  dup 217 /Ugrave put
+  dup 218 /Uacute put
+  dup 219 /Ucircumflex put
+  dup 220 /Udieresis put
+  dup 221 /Yacute put
+  dup 222 /Thorn put
+  dup 223 /germandbls put
+
+  dup 224 /agrave put
+  dup 225 /aacute put
+  dup 226 /acircumflex put
+  dup 227 /atilde put
+  dup 228 /adieresis put
+  dup 229 /aring put
+  dup 230 /ae put
+  dup 231 /ccedilla put
+
+  dup 232 /egrave put
+  dup 233 /eacute put
+  dup 234 /ecircumflex put
+  dup 235 /edieresis put
+  dup 236 /igrave put
+  dup 237 /iacute put
+  dup 238 /icircumflex put
+  dup 239 /idieresis put
+
+  dup 240 /eth put
+  dup 241 /ntilde put
+  dup 242 /ograve put
+  dup 243 /oacute put
+  dup 244 /ocircumflex put
+  dup 245 /otilde put
+  dup 246 /odieresis put
+  dup 247 /divide put
+
+  dup 248 /oslash put
+  dup 249 /ugrave put
+  dup 250 /uacute put
+  dup 251 /ucircumflex put
+  dup 252 /udieresis put
+  dup 253 /yacute put
+  dup 254 /thorn put
+  dup 255 /ydieresis put
+  pop
+} bdef
+ 
+/Do-CM-rm-encoding {
+  Do-standard-CM-encodings
+  CMEncoding
+  dup 32 /.notdef put
+  dup 34 /quotedblright put
+  dup 60 /exclamdown put
+  dup 62 /questiondown put
+  dup 92 /quotedblleft put
+  dup 94 /circumflex put
+  dup 95 /dotaccent put
+  dup 123 /endash put
+  dup 124 /emdash put
+  dup 125 /hungarumlaut put
+  dup 126 /tilde put
+  pop
+} bdef
+ 
+/Do-CM-it-encoding {
+  Do-standard-CM-encodings
+  CMEncoding
+  dup 32 /.notdef put
+  dup 34 /quotedblright put
+  dup 36 /sterling put
+  dup 60 /exclamdown put
+  dup 62 /questiondown put
+  dup 92 /quotedblleft put
+  dup 94 /circumflex put
+  dup 95 /dotaccent put
+  dup 123 /endash put
+  dup 124 /emdash put
+  dup 125 /hungarumlaut put
+  dup 126 /tilde put
+  pop
+} bdef
+ 
+/Do-CM-tt-encoding {
+  Do-standard-CM-encodings
+  CMEncoding
+  dup 12 /.notdef put
+  dup 13 /quotesingle put
+  dup 14 /exclamdown put
+  dup 15 /questiondown put
+  dup 94 /circumflex put
+  dup 126 /tilde put
+  pop
+} bdef
+
+%
+% Routines to handle packing/unpacking numbers.
+%
+%  <target> <pos> <num> PackHW --> <new target>
+%
+/PackHW {
+  /num xdef
+  /pos xdef
+  /target xdef
+  num 16#0000FFFF and 1 pos sub 16 mul bitshift
+    target or
+} bdef
+
+%
+%  <target> <pos> <num> PackByte --> <new target>
+%
+/PackByte {
+  /num xdef
+  /pos xdef
+  /target xdef
+  num 16#000000FF and 3 pos sub 8 mul bitshift
+    target or
+} bdef
+
+%
+%  <pos> <num> UnpkHW --> <unpacked value>
+%
+/UnpkHW {
+  /num xdef
+  /pos xdef
+  num 1 pos sub -16 mul bitshift 16#0000FFFF and
+  dup 16#00007FFF gt {16#00010000 sub} if
+} bdef
+
+%
+%  <pos> <num> UnpkByte --> <unpacked value>
+%
+/UnpkByte {
+  /num xdef
+  /pos xdef
+  num 3 pos sub -8 mul bitshift 16#000000FF and
+  dup 16#0000007F gt {16#00000100 sub} if
+} bdef
+
+%
+%  <int-font-name> <ext-font-name> <pt-sz(pix)> <type> <loaded-fg> DefineCMFont
+%
+%    type 10: "as-is" PostScript font
+%    type 11: CM-mapped PostScript font - roman
+%    type 12: CM-mapped PostScript font - text italic 
+%    type 13: CM-mapped PostScript font - typewriter type 
+%
+/int-dict-name {int (-dict) str-concat} bdef
+/int-dict {int (-dict) str-concat cvx load} bdef
+
+/DF {
+  true  % signal that the font is already loaded
+  DefineCMFont
+} bdef
+ 
+/DNF {
+  false  % signal that the font is not already loaded
+  DefineCMFont
+} bdef
+
+/DefineCMFont {
+  /loaded xdef
+  /typ xdef
+  /psz xdef
+  /ext xdef
+  /int xdef
+ 
+  typ 10 ne 
+    { % font_type = 11, 12, 13
+    loaded not
+      { /fnam ext 3 str-strip def
+        fnam findfont copydict /newdict xdef 
+        typ DefineCMEncoding
+        newdict /Encoding CMEncoding put
+        ext newdict definefont pop
+      } if
+    int-dict-name ext findfont psz scalefont def
+    currentdict int [int-dict /setfont cvx] cvx put
+    }
+    { % font_type = 10
+    /fnam ext def
+    int-dict-name fnam findfont psz scalefont def
+    currentdict int [int-dict /setfont cvx] cvx put
+    }
+  ifelse
+} bdef 
+ 
+%
+%  <int-font-name> <ext-font-name> <pt-sz(pix)> <PXL mag> <num-chars>
+%      [llx lly urx ury] <newfont-fg> DefinePXLFont
+%
+
+/PXLF {
+  true  % signal that the font is already loaded
+  DefinePXLFont
+} bdef
+ 
+/PXLNF {
+  false  % signal that the font is not already loaded
+  DefinePXLFont
+} bdef
+
+/PXLBuildCharDict 17 dict def
+ 
+/CMEncodingArray 256 array def
+0 1 255 {CMEncodingArray exch dup tempstr cvs cvn put} for
+
+/RasterConvert {RasterScaleFactor div} bdef
+ 
+/TransformBBox {
+  aload pop
+ 
+  /BB-ury xdef
+  /BB-urx xdef
+  /BB-lly xdef
+  /BB-llx xdef
+ 
+  [BB-llx RasterConvert BB-lly RasterConvert 
+   BB-urx RasterConvert BB-ury RasterConvert]
+} bdef
+
+/DefinePXLFont {
+  /newfont xdef
+  /bb xdef
+  /num xdef
+  /psz xdef
+  /dsz xdef
+  /pxlmag xdef
+  /ext xdef
+  /int xdef
+ 
+  /fnam ext (-) str-concat pxlmag tempstr cvs str-concat def
+ 
+  newfont not {
+    int-dict-name 13 dict def
+   
+    int-dict begin
+      /FontType 3 def
+      /FontMatrix [1 dsz div 0 0 1 dsz div 0 0] def
+      /FontBBox bb TransformBBox def
+      /Encoding CMEncodingArray def
+      /CharDict 1 dict def
+      CharDict begin
+        /Char-Info num array def
+        end
+  
+      /BuildChar
+        { 
+          PXLBuildCharDict begin
+            /char xdef
+            /fontdict xdef
+   
+            fontdict /CharDict get /Char-Info get char get aload pop
+   
+            /rasters xdef
+            /PackedWord1 xdef
+   
+            0 PackedWord1 UnpkHW 16#7FFF ne
+              { /PackedWord2 xdef
+                /wx 0 PackedWord1 UnpkHW def
+                /rows 2 PackedWord1 UnpkByte def
+                /cols 3 PackedWord1 UnpkByte def
+                /llx 0 PackedWord2 UnpkByte def
+                /lly 1 PackedWord2 UnpkByte def
+                /urx 2 PackedWord2 UnpkByte def
+                /ury 3 PackedWord2 UnpkByte def }
+              { /PackedWord2 xdef
+                /PackedWord3 xdef
+                /PackedWord4 xdef
+                /wx 1 PackedWord1 UnpkHW def
+                /rows 0 PackedWord2 UnpkHW def
+                /cols 1 PackedWord2 UnpkHW def
+                /llx 0 PackedWord3 UnpkHW def
+                /lly 1 PackedWord3 UnpkHW def
+                /urx 0 PackedWord4 UnpkHW def
+                /ury 1 PackedWord4 UnpkHW def }
+               ifelse
+
+            rows 0 lt
+              { /rows rows neg def
+                /runlength 1 def }
+              { /runlength 0 def }
+             ifelse
+ 
+            wx 0 
+            llx RasterConvert lly RasterConvert 
+            urx RasterConvert ury RasterConvert setcachedevice
+            rows 0 ne
+              {
+              gsave
+                cols rows true 
+		RasterScaleFactor 0 0 RasterScaleFactor neg llx neg .5 add ury .5 add
+
+                  tempmatrix astore
+                {GenerateRasters} imagemask
+              grestore
+              } if
+            end
+        } def
+      end
+   
+      fnam int-dict definefont pop 
+    } if 
+ 
+  int-dict-name fnam findfont psz scalefont def
+  currentdict int [int-dict /setfont cvx] cvx put
+} bdef 
+ 
+%
+%  <int-font-name> <code> <wx> <llx> <lly> <urx> <ury> <rows> <cols> <runlength> <rasters> PXLC
+%
+/PXLC {
+ 
+  /rasters xdef
+  /runlength xdef
+  /cols xdef
+  /rows xdef
+  /ury xdef
+  /urx xdef
+  /lly xdef
+  /llx xdef
+  /wx xdef
+  /code xdef
+  /int xdef
+ 
+  % See if the long or short format is required
+  true cols CKSZ rows CKSZ ury CKSZ urx CKSZ lly CKSZ llx CKSZ 
+    TackRunLengthToRows
+    { int-dict /CharDict get /Char-Info get code 
+        [0 0 llx PackByte 1 lly PackByte 2 urx PackByte 3 ury PackByte
+         0 0 wx PackHW 2 rows PackByte 3 cols PackByte
+         rasters] put}
+    { int-dict /CharDict get /Char-Info get code 
+        [0 0 urx PackHW 1 ury PackHW
+         0 0 llx PackHW 1 lly PackHW
+         0 0 rows PackHW 1 cols PackHW
+         0 0 16#7FFF PackHW 1 wx PackHW
+         rasters] put} 
+    ifelse
+} bdef
+ 
+/CKSZ {abs 127 le and} bdef
+/TackRunLengthToRows {runlength 0 ne {/rows rows neg def} if} bdef
+ 
+%
+%  <wx> <dsz> <psz> <llx> <lly> <urx> <ury> <rows> <cols> <runlength> <rasters> PLOTC
+%
+/PLOTC {
+  /rasters xdef
+  /runlength xdef
+  /cols xdef
+  /rows xdef
+  /ury xdef
+  /urx xdef
+  /lly xdef
+  /llx xdef
+  /psz xdef
+  /dsz xdef
+  /wx xdef
+ 
+  % "Plot" a character's raster pattern.
+  rows 0 ne
+    {
+    gsave
+      currentpoint translate
+      psz dsz div dup scale
+      cols rows true 
+      RasterScaleFactor 0 0 RasterScaleFactor neg llx neg ury 
+        tempmatrix astore
+      {GenerateRasters} imagemask
+    grestore
+    } if
+  wx x
+} bdef
+ 
+% Routine to generate rasters for "imagemask".
+/GenerateRasters {
+  rasters
+  runlength 1 eq {RunLengthToRasters} if
+} bdef
+ 
+% Routine to convert from runlength encoding back to rasters.
+/RunLengthToRasters {
+  % ...not done yet...
+} bdef
+ 
+%
+%  These procedures handle bitmap processing.
+%
+%  <bitmap columns> <bitmap rows> <bitmap pix/inch> <magnification> BMbeg
+%
+/BMbeg {
+  /BMmagnification xdef
+  /BMresolution xdef
+  /BMrows xdef
+  /BMcols xdef
+
+  /BMcurrentrow 0 def
+  gsave
+    0.0 setgray
+    Resolution BMresolution div dup scale
+    currentpoint translate
+    BMmagnification 1000.0 div dup scale
+    0.0 BMrows moveto
+    BMrows dup scale
+    currentpoint translate
+    /BMCheckpoint save def
+  } bdef
+
+/BMend {
+  BMCheckpoint restore
+  grestore
+  } bdef
+
+%
+%  <hex raster bitmap> <rows> BMswath 
+%
+/BMswath {
+  /rows xdef
+  /rasters xdef
+
+  BMcols rows true
+  [BMrows 0 0 BMrows neg 0 BMcurrentrow neg]
+  {rasters}
+  imagemask
+
+  /BMcurrentrow BMcurrentrow rows add def
+  BMcurrentrow % save this on the stack around a restore...
+  BMCheckpoint restore
+  /BMcurrentrow xdef
+  /BMCheckpoint save def
+  } bdef
+
+%
+%  Procedures for implementing the "rotate <theta>" special:
+%  <theta> ROTB -
+%        - ROTE -
+
+/ROTB {
+  XP
+  gsave
+  Xpos Ypos translate
+  rotate % using <theta> from the stack
+  Xpos neg Ypos neg translate
+  RP
+  } bdef
+
+/ROTE {XP grestore RP} bdef
+
+%
+%  Procedures for implementing the "epsfile <filename> [<mag>]" special:
+%  <llx> <lly> <mag> EPSB -
+%  - EPSE -
+
+/EPSB {
+  0 SPB
+  save
+  4 1 roll % push the savelevel below the parameters
+  /showpage {} def
+  Xpos Ypos translate
+  1000 div dup scale % using <mag> from the stack
+  neg exch neg exch translate % using <llx> <lly> from the stack
+  } bdef
+
+/EPSE {restore 0 SPE} bdef
+
+%
+%  Procedure for implementing revision bars:
+%  <bary1> <bary2> <barx> <barw> REVB -
+%  The bar is a line of width barw drawn from (barx,bary1) to (barx,bary2).
+
+/REVB {
+  /barw xdef
+  /barx xdef
+  /bary2 xdef
+  /bary1 xdef
+  gsave
+    barw setlinewidth
+    barx bary1 Yadjust moveto
+    barx bary2 Yadjust lineto
+    stroke
+  grestore
+  } bdef
+
+%  
+%  A small array and two procedures to facilitate The Publisher's
+%  implementation of gray table cells:
+%                               <ptnum> GRSP -
+%  <ultpnum> <lrptnum> <graylev> <freq> GRFB -
+%  
+%  GRSP saves the current DVI location so that it can be retrieved later
+%  by the index <ptnum>.  GRFB fills a box whose corners are given by the
+%  indexes <ultpnum> and <lrptnum> with a halftone gray with the given
+%  level and frequency.  The array GRPM holds the coordinates of points
+%  marking the corners of gray table cells. <freq> is currently ignored
+%  since modifying it via setscreen is prohibited by Adobe's PostScript
+%  coding conventions.
+%  
+
+/GRPM 40 dict def
+
+/GRSP {GRPM exch [Xpos Ypos] put} bdef
+
+/GRFB {
+  /GRfreq xdef
+  /GRgraylev xdef
+  GRPM exch get aload pop /GRlry xdef /GRlrx xdef
+  GRPM exch get aload pop /GRuly xdef /GRulx xdef
+  gsave
+    % % set the screen frequency if it isn't zero
+    % % (disabled currently...)
+    % GRfreq 0 ne
+    %   {currentscreen
+    %   3 -1 roll pop GRfreq 3 1 roll
+    %   setscreen}
+    % if
+    % set the gray level
+    GRgraylev setgray
+    % draw and fill the path
+    GRulx GRuly moveto
+    GRlrx GRuly lineto
+    GRlrx GRlry lineto
+    GRulx GRlry lineto
+    closepath
+    fill
+  grestore
+  } bdef
+
+
+%
+%  Procedures for implementing the "paper <source>" option:
+%  <name> <eop> SPS          -
+%         <eop> paper-manual -
+%  etc.  The boolean <eop> is passed so that a paper source procedure
+%  knows if it is being called at the beginning (false) or end
+%  (true) of a page.
+
+/SPS {
+  /eop xdef
+  /name xdef
+  name where {pop eop name cvx exec} if
+  } bdef
+
+/paper-manual {
+    {statusdict /manualfeed known
+      {statusdict /manualfeed true put}
+    if}
+  if
+  } bdef
+
+/paper-automatic {
+    {statusdict /manualfeed known
+      {statusdict /manualfeed false put}
+    if}
+  if
+  } bdef
+
+/paper-top-tray {
+    {}
+    {statusdict /setpapertray known
+      {statusdict begin gsave 0 setpapertray grestore end}
+    if}
+  ifelse
+  } bdef
+
+/paper-bottom-tray {
+    {}
+    {statusdict /setpapertray known
+      {statusdict begin gsave 1 setpapertray grestore end}
+    if}
+  ifelse
+  } bdef
+
+/paper-both-trays {
+    {}
+    {statusdict /setpapertray known
+      {statusdict begin gsave 2 setpapertray grestore end}
+    if}
+  ifelse
+  } bdef
+
+(end of common prolog) VMSDebug 
+
+end
+ 
+systemdict /setpacking known 
+  {savepackingmode setpacking}
+  if
+
+% 
+% End of prolog section.
+%
+
+%!
+% PostScript code to generate derived fonts for PS-LaTeX
+%
+% Create a transformed font
+% params: symbol for name of new font,
+%         symbol for name of original font,
+%         font transformation matrix
+%         proc to execute on font (the transformed font dict is on the
+%               top of the stack when this proc is called)
+/TransformFont {
+  30 dict begin                 % for temporary storage
+    /Proc exch def              % the proc to exec
+    /TransformMatrix exch def   % transform matrix
+    /BaseName exch def          % existing font
+    /NewName exch def           % new name
+
+        % find old font, apply transfrom
+    /BaseFontDict BaseName findfont TransformMatrix makefont def
+        % make a dictionary for the new font
+    /NewFont BaseFontDict maxlength dict def
+        % copy entries into the new dictionary (see Cookbook for expln.)
+    BaseFontDict
+      { exch dup /FID ne
+          { dup /Encoding eq
+              { exch dup length array copy
+                NewFont 3 1 roll put }
+              { exch NewFont 3 1 roll put }
+            ifelse }
+          { pop pop }
+        ifelse
+      } forall
+    NewFont /FontName NewName put
+
+        % call procedure
+    NewFont Proc
+        % store new font in fontdict
+    NewName NewFont definefont
+    pop
+  end
+} def
+
+% Create an Oblique font
+% params:       new name for font
+%               old font
+%               angle of obliqueness
+/ObliqueFont {
+  20 dict begin
+    /Angle exch def
+    [1 0 Angle sin Angle cos div 1 0 0] % transform for obliqueness
+    {pop}
+    TransformFont
+  end
+} def
+
+% Create a condensed font with different strokewidth
+% params:       new font name
+%               old font name
+%               factor to condense by (e.g., 0.8)
+%               factor to thicken lines by (e.g., 1.5)
+/CondensedFont {
+  20 dict begin
+    /LineThickening exch def
+    /WidthNarrowing exch def
+    [WidthNarrowing 0 0 1 0 0] % transform matrix
+% UCSD change:  StrokeWidth undefined, so get replace this procedure:
+%   {dup /StrokeWidth get LineThickening mul /StrokeWidth exch put}
+    {pop} % 'cause it worked for ObliqueFont, above
+    TransformFont
+  end
+} def
+
+/Times-Oblique /Times-Roman 15 ObliqueFont
+/Times-BoldOblique /Times-Bold 15 ObliqueFont
+%/Times-ItalicUnslanted /Times-Italic -15.15 ObliqueFont
+/Symbol-Oblique /Symbol 15 ObliqueFont
+/Courier-Narrow /Courier 0.85 1.3 CondensedFont
+
+% Can use these on a LaserWriter Plus
+/makeLWPlusFonts {
+  /Bookman-LightOblique /Bookman-Light 10 ObliqueFont
+  /NewCenturySchlbk-Oblique /NewCenturySchlbk-Roman 10 ObliqueFont
+  /Palatino-Oblique /Palatino-Roman 10 ObliqueFont
+  /Palatino-BoldOblique /Palatino-Bold 10 ObliqueFont
+} def
+
+
+%%EndProlog
+%%BeginSetup
+BeginDviLaserDoc
+300 300 RES
+0 DT
+%%EndSetup
+
+
+%%PageBoundingBox: (atend)
+%%BeginPageSetup
+1200 BP 3300 2550 PM /paper-automatic false SPS 300 0 XY
+%%EndPageSetup
+XP /F0 /cmr10 360 49.8 49.8 128 [-2 -13 49 37] PXLNF RP
+XP /F0 77 46 2 0 43 34 34 48 0
+<FF800001FF80 FF800001FF80 07800001F000 05C00002F000 05C00002F000
+ 04E00004F000 04E00004F000 04E00004F000 04700008F000 04700008F000
+ 04380010F000 04380010F000 04380010F000 041C0020F000 041C0020F000
+ 041C0020F000 040E0040F000 040E0040F000 04070080F000 04070080F000
+ 04070080F000 04038100F000 04038100F000 04038100F000 0401C200F000
+ 0401C200F000 0400E400F000 0400E400F000 0400E400F000 04007800F000
+ 04007800F000 1F003000F000 FFE0301FFF80 FFE0301FFF80>
+PXLC RP
+300 352 XY F0(M)S
+XP /F0 97 25 2 0 24 21 21 24 0
+<1FF000 381C00 7C0600 7C0700 7C0380 380380 000380 000380 007F80
+ 07C380 1E0380 3C0380 780380 780380 F00384 F00384 F00384 F00784
+ 780B84 3C11C8 0FE0F0>
+PXLC RP
+346 352 XY F0(a)S
+XP /F0 116 19 1 0 15 31 31 16 0
+<0200 0200 0200 0200 0200 0600 0600 0600 0E00 1E00 3FF8 FFF8 0E00
+ 0E00 0E00 0E00 0E00 0E00 0E00 0E00 0E00 0E00 0E04 0E04 0E04 0E04
+ 0E04 0E04 0708 0308 01F0>
+PXLC RP
+371 352 XY F0(t)S
+XP /F0 104 28 1 0 26 35 35 32 0
+<0E000000 FE000000 FE000000 1E000000 0E000000 0E000000 0E000000
+ 0E000000 0E000000 0E000000 0E000000 0E000000 0E000000 0E000000
+ 0E1F8000 0E60E000 0E807000 0F003800 0F003800 0E003800 0E003800
+ 0E003800 0E003800 0E003800 0E003800 0E003800 0E003800 0E003800
+ 0E003800 0E003800 0E003800 0E003800 0E003800 FFE3FF80 FFE3FF80>
+PXLC RP
+390 352 XY F0(h)S
+XP /F0 49 25 4 0 20 33 33 16 0
+<0040 01C0 07C0 FFC0 F9C0 01C0 01C0 01C0 01C0 01C0 01C0 01C0 01C0
+ 01C0 01C0 01C0 01C0 01C0 01C0 01C0 01C0 01C0 01C0 01C0 01C0 01C0
+ 01C0 01C0 01C0 01C0 01C0 7FFF 7FFF>
+PXLC RP
+434 352 XY F0(1)S
+XP /F0 55 25 3 -1 23 34 35 24 0
+<400000 600000 7FFFF0 7FFFF0 7FFFE0 400020 C00040 800080 800100
+ 800100 000200 000400 000400 000800 001800 001000 003000 003000
+ 007000 007000 00E000 00E000 00E000 01E000 01E000 01E000 01E000
+ 03E000 03E000 03E000 03E000 03E000 03E000 03E000 01C000>
+PXLC RP
+459 352 XY F0(7)S
+XP /F0 48 25 2 -1 22 33 34 24 0
+<01F800 070E00 0E0700 1C0380 3801C0 3801C0 7801E0 7000E0 7000E0
+ 7000E0 F000F0 F000F0 F000F0 F000F0 F000F0 F000F0 F000F0 F000F0
+ F000F0 F000F0 F000F0 F000F0 F000F0 F000F0 7000E0 7000E0 7000E0
+ 7801E0 3801C0 3801C0 1C0380 0E0700 070E00 01F800>
+PXLC RP
+484 352 XY F0(0)S
+XP /F0 66 35 2 0 31 34 34 32 0
+<FFFFF800 FFFFFE00 07800F80 078007C0 078003E0 078001E0 078001F0
+ 078001F0 078001F0 078001F0 078001F0 078001E0 078003E0 078007C0
+ 07800F80 07803E00 07FFFE00 07800780 078003C0 078001E0 078001F0
+ 078000F0 078000F8 078000F8 078000F8 078000F8 078000F8 078000F8
+ 078001F0 078003F0 078007E0 07800FC0 FFFFFF00 FFFFFC00>
+PXLC RP
+509 352 XY F0(B)S 1554 302 XY 184 2 R 1554 376 XY 2 75 R
+XP /F0 35 42 3 -10 38 35 45 40 0
+<0000C00C00 0000C00C00 0000C00C00 0001C01C00 0001801800 0001801800
+ 0001801800 0003803800 0003003000 0003003000 0003003000 0007007000
+ 0006006000 0006006000 0006006000 000E00E000 000C00C000 FFFFFFFFE0
+ FFFFFFFFE0 0018018000 0018018000 0018018000 0038038000 0030030000
+ 0030030000 0030030000 0030030000 FFFFFFFFE0 FFFFFFFFE0 0060060000
+ 00E00E0000 00C00C0000 00C00C0000 00C00C0000 01C01C0000 0180180000
+ 0180180000 0180180000 0380380000 0300300000 0300300000 0300300000
+ 0700700000 0600600000 0600600000>
+PXLC RP
+1604 352 XY F0(#1)S 1735 376 XY 2 75 R 1554 378 XY 184 2 R 
+1737 302 XY 217 2 R 1737 376 XY 2 75 R
+XP /F0 50 25 2 0 22 33 33 24 0
+<03F800 0FFE00 181F80 2007C0 4003C0 4001E0 F801E0 FC01F0 FC00F0
+ FC00F0 7800F0 3001F0 0001E0 0001E0 0003E0 0003C0 000780 000700
+ 000E00 001C00 003800 007000 00E000 008000 010000 020010 040010
+ 080010 100030 200020 7FFFE0 FFFFE0 FFFFE0>
+PXLC RP
+1829 352 XY F0(2)S
+XP /F0 53 25 2 -1 22 33 34 24 0
+<180040 1E0380 1FFF80 1FFF00 1FFC00 13F000 100000 100000 100000
+ 100000 100000 100000 10FC00 130600 140380 180180 1001C0 0000E0
+ 0000E0 0000F0 0000F0 0000F0 7000F0 F800F0 F800F0 F800F0 F800E0
+ C001E0 4001C0 6003C0 300380 1C0F00 0FFE00 03F000>
+PXLC RP
+1854 352 XY F0(5)S 1952 376 XY 2 75 R 1737 378 XY 217 2 R 
+1954 302 XY 225 2 R 1954 376 XY 2 75 R 2177 376 XY 2 75 R 
+1954 378 XY 225 2 R 57 y 300 X(M)S
+XP /F0 105 14 1 0 11 34 34 16 0
+<1C00 3E00 3E00 3E00 1C00 0000 0000 0000 0000 0000 0000 0000 0000
+ 0E00 FE00 FE00 1E00 0E00 0E00 0E00 0E00 0E00 0E00 0E00 0E00 0E00
+ 0E00 0E00 0E00 0E00 0E00 0E00 FFC0 FFC0>
+PXLC RP
+346 435 XY F0(i)S
+XP /F0 100 28 2 0 26 35 35 24 0
+<000070 0007F0 0007F0 0000F0 000070 000070 000070 000070 000070
+ 000070 000070 000070 000070 000070 01F870 070670 0E0170 1C00F0
+ 380070 780070 700070 F00070 F00070 F00070 F00070 F00070 F00070
+ F00070 700070 780070 380070 1C00F0 0C0178 07067F 01F87F>
+PXLC RP
+359 435 XY F0(dt)S
+XP /F0 101 22 1 0 20 21 21 24 0
+<01FC00 070700 0C0380 1C01C0 3801C0 7800E0 7000E0 F000E0 FFFFE0
+ F00000 F00000 F00000 F00000 F00000 700000 780020 380020 1C0040
+ 0E0080 070300 00FC00>
+PXLC RP
+407 435 XY F0(e)S
+XP /F0 114 20 1 0 18 21 21 24 0
+<0E1E00 FE6300 FE8780 1E8780 0F0300 0F0000 0E0000 0E0000 0E0000
+ 0E0000 0E0000 0E0000 0E0000 0E0000 0E0000 0E0000 0E0000 0E0000
+ 0E0000 FFF000 FFF000>
+PXLC RP
+429 435 XY F0(r)S
+XP /F0 109 42 1 0 40 21 21 40 0
+<0E1FC07F00 FE60E18380 FE807201C0 1F003C00E0 0F003C00E0 0E003800E0
+ 0E003800E0 0E003800E0 0E003800E0 0E003800E0 0E003800E0 0E003800E0
+ 0E003800E0 0E003800E0 0E003800E0 0E003800E0 0E003800E0 0E003800E0
+ 0E003800E0 FFE3FF8FFE FFE3FF8FFE>
+PXLC RP
+448 435 XY F0(m)S 506 X(#2)S 1554 385 XY 184 2 R 1554 459 XY 
+2 75 R -24 y 1604 X(#2)S 1735 459 XY 2 75 R 1554 461 XY 
+184 2 R 1737 385 XY 217 2 R 1737 459 XY 2 75 R
+XP /F0 52 25 1 0 23 33 33 24 0
+<000300 000300 000700 000F00 000F00 001700 003700 002700 004700
+ 00C700 008700 010700 030700 020700 040700 0C0700 080700 100700
+ 300700 200700 400700 C00700 FFFFFC FFFFFC 000700 000700 000700
+ 000700 000700 000700 000700 00FFF8 00FFF8>
+PXLC RP
+1829 435 XY F0(45)S 1952 459 XY 2 75 R 1737 461 XY 217 2 R 
+1954 385 XY 225 2 R 1954 459 XY 2 75 R 2177 459 XY 2 75 R 
+1954 461 XY 225 2 R
+XP /F0 70 33 2 0 30 34 34 32 0
+<FFFFFFE0 FFFFFFE0 078003E0 078000E0 07800060 07800020 07800030
+ 07800030 07800010 07800010 07802010 07802010 07802000 07802000
+ 07806000 0780E000 07FFE000 07FFE000 0780E000 07806000 07802000
+ 07802000 07802000 07802000 07800000 07800000 07800000 07800000
+ 07800000 07800000 07800000 07800000 FFFE0000 FFFE0000>
+PXLC RP
+300 518 XY F0(F)S 329 X(e)S
+XP /F0 98 28 1 0 25 35 35 24 0
+<0E0000 FE0000 FE0000 1E0000 0E0000 0E0000 0E0000 0E0000 0E0000
+ 0E0000 0E0000 0E0000 0E0000 0E0000 0E1F80 0E60E0 0E8030 0F0038
+ 0E001C 0E001E 0E000E 0E000F 0E000F 0E000F 0E000F 0E000F 0E000F
+ 0E000F 0E000E 0E001E 0E001C 0F0038 0C8070 0C60E0 081F80>
+PXLC RP
+351 518 XY F0(br)S
+XP /F0 117 28 1 0 26 21 21 32 0
+<0E003800 FE03F800 FE03F800 1E007800 0E003800 0E003800 0E003800
+ 0E003800 0E003800 0E003800 0E003800 0E003800 0E003800 0E003800
+ 0E003800 0E003800 0E007800 0E007800 0700BC00 03833F80 00FC3F80>
+PXLC RP
+398 518 XY F0(uar)S
+XP /F0 121 26 1 -10 24 21 31 24 0
+<FFC1FE FFC1FE 1E0070 0E0020 0E0020 070040 070040 038080 038080
+ 038080 01C100 01C100 00E200 00E200 00E200 007400 007400 003800
+ 003800 003800 001000 001000 002000 002000 002000 F84000 F84000
+ F88000 B98000 630000 3E0000>
+PXLC RP
+470 518 XY F0(y)S 513 X(2)S
+XP /F0 54 25 2 -1 22 33 34 24 0
+<003E00 00FF80 03C0C0 0700E0 0E01E0 1C03E0 1C03E0 3801C0 380000
+ 780000 700000 700000 F0F800 F30600 F40300 F40180 F801C0 F800E0
+ F000E0 F000F0 F000F0 F000F0 F000F0 F000F0 7000F0 7000F0 7800E0
+ 3800E0 3801E0 1C01C0 1C0380 0F0700 03FE00 01F800>
+PXLC RP
+538 518 XY F0(6)S
+XP /F0 44 14 4 -10 10 5 15 8 0
+<70 F8 FC FC 74 04 04 04 04 08 08 10 10 20 40>
+PXLC RP
+562 518 XY F0(,)S 593 X(1)S
+XP /F0 57 25 2 -1 22 33 34 24 0
+<01F800 07FE00 0E0F00 1C0380 380380 7801C0 7001C0 7001E0 F000E0
+ F000E0 F000F0 F000F0 F000F0 F000F0 F000F0 7000F0 7001F0 3801F0
+ 1802F0 0C02F0 060CF0 01F0F0 0000E0 0000E0 0001E0 0001C0 3801C0
+ 7C0380 7C0380 780700 300E00 303C00 1FF800 07E000>
+PXLC RP
+618 518 XY F0(997)S 1555 468 XY 184 2 R 1555 543 XY 2 75 R -25 y 
+1605 X(#)S
+XP /F0 51 25 2 -1 22 33 34 24 0
+<01F800 0FFE00 1C0F80 3003C0 3803C0 7C03E0 7C01E0 7C01E0 3C03E0
+ 1803E0 0003C0 000380 000780 000E00 001C00 03F800 000E00 000780
+ 0003C0 0003E0 0001E0 0001F0 0001F0 3001F0 7801F0 FC01F0 FC01F0
+ FC01E0 F803E0 4003C0 200780 1C0F00 0FFE00 03F800>
+PXLC RP
+1647 518 XY F0(3)S 1737 543 XY 2 75 R 1555 545 XY 184 2 R 
+1739 468 XY 217 2 R 1739 543 XY 2 75 R -25 y 1830 X(30)S 
+1953 543 XY 2 75 R 1739 545 XY 217 2 R 1955 468 XY 225 2 R 
+1955 543 XY 2 75 R 2178 543 XY 2 75 R 1955 545 XY 225 2 R
+XP /F0 80 34 2 0 30 34 34 32 0
+<FFFFF800 FFFFFE00 07801F00 078007C0 078003C0 078001E0 078001E0
+ 078001F0 078001F0 078001F0 078001F0 078001F0 078001E0 078003E0
+ 078003C0 07800780 07801F00 07FFFC00 07800000 07800000 07800000
+ 07800000 07800000 07800000 07800000 07800000 07800000 07800000
+ 07800000 07800000 07800000 07800000 FFFC0000 FFFC0000>
+PXLC RP
+300 601 XY F0(Pri)S
+XP /F0 110 28 1 0 26 21 21 32 0
+<0E1F8000 FE60E000 FE807000 1F003800 0F003800 0E003800 0E003800
+ 0E003800 0E003800 0E003800 0E003800 0E003800 0E003800 0E003800
+ 0E003800 0E003800 0E003800 0E003800 0E003800 FFE3FF80 FFE3FF80>
+PXLC RP
+367 601 XY F0(n)S -1 x(t)S
+XP /F0 78 37 2 0 34 34 34 32 0
+<FF8007FF FFC007FF 07C000F8 05E00020 04F00020 04F00020 04780020
+ 047C0020 043C0020 041E0020 041E0020 040F0020 04078020 04078020
+ 0403C020 0401E020 0401E020 0400F020 0400F820 04007820 04003C20
+ 04003C20 04001E20 04000F20 04000F20 040007A0 040003E0 040003E0
+ 040001E0 040001E0 040000E0 1F000060 FFE00060 FFE00020>
+PXLC RP
+430 601 XY F0(Name)S 572 619 XY 738 2 R 1555 552 XY 182 2 R 
+1555 626 XY 2 75 R
+XP /F0 84 36 2 0 33 34 34 32 0
+<7FFFFFFC 7FFFFFFC 7803C03C 6003C00C 4003C004 4003C004 C003C006
+ C003C006 8003C002 8003C002 8003C002 8003C002 0003C000 0003C000
+ 0003C000 0003C000 0003C000 0003C000 0003C000 0003C000 0003C000
+ 0003C000 0003C000 0003C000 0003C000 0003C000 0003C000 0003C000
+ 0003C000 0003C000 0003C000 0003C000 01FFFF80 01FFFF80>
+PXLC RP
+1606 601 XY F0(T)S
+XP /F0 111 25 1 0 23 21 21 24 0
+<00FC00 070380 0E01C0 1C00E0 380070 780078 700038 F0003C F0003C
+ F0003C F0003C F0003C F0003C F0003C 700038 780078 380070 1C00E0
+ 0E01C0 070380 00FC00>
+PXLC RP
+1637 601 XY F0(ota)S
+XP /F0 108 14 1 0 12 35 35 16 0
+<0E00 FE00 FE00 1E00 0E00 0E00 0E00 0E00 0E00 0E00 0E00 0E00 0E00
+ 0E00 0E00 0E00 0E00 0E00 0E00 0E00 0E00 0E00 0E00 0E00 0E00 0E00
+ 0E00 0E00 0E00 0E00 0E00 0E00 0E00 FFE0 FFE0>
+PXLC RP
+1707 601 XY F0(l)S 1735 626 XY 2 75 R 1555 628 XY 182 2 R 
+1737 552 XY 209 2 R 1737 626 XY 2 75 R -25 y 1813 X(100)S 
+1944 626 XY 2 75 R 1737 628 XY 209 2 R 1946 552 XY 225 2 R 
+1946 626 XY 2 75 R 2169 626 XY 2 75 R 1946 628 XY 225 2 R
+XP /F0 83 28 3 -1 24 35 36 24 0
+<03F810 0FFE30 1E0730 3801F0 7000F0 700070 E00030 E00030 E00010
+ E00010 E00010 F00000 F00000 7C0000 7F0000 3FF000 1FFE00 0FFF80
+ 03FFC0 003FE0 0003F0 0000F0 000070 000078 000038 800038 800038
+ 800038 800038 C00030 C00070 E00060 F800E0 CF03C0 C7FF00 80FE00>
+PXLC RP
+300 703 XY F0(Si)S
+XP /F0 103 25 1 -11 23 22 33 24 0
+<000078 01F08C 071D1C 0E0E1C 1C0700 1C0700 3C0780 3C0780 3C0780
+ 3C0780 1C0700 1C0700 0E0E00 0F1C00 19F000 100000 100000 180000
+ 1C0000 1FFF00 0FFFE0 0FFFF0 3800F8 600018 40001C C0000C C0000C
+ C0000C 600018 600018 380070 0E01C0 01FE00>
+PXLC RP
+342 703 XY F0(gnature)S 524 721 XY 778 2 R 889 Y 300 X(S)S
+XP /F0 72 37 2 0 34 34 34 32 0
+<FFFC3FFF FFFC3FFF 078001E0 078001E0 078001E0 078001E0 078001E0
+ 078001E0 078001E0 078001E0 078001E0 078001E0 078001E0 078001E0
+ 078001E0 07FFFFE0 07FFFFE0 078001E0 078001E0 078001E0 078001E0
+ 078001E0 078001E0 078001E0 078001E0 078001E0 078001E0 078001E0
+ 078001E0 078001E0 078001E0 078001E0 FFFC3FFF FFFC3FFF>
+PXLC RP
+328 889 XY F0(H)S
+XP /F0 79 39 3 -1 35 35 36 32 0
+<000FF000 00381C00 00E00700 01C00380 078001E0 070000E0 0E000070
+ 1E000078 3C00003C 3C00003C 7C00003E 7C00003E 7800001E 7800001E
+ F800001F F800001F F800001F F800001F F800001F F800001F F800001F
+ F800001F F800001F 7C00003E 7C00003E 7C00003E 3C00003C 3E00007C
+ 1E000078 0F0000F0 0F0000F0 078001E0 03C003C0 00E00700 00381C00
+ 000FF000>
+PXLC RP
+365 889 XY F0(O)S
+XP /F0 87 51 1 -1 49 34 35 48 0
+<FFF83FFE03FF FFF83FFE03FF 0F8003E00078 0F0001E00030 078001E00020
+ 078001E00020 078001F00020 03C001F00040 03C001F00040 03C002780040
+ 01E002780080 01E002780080 01E0043C0080 00F0043C0100 00F0043C0100
+ 00F0081E0100 00F8081E0300 0078081E0200 0078181F0200 0078100F0200
+ 003C100F0400 003C100F0400 003C20078400 001E20078800 001E20078800
+ 001E4003C800 000F4003D000 000F4003D000 000F8001F000 00078001E000
+ 00078001E000 00070000E000 00070000E000 00030000C000 000200004000>
+PXLC RP
+402 889 XY F0(W)S
+XP /F0 89 37 1 0 35 34 34 40 0
+<FFF8007FC0 FFF8007FC0 0F80001E00 07C0001800 03C0001000 03E0001000
+ 01E0002000 01F0006000 00F0004000 0078008000 007C008000 003C010000
+ 003E030000 001E020000 000F040000 000F840000 0007880000 0007D80000
+ 0003D00000 0003E00000 0001E00000 0001E00000 0001E00000 0001E00000
+ 0001E00000 0001E00000 0001E00000 0001E00000 0001E00000 0001E00000
+ 0001E00000 0001E00000 003FFF0000 003FFF0000>
+PXLC RP
+470 889 XY F0(YO)S
+XP /F0 85 37 2 -1 34 34 35 32 0
+<FFFC07FF FFFC07FF 078000F8 07800020 07800020 07800020 07800020
+ 07800020 07800020 07800020 07800020 07800020 07800020 07800020
+ 07800020 07800020 07800020 07800020 07800020 07800020 07800020
+ 07800020 07800020 07800020 07800020 07800020 03800040 03C00040
+ 03C00040 01C00080 00E00180 00700300 003C0E00 001FF800 0003F000>
+PXLC RP
+546 889 XY F0(U)S
+XP /F0 82 37 2 -1 36 34 35 40 0
+<FFFFE00000 FFFFFC0000 07801F0000 0780078000 078003C000 078003E000
+ 078001E000 078001F000 078001F000 078001F000 078001F000 078001E000
+ 078003E000 078003C000 0780070000 07803E0000 07FFF00000 0780380000
+ 07801C0000 07800E0000 07800F0000 0780070000 0780078000 0780078000
+ 0780078000 0780078000 078007C000 078007C000 078007C000 078007C040
+ 078007E040 078003E040 FFFC01E080 FFFC00F100 0000003E00>
+PXLC RP
+584 889 XY F0(R)S 637 X(W)S -1 x(OR)S
+XP /F0 75 39 2 0 36 34 34 40 0
+<FFFC01FF80 FFFC01FF80 0780007800 0780006000 0780004000 0780008000
+ 0780010000 0780020000 0780040000 0780080000 0780100000 0780200000
+ 0780400000 0780C00000 0781C00000 0783E00000 0784F00000 0788F00000
+ 0790780000 07A03C0000 07C03C0000 07801E0000 07800F0000 07800F0000
+ 0780078000 078003C000 078003C000 078001E000 078000F000 078000F000
+ 0780007800 078000FC00 FFFC03FFC0 FFFC03FFC0>
+PXLC RP
+762 889 XY F0(K)S
+XP /F0 33 14 4 0 9 36 36 8 0
+<70 F8 F8 F8 F8 F8 F8 F8 70 70 70 70 70 70 70 70 70 70 70 70 20 20 20
+ 20 20 20 00 00 00 00 00 70 F8 F8 F8 70>
+PXLC RP
+801 889 XY F0(!!)S 1075 Y 300 X(1)S
+XP /F0 46 14 4 0 9 5 5 8 0
+<70 F8 F8 F8 70>
+PXLC RP
+325 1075 XY F0(.)S
+XP /F0 40 19 3 -13 15 37 50 16 0
+<0010 0020 0040 0080 0100 0300 0600 0400 0C00 1800 1800 1800 3000
+ 3000 3000 7000 6000 6000 6000 E000 E000 E000 E000 E000 E000 E000
+ E000 E000 E000 E000 E000 6000 6000 6000 7000 3000 3000 3000 1800
+ 1800 1800 0C00 0400 0600 0300 0100 0080 0040 0020 0010>
+PXLC RP
+389 1075 XY F0(\(a)S
+XP /F0 41 19 3 -13 15 37 50 16 0
+<8000 4000 2000 1000 0800 0C00 0600 0200 0300 0180 0180 0180 00C0
+ 00C0 00C0 00E0 0060 0060 0060 0070 0070 0070 0070 0070 0070 0070
+ 0070 0070 0070 0070 0070 0060 0060 0060 00E0 00C0 00C0 00C0 0180
+ 0180 0180 0300 0200 0600 0C00 0800 1000 2000 4000 8000>
+PXLC RP
+433 1075 XY F0(\))S 502 X(Sho)S
+XP /F0 119 36 1 0 34 21 21 40 0
+<FF8FF87F80 FF8FF87F80 1E01C01E00 0E00C00C00 0E00E00800 0E01E00800
+ 0701601000 0701701000 0702303000 0382382000 0382382000 01C4184000
+ 01C41C4000 01C41C4000 00E80C8000 00E80E8000 00E80E8000 0070070000
+ 0070070000 0070070000 0020020000>
+PXLC RP
+581 1075 XY F0(w)S 641 X(that)S 757 X(i)S
+XP /F0 102 15 0 0 17 35 35 24 0
+<003E00 00E300 01C780 038F80 030F80 070700 070000 070000 070000
+ 070000 070000 070000 070000 070000 FFF800 FFF800 070000 070000
+ 070000 070000 070000 070000 070000 070000 070000 070000 070000
+ 070000 070000 070000 070000 070000 070000 7FF800 7FF800>
+PXLC RP
+770 1075 XY F0(f)S 810 X(Newton)S
+XP /F0 39 14 4 20 10 35 15 8 0
+<70 F8 FC FC 74 04 04 04 04 08 08 10 10 20 40>
+PXLC RP
+977 1075 XY F0(')S
+XP /F0 115 20 2 0 17 21 21 16 0
+<0FC4 303C 600C C00C C004 C004 E004 F000 7F80 3FF0 0FF8 00FC 001E
+ 800E 8006 C006 C006 C004 E00C D818 87E0>
+PXLC RP
+991 1075 XY F0(s)S 1035 X(metho)S 1 x(d)S
+XP /F0 99 22 2 0 20 21 21 24 0
+<01FE00 070700 0C0F80 1C0F80 380F80 780700 700000 F00000 F00000
+ F00000 F00000 F00000 F00000 F00000 700000 780040 380040 1C0080
+ 0C0100 070600 01F800>
+PXLC RP
+1224 1075 XY F0(con)S
+XP /F0 118 26 1 0 24 21 21 24 0
+<FFC1FE FFC1FE 1E0070 0E0020 0E0020 070040 070040 038080 038080
+ 038080 01C100 01C100 00E200 00E200 00E200 007400 007400 003800
+ 003800 003800 001000>
+PXLC RP
+1297 1075 XY F0(v)S -1 x(erges)S 1455 X(to)S
+XP /F6 /cmmi10 360 49.8 49.8 128 [-1 -12 52 37] PXLNF RP
+XP /F6 11 32 2 0 29 21 21 32 0
+<003F0000 00E18000 0380C020 07006040 0E007040 1C007040 3C007080
+ 3C007080 78007100 78007100 78007200 F0007A00 F0007C00 F0007800
+ F0007800 70007800 70007800 3000B800 38033840 1C1C1880 07E00F00>
+PXLC RP
+1523 1075 XY F6(\013)S F0(,)S 1595 X(where)S 1747 X F6(\013)S 1803 X 
+F0(is)S 1861 X(a)S 1910 X(ro)S 1 x(ot)S 2024 X(of)S
+XP /F6 102 24 2 -10 27 35 45 32 0
+<00001E00 00006380 0000C780 0001C780 0001C300 00018000 00038000
+ 00038000 00038000 00038000 00070000 00070000 00070000 00070000
+ 00FFF800 00FFF800 000E0000 000E0000 000E0000 000E0000 001E0000
+ 001C0000 001C0000 001C0000 001C0000 001C0000 00380000 00380000
+ 00380000 00380000 00380000 00700000 00700000 00700000 00700000
+ 00600000 00E00000 00E00000 00E00000 00C00000 70C00000 F1800000
+ F1000000 62000000 3C000000>
+PXLC RP
+2089 1075 XY F6(f)S 2118 X F0(\()S
+XP /F6 120 28 2 0 24 21 21 24 0
+<01E0F0 06310C 081A1C 101A3C 201C3C 201C18 201C00 003800 003800
+ 003800 003800 007000 007000 007000 007008 60E010 F0E010 F0E020
+ E17040 423080 3C1F00>
+PXLC RP
+2138 1075 XY F6(x)S F0(\))S 2210 X(of)S 60 y 509 X(m)S -1 x(ulti)S
+XP /F0 112 28 1 -10 25 21 31 24 0
+<0E1F80 FE60E0 FE8070 0F0038 0E001C 0E001E 0E001E 0E000F 0E000F
+ 0E000F 0E000F 0E000F 0E000F 0E000F 0E001E 0E001E 0E001C 0F0038
+ 0E8070 0E60E0 0E1F80 0E0000 0E0000 0E0000 0E0000 0E0000 0E0000
+ 0E0000 0E0000 FFE000 FFE000>
+PXLC RP
+624 1135 XY F0(plicit)S -1 x(y)S
+XP /F6 109 44 2 0 42 21 21 40 0
+<3C07E01F80 46183060C0 4720188060 87401D0070 87801E0070 87801E0070
+ 87001C0070 0E003800E0 0E003800E0 0E003800E0 0E003800E0 1C007001C0
+ 1C007001C0 1C00700380 1C00700382 3800E00384 3800E00704 3800E00704
+ 3800E00308 7001C00310 3000C001E0>
+PXLC RP
+776 1135 XY F6(m)S
+XP /F12 /cmsy10 360 49.8 49.8 128 [-1 -48 54 39] PXLNF RP
+XP /F12 21 39 4 -7 34 32 39 32 0
+<C0000000 F0000000 3C000000 0F000000 03C00000 00F00000 003C0000
+ 000F8000 0003E000 00007800 00001E00 00000780 000001E0 00000078
+ 0000001C 00000078 000001E0 00000780 00001E00 00007800 0003E000
+ 000F8000 003C0000 00F00000 03C00000 0F000000 3C000000 F0000000
+ C0000000 00000000 00000000 00000000 00000000 00000000 00000000
+ 00000000 00000000 FFFFFFFC FFFFFFFC>
+PXLC RP
+834 1135 XY F12(\025)S 887 X F0(2,)S 943 X(then)S 1057 X(the)S 1143 X
+(con)S -1 x(v)S -1 x(ergence)S 1418 X(is)S 1469 X(only)S 1578 X
+(linear.)S
+XP /F0 68 38 2 0 34 34 34 32 0
+<FFFFF800 FFFFFE00 07800F80 078003C0 078001E0 078000F0 07800078
+ 07800078 0780003C 0780003C 0780001E 0780001E 0780001E 0780001F
+ 0780001F 0780001F 0780001F 0780001F 0780001F 0780001F 0780001F
+ 0780001F 0780001E 0780001E 0780003E 0780003C 0780003C 07800078
+ 078000F0 078001E0 078003C0 07800F80 FFFFFF00 FFFFF800>
+PXLC RP
+1737 1135 XY F0(Determine)S 1980 X(the)S 2066 X(constan)S -1 x(t)S
+59 y 509 X(of)S 566 X(con)S -1 x(v)S -1 x(ergence.)S 1290 Y 433 X
+(\(b\))S 549 X(State)S 682 X(a)S
+XP /F0 113 26 2 -10 25 21 31 24 0
+<01F820 070460 0E0260 1C0160 3801E0 7800E0 7800E0 F000E0 F000E0
+ F000E0 F000E0 F000E0 F000E0 F000E0 7000E0 7800E0 3801E0 1C01E0
+ 0C02E0 070CE0 01F0E0 0000E0 0000E0 0000E0 0000E0 0000E0 0000E0
+ 0000E0 0000E0 000FFE 000FFE>
+PXLC RP
+727 1290 XY F0(quadratically)S 1032 X(con)S -1 x(v)S -1 x(ergen)S 
+-1 x(t)S 1284 X(mo)S 1 x(di)S
+XP /F0 12 28 0 0 26 35 35 32 0
+<000FC000 00783000 00E00800 01803C00 03807C00 07007C00 07007C00
+ 07003800 07000000 07000000 07000000 07000000 07000000 07000000
+ FFFFFC00 FFFFFC00 07003C00 07001C00 07001C00 07001C00 07001C00
+ 07001C00 07001C00 07001C00 07001C00 07001C00 07001C00 07001C00
+ 07001C00 07001C00 07001C00 07001C00 07001C00 7FF1FFC0 7FF1FFC0>
+PXLC RP
+1394 1290 XY F0(\014ed)S 1491 X(Newton's)S 1712 X(metho)S 1 x(d)S 
+1896 X(when)S 2030 X(the)S 2119 X(m)S -1 x(ulti)S
+XP /F0 45 17 1 10 13 12 2 16 0
+<FFF0 FFF0>
+PXLC RP
+2233 1290 XY F0(-)S 60 y 509 X(plicit)S -1 x(y)S 661 X F6(m)S F0
+(\()S F12(\025)S 777 X F0(2\))S 838 X(is)S
+XP /F23 /cmbx10 360 49.8 49.8 128 [-3 -12 57 37] PXLNF RP
+XP /F23 107 30 2 0 28 35 35 32 0
+<FF800000 FF800000 1F800000 1F800000 1F800000 1F800000 1F800000
+ 1F800000 1F800000 1F800000 1F800000 1F800000 1F800000 1F80FF80
+ 1F80FF80 1F803C00 1F807000 1F80E000 1F81C000 1F878000 1F8E0000
+ 1F9E0000 1FBF0000 1FFF0000 1FDF8000 1F9FC000 1F0FE000 1F07E000
+ 1F03F000 1F03F800 1F01FC00 1F00FC00 1F00FE00 FFE1FFC0 FFE1FFC0>
+PXLC RP
+888 1350 XY F23(k)S
+XP /F23 110 32 3 0 30 22 22 32 0
+<FF03F000 FF0FFC00 1F187E00 1F203E00 1F403F00 1F403F00 1F803F00
+ 1F803F00 1F803F00 1F803F00 1F803F00 1F803F00 1F803F00 1F803F00
+ 1F803F00 1F803F00 1F803F00 1F803F00 1F803F00 1F803F00 FFF1FFE0
+ FFF1FFE0>
+PXLC RP
+918 1350 XY F23(n)S
+XP /F23 111 29 2 0 26 22 22 24 0
+<00FF00 07FFE0 0F81F0 1F00F8 3E007C 7C003E 7C003E 7C003E FC003F
+ FC003F FC003F FC003F FC003F FC003F FC003F 7C003E 7E007E 3E007C
+ 1F00F8 0F81F0 07FFE0 00FF00>
+PXLC RP
+950 1350 XY F23(o)S
+XP /F23 119 41 1 0 39 22 22 40 0
+<FFF3FF87FC FFF3FF87FC 1F807C00E0 0FC07C00C0 0FC07E00C0 0FE03E01C0
+ 07E03F0180 07E07F0180 03F07F0300 03F0CF8300 01F8CF8600 01F8CFC600
+ 01FD87C600 00FD87CC00 00FF03EC00 007F03F800 007F03F800 007E01F800
+ 003E01F000 003C00F000 001C00E000 0018006000>
+PXLC RP
+977 1350 XY F23(wn)S F0(.)S 1536 Y 300 X(2.)S 389 X(\(a\))S 502 X
+(Deriv)S -1 x(e)S 654 X(the)S
+XP /F0 76 31 2 0 28 34 34 32 0
+<FFFE0000 FFFE0000 07800000 07800000 07800000 07800000 07800000
+ 07800000 07800000 07800000 07800000 07800000 07800000 07800000
+ 07800000 07800000 07800000 07800000 07800000 07800000 07800000
+ 07800040 07800040 07800040 07800040 078000C0 078000C0 07800080
+ 07800180 07800380 07800780 07801F80 FFFFFF80 FFFFFF80>
+PXLC RP
+734 1536 XY F0(Lagrange)S 945 X(form)S 1057 X(of)S 1108 X(the)S 
+1189 X(in)S -1 x(terp)S 1 x(olating)S 1479 X(p)S 1 x(olynomial)S
+XP /F6 112 25 -1 -10 24 21 31 32 0
+<03C0F800 04630C00 04740600 08780700 08700700 08700780 08700780
+ 00E00780 00E00780 00E00780 00E00780 01C00F00 01C00F00 01C00F00
+ 01C01E00 03801C00 03803800 03C03800 03C06000 0721C000 071F0000
+ 07000000 07000000 0E000000 0E000000 0E000000 0E000000 1C000000
+ 1C000000 FFC00000 FFC00000>
+PXLC RP
+1731 1536 XY F6(p)S F0(\()S F6(x)S F0(\))S 1835 X(suc)S -1 x(h)S 
+1941 X(that)S 2044 X F6(p)S F0(\()S F6(x)S
+XP /F9 /cmmi7 360 34.9 34.9 128 [0 -9 41 26] PXLNF RP
+XP /F9 106 16 1 -7 15 24 31 16 0
+<000C 001C 000C 0000 0000 0000 0000 0000 0000 01E0 0230 0238 0438
+ 0438 0070 0070 0070 0070 00E0 00E0 00E0 00E0 01C0 01C0 01C0 01C0
+ 0380 6380 E700 C600 7800>
+PXLC RP
+2117 1543 XY F9(j)S -7 y 2138 X F0(\))S
+XP /F0 61 39 3 6 35 18 12 32 0
+<FFFFFFFF FFFFFFFF 00000000 00000000 00000000 00000000 00000000
+ 00000000 00000000 00000000 FFFFFFFF FFFFFFFF>
+PXLC RP
+2182 1536 XY F0(=)S
+XP /F6 121 24 2 -10 24 21 31 24 0
+<1E0018 230038 438038 438070 838070 838070 870070 0700E0 0E00E0
+ 0E00E0 0E00E0 1C01C0 1C01C0 1C01C0 1C01C0 1C0380 1C0380 1C0780
+ 0C0B80 0E1700 03E700 000700 000700 000E00 300E00 781C00 781800
+ 703000 406000 21C000 1F0000>
+PXLC RP
+2246 1536 XY F6(y)S 7 y F9(j)S 1622 Y 509 X F0(for)S 585 X(0)S
+XP /F12 20 39 4 -7 34 32 39 32 0
+<0000000C 0000003C 000000F0 000003C0 00000F00 00003C00 0000F000
+ 0007C000 001F0000 00780000 01E00000 07800000 1E000000 78000000
+ E0000000 78000000 1E000000 07800000 01E00000 00780000 001F0000
+ 0007C000 0000F000 00003C00 00000F00 000003C0 000000F0 0000003C
+ 0000000C 00000000 00000000 00000000 00000000 00000000 00000000
+ 00000000 00000000 FFFFFFFC FFFFFFFC>
+PXLC RP
+624 1622 XY F12(\024)S
+XP /F6 106 21 -1 -10 18 34 44 24 0
+<0000E0 0001E0 0001E0 0000C0 000000 000000 000000 000000 000000
+ 000000 000000 000000 000000 001E00 002300 004380 008380 010380
+ 010380 010380 000700 000700 000700 000700 000E00 000E00 000E00
+ 000E00 001C00 001C00 001C00 001C00 003800 003800 003800 003800
+ 007000 007000 007000 70E000 F0C000 F18000 630000 3C0000>
+PXLC RP
+677 1622 XY F6(j)S 714 X F12(\024)S
+XP /F6 110 30 2 0 28 21 21 32 0
+<3C07E000 46183000 47201800 87401C00 87801C00 87801C00 87001C00
+ 0E003800 0E003800 0E003800 0E003800 1C007000 1C007000 1C00E000
+ 1C00E080 3800E100 3801C100 3801C100 3800C200 7000C400 30007800>
+PXLC RP
+767 1622 XY F6(n)S F0(,)S 827 X(i.e.,)S 921 X(deriv)S -1 x(e)S 1068 X 
+F6(p)S F0(\()S F6(x)S F0(\))S 1174 X(=)S
+XP /F9 110 25 3 0 23 15 15 24 0
+<383E00 4CC700 8F0300 8E0380 8E0380 1C0700 1C0700 1C0700 1C0E00
+ 380E00 380E20 381C20 381C40 700C80 300700>
+PXLC RP
+1249 1575 XY F9(n)S
+XP /F18 /cmex10 360 49.8 49.8 128 [-1 -147 71 38] PXLNF RP
+XP /F18 80 53 3 -50 49 0 50 48 0
+<FFFFFFFFFFC0 FFFFFFFFFFC0 78000000FFE0 7C0000000FE0 3E00000003E0
+ 1F00000000F0 0F0000000070 0F8000000030 07C000000018 03C000000008
+ 03E000000008 01F000000004 00F800000000 007800000000 007C00000000
+ 003E00000000 001E00000000 000F00000000 000F80000000 0007C0000000
+ 0003C0000000 0003E0000000 0001F0000000 0000F8000000 000078000000
+ 000078000000 000030000000 000070000000 000060000000 0000C0000000
+ 000180000000 000300000000 000700000000 000600000000 000C00000000
+ 001800000000 003800000000 007000000004 00600000000C 00C000000008
+ 018000000018 038000000038 030000000070 0600000000F0 0C00000001F0
+ 180000000FE0 38000000FFE0 3FFFFFFFFFE0 7FFFFFFFFFC0 FFFFFFFFFFC0>
+PXLC RP
+1235 1585 XY F18(P)S 1666 Y 1226 X F9(j)S
+XP /F3 /cmr7 360 34.9 34.9 128 [-2 -9 38 26] PXLNF RP
+XP /F3 61 31 2 4 27 14 10 32 0
+<FFFFFF80 FFFFFF80 00000000 00000000 00000000 00000000 00000000
+ 00000000 FFFFFF80 FFFFFF80>
+PXLC RP
+1245 1666 XY F3(=)S
+XP /F3 48 20 2 0 16 22 22 16 0
+<0780 1860 3030 7038 6018 6018 E01C E01C E01C E01C E01C E01C E01C
+ E01C E01C E01C 6018 6018 7038 3030 1860 0FC0>
+PXLC RP
+1276 1666 XY F3(0)S -44 y 1304 X F6(y)S 8 y F9(j)S
+XP /F6 96 21 0 0 19 35 35 24 0
+<0001C0 000620 000C20 000C20 001820 003020 003020 007020 006020
+ 00E040 00C040 01C080 01C080 018100 038100 038200 038400 070800
+ 070800 071000 072000 064000 0E8000 0F0000 0E0000 0E0000 0E0000
+ 160000 260000 460000 860040 020080 030100 018600 00F800>
+PXLC RP
+1349 1622 XY F6(`)S 8 y F9(j)S -8 y 1391 X F0(\()S F6(x)S F0(\),)S
+1489 X(where)S 1633 X F6(x)S 8 y F3(0)S
+XP /F6 59 14 4 -10 10 5 15 8 0
+<70 F8 FC FC 74 04 04 04 04 08 08 10 10 20 40>
+PXLC RP
+1683 1622 XY F6(;)S
+XP /F12 1 14 4 10 9 15 5 8 0
+<70 F8 F8 F8 70>
+PXLC RP
+1706 1622 XY F12(\001)S 1728 X(\001)S 1750 X(\001)S 1780 X F6(;)S 
+1802 X(x)S 8 y F9(n)S -8 y 1875 X F0(are)S 1958 X(distinct.)S 1756 Y 
+433 X(\(b\))S 549 X(Determine)S 793 X(the)S 880 X(p)S 1 x
+(olynomial)S 1139 X(of)S 1197 X(minimal)S 1392 X(degree)S 1548 X
+(satisfying)S 1771 X F6(p)S F0(\()S
+XP /F12 0 39 4 11 34 13 2 32 0
+<FFFFFFFC FFFFFFFC>
+PXLC RP
+1816 1756 XY F12(\000)S F0(1\))S 1915 X(=)S 1969 X(2)S F6(;)S 2034 X
+(p)S F0(\(0\))S 2139 X(=)S 2211 X(1,)S 60 y 509 X F6(p)S F0(\(2\))S
+612 X(=)S 664 X(3,)S 720 X(b)S -1 x(y)S
+XP /F0 58 14 4 0 9 21 21 8 0
+<70 F8 F8 F8 70 00 00 00 00 00 00 00 00 00 00 00 70 F8 F8 F8 70>
+PXLC RP
+772 1816 XY F0(:)S 808 X(\(i\))S 877 X(Lagrange)S 1094 X(form,)S 
+1226 X(\(ii\))S 1309 X(Newton)S 1493 X(divided)S 1668 X(di)S
+XP /F0 11 29 0 0 31 35 35 32 0
+<001FC1F0 0070270C 00C07E1E 0180FC3E 0380FC3E 0700F81C 07007800
+ 07003800 07003800 07003800 07003800 07003800 07003800 07003800
+ FFFFFFE0 FFFFFFE0 07003800 07003800 07003800 07003800 07003800
+ 07003800 07003800 07003800 07003800 07003800 07003800 07003800
+ 07003800 07003800 07003800 07003800 07003800 7FE1FFC0 7FE1FFC0>
+PXLC RP
+1710 1816 XY F0(\013erences.)S 1966 Y 300 X(3.)S 389 X(\(a\))S
+XP /F0 67 36 3 -1 32 35 36 32 0
+<0007F008 003FFC18 00FC0618 01F00138 03C000F8 07800078 0F000038
+ 1E000038 1E000018 3C000018 3C000018 7C000008 7C000008 78000008
+ F8000000 F8000000 F8000000 F8000000 F8000000 F8000000 F8000000
+ F8000000 78000000 7C000008 7C000008 3C000008 3C000008 1E000010
+ 1E000010 0F000020 07800020 03C00040 01F00180 00FC0700 003FFC00
+ 0007F000>
+PXLC RP
+502 1966 XY F0(Calculate)S 718 X(the)S 798 X(Hermite)S 985 X(in)S 
+-1 x(terp)S 1 x(olating)S 1276 X(p)S 1 x(olynomial)S
+XP /F6 72 41 2 0 42 34 34 40 0
+<00FFFC3FFF 00FFFC3FFF 00078001E0 00078001E0 000F0003C0 000F0003C0
+ 000F0003C0 000F0003C0 001E000780 001E000780 001E000780 001E000780
+ 003C000F00 003C000F00 003C000F00 003FFFFF00 007FFFFE00 0078001E00
+ 0078001E00 0078001E00 00F0003C00 00F0003C00 00F0003C00 00F0003C00
+ 01E0007800 01E0007800 01E0007800 01E0007800 03C000F000 03C000F000
+ 03C000F000 07C001F000 FFFC3FFF00 FFFC3FFF00>
+PXLC RP
+1528 1966 XY F6(H)S 1573 X F0(\()S F6(x)S F0(\))S 1651 X
+(satisfying)S 1868 X F6(H)S 1913 X F0(\(0\))S 1991 X(=)S 2043 X(3)S
+F6(;)S 2090 X(H)S 2135 X F0(\(1\))S 2213 X(=)S 60 y 509 X(2)S F6(;)S
+556 X(H)S
+XP /F15 /cmsy7 360 34.9 34.9 128 [0 -33 43 28] PXLNF RP
+XP /F15 48 11 2 1 9 19 18 8 0
+<0C 1E 1E 1E 3C 3C 3C 38 38 78 70 70 70 60 E0 E0 C0 40>
+PXLC RP
+602 2007 XY F15(0)S 19 y 3 x F0(\(0\))S 693 X(=)S 746 X F12(\000)S
+F0(1)S F6(;)S 832 X(H)S -19 y 877 X F15(0)S 19 y 3 x F0(\(1\))S 
+968 X(=)S 1021 X(1,)S 1076 X(b)S -1 x(y)S 1146 X(Newton)S 1330 X
+(divided)S 1505 X(di\013erences.)S 2121 Y 433 X(\(b\))S 549 X
+(Determine)S 792 X(the)S 878 X(blunder)S 1060 X(in)S 1119 X(the)S 
+1204 X(data)S 1318 X(\(and)S 1434 X(correct)S 1600 X(it\):)S 1739 X 
+F6(x)S
+XP /F9 105 14 3 0 12 24 24 16 0
+<0300 0700 0300 0000 0000 0000 0000 0000 0000 3800 4E00 8E00 8E00
+ 8E00 1C00 1C00 3800 3800 3800 7100 7100 7200 7200 3C00>
+PXLC RP
+1767 2129 XY F9(i)S -8 y 1905 X F6(y)S 8 y F9(i)S 1695 2159 XY 
+300 2 R 2241 Y 1773 X F0(0)S 1912 X F12(\000)S F0(3)S 2330 Y 1735 X
+(0)S
+XP /F6 58 14 4 0 9 5 5 8 0
+<70 F8 F8 F8 70>
+PXLC RP
+1760 2330 XY F6(:)S F0(1)S 1912 X F12(\000)S F0(2)S 2420 Y 1735 X
+(0)S F6(:)S F0(2)S 1918 X(24)S 2510 Y 1735 X(0)S F6(:)S F0(3)S 1912 X 
+F12(\000)S F0(1)S 1800 2516 XY 3 417 R
+%%PageTrailer
+EP /paper-automatic true SPS 1 PP
+%%PageBoundingBox: 72 178 549 720
+
+%%Trailer
+EndDviLaserDoc
+
+%%BoundingBox: 72 178 549 720
+%%Pages: 1
+%%DocumentFonts:
