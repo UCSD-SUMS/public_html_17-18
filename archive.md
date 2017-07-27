@@ -1,5 +1,5 @@
----
-title: Officers
+--- 
+title: Archive 
 ---
 
 <style>
@@ -9,14 +9,15 @@ img {
     width: 200px;
     align-self: center;
 }
+
 .row {
-  display: flex; /* equal height of the children */
-  margin: 10px 10px 30px 10px;
+    display: flex;
+    /* equal height of the children */
+    margin: 10px 10px 30px 10px;
 }
 
-.col {
+.col {}
 
-}
 </style>
 
 <div class="panel-group" id="accordion">
@@ -24,35 +25,17 @@ img {
         <div class="panel-heading">
             <h4 class="panel-title">
                 <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
-                
-                    16-17
-                
+
+                    2015-2016
+
                 </a>
             </h4>
         </div>
         <div id="collapse1" class="panel-collapse collapse in">
             <div class="panel-body">
-            
-                insert link here
-                
-            </div>
-        </div>
-    </div>
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
-                
-                    15-16
-                    
-                </a>
-            </h4>
-        </div>
-        <div id="collapse2" class="panel-collapse collapse">
-            <div class="panel-body">
-            
-                insert link here
-                
+
+                <a href="archive/15-16">2015-2016<a>
+
             </div>
         </div>
     </div>
