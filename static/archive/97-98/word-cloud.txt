@@ -1,0 +1,10324 @@
+a.m.s
+	2 web/rlibby.html
+	=2
+	(0)
+aacute
+	2 web/societies.html
+	=2
+	(0)
+abelian
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	=4
+	(0)
+abigail
+	2 web/alumni.html
+	=2
+	(0)
+ability
+	2 web/mlainer.html
+	=2
+	(0)
+able
+	2 web/intern_overview.html
+	2 web/jcolletto.html
+	2 web/shobbs.html
+	=6
+	(0)
+about
+	ignored (7)
+above
+	2 web/10bf97revansmid.html
+	2 web/brain9a_98.html
+	=4
+	(0)
+abstracts
+	3 web/articles.html
+	3 web/articles.html
+	=6
+	(0)
+academic
+	ignored (6)
+academics
+	2 web/shobbs.html
+	=2
+	(0)
+access
+	2 web/articles.html
+	2 web/jcolletto.html
+	=4
+	(0)
+accessed
+	2 web/mlainer.html
+	=2
+	(0)
+accessible
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	=4
+	(0)
+according
+	2 web/10csu96revansquiz4.html
+	2 web/brain8b_98.html
+	=4
+	(0)
+accruals
+	2 web/jcolletto.html
+	=2
+	(0)
+accurately
+	2 web/jcolletto.html
+	=2
+	(0)
+acedemic
+	2 web/mzabrocki.html
+	=2
+	(0)
+achieve
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	=4
+	(0)
+acoustics
+	2 web/shobbs.html
+	=2
+	(0)
+across
+	2 web/daspaas.html
+	=2
+	(0)
+activists
+	2 web/articles.html
+	=2
+	(0)
+activities
+	2 web/member_form.html
+	2 web/membership_form.html
+	2 web/rlibby.html
+	=6
+	(0)
+acts
+	2 web/intern_overview.html
+	=2
+	(0)
+actual
+	2 web/articles.html
+	2 web/intern_overview.html
+	2 web/ktsai.html
+	=6
+	(0)
+actually
+	2 web/brain7_98.html
+	2 web/brain8a_98.html
+	=4
+	(0)
+actuarial
+	2 web/msutton.html
+	=2
+	(0)
+actuaries
+	2 web/societies.html
+	=2
+	(0)
+actuary
+	2 web/msutton.html
+	=2
+	(0)
+add
+	3 web/brain7_98.html
+	3 web/brain7_98.html
+	2 web/brain8a_98.html
+	=8
+	(0)
+added
+	2 web/math.html
+	=2
+	(0)
+adding
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	=4
+	(0)
+addition
+	2 web/ktsai.html
+	=2
+	(0)
+additional
+	2 web/brain8d_98.html
+	2 web/member_form.html
+	=4
+	(0)
+additionally
+	2 web/jcolletto.html
+	=2
+	(0)
+address
+	2 web/member_form.html
+	2 web/membership_form.html
+	=4
+	(0)
+adriano
+	2 web/mzabrocki.html
+	=2
+	(0)
+advance
+	2 web/intern_overview.html
+	=2
+	(0)
+advanced
+	2 web/shobbs.html
+	=2
+	(0)
+advances
+	2 web/rlibby.html
+	=2
+	(0)
+advertisers
+	2 web/articles.html
+	=2
+	(0)
+advice
+	2 web/intern_overview.html
+	2 web/shobbs.html
+	=4
+	(0)
+advising
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	2 web/alumni.html
+	2 web/articles.html
+	2 web/member_form.html
+	=12
+	(1)
+advisor
+	2 web/mzabrocki.html
+	=2
+	(0)
+aerojet
+	ignored (6)
+aerojet.com
+	2 web/mlainer.html
+	=2
+	(0)
+aerospace
+	2 web/mlainer.html
+	=2
+	(0)
+afer
+	2 web/10csu96revansquiz4.html
+	=2
+	(0)
+afraid
+	2 web/ktsai.html
+	=2
+	(0)
+after
+	ignored (11)
+again
+	4 web/brain9a_98.html
+	4 web/brain9a_98.html
+	4 web/brain9a_98.html
+	2 web/brain8d_98.html
+	=14
+	(1)
+age
+	5 web/brain8b_98.html
+	5 web/brain8b_98.html
+	5 web/brain8b_98.html
+	5 web/brain8b_98.html
+	2 web/brain7_98.html
+	=22
+	(2)
+aged
+	2 web/articles.html
+	=2
+	(0)
+ages
+	ignored (6)
+aip
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	=6
+	(0)
+airtouch
+	2 web/dbuckley.html
+	=2
+	(0)
+al-haytham
+	2 web/articles.html
+	=2
+	(0)
+albert
+	2 web/jcolletto.html
+	=2
+	(0)
+algebra
+	3 web/shobbs.html
+	3 web/shobbs.html
+	2 web/articles.html
+	2 web/msutton.html
+	2 web/mzabrocki.html
+	=12
+	(1)
+algebras
+	2 web/articles.html
+	=2
+	(0)
+algorithm
+	2 web/mlainer.html
+	=2
+	(0)
+algorithms
+	2 web/lyu.html
+	=2
+	(0)
+all
+	3 web/brain9a_98.html
+	3 web/brain9a_98.html
+	3 web/daspaas.html
+	3 web/daspaas.html
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	2 web/10bf97revansmid.html
+	2 web/10csu96revansquiz4.html
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	2 web/jcolletto.html
+	2 web/rlibby.html
+	2 web/test.html
+	=30
+	(3)
+allocated
+	2 web/brain8a_98.html
+	=2
+	(0)
+allotted
+	2 web/rlibby.html
+	=2
+	(0)
+allow
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	2 web/lyu.html
+	2 web/msutton.html
+	=10
+	(1)
+allowed
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	=4
+	(0)
+allowing
+	2 web/test.html
+	=2
+	(0)
+almost
+	2 web/dbuckley.html
+	2 web/shobbs.html
+	=4
+	(0)
+alone
+	2 web/intern_overview.html
+	=2
+	(0)
+along
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	2 web/brain8d_98.html
+	2 web/intern_overview.html
+	2 web/math.html
+	=10
+	(1)
+alot
+	2 web/msutton.html
+	=2
+	(0)
+alpha
+	2 web/articles.html
+	=2
+	(0)
+already
+	2 web/daspaas.html
+	=2
+	(0)
+also
+	ignored (11)
+although
+	2 web/daspaas.html
+	=2
+	(0)
+alumna
+	2 web/lyu.html
+	=2
+	(0)
+alumni
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	2 web/alumni.html
+	2 web/articles.html
+	=10
+	(1)
+alumni-link
+	2 web/index-3.html
+	2 web/index.html
+	=4
+	(0)
+always
+	3 web/ktsai.html
+	3 web/ktsai.html
+	2 web/brain8c_98.html
+	2 web/intern_overview.html
+	=10
+	(1)
+amber
+	2 web/alumni.html
+	=2
+	(0)
+america
+	2 web/intern_overview.html
+	2 web/rlibby.html
+	2 web/societies.html
+	=6
+	(0)
+american
+	3 web/societies.html
+	3 web/societies.html
+	2 web/rlibby.html
+	=8
+	(0)
+amounts
+	2 web/shobbs.html
+	=2
+	(0)
+amp
+	5 web/alumni.html
+	5 web/alumni.html
+	5 web/alumni.html
+	5 web/alumni.html
+	2 web/brain_archive.html
+	2 web/ktsai.html
+	2 web/member_form.html
+	2 web/societies.html
+	=28
+	(3)
+analysis
+	ignored (6)
+analyst
+	3 web/lyu.html
+	3 web/lyu.html
+	2 web/jcolletto.html
+	=8
+	(0)
+analysts
+	2 web/rlibby.html
+	=2
+	(0)
+analytical
+	2 web/ktsai.html
+	2 web/rlibby.html
+	=4
+	(0)
+analyzing
+	2 web/intern_overview.html
+	2 web/lyu.html
+	=4
+	(0)
+and
+	ignored (536)
+angle
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	2 web/brain8c_98.html
+	=6
+	(0)
+animations
+	2 web/articles.html
+	=2
+	(0)
+announcement
+	2 web/rlibby.html
+	=2
+	(0)
+annual
+	2 web/10csu96revansquiz4.html
+	2 web/jcolletto.html
+	=4
+	(0)
+answer
+	4 web/brain7_98.html
+	4 web/brain7_98.html
+	4 web/brain7_98.html
+	2 web/10bf97revansmid.html
+	2 web/10csu96revansquiz4.html
+	2 web/math.html
+	2 web/msutton.html
+	=20
+	(2)
+answers
+	3 web/10bf97revansmid.html
+	3 web/10bf97revansmid.html
+	3 web/articles.html
+	3 web/articles.html
+	2 web/10csu96revansquiz4.html
+	2 web/intern_overview.html
+	2 web/shobbs.html
+	=18
+	(2)
+ant
+	ignored (18)
+ants
+	5 web/brain8d_98.html
+	5 web/brain8d_98.html
+	5 web/brain8d_98.html
+	5 web/brain8d_98.html
+	2 web/brain_archive.html
+	=22
+	(2)
+any
+	3 web/brain8c_98.html
+	3 web/brain8c_98.html
+	3 web/shobbs.html
+	3 web/shobbs.html
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	2 web/dbuckley.html
+	2 web/intern_overview.html
+	2 web/jcolletto.html
+	2 web/msutton.html
+	=24
+	(2)
+anyone
+	2 web/ktsai.html
+	2 web/shobbs.html
+	=4
+	(0)
+aol.com
+	2 web/msutton.html
+	=2
+	(0)
+aound
+	2 web/10csu96revansquiz4.html
+	=2
+	(0)
+apiece
+	3 web/brain8a_98.html
+	3 web/brain8a_98.html
+	=6
+	(0)
+appeal
+	2 web/rlibby.html
+	=2
+	(0)
+appear
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+appearances
+	2 web/brain9a_98.html
+	=2
+	(0)
+applegate
+	7 web/dbuckley.html
+	7 web/dbuckley.html
+	7 web/dbuckley.html
+	7 web/dbuckley.html
+	7 web/dbuckley.html
+	7 web/dbuckley.html
+	=42
+	(4)
+application
+	2 web/dbuckley.html
+	2 web/msutton.html
+	=4
+	(0)
+applications
+	ignored (6)
+applied
+	ignored (70)
+applies
+	2 web/jcolletto.html
+	=2
+	(0)
+appreciation
+	2 web/ktsai.html
+	=2
+	(0)
+approaching
+	2 web/intern_overview.html
+	=2
+	(0)
+appropriate
+	2 web/10csu96revansquiz4.html
+	=2
+	(0)
+approximately
+	2 web/brain8d_98.html
+	=2
+	(0)
+archie
+	2 web/alumni.html
+	=2
+	(0)
+architect
+	2 web/rlibby.html
+	=2
+	(0)
+architecting
+	2 web/dbuckley.html
+	=2
+	(0)
+architecture
+	2 web/lyu.html
+	=2
+	(0)
+archive
+	ignored (6)
+archives
+	3 web/brain_archive.html
+	3 web/brain_archive.html
+	=6
+	(0)
+are
+	ignored (45)
+area
+	2 web/intern_overview.html
+	2 web/ktsai.html
+	=4
+	(0)
+areas
+	2 web/articles.html
+	2 web/mlainer.html
+	=4
+	(0)
+around
+	2 web/dbuckley.html
+	=2
+	(0)
+arranged
+	2 web/intern_overview.html
+	=2
+	(0)
+arrangements
+	2 web/intern_overview.html
+	=2
+	(0)
+article
+	2 web/rlibby.html
+	=2
+	(0)
+articles
+	ignored (6)
+articles.htm
+	2 web/articles.html
+	=2
+	(0)
+asio
+	2 web/intern_overview.html
+	=2
+	(0)
+ask
+	2 web/intern_overview.html
+	=2
+	(0)
+asked
+	3 web/articles.html
+	3 web/articles.html
+	2 web/brain8a_98.html
+	=8
+	(0)
+asks
+	2 web/ktsai.html
+	=2
+	(0)
+aspaas
+	4 web/daspaas.html
+	4 web/daspaas.html
+	4 web/daspaas.html
+	2 web/alumni.html
+	=14
+	(1)
+aspects
+	3 web/daspaas.html
+	3 web/daspaas.html
+	2 web/intern_overview.html
+	=8
+	(0)
+assets
+	2 web/dbuckley.html
+	=2
+	(0)
+assignment
+	2 web/msutton.html
+	=2
+	(0)
+assistant
+	2 web/daspaas.html
+	=2
+	(0)
+associated
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	=6
+	(0)
+association
+	6 web/societies.html
+	6 web/societies.html
+	6 web/societies.html
+	6 web/societies.html
+	6 web/societies.html
+	=30
+	(3)
+assume
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	2 web/10bf97revansmid.html
+	2 web/10csu96revansquiz4.html
+	=8
+	(0)
+assumes
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	=4
+	(0)
+assuming
+	2 web/10csu96revansquiz4.html
+	2 web/brain8c_98.html
+	=4
+	(0)
+attach
+	2 web/brain8c_98.html
+	=2
+	(0)
+attempted
+	2 web/articles.html
+	=2
+	(0)
+attended
+	2 web/rlibby.html
+	=2
+	(0)
+attention
+	2 web/shobbs.html
+	=2
+	(0)
+augmented
+	2 web/rlibby.html
+	=2
+	(0)
+august
+	5 web/brain_archive.html
+	5 web/brain_archive.html
+	5 web/brain_archive.html
+	5 web/brain_archive.html
+	=20
+	(2)
+author
+	2 web/shobbs.html
+	=2
+	(0)
+automate
+	2 web/jcolletto.html
+	=2
+	(0)
+available
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	=6
+	(0)
+awnser
+	2 web/index-3.html
+	2 web/index.html
+	=4
+	(0)
+azusa
+	4 web/mlainer.html
+	4 web/mlainer.html
+	4 web/mlainer.html
+	=12
+	(1)
+b.a
+	ignored (44)
+bachelor
+	2 web/articles.html
+	2 web/mlainer.html
+	=4
+	(0)
+back
+	ignored (5)
+background
+	4 web/jcolletto.html
+	4 web/jcolletto.html
+	4 web/jcolletto.html
+	=12
+	(1)
+bad
+	2 web/msutton.html
+	=2
+	(0)
+banana
+	ignored (6)
+banish
+	2 web/articles.html
+	=2
+	(0)
+bank
+	ignored (27)
+bankamerica.com
+	2 web/rlibby.html
+	=2
+	(0)
+bar
+	2 web/msutton.html
+	=2
+	(0)
+barry
+	4 web/brain9a_98.html
+	4 web/brain9a_98.html
+	4 web/brain9a_98.html
+	2 web/brain_archive.html
+	=14
+	(1)
+bart
+	2 web/alumni.html
+	=2
+	(0)
+based
+	2 web/daspaas.html
+	2 web/intern_overview.html
+	2 web/msutton.html
+	=6
+	(0)
+basically
+	2 web/daspaas.html
+	=2
+	(0)
+basics
+	2 web/shobbs.html
+	=2
+	(0)
+basis
+	3 web/jcolletto.html
+	3 web/jcolletto.html
+	=6
+	(0)
+basket
+	2 web/brain9a_98.html
+	=2
+	(0)
+baskets
+	4 web/brain9a_98.html
+	4 web/brain9a_98.html
+	4 web/brain9a_98.html
+	=12
+	(1)
+beach
+	2 web/lyu.html
+	=2
+	(0)
+because
+	4 web/shobbs.html
+	4 web/shobbs.html
+	4 web/shobbs.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain7_98.html
+	3 web/brain7_98.html
+	3 web/brain8c_98.html
+	3 web/brain8c_98.html
+	2 web/ktsai.html
+	=38
+	(4)
+becoming
+	2 web/msutton.html
+	=2
+	(0)
+been
+	ignored (6)
+before
+	ignored (5)
+began
+	2 web/daspaas.html
+	=2
+	(0)
+beginning
+	2 web/shobbs.html
+	=2
+	(0)
+begins
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+behalf
+	2 web/jcolletto.html
+	=2
+	(0)
+behaved
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	=12
+	(1)
+behaving
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	=4
+	(0)
+behavior
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+behind
+	2 web/rlibby.html
+	=2
+	(0)
+being
+	4 web/shobbs.html
+	4 web/shobbs.html
+	4 web/shobbs.html
+	2 web/brain8a_98.html
+	2 web/brain9a_98.html
+	=16
+	(1)
+bell
+	3 web/ktsai.html
+	3 web/ktsai.html
+	=6
+	(0)
+bellboy
+	4 web/brain8a_98.html
+	4 web/brain8a_98.html
+	4 web/brain8a_98.html
+	=12
+	(1)
+bellhop
+	3 web/brain8a_98.html
+	3 web/brain8a_98.html
+	=6
+	(0)
+below
+	2 web/brain8d_98.html
+	=2
+	(0)
+ben
+	ignored (12)
+beneficial
+	2 web/intern_overview.html
+	=2
+	(0)
+benefits
+	2 web/intern_overview.html
+	=2
+	(0)
+berkeley
+	2 web/mlainer.html
+	=2
+	(0)
+bernoulli
+	2 web/societies.html
+	=2
+	(0)
+best
+	2 web/daspaas.html
+	2 web/intern_overview.html
+	=4
+	(0)
+better
+	2 web/intern_overview.html
+	=2
+	(0)
+between
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	=20
+	(2)
+bhasin
+	2 web/alumni.html
+	=2
+	(0)
+bibliography
+	2 web/articles.html
+	=2
+	(0)
+billions
+	3 web/10csu96revansquiz4.html
+	3 web/10csu96revansquiz4.html
+	=6
+	(0)
+biographies
+	2 web/alumni.html
+	=2
+	(0)
+biology
+	2 web/societies.html
+	=2
+	(0)
+biostatistics
+	2 web/alumni.html
+	2 web/ktsai.html
+	=4
+	(0)
+bit
+	2 web/shobbs.html
+	=2
+	(0)
+blood
+	2 web/rlibby.html
+	=2
+	(0)
+blue
+	2 web/msutton.html
+	=2
+	(0)
+body
+	6 web/10csu96revansquiz4.html
+	6 web/10csu96revansquiz4.html
+	6 web/10csu96revansquiz4.html
+	6 web/10csu96revansquiz4.html
+	6 web/10csu96revansquiz4.html
+	=30
+	(3)
+book
+	2 web/shobbs.html
+	=2
+	(0)
+book-worm
+	2 web/jcolletto.html
+	=2
+	(0)
+booked
+	2 web/jcolletto.html
+	=2
+	(0)
+books
+	2 web/articles.html
+	2 web/intern_overview.html
+	=4
+	(0)
+boring
+	2 web/jcolletto.html
+	=2
+	(0)
+born
+	2 web/brain7_98.html
+	=2
+	(0)
+boss
+	4 web/ktsai.html
+	4 web/ktsai.html
+	4 web/ktsai.html
+	=12
+	(1)
+both
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	3 web/10bf97revansmid.html
+	3 web/10bf97revansmid.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/shobbs.html
+	3 web/shobbs.html
+	2 web/brain8c_98.html
+	2 web/daspaas.html
+	=40
+	(4)
+boths
+	2 web/brain10_98.html
+	=2
+	(0)
+box
+	2 web/daspaas.html
+	2 web/membership_form.html
+	2 web/mlainer.html
+	=6
+	(0)
+brain
+	ignored (25)
+branch
+	2 web/shobbs.html
+	=2
+	(0)
+bridge
+	2 web/intern_overview.html
+	=2
+	(0)
+brief
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+briefly
+	5 web/100a97revan.html
+	5 web/100a97revan.html
+	5 web/100a97revan.html
+	5 web/100a97revan.html
+	5 web/100a97revan.html
+	5 web/100a97revan.html
+	5 web/100a97revan.html
+	5 web/100a97revan.html
+	2 web/10bf97revansmid.html
+	=42
+	(4)
+bring
+	2 web/daspaas.html
+	2 web/shobbs.html
+	=4
+	(0)
+british
+	2 web/societies.html
+	=2
+	(0)
+bruce
+	2 web/alumni.html
+	=2
+	(0)
+brute
+	2 web/brain8d_98.html
+	=2
+	(0)
+buchen
+	2 web/alumni.html
+	=2
+	(0)
+buckley
+	3 web/dbuckley.html
+	3 web/dbuckley.html
+	2 web/alumni.html
+	=8
+	(0)
+budapest
+	2 web/daspaas.html
+	=2
+	(0)
+builders
+	2 web/intern_overview.html
+	=2
+	(0)
+building
+	2 web/intern_overview.html
+	=2
+	(0)
+bunch
+	ignored (10)
+business
+	4 web/brain8b_98.html
+	4 web/brain8b_98.html
+	4 web/brain8b_98.html
+	4 web/daspaas.html
+	4 web/daspaas.html
+	4 web/daspaas.html
+	4 web/jcolletto.html
+	4 web/jcolletto.html
+	4 web/jcolletto.html
+	2 web/brain_archive.html
+	=38
+	(4)
+buss
+	7 web/166.html
+	7 web/166.html
+	7 web/166.html
+	7 web/166.html
+	7 web/166.html
+	7 web/166.html
+	=42
+	(4)
+but
+	ignored (9)
+buy
+	2 web/math.html
+	=2
+	(0)
+byron
+	2 web/alumni.html
+	=2
+	(0)
+ca.metsci.com
+	2 web/lyu.html
+	=2
+	(0)
+calander-events
+	2 web/index-3.html
+	2 web/index.html
+	=4
+	(0)
+calculus
+	3 web/articles.html
+	3 web/articles.html
+	3 web/shobbs.html
+	3 web/shobbs.html
+	2 web/mzabrocki.html
+	2 web/rlibby.html
+	=16
+	(1)
+calendar
+	3 web/may.html
+	3 web/may.html
+	3 web/may.html
+	3 web/may.html
+	=12
+	(1)
+call
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	2 web/brain8c_98.html
+	=8
+	(0)
+called
+	2 web/daspaas.html
+	=2
+	(0)
+calling
+	2 web/intern_overview.html
+	=2
+	(0)
+calls
+	2 web/intern_overview.html
+	=2
+	(0)
+cami
+	2 web/alumni.html
+	=2
+	(0)
+campus
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	=6
+	(0)
+can
+	ignored (34)
+canada
+	2 web/mzabrocki.html
+	2 web/societies.html
+	=4
+	(0)
+canadian
+	2 web/societies.html
+	=2
+	(0)
+candidate
+	2 web/intern_overview.html
+	=2
+	(0)
+candidates
+	2 web/intern_overview.html
+	=2
+	(0)
+cannot
+	2 web/brain8c_98.html
+	=2
+	(0)
+capacity
+	2 web/brain8c_98.html
+	=2
+	(0)
+capital
+	2 web/dbuckley.html
+	=2
+	(0)
+care
+	2 web/mzabrocki.html
+	=2
+	(0)
+career
+	ignored (11)
+careers
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	2 web/articles.html
+	2 web/index-3.html
+	2 web/index.html
+	2 web/nani.html
+	=14
+	(1)
+caring
+	2 web/intern_overview.html
+	=2
+	(0)
+carlos
+	2 web/alumni.html
+	=2
+	(0)
+carries
+	2 web/rlibby.html
+	=2
+	(0)
+carved
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+case
+	2 web/brain8c_98.html
+	=2
+	(0)
+cause
+	2 web/brain8c_98.html
+	=2
+	(0)
+causes
+	2 web/articles.html
+	=2
+	(0)
+cells
+	2 web/rlibby.html
+	=2
+	(0)
+cellular
+	2 web/dbuckley.html
+	=2
+	(0)
+celsius
+	2 web/10csu96revansquiz4.html
+	=2
+	(0)
+center
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	3 web/shobbs.html
+	3 web/shobbs.html
+	2 web/brain8c_98.html
+	2 web/dbuckley.html
+	2 web/ktsai.html
+	=32
+	(3)
+certain
+	2 web/10bf97revansmid.html
+	2 web/intern_overview.html
+	=4
+	(0)
+cgi
+	2 web/msutton.html
+	=2
+	(0)
+chakrabar
+	5 web/brain6_98.html
+	5 web/brain6_98.html
+	5 web/brain6_98.html
+	5 web/brain6_98.html
+	5 web/brain6_98.html
+	5 web/brain6_98.html
+	5 web/brain6_98.html
+	5 web/brain6_98.html
+	2 web/brain_archive.html
+	=42
+	(4)
+challenging
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	=4
+	(0)
+chance
+	4 web/shobbs.html
+	4 web/shobbs.html
+	4 web/shobbs.html
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	2 web/daspaas.html
+	=20
+	(2)
+change
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	2 web/brain8d_98.html
+	2 web/ktsai.html
+	=8
+	(0)
+changed
+	2 web/ktsai.html
+	=2
+	(0)
+charts
+	2 web/msutton.html
+	=2
+	(0)
+check
+	2 web/membership_form.html
+	=2
+	(0)
+chemicals
+	2 web/mlainer.html
+	=2
+	(0)
+cherry
+	2 web/math.html
+	=2
+	(0)
+cheslav
+	2 web/alumni.html
+	=2
+	(0)
+chicago
+	2 web/jcolletto.html
+	=2
+	(0)
+child
+	3 web/brain7_98.html
+	3 web/brain7_98.html
+	=6
+	(0)
+chile
+	2 web/societies.html
+	=2
+	(0)
+chinese
+	2 web/lyu.html
+	=2
+	(0)
+choice
+	2 web/intern_overview.html
+	=2
+	(0)
+choices
+	2 web/intern_overview.html
+	=2
+	(0)
+choose
+	3 web/jcolletto.html
+	3 web/jcolletto.html
+	3 web/shobbs.html
+	3 web/shobbs.html
+	2 web/ktsai.html
+	=14
+	(1)
+chose
+	2 web/rlibby.html
+	=2
+	(0)
+chris
+	2 web/alumni.html
+	=2
+	(0)
+christians
+	2 web/societies.html
+	=2
+	(0)
+christine
+	2 web/alumni.html
+	=2
+	(0)
+church
+	2 web/alumni.html
+	=2
+	(0)
+circle
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	2 web/brain8c_98.html
+	=14
+	(1)
+circular
+	3 web/brain8c_98.html
+	3 web/brain8c_98.html
+	=6
+	(0)
+circumference
+	2 web/brain8c_98.html
+	=2
+	(0)
+cite
+	2 web/intern_overview.html
+	=2
+	(0)
+citizenship
+	2 web/mlainer.html
+	=2
+	(0)
+city
+	2 web/daspaas.html
+	2 web/membership_form.html
+	2 web/mzabrocki.html
+	=6
+	(0)
+class
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	=4
+	(0)
+classification
+	2 web/shobbs.html
+	=2
+	(0)
+clear
+	3 web/shobbs.html
+	3 web/shobbs.html
+	2 web/brain10_98.html
+	=8
+	(0)
+clearance
+	2 web/mlainer.html
+	=2
+	(0)
+clearly
+	2 web/shobbs.html
+	=2
+	(0)
+clerk
+	3 web/brain8a_98.html
+	3 web/brain8a_98.html
+	3 web/math.html
+	3 web/math.html
+	=12
+	(1)
+click
+	2 web/brain10_98.html
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	2 web/brain7_98.html
+	2 web/brain8a_98.html
+	2 web/brain8b_98.html
+	2 web/brain8c_98.html
+	2 web/brain8d_98.html
+	2 web/brain9a_98.html
+	2 web/math.html
+	=20
+	(2)
+climatological
+	2 web/mlainer.html
+	=2
+	(0)
+closer
+	2 web/ktsai.html
+	=2
+	(0)
+club
+	ignored (36)
+clue
+	4 web/brain7_98.html
+	4 web/brain7_98.html
+	4 web/brain7_98.html
+	=12
+	(1)
+clues
+	2 web/brain7_98.html
+	=2
+	(0)
+code
+	2 web/membership_form.html
+	2 web/shobbs.html
+	=4
+	(0)
+coded
+	3 web/daspaas.html
+	3 web/daspaas.html
+	=6
+	(0)
+coded.com
+	2 web/daspaas.html
+	=2
+	(0)
+cohen
+	2 web/alumni.html
+	=2
+	(0)
+colleagues
+	2 web/shobbs.html
+	=2
+	(0)
+collection
+	3 web/articles.html
+	3 web/articles.html
+	=6
+	(0)
+college
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	2 web/articles.html
+	2 web/lyu.html
+	2 web/member_form.html
+	2 web/membership_form.html
+	2 web/mlainer.html
+	2 web/mzabrocki.html
+	=18
+	(2)
+colleges
+	2 web/intern_overview.html
+	=2
+	(0)
+colletto
+	3 web/jcolletto.html
+	3 web/jcolletto.html
+	2 web/alumni.html
+	=8
+	(0)
+collins
+	2 web/alumni.html
+	=2
+	(0)
+column
+	2 web/msutton.html
+	=2
+	(0)
+combination
+	2 web/brain9a_98.html
+	=2
+	(0)
+combinatorics
+	2 web/articles.html
+	2 web/mzabrocki.html
+	=4
+	(0)
+combined
+	2 web/brain8b_98.html
+	=2
+	(0)
+come
+	2 web/intern_overview.html
+	2 web/jcolletto.html
+	2 web/shobbs.html
+	=6
+	(0)
+comes
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	2 web/brain9a_98.html
+	=6
+	(0)
+comfortable
+	2 web/daspaas.html
+	=2
+	(0)
+command
+	2 web/shobbs.html
+	=2
+	(0)
+comments
+	2 web/articles.html
+	2 web/jcolletto.html
+	2 web/member_form.html
+	2 web/membership_form.html
+	2 web/msutton.html
+	2 web/shobbs.html
+	=12
+	(1)
+commerce
+	2 web/intern_overview.html
+	=2
+	(0)
+commercial
+	2 web/intern_overview.html
+	=2
+	(0)
+commissions
+	2 web/jcolletto.html
+	=2
+	(0)
+commitment
+	2 web/intern_overview.html
+	=2
+	(0)
+committe
+	2 web/membership_form.html
+	=2
+	(0)
+committee
+	4 web/member_form.html
+	4 web/member_form.html
+	4 web/member_form.html
+	3 web/membership_form.html
+	3 web/membership_form.html
+	2 web/may.html
+	2 web/may.html
+	=22
+	(2)
+common
+	3 web/articles.html
+	3 web/articles.html
+	=6
+	(0)
+communicate
+	2 web/jcolletto.html
+	2 web/ktsai.html
+	=4
+	(0)
+communication
+	2 web/jcolletto.html
+	=2
+	(0)
+communications
+	2 web/daspaas.html
+	2 web/shobbs.html
+	=4
+	(0)
+community
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	=6
+	(0)
+companies
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	2 web/jcolletto.html
+	2 web/msutton.html
+	=16
+	(1)
+company
+	ignored (11)
+compare
+	2 web/brain8d_98.html
+	=2
+	(0)
+compensation
+	2 web/intern_overview.html
+	2 web/jcolletto.html
+	=4
+	(0)
+competencies
+	2 web/mlainer.html
+	=2
+	(0)
+competitive
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	=12
+	(1)
+completed
+	2 web/member_form.html
+	2 web/rlibby.html
+	=4
+	(0)
+complex
+	2 web/shobbs.html
+	=2
+	(0)
+complicated
+	2 web/shobbs.html
+	=2
+	(0)
+compounded
+	3 web/10csu96revansquiz4.html
+	3 web/10csu96revansquiz4.html
+	=6
+	(0)
+compute
+	2 web/shobbs.html
+	=2
+	(0)
+computer
+	3 web/msutton.html
+	3 web/msutton.html
+	2 web/intern_overview.html
+	2 web/jcolletto.html
+	2 web/mzabrocki.html
+	2 web/shobbs.html
+	=14
+	(1)
+concentration
+	2 web/10csu96revansquiz4.html
+	=2
+	(0)
+concept
+	2 web/daspaas.html
+	=2
+	(0)
+concepts
+	2 web/daspaas.html
+	2 web/jcolletto.html
+	=4
+	(0)
+condition
+	2 web/10csu96revansquiz4.html
+	=2
+	(0)
+conducting
+	2 web/lyu.html
+	=2
+	(0)
+cone
+	6 web/brain8c_98.html
+	6 web/brain8c_98.html
+	6 web/brain8c_98.html
+	6 web/brain8c_98.html
+	6 web/brain8c_98.html
+	=30
+	(3)
+confident
+	2 web/intern_overview.html
+	=2
+	(0)
+conflicts
+	2 web/ktsai.html
+	=2
+	(0)
+congratulations
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain8d_98.html
+	3 web/brain8d_98.html
+	2 web/brain10_98.html
+	2 web/brain7_98.html
+	2 web/brain8a_98.html
+	2 web/brain8b_98.html
+	2 web/brain8c_98.html
+	2 web/brain9a_98.html
+	2 web/math.html
+	=32
+	(3)
+conjecture
+	2 web/rlibby.html
+	=2
+	(0)
+connections
+	2 web/intern_overview.html
+	=2
+	(0)
+consider
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	2 web/intern_overview.html
+	=10
+	(1)
+considered
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	2 web/rlibby.html
+	=6
+	(0)
+considering
+	2 web/articles.html
+	2 web/msutton.html
+	=4
+	(0)
+consists
+	2 web/brain9a_98.html
+	=2
+	(0)
+constant
+	3 web/brain10_98.html
+	3 web/brain10_98.html
+	2 web/10bf97revansmid.html
+	2 web/10csu96revansquiz4.html
+	=10
+	(1)
+constants
+	2 web/10csu96revansquiz4.html
+	=2
+	(0)
+constraints
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	=4
+	(0)
+construction
+	6 web/test.html
+	6 web/test.html
+	6 web/test.html
+	6 web/test.html
+	6 web/test.html
+	2 web/brain8c_98.html
+	=32
+	(3)
+consulting
+	2 web/lyu.html
+	=2
+	(0)
+contact
+	2 web/alumni.html
+	2 web/dbuckley.html
+	2 web/intern_overview.html
+	2 web/jcolletto.html
+	2 web/lyu.html
+	2 web/mlainer.html
+	2 web/mzabrocki.html
+	2 web/shobbs.html
+	=16
+	(1)
+contacted
+	2 web/intern_overview.html
+	=2
+	(0)
+contacting
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	=6
+	(0)
+contacts
+	2 web/intern_overview.html
+	=2
+	(0)
+contained
+	2 web/articles.html
+	=2
+	(0)
+contains
+	2 web/10csu96revansquiz4.html
+	2 web/articles.html
+	=4
+	(0)
+contents
+	2 web/articles.html
+	=2
+	(0)
+contest
+	2 web/brain9a_98.html
+	=2
+	(0)
+contins
+	2 web/10csu96revansquiz4.html
+	=2
+	(0)
+continue
+	2 web/brain9a_98.html
+	=2
+	(0)
+continued
+	2 web/rlibby.html
+	=2
+	(0)
+continues
+	2 web/rlibby.html
+	=2
+	(0)
+continuing
+	2 web/brain8d_98.html
+	=2
+	(0)
+continuous
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	2 web/brain8c_98.html
+	=6
+	(0)
+continuously
+	2 web/10csu96revansquiz4.html
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	=6
+	(0)
+continuum
+	2 web/shobbs.html
+	=2
+	(0)
+contributed
+	2 web/lyu.html
+	2 web/mlainer.html
+	2 web/shobbs.html
+	=6
+	(0)
+control
+	2 web/shobbs.html
+	=2
+	(0)
+cooling
+	2 web/10csu96revansquiz4.html
+	=2
+	(0)
+cools
+	2 web/10csu96revansquiz4.html
+	=2
+	(0)
+coordinates
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+copy
+	2 web/member_form.html
+	=2
+	(0)
+core
+	2 web/mlainer.html
+	2 web/shobbs.html
+	=4
+	(0)
+corporation
+	2 web/mlainer.html
+	=2
+	(0)
+correct
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	=4
+	(0)
+cosner
+	2 web/alumni.html
+	=2
+	(0)
+cost
+	3 web/math.html
+	3 web/math.html
+	2 web/brain8a_98.html
+	2 web/intern_overview.html
+	=10
+	(1)
+could
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	2 web/brain10_98.html
+	2 web/brain7_98.html
+	2 web/msutton.html
+	2 web/shobbs.html
+	=14
+	(1)
+countries
+	2 web/dbuckley.html
+	=2
+	(0)
+course
+	2 web/daspaas.html
+	2 web/mzabrocki.html
+	=4
+	(0)
+courses
+	6 web/msutton.html
+	6 web/msutton.html
+	6 web/msutton.html
+	6 web/msutton.html
+	6 web/msutton.html
+	4 web/shobbs.html
+	4 web/shobbs.html
+	4 web/shobbs.html
+	=42
+	(4)
+coursework
+	2 web/intern_overview.html
+	=2
+	(0)
+covered
+	5 web/brain10_98.html
+	5 web/brain10_98.html
+	5 web/brain10_98.html
+	5 web/brain10_98.html
+	=20
+	(2)
+crawling
+	2 web/brain8d_98.html
+	=2
+	(0)
+create
+	2 web/intern_overview.html
+	=2
+	(0)
+created
+	2 web/index-3.html
+	2 web/index.html
+	=4
+	(0)
+creating
+	2 web/intern_overview.html
+	2 web/jcolletto.html
+	=4
+	(0)
+credit
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	3 web/rlibby.html
+	3 web/rlibby.html
+	=26
+	(3)
+critical
+	3 web/10bf97revansmid.html
+	3 web/10bf97revansmid.html
+	3 web/dbuckley.html
+	3 web/dbuckley.html
+	=12
+	(1)
+criticism
+	2 web/articles.html
+	=2
+	(0)
+crm
+	2 web/mzabrocki.html
+	=2
+	(0)
+cross
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	=4
+	(0)
+crossing
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	=4
+	(0)
+cruz
+	2 web/rlibby.html
+	=2
+	(0)
+cryptography
+	2 web/mzabrocki.html
+	=2
+	(0)
+csc
+	2 web/intern_overview.html
+	=2
+	(0)
+culled
+	2 web/articles.html
+	=2
+	(0)
+culture
+	2 web/intern_overview.html
+	=2
+	(0)
+cup
+	5 web/brain8c_98.html
+	5 web/brain8c_98.html
+	5 web/brain8c_98.html
+	5 web/brain8c_98.html
+	2 web/brain_archive.html
+	=22
+	(2)
+curious
+	2 web/articles.html
+	2 web/math.html
+	=4
+	(0)
+current
+	3 web/math.html
+	3 web/math.html
+	2 web/articles.html
+	2 web/dbuckley.html
+	2 web/rlibby.html
+	=12
+	(1)
+currently
+	3 web/dbuckley.html
+	3 web/dbuckley.html
+	2 web/msutton.html
+	=8
+	(0)
+curriculum
+	2 web/intern_overview.html
+	=2
+	(0)
+curt
+	2 web/alumni.html
+	=2
+	(0)
+custom
+	2 web/mlainer.html
+	=2
+	(0)
+customer
+	3 web/math.html
+	3 web/math.html
+	=6
+	(0)
+cut
+	2 web/brain8c_98.html
+	=2
+	(0)
+cutting
+	2 web/brain8c_98.html
+	=2
+	(0)
+cyclic
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	=4
+	(0)
+d714
+	2 web/shobbs.html
+	=2
+	(0)
+daily
+	3 web/ktsai.html
+	3 web/ktsai.html
+	2 web/articles.html
+	2 web/jcolletto.html
+	=10
+	(1)
+daniel
+	5 web/brain7_98.html
+	5 web/brain7_98.html
+	5 web/brain7_98.html
+	5 web/brain7_98.html
+	4 web/brain8c_98.html
+	4 web/brain8c_98.html
+	4 web/brain8c_98.html
+	3 web/brain_archive.html
+	3 web/brain_archive.html
+	2 web/alumni.html
+	2 web/msutton.html
+	=42
+	(4)
+data
+	5 web/msutton.html
+	5 web/msutton.html
+	5 web/msutton.html
+	5 web/msutton.html
+	3 web/ktsai.html
+	3 web/ktsai.html
+	3 web/mlainer.html
+	3 web/mlainer.html
+	2 web/dbuckley.html
+	=34
+	(3)
+database
+	2 web/articles.html
+	2 web/dbuckley.html
+	2 web/jcolletto.html
+	2 web/msutton.html
+	=8
+	(0)
+databases
+	2 web/jcolletto.html
+	=2
+	(0)
+date
+	2 web/intern_overview.html
+	=2
+	(0)
+dates
+	4 web/msutton.html
+	4 web/msutton.html
+	4 web/msutton.html
+	=12
+	(1)
+david
+	5 web/alumni.html
+	5 web/alumni.html
+	5 web/alumni.html
+	5 web/alumni.html
+	3 web/dbuckley.html
+	3 web/dbuckley.html
+	=26
+	(3)
+day
+	5 web/jcolletto.html
+	5 web/jcolletto.html
+	5 web/jcolletto.html
+	5 web/jcolletto.html
+	=20
+	(2)
+day-to-day
+	2 web/intern_overview.html
+	=2
+	(0)
+deadline
+	2 web/intern_overview.html
+	=2
+	(0)
+deadlines
+	2 web/intern_overview.html
+	=2
+	(0)
+deal
+	2 web/jcolletto.html
+	=2
+	(0)
+deals
+	3 web/jcolletto.html
+	3 web/jcolletto.html
+	=6
+	(0)
+death
+	2 web/rlibby.html
+	=2
+	(0)
+debra
+	2 web/alumni.html
+	=2
+	(0)
+decide
+	3 web/10bf97revansmid.html
+	3 web/10bf97revansmid.html
+	=6
+	(0)
+decision
+	2 web/dbuckley.html
+	=2
+	(0)
+decreasing
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+dedication
+	2 web/intern_overview.html
+	=2
+	(0)
+deep
+	2 web/ktsai.html
+	=2
+	(0)
+defense
+	2 web/daspaas.html
+	=2
+	(0)
+defined
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	=4
+	(0)
+definite
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	=4
+	(0)
+definitely
+	2 web/intern_overview.html
+	=2
+	(0)
+definition
+	2 web/articles.html
+	=2
+	(0)
+degree
+	3 web/jcolletto.html
+	3 web/jcolletto.html
+	3 web/ktsai.html
+	3 web/ktsai.html
+	3 web/mlainer.html
+	3 web/mlainer.html
+	3 web/msutton.html
+	3 web/msutton.html
+	2 web/articles.html
+	2 web/daspaas.html
+	2 web/dbuckley.html
+	2 web/shobbs.html
+	=32
+	(3)
+degrees
+	3 web/10csu96revansquiz4.html
+	3 web/10csu96revansquiz4.html
+	2 web/brain8c_98.html
+	=8
+	(0)
+demand
+	3 web/10bf97revansmid.html
+	3 web/10bf97revansmid.html
+	=6
+	(0)
+demands
+	2 web/intern_overview.html
+	=2
+	(0)
+demonstrations
+	2 web/msutton.html
+	=2
+	(0)
+denominator
+	2 web/brain8c_98.html
+	=2
+	(0)
+denote
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	2 web/10csu96revansquiz4.html
+	=6
+	(0)
+denoted
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	=4
+	(0)
+denotes
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+department
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	3 web/daspaas.html
+	3 web/daspaas.html
+	2 web/articles.html
+	2 web/jcolletto.html
+	2 web/lyu.html
+	=24
+	(2)
+departments
+	2 web/index-3.html
+	2 web/index.html
+	2 web/jcolletto.html
+	=6
+	(0)
+dept
+	2 web/member_form.html
+	2 web/mlainer.html
+	=4
+	(0)
+depth
+	3 web/brain10_98.html
+	3 web/brain10_98.html
+	2 web/10bf97revansmid.html
+	=8
+	(0)
+derivative
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+derivatives
+	2 web/rlibby.html
+	=2
+	(0)
+derived
+	2 web/math.html
+	=2
+	(0)
+describe
+	2 web/jcolletto.html
+	=2
+	(0)
+described
+	2 web/brain8c_98.html
+	2 web/brain9a_98.html
+	=4
+	(0)
+describes
+	2 web/articles.html
+	=2
+	(0)
+describing
+	2 web/articles.html
+	=2
+	(0)
+description
+	3 web/jcolletto.html
+	3 web/jcolletto.html
+	3 web/shobbs.html
+	3 web/shobbs.html
+	2 web/dbuckley.html
+	2 web/ktsai.html
+	=16
+	(1)
+descriptions
+	2 web/articles.html
+	=2
+	(0)
+designated
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	=4
+	(0)
+designed
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	2 web/articles.html
+	=8
+	(0)
+designing
+	2 web/rlibby.html
+	=2
+	(0)
+desk
+	3 web/brain8a_98.html
+	3 web/brain8a_98.html
+	=6
+	(0)
+detail
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	2 web/articles.html
+	2 web/math.html
+	=8
+	(0)
+detailed
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+detection
+	2 web/mlainer.html
+	=2
+	(0)
+determining
+	2 web/intern_overview.html
+	=2
+	(0)
+detil
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+detrees
+	3 web/10csu96revansquiz4.html
+	3 web/10csu96revansquiz4.html
+	=6
+	(0)
+develop
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	2 web/rlibby.html
+	2 web/shobbs.html
+	=10
+	(1)
+developed
+	2 web/index-3.html
+	2 web/index.html
+	2 web/shobbs.html
+	=6
+	(0)
+developer
+	2 web/dbuckley.html
+	=2
+	(0)
+developing
+	2 web/daspaas.html
+	2 web/lyu.html
+	2 web/msutton.html
+	=6
+	(0)
+development
+	6 web/intern_overview.html
+	6 web/intern_overview.html
+	6 web/intern_overview.html
+	6 web/intern_overview.html
+	6 web/intern_overview.html
+	2 web/daspaas.html
+	2 web/mlainer.html
+	=34
+	(3)
+develops
+	2 web/shobbs.html
+	=2
+	(0)
+did
+	3 web/jcolletto.html
+	3 web/jcolletto.html
+	3 web/shobbs.html
+	3 web/shobbs.html
+	2 web/brain10_98.html
+	2 web/brain8a_98.html
+	2 web/daspaas.html
+	2 web/ktsai.html
+	=20
+	(2)
+didn
+	2 web/brain7_98.html
+	2 web/msutton.html
+	=4
+	(0)
+diego
+	2 web/shobbs.html
+	=2
+	(0)
+differ
+	2 web/intern_overview.html
+	=2
+	(0)
+different
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	=6
+	(0)
+differential
+	4 web/10csu96revansquiz4.html
+	4 web/10csu96revansquiz4.html
+	4 web/10csu96revansquiz4.html
+	2 web/articles.html
+	2 web/shobbs.html
+	=16
+	(1)
+difficult
+	2 web/math.html
+	=2
+	(0)
+dimensions
+	2 web/rlibby.html
+	=2
+	(0)
+direction
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+directions
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	=4
+	(0)
+directly
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	2 web/intern_overview.html
+	=6
+	(0)
+director
+	2 web/ktsai.html
+	=2
+	(0)
+directories
+	2 web/intern_overview.html
+	=2
+	(0)
+directory
+	2 web/intern_overview.html
+	=2
+	(0)
+dirty
+	2 web/ktsai.html
+	=2
+	(0)
+disadvantage
+	2 web/shobbs.html
+	=2
+	(0)
+discontinuities
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	=4
+	(0)
+discovered
+	2 web/intern_overview.html
+	=2
+	(0)
+discovering
+	2 web/brain8a_98.html
+	=2
+	(0)
+discriminant
+	2 web/mlainer.html
+	=2
+	(0)
+discrimination
+	2 web/shobbs.html
+	=2
+	(0)
+discuss
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+discusses
+	3 web/articles.html
+	3 web/articles.html
+	=6
+	(0)
+disjoint
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	=4
+	(0)
+dissertation
+	2 web/rlibby.html
+	=2
+	(0)
+distance
+	ignored (20)
+district
+	2 web/jcolletto.html
+	=2
+	(0)
+divergence
+	2 web/articles.html
+	=2
+	(0)
+diversified
+	2 web/mlainer.html
+	=2
+	(0)
+divide
+	2 web/brain8a_98.html
+	=2
+	(0)
+divides
+	3 web/100a97revan.html
+	3 web/100a97revan.html
+	3 web/100a97revan.html
+	3 web/100a97revan.html
+	=12
+	(1)
+division
+	3 web/test.html
+	3 web/test.html
+	=6
+	(0)
+divisions
+	2 web/daspaas.html
+	=2
+	(0)
+doc
+	2 web/shobbs.html
+	=2
+	(0)
+doctoral
+	2 web/rlibby.html
+	=2
+	(0)
+does
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	=6
+	(0)
+doing
+	2 web/daspaas.html
+	2 web/mzabrocki.html
+	=4
+	(0)
+dollar
+	5 web/brain8a_98.html
+	5 web/brain8a_98.html
+	5 web/brain8a_98.html
+	5 web/brain8a_98.html
+	2 web/10bf97revansmid.html
+	2 web/brain_archive.html
+	=24
+	(2)
+don
+	2 web/math.html
+	2 web/mzabrocki.html
+	=4
+	(0)
+donald
+	2 web/alumni.html
+	2 web/member_form.html
+	=4
+	(0)
+done
+	2 web/msutton.html
+	=2
+	(0)
+door
+	2 web/msutton.html
+	=2
+	(0)
+double
+	2 web/lyu.html
+	=2
+	(0)
+doyle
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	=4
+	(0)
+drains
+	2 web/10csu96revansquiz4.html
+	=2
+	(0)
+dress
+	2 web/intern_overview.html
+	=2
+	(0)
+drive
+	2 web/member_form.html
+	=2
+	(0)
+driven
+	2 web/rlibby.html
+	=2
+	(0)
+drop
+	2 web/member_form.html
+	=2
+	(0)
+dunn
+	4 web/brain10_98.html
+	4 web/brain10_98.html
+	4 web/brain10_98.html
+	2 web/brain_archive.html
+	2 web/math.html
+	=16
+	(1)
+during
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	2 web/brain8d_98.html
+	2 web/daspaas.html
+	2 web/jcolletto.html
+	2 web/mlainer.html
+	=18
+	(2)
+dwayne
+	4 web/daspaas.html
+	4 web/daspaas.html
+	4 web/daspaas.html
+	2 web/alumni.html
+	=14
+	(1)
+dynamically
+	2 web/msutton.html
+	=2
+	(0)
+e-mail
+	2 web/ktsai.html
+	2 web/rlibby.html
+	=4
+	(0)
+e.g
+	2 web/articles.html
+	=2
+	(0)
+each
+	4 web/brain8d_98.html
+	4 web/brain8d_98.html
+	4 web/brain8d_98.html
+	3 web/brain8a_98.html
+	3 web/brain8a_98.html
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	2 web/brain8b_98.html
+	2 web/brain9a_98.html
+	=26
+	(3)
+eacute
+	5 web/societies.html
+	5 web/societies.html
+	5 web/societies.html
+	5 web/societies.html
+	=20
+	(2)
+earl
+	2 web/member_form.html
+	2 web/membership_form.html
+	=4
+	(0)
+early
+	2 web/intern_overview.html
+	2 web/mlainer.html
+	=4
+	(0)
+earn
+	2 web/intern_overview.html
+	=2
+	(0)
+earning
+	2 web/articles.html
+	2 web/intern_overview.html
+	=4
+	(0)
+earth
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	2 web/rlibby.html
+	=6
+	(0)
+easy
+	2 web/brain8a_98.html
+	=2
+	(0)
+economics
+	2 web/jcolletto.html
+	=2
+	(0)
+edge
+	2 web/intern_overview.html
+	=2
+	(0)
+edges
+	2 web/brain8c_98.html
+	=2
+	(0)
+edinburgh
+	2 web/societies.html
+	=2
+	(0)
+effort
+	2 web/intern_overview.html
+	=2
+	(0)
+efforts
+	2 web/mlainer.html
+	2 web/rlibby.html
+	=4
+	(0)
+einstein
+	2 web/jcolletto.html
+	=2
+	(0)
+either
+	2 web/10bf97revansmid.html
+	2 web/ktsai.html
+	=4
+	(0)
+elastic
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+eleanor
+	2 web/member_form.html
+	2 web/membership_form.html
+	=4
+	(0)
+electromagnetic
+	2 web/shobbs.html
+	=2
+	(0)
+electronic
+	3 web/articles.html
+	3 web/articles.html
+	2 web/intern_overview.html
+	=8
+	(0)
+elegant
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	=4
+	(0)
+element
+	3 web/100a97revan.html
+	3 web/100a97revan.html
+	3 web/100a97revan.html
+	3 web/100a97revan.html
+	=12
+	(1)
+elements
+	4 web/100a97revan.html
+	4 web/100a97revan.html
+	4 web/100a97revan.html
+	4 web/100a97revan.html
+	4 web/100a97revan.html
+	4 web/100a97revan.html
+	=24
+	(2)
+ellen
+	2 web/alumni.html
+	=2
+	(0)
+email
+	3 web/member_form.html
+	3 web/member_form.html
+	2 web/dbuckley.html
+	2 web/membership_form.html
+	2 web/mlainer.html
+	2 web/msutton.html
+	2 web/shobbs.html
+	=16
+	(1)
+emailing
+	2 web/math.html
+	=2
+	(0)
+emphasizes
+	2 web/intern_overview.html
+	=2
+	(0)
+employed
+	2 web/lyu.html
+	2 web/mlainer.html
+	=4
+	(0)
+employees
+	3 web/mlainer.html
+	3 web/mlainer.html
+	2 web/intern_overview.html
+	2 web/msutton.html
+	=10
+	(1)
+employer
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	3 web/jcolletto.html
+	3 web/jcolletto.html
+	3 web/shobbs.html
+	3 web/shobbs.html
+	=18
+	(2)
+employers
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	2 web/jcolletto.html
+	=8
+	(0)
+employment
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	2 web/dbuckley.html
+	2 web/mlainer.html
+	=16
+	(1)
+enables
+	2 web/articles.html
+	=2
+	(0)
+encouraged
+	2 web/math.html
+	=2
+	(0)
+end
+	ignored (9)
+endpoints
+	2 web/brain8c_98.html
+	=2
+	(0)
+ends
+	2 web/rlibby.html
+	=2
+	(0)
+engineer
+	3 web/daspaas.html
+	3 web/daspaas.html
+	2 web/dbuckley.html
+	2 web/mlainer.html
+	=10
+	(1)
+engineering
+	4 web/daspaas.html
+	4 web/daspaas.html
+	4 web/daspaas.html
+	3 web/shobbs.html
+	3 web/shobbs.html
+	=18
+	(2)
+engineers
+	3 web/shobbs.html
+	3 web/shobbs.html
+	2 web/dbuckley.html
+	=8
+	(0)
+enhance
+	2 web/shobbs.html
+	=2
+	(0)
+enjoy
+	3 web/msutton.html
+	3 web/msutton.html
+	2 web/jcolletto.html
+	=8
+	(0)
+enjoyed
+	2 web/msutton.html
+	2 web/rlibby.html
+	2 web/shobbs.html
+	=6
+	(0)
+enough
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	2 web/daspaas.html
+	2 web/math.html
+	=10
+	(1)
+entails
+	2 web/jcolletto.html
+	2 web/msutton.html
+	=4
+	(0)
+entered
+	2 web/rlibby.html
+	=2
+	(0)
+entering
+	3 web/jcolletto.html
+	3 web/jcolletto.html
+	=6
+	(0)
+enthusiasm
+	2 web/intern_overview.html
+	=2
+	(0)
+entry-level
+	2 web/intern_overview.html
+	=2
+	(0)
+environment
+	2 web/dbuckley.html
+	2 web/jcolletto.html
+	=4
+	(0)
+environmental
+	2 web/mlainer.html
+	=2
+	(0)
+epsilon
+	2 web/societies.html
+	=2
+	(0)
+equal
+	2 web/brain8b_98.html
+	2 web/brain8c_98.html
+	=4
+	(0)
+equally
+	2 web/daspaas.html
+	=2
+	(0)
+equat
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+equation
+	4 web/10csu96revansquiz4.html
+	4 web/10csu96revansquiz4.html
+	4 web/10csu96revansquiz4.html
+	3 web/brain10_98.html
+	3 web/brain10_98.html
+	2 web/shobbs.html
+	=20
+	(2)
+equations
+	2 web/articles.html
+	2 web/shobbs.html
+	=4
+	(0)
+equator
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	=12
+	(1)
+equivalent
+	3 web/brain8c_98.html
+	3 web/brain8c_98.html
+	=6
+	(0)
+eric
+	2 web/alumni.html
+	=2
+	(0)
+errors
+	4 web/articles.html
+	4 web/articles.html
+	4 web/articles.html
+	=12
+	(1)
+especially
+	2 web/shobbs.html
+	=2
+	(0)
+estimation
+	2 web/mlainer.html
+	2 web/shobbs.html
+	=4
+	(0)
+euclid
+	2 web/articles.html
+	=2
+	(0)
+euclid.ucsd.edu
+	2 web/math.html
+	=2
+	(0)
+eudora
+	2 web/shobbs.html
+	=2
+	(0)
+european
+	2 web/societies.html
+	=2
+	(0)
+evaluations
+	2 web/intern_overview.html
+	=2
+	(0)
+evan
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	2 web/10bf97revansmid.html
+	2 web/10csu96revansquiz4.html
+	=8
+	(0)
+evans
+	ignored (11)
+even
+	2 web/brain8d_98.html
+	2 web/msutton.html
+	2 web/rlibby.html
+	2 web/shobbs.html
+	=8
+	(0)
+events
+	3 web/may.html
+	3 web/may.html
+	3 web/may.html
+	3 web/may.html
+	=12
+	(1)
+ever
+	2 web/brain8d_98.html
+	=2
+	(0)
+every
+	2 web/brain9a_98.html
+	=2
+	(0)
+exact
+	3 web/10bf97revansmid.html
+	3 web/10bf97revansmid.html
+	=6
+	(0)
+exactly
+	3 web/math.html
+	3 web/math.html
+	=6
+	(0)
+exam
+	4 web/166.html
+	4 web/166.html
+	4 web/166.html
+	3 web/articles.html
+	3 web/articles.html
+	2 web/10.html
+	2 web/10.html
+	2 web/100.html
+	2 web/102.html
+	2 web/109.html
+	2 web/142.html
+	2 web/170.html
+	2 web/20a.html
+	2 web/20b.html
+	2 web/20c.html
+	2 web/20d.html
+	2 web/20f.html
+	=42
+	(4)
+examine
+	2 web/intern_overview.html
+	=2
+	(0)
+examples
+	2 web/daspaas.html
+	=2
+	(0)
+exams
+	2 web/articles.html
+	=2
+	(0)
+excel
+	2 web/jcolletto.html
+	=2
+	(0)
+excellent
+	2 web/jcolletto.html
+	2 web/shobbs.html
+	=4
+	(0)
+except
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	=4
+	(0)
+exchanged
+	2 web/intern_overview.html
+	=2
+	(0)
+exciting
+	2 web/daspaas.html
+	=2
+	(0)
+exercise
+	2 web/brain8d_98.html
+	=2
+	(0)
+exists
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	=12
+	(1)
+exp
+	2 web/brain10_98.html
+	=2
+	(0)
+expansions
+	2 web/shobbs.html
+	=2
+	(0)
+experience
+	ignored (18)
+experiment
+	2 web/brain9a_98.html
+	=2
+	(0)
+explain
+	ignored (5)
+explains
+	2 web/articles.html
+	=2
+	(0)
+explanations
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+exploration
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	=6
+	(0)
+explore
+	2 web/articles.html
+	2 web/intern_overview.html
+	=4
+	(0)
+exposure
+	2 web/rlibby.html
+	=2
+	(0)
+exposures
+	2 web/rlibby.html
+	=2
+	(0)
+ext
+	2 web/lyu.html
+	=2
+	(0)
+extention
+	2 web/msutton.html
+	=2
+	(0)
+extra
+	2 web/msutton.html
+	=2
+	(0)
+extract
+	2 web/msutton.html
+	=2
+	(0)
+fact
+	2 web/daspaas.html
+	=2
+	(0)
+factor
+	2 web/brain9a_98.html
+	2 web/intern_overview.html
+	=4
+	(0)
+faculty
+	2 web/rlibby.html
+	=2
+	(0)
+fairly
+	2 web/shobbs.html
+	=2
+	(0)
+fall
+	ignored (7)
+falling
+	3 web/brain10_98.html
+	3 web/brain10_98.html
+	=6
+	(0)
+family
+	2 web/intern_overview.html
+	=2
+	(0)
+far
+	4 web/ktsai.html
+	4 web/ktsai.html
+	4 web/ktsai.html
+	2 web/shobbs.html
+	=14
+	(1)
+father
+	2 web/brain7_98.html
+	=2
+	(0)
+faulhaber
+	2 web/alumni.html
+	=2
+	(0)
+favorite
+	3 web/shobbs.html
+	3 web/shobbs.html
+	2 web/jcolletto.html
+	2 web/rlibby.html
+	=10
+	(1)
+fax
+	2 web/daspaas.html
+	=2
+	(0)
+features
+	2 web/intern_overview.html
+	=2
+	(0)
+feel
+	3 web/daspaas.html
+	3 web/daspaas.html
+	2 web/dbuckley.html
+	2 web/lyu.html
+	2 web/mlainer.html
+	=12
+	(1)
+feet
+	5 web/brain8d_98.html
+	5 web/brain8d_98.html
+	5 web/brain8d_98.html
+	5 web/brain8d_98.html
+	=20
+	(2)
+fell
+	2 web/shobbs.html
+	=2
+	(0)
+felt
+	3 web/shobbs.html
+	3 web/shobbs.html
+	=6
+	(0)
+fence
+	2 web/brain8b_98.html
+	=2
+	(0)
+festival
+	2 web/may.html
+	2 web/may.html
+	=4
+	(0)
+few
+	3 web/shobbs.html
+	3 web/shobbs.html
+	2 web/msutton.html
+	=8
+	(0)
+field
+	6 web/intern_overview.html
+	6 web/intern_overview.html
+	6 web/intern_overview.html
+	6 web/intern_overview.html
+	6 web/intern_overview.html
+	2 web/articles.html
+	2 web/jcolletto.html
+	2 web/rlibby.html
+	2 web/shobbs.html
+	=38
+	(4)
+fields
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	=6
+	(0)
+fifth
+	2 web/articles.html
+	2 web/member_form.html
+	2 web/membership_form.html
+	=6
+	(0)
+figure
+	2 web/brain7_98.html
+	2 web/math.html
+	2 web/shobbs.html
+	=6
+	(0)
+file
+	3 web/msutton.html
+	3 web/msutton.html
+	=6
+	(0)
+fills
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+filtering
+	2 web/shobbs.html
+	=2
+	(0)
+final
+	2 web/10.html
+	2 web/10.html
+	2 web/100.html
+	2 web/102.html
+	2 web/109.html
+	2 web/142.html
+	2 web/170.html
+	2 web/20a.html
+	2 web/20af96final.html
+	2 web/20af96final.html
+	2 web/20b.html
+	2 web/20c.html
+	2 web/20d.html
+	2 web/20e.html
+	2 web/20f.html
+	2 web/brain9a_98.html
+	=32
+	(3)
+finally
+	3 web/brain9a_98.html
+	3 web/brain9a_98.html
+	2 web/brain8b_98.html
+	=8
+	(0)
+finance
+	3 web/rlibby.html
+	3 web/rlibby.html
+	=6
+	(0)
+find
+	4 web/10bf97revansmid.html
+	4 web/10bf97revansmid.html
+	4 web/10bf97revansmid.html
+	3 web/10csu96revansquiz4.html
+	3 web/10csu96revansquiz4.html
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	2 web/brain8c_98.html
+	2 web/brain8d_98.html
+	2 web/jcolletto.html
+	2 web/ktsai.html
+	=30
+	(3)
+finding
+	3 web/brain8c_98.html
+	3 web/brain8c_98.html
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	2 web/jcolletto.html
+	2 web/rlibby.html
+	=16
+	(1)
+finished
+	2 web/msutton.html
+	=2
+	(0)
+finite
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	=4
+	(0)
+finkler
+	2 web/alumni.html
+	=2
+	(0)
+first
+	ignored (6)
+fit
+	2 web/intern_overview.html
+	=2
+	(0)
+fitzsimmons
+	2 web/20a.html
+	2 web/20af96fitzsimmonsmid.html
+	2 web/20af96fitzsimmonsmid.html
+	=6
+	(0)
+five
+	2 web/intern_overview.html
+	=2
+	(0)
+fixed
+	3 web/10bf97revansmid.html
+	3 web/10bf97revansmid.html
+	2 web/brain10_98.html
+	2 web/msutton.html
+	=10
+	(1)
+flows
+	3 web/10csu96revansquiz4.html
+	3 web/10csu96revansquiz4.html
+	=6
+	(0)
+focuses
+	2 web/mlainer.html
+	=2
+	(0)
+follow
+	2 web/rlibby.html
+	=2
+	(0)
+followed
+	3 web/brain9a_98.html
+	3 web/brain9a_98.html
+	=6
+	(0)
+following
+	2 web/10csu96revansquiz4.html
+	2 web/brain7_98.html
+	2 web/index-3.html
+	2 web/index.html
+	=8
+	(0)
+follows
+	2 web/brain8a_98.html
+	=2
+	(0)
+foot
+	6 web/brain8d_98.html
+	6 web/brain8d_98.html
+	6 web/brain8d_98.html
+	6 web/brain8d_98.html
+	6 web/brain8d_98.html
+	2 web/brain8b_98.html
+	2 web/msutton.html
+	=34
+	(3)
+for
+	ignored (89)
+force
+	2 web/articles.html
+	2 web/brain8d_98.html
+	=4
+	(0)
+forget
+	2 web/math.html
+	=2
+	(0)
+form
+	ignored (6)
+formally
+	2 web/shobbs.html
+	=2
+	(0)
+format
+	4 web/msutton.html
+	4 web/msutton.html
+	4 web/msutton.html
+	=12
+	(1)
+fortran
+	2 web/shobbs.html
+	=2
+	(0)
+fortune
+	2 web/intern_overview.html
+	=2
+	(0)
+forward
+	2 web/brain8d_98.html
+	=2
+	(0)
+found
+	3 web/jcolletto.html
+	3 web/jcolletto.html
+	2 web/10bf97revansmid.html
+	2 web/10csu96revansquiz4.html
+	2 web/shobbs.html
+	=12
+	(1)
+foundations
+	2 web/articles.html
+	=2
+	(0)
+four
+	ignored (5)
+four-year
+	2 web/articles.html
+	=2
+	(0)
+fourth
+	3 web/brain8b_98.html
+	3 web/brain8b_98.html
+	2 web/member_form.html
+	2 web/membership_form.html
+	=10
+	(1)
+fraction
+	2 web/brain8c_98.html
+	2 web/rlibby.html
+	=4
+	(0)
+free
+	3 web/brain9a_98.html
+	3 web/brain9a_98.html
+	2 web/dbuckley.html
+	2 web/lyu.html
+	2 web/mlainer.html
+	=12
+	(1)
+free-throws
+	2 web/brain9a_98.html
+	=2
+	(0)
+freedman
+	3 web/rlibby.html
+	3 web/rlibby.html
+	=6
+	(0)
+frequent
+	2 web/msutton.html
+	=2
+	(0)
+frequently
+	4 web/articles.html
+	4 web/articles.html
+	4 web/articles.html
+	=12
+	(1)
+friday
+	2 web/may.html
+	2 web/may.html
+	=4
+	(0)
+friends
+	2 web/intern_overview.html
+	2 web/jcolletto.html
+	=4
+	(0)
+from
+	ignored (13)
+fulfills
+	2 web/brain8c_98.html
+	=2
+	(0)
+full-time
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	=20
+	(2)
+function
+	ignored (9)
+functional
+	2 web/rlibby.html
+	=2
+	(0)
+functionality
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	=4
+	(0)
+functions
+	3 web/msutton.html
+	3 web/msutton.html
+	2 web/shobbs.html
+	=8
+	(0)
+furman
+	2 web/articles.html
+	=2
+	(0)
+further
+	2 web/intern_overview.html
+	2 web/rlibby.html
+	=4
+	(0)
+furthermore
+	2 web/intern_overview.html
+	=2
+	(0)
+fusion
+	2 web/mlainer.html
+	=2
+	(0)
+future
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	2 web/rlibby.html
+	=14
+	(1)
+g.m
+	2 web/daspaas.html
+	=2
+	(0)
+gain
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	=12
+	(1)
+gains
+	2 web/intern_overview.html
+	=2
+	(0)
+gallon
+	4 web/10csu96revansquiz4.html
+	4 web/10csu96revansquiz4.html
+	4 web/10csu96revansquiz4.html
+	=12
+	(1)
+gallons
+	3 web/10csu96revansquiz4.html
+	3 web/10csu96revansquiz4.html
+	=6
+	(0)
+game
+	7 web/brain9a_98.html
+	7 web/brain9a_98.html
+	7 web/brain9a_98.html
+	7 web/brain9a_98.html
+	7 web/brain9a_98.html
+	7 web/brain9a_98.html
+	=42
+	(4)
+games
+	2 web/shobbs.html
+	=2
+	(0)
+gateway
+	2 web/articles.html
+	=2
+	(0)
+gathering
+	2 web/lyu.html
+	2 web/mlainer.html
+	=4
+	(0)
+gave
+	2 web/shobbs.html
+	=2
+	(0)
+gencorp
+	4 web/mlainer.html
+	4 web/mlainer.html
+	4 web/mlainer.html
+	=12
+	(1)
+general
+	5 web/articles.html
+	5 web/articles.html
+	5 web/articles.html
+	5 web/articles.html
+	2 web/dbuckley.html
+	2 web/shobbs.html
+	=24
+	(2)
+generalized
+	2 web/articles.html
+	=2
+	(0)
+generally
+	2 web/mlainer.html
+	=2
+	(0)
+generated
+	2 web/jcolletto.html
+	2 web/msutton.html
+	=4
+	(0)
+generates
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	=4
+	(0)
+generator
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	=4
+	(0)
+genuine
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+geoff
+	2 web/alumni.html
+	=2
+	(0)
+geoffrion
+	2 web/alumni.html
+	=2
+	(0)
+geometric
+	4 web/brain9a_98.html
+	4 web/brain9a_98.html
+	4 web/brain9a_98.html
+	=12
+	(1)
+geometry
+	2 web/articles.html
+	=2
+	(0)
+geoscience
+	2 web/lyu.html
+	=2
+	(0)
+gerow
+	2 web/alumni.html
+	=2
+	(0)
+get
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	2 web/brain10_98.html
+	2 web/brain7_98.html
+	2 web/brain8c_98.html
+	2 web/jcolletto.html
+	2 web/ktsai.html
+	=34
+	(3)
+gets
+	2 web/brain9a_98.html
+	=2
+	(0)
+getting
+	2 web/intern_overview.html
+	2 web/jcolletto.html
+	=4
+	(0)
+giaimo
+	4 web/brain7_98.html
+	4 web/brain7_98.html
+	4 web/brain7_98.html
+	4 web/brain8c_98.html
+	4 web/brain8c_98.html
+	4 web/brain8c_98.html
+	3 web/brain_archive.html
+	3 web/brain_archive.html
+	=30
+	(3)
+gif
+	3 web/msutton.html
+	3 web/msutton.html
+	=6
+	(0)
+gilman
+	2 web/member_form.html
+	=2
+	(0)
+give
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	4 web/10bf97revansmid.html
+	4 web/10bf97revansmid.html
+	4 web/10bf97revansmid.html
+	3 web/shobbs.html
+	3 web/shobbs.html
+	=38
+	(4)
+given
+	2 web/10bf97revansmid.html
+	2 web/10csu96revansquiz4.html
+	2 web/brain9a_98.html
+	2 web/intern_overview.html
+	=8
+	(0)
+gives
+	2 web/brain10_98.html
+	2 web/intern_overview.html
+	2 web/msutton.html
+	=6
+	(0)
+giving
+	2 web/brain10_98.html
+	=2
+	(0)
+global
+	5 web/dbuckley.html
+	5 web/dbuckley.html
+	5 web/dbuckley.html
+	5 web/dbuckley.html
+	3 web/rlibby.html
+	3 web/rlibby.html
+	2 web/10bf97revansmid.html
+	=28
+	(3)
+glossary
+	2 web/articles.html
+	=2
+	(0)
+goals
+	2 web/ktsai.html
+	=2
+	(0)
+god
+	2 web/may.html
+	2 web/may.html
+	=4
+	(0)
+going
+	2 web/daspaas.html
+	2 web/intern_overview.html
+	=4
+	(0)
+golf
+	2 web/daspaas.html
+	=2
+	(0)
+gone
+	3 web/msutton.html
+	3 web/msutton.html
+	=6
+	(0)
+gonna
+	2 web/mzabrocki.html
+	=2
+	(0)
+good
+	4 web/ktsai.html
+	4 web/ktsai.html
+	4 web/ktsai.html
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	2 web/intern_overview.html
+	2 web/jcolletto.html
+	2 web/msutton.html
+	2 web/shobbs.html
+	=24
+	(2)
+got
+	2 web/math.html
+	=2
+	(0)
+government
+	2 web/articles.html
+	=2
+	(0)
+graceful
+	2 web/shobbs.html
+	=2
+	(0)
+grad
+	3 web/shobbs.html
+	3 web/shobbs.html
+	=6
+	(0)
+grades
+	2 web/jcolletto.html
+	=2
+	(0)
+graduate
+	3 web/articles.html
+	3 web/articles.html
+	2 web/mzabrocki.html
+	2 web/shobbs.html
+	=10
+	(1)
+graduated
+	3 web/daspaas.html
+	3 web/daspaas.html
+	2 web/lyu.html
+	2 web/msutton.html
+	=10
+	(1)
+graduates
+	2 web/alumni.html
+	=2
+	(0)
+graduation
+	3 web/daspaas.html
+	3 web/daspaas.html
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	2 web/lyu.html
+	=14
+	(1)
+gram
+	2 web/10csu96revansquiz4.html
+	=2
+	(0)
+grams
+	4 web/10csu96revansquiz4.html
+	4 web/10csu96revansquiz4.html
+	4 web/10csu96revansquiz4.html
+	=12
+	(1)
+grandjean
+	2 web/alumni.html
+	=2
+	(0)
+granger
+	2 web/alumni.html
+	=2
+	(0)
+graph
+	3 web/10bf97revansmid.html
+	3 web/10bf97revansmid.html
+	=6
+	(0)
+graphics
+	3 web/msutton.html
+	3 web/msutton.html
+	2 web/shobbs.html
+	=8
+	(0)
+gray
+	2 web/alumni.html
+	=2
+	(0)
+green
+	2 web/alumni.html
+	=2
+	(0)
+group
+	4 web/100a97revan.html
+	4 web/100a97revan.html
+	4 web/100a97revan.html
+	4 web/100a97revan.html
+	4 web/100a97revan.html
+	4 web/100a97revan.html
+	2 web/dbuckley.html
+	2 web/rlibby.html
+	=28
+	(3)
+grow
+	2 web/10csu96revansquiz4.html
+	=2
+	(0)
+grown
+	2 web/brain8d_98.html
+	=2
+	(0)
+growth
+	2 web/shobbs.html
+	=2
+	(0)
+guide
+	3 web/articles.html
+	3 web/articles.html
+	2 web/intern_overview.html
+	=8
+	(0)
+guotient
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	=4
+	(0)
+gutierrez
+	2 web/alumni.html
+	=2
+	(0)
+haas
+	2 web/alumni.html
+	=2
+	(0)
+had
+	2 web/brain8a_98.html
+	2 web/intern_overview.html
+	2 web/math.html
+	=6
+	(0)
+hairy
+	2 web/rlibby.html
+	=2
+	(0)
+half
+	4 web/brain8b_98.html
+	4 web/brain8b_98.html
+	4 web/brain8b_98.html
+	=12
+	(1)
+halloween
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	=4
+	(0)
+handbook
+	2 web/articles.html
+	=2
+	(0)
+handle
+	2 web/intern_overview.html
+	=2
+	(0)
+handles
+	2 web/intern_overview.html
+	=2
+	(0)
+hands
+	2 web/intern_overview.html
+	2 web/ktsai.html
+	=4
+	(0)
+hands-on
+	2 web/intern_overview.html
+	=2
+	(0)
+hangs
+	2 web/brain8b_98.html
+	=2
+	(0)
+hard
+	3 web/shobbs.html
+	3 web/shobbs.html
+	=6
+	(0)
+harinder
+	2 web/alumni.html
+	=2
+	(0)
+harmonic
+	2 web/shobbs.html
+	=2
+	(0)
+harris
+	2 web/alumni.html
+	=2
+	(0)
+hartman
+	4 web/brain8d_98.html
+	4 web/brain8d_98.html
+	4 web/brain8d_98.html
+	2 web/alumni.html
+	2 web/brain_archive.html
+	=16
+	(1)
+has
+	ignored (23)
+haughton
+	2 web/alumni.html
+	=2
+	(0)
+have
+	ignored (11)
+having
+	2 web/rlibby.html
+	=2
+	(0)
+head
+	2 web/intern_overview.html
+	=2
+	(0)
+hear
+	2 web/shobbs.html
+	=2
+	(0)
+height
+	2 web/brain8c_98.html
+	=2
+	(0)
+helmholtz
+	2 web/shobbs.html
+	=2
+	(0)
+help
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	3 web/msutton.html
+	3 web/msutton.html
+	2 web/shobbs.html
+	2 web/test.html
+	=30
+	(3)
+helpful
+	2 web/intern_overview.html
+	=2
+	(0)
+helping
+	2 web/shobbs.html
+	=2
+	(0)
+helps
+	2 web/intern_overview.html
+	=2
+	(0)
+helton
+	4 web/20c.html
+	4 web/20c.html
+	4 web/20c.html
+	3 web/20a.html
+	3 web/20a.html
+	2 web/20b.html
+	=20
+	(2)
+hence
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	2 web/intern_overview.html
+	=14
+	(1)
+her
+	4 web/daspaas.html
+	4 web/daspaas.html
+	4 web/daspaas.html
+	2 web/brain9a_98.html
+	2 web/lyu.html
+	2 web/math.html
+	=18
+	(2)
+here
+	ignored (6)
+herm
+	2 web/alumni.html
+	=2
+	(0)
+hers
+	2 web/brain9a_98.html
+	=2
+	(0)
+high
+	2 web/jcolletto.html
+	2 web/ktsai.html
+	2 web/lyu.html
+	2 web/rlibby.html
+	=8
+	(0)
+higher
+	2 web/shobbs.html
+	=2
+	(0)
+highest
+	2 web/ktsai.html
+	=2
+	(0)
+hill
+	2 web/alumni.html
+	=2
+	(0)
+him
+	2 web/math.html
+	=2
+	(0)
+hint
+	4 web/100a97revan.html
+	4 web/100a97revan.html
+	4 web/100a97revan.html
+	4 web/100a97revan.html
+	4 web/100a97revan.html
+	4 web/100a97revan.html
+	=24
+	(2)
+hires
+	2 web/intern_overview.html
+	=2
+	(0)
+hiring
+	2 web/intern_overview.html
+	=2
+	(0)
+his
+	ignored (7)
+histogram
+	2 web/msutton.html
+	=2
+	(0)
+history
+	3 web/articles.html
+	3 web/articles.html
+	2 web/societies.html
+	=8
+	(0)
+hobbs
+	4 web/shobbs.html
+	4 web/shobbs.html
+	4 web/shobbs.html
+	2 web/alumni.html
+	=14
+	(1)
+hold
+	2 web/brain8c_98.html
+	=2
+	(0)
+holding
+	2 web/brain8b_98.html
+	2 web/brain8c_98.html
+	=4
+	(0)
+hole
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+hollow
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+hollyvale
+	2 web/mlainer.html
+	=2
+	(0)
+holmes
+	2 web/alumni.html
+	=2
+	(0)
+home
+	ignored (9)
+honest
+	2 web/brain8a_98.html
+	=2
+	(0)
+hoops
+	4 web/brain9a_98.html
+	4 web/brain9a_98.html
+	4 web/brain9a_98.html
+	2 web/brain_archive.html
+	=14
+	(1)
+hope
+	2 web/msutton.html
+	=2
+	(0)
+hormander
+	3 web/shobbs.html
+	3 web/shobbs.html
+	=6
+	(0)
+hotel
+	4 web/brain8a_98.html
+	4 web/brain8a_98.html
+	4 web/brain8a_98.html
+	=12
+	(1)
+hour
+	6 web/brain10_98.html
+	6 web/brain10_98.html
+	6 web/brain10_98.html
+	6 web/brain10_98.html
+	6 web/brain10_98.html
+	=30
+	(3)
+hours
+	2 web/10csu96revansquiz4.html
+	2 web/jcolletto.html
+	=4
+	(0)
+how
+	ignored (10)
+http
+	2 index.html
+	2 web/mlainer.html
+	=4
+	(0)
+hull
+	2 web/shobbs.html
+	=2
+	(0)
+hunting
+	2 web/intern_overview.html
+	=2
+	(0)
+i.e
+	2 web/10csu96revansquiz4.html
+	=2
+	(0)
+ideas
+	2 web/jcolletto.html
+	=2
+	(0)
+ignorant
+	2 web/shobbs.html
+	=2
+	(0)
+illustrate
+	2 web/brain8d_98.html
+	=2
+	(0)
+immediately
+	2 web/brain8d_98.html
+	=2
+	(0)
+implementing
+	2 web/dbuckley.html
+	=2
+	(0)
+implies
+	2 web/brain7_98.html
+	=2
+	(0)
+important
+	ignored (6)
+impression
+	2 web/shobbs.html
+	=2
+	(0)
+inc
+	3 web/lyu.html
+	3 web/lyu.html
+	2 web/jcolletto.html
+	2 web/msutton.html
+	=10
+	(1)
+inch
+	2 web/brain8b_98.html
+	2 web/brain8d_98.html
+	=4
+	(0)
+inches
+	2 web/10bf97revansmid.html
+	2 web/brain8b_98.html
+	=4
+	(0)
+include
+	2 web/lyu.html
+	2 web/math.html
+	=4
+	(0)
+included
+	2 web/brain8a_98.html
+	=2
+	(0)
+increasingly
+	2 web/intern_overview.html
+	=2
+	(0)
+indicate
+	2 web/member_form.html
+	=2
+	(0)
+individual
+	2 web/intern_overview.html
+	2 web/jcolletto.html
+	2 web/math.html
+	=6
+	(0)
+individuals
+	2 web/jcolletto.html
+	=2
+	(0)
+industrial
+	2 web/intern_overview.html
+	2 web/societies.html
+	=4
+	(0)
+industrielles
+	2 web/societies.html
+	=2
+	(0)
+industry
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	2 web/jcolletto.html
+	=8
+	(0)
+inelastic
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+infinitely
+	2 web/brain8d_98.html
+	=2
+	(0)
+infinity
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+inflection
+	4 web/10bf97revansmid.html
+	4 web/10bf97revansmid.html
+	4 web/10bf97revansmid.html
+	=12
+	(1)
+informally
+	2 web/shobbs.html
+	=2
+	(0)
+information
+	ignored (5)
+informed
+	2 web/intern_overview.html
+	=2
+	(0)
+infrastructure
+	2 web/dbuckley.html
+	=2
+	(0)
+initial
+	3 web/10csu96revansquiz4.html
+	3 web/10csu96revansquiz4.html
+	2 web/brain9a_98.html
+	=8
+	(0)
+initially
+	2 web/brain8d_98.html
+	=2
+	(0)
+inquire
+	2 web/intern_overview.html
+	=2
+	(0)
+inquired
+	2 web/math.html
+	=2
+	(0)
+insight
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	2 web/daspaas.html
+	=8
+	(0)
+inspired
+	2 web/articles.html
+	=2
+	(0)
+inspiring
+	2 web/shobbs.html
+	=2
+	(0)
+install
+	2 web/msutton.html
+	=2
+	(0)
+installment
+	2 web/math.html
+	=2
+	(0)
+instant
+	2 web/brain7_98.html
+	2 web/brain8d_98.html
+	=4
+	(0)
+instantly
+	2 web/10csu96revansquiz4.html
+	=2
+	(0)
+institutes
+	2 web/ktsai.html
+	=2
+	(0)
+instrument
+	2 web/dbuckley.html
+	=2
+	(0)
+int
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	=4
+	(0)
+integers
+	2 web/brain7_98.html
+	=2
+	(0)
+integral
+	3 web/brain10_98.html
+	3 web/brain10_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/shobbs.html
+	3 web/shobbs.html
+	=24
+	(2)
+integrals
+	2 web/shobbs.html
+	=2
+	(0)
+intellectual
+	2 web/rlibby.html
+	=2
+	(0)
+interacted
+	2 web/jcolletto.html
+	=2
+	(0)
+interest
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	2 web/10csu96revansquiz4.html
+	2 web/articles.html
+	2 web/index-3.html
+	2 web/index.html
+	2 web/jcolletto.html
+	=30
+	(3)
+interested
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	2 web/daspaas.html
+	2 web/membership_form.html
+	2 web/mlainer.html
+	=12
+	(1)
+interesting
+	2 web/daspaas.html
+	=2
+	(0)
+interests
+	2 web/intern_overview.html
+	2 web/jcolletto.html
+	=4
+	(0)
+intermediate
+	2 web/mzabrocki.html
+	=2
+	(0)
+intern
+	2 web/intern_overview.html
+	=2
+	(0)
+international
+	2 web/daspaas.html
+	2 web/societies.html
+	=4
+	(0)
+internet
+	3 web/msutton.html
+	3 web/msutton.html
+	=6
+	(0)
+interns
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	=6
+	(0)
+internship
+	ignored (48)
+internships
+	ignored (76)
+interoperate
+	2 web/lyu.html
+	=2
+	(0)
+interpersonal
+	3 web/shobbs.html
+	3 web/shobbs.html
+	=6
+	(0)
+interval
+	3 web/10bf97revansmid.html
+	3 web/10bf97revansmid.html
+	=6
+	(0)
+interview
+	2 web/intern_overview.html
+	=2
+	(0)
+interviewing
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	=6
+	(0)
+interviews
+	2 web/intern_overview.html
+	=2
+	(0)
+into
+	ignored (5)
+introduction
+	2 web/articles.html
+	=2
+	(0)
+introductory
+	2 web/msutton.html
+	=2
+	(0)
+invaluable
+	2 web/daspaas.html
+	=2
+	(0)
+inversely
+	2 web/brain10_98.html
+	=2
+	(0)
+investing
+	2 web/articles.html
+	=2
+	(0)
+investment
+	3 web/ktsai.html
+	3 web/ktsai.html
+	2 web/dbuckley.html
+	=8
+	(0)
+involved
+	2 web/articles.html
+	2 web/daspaas.html
+	2 web/jcolletto.html
+	2 web/shobbs.html
+	=8
+	(0)
+involving
+	2 web/jcolletto.html
+	=2
+	(0)
+irish
+	2 web/societies.html
+	=2
+	(0)
+irresistible
+	2 web/rlibby.html
+	=2
+	(0)
+isaac
+	2 web/jcolletto.html
+	=2
+	(0)
+issues
+	2 web/articles.html
+	2 web/jcolletto.html
+	=4
+	(0)
+item
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+items
+	5 web/math.html
+	5 web/math.html
+	5 web/math.html
+	5 web/math.html
+	2 web/10bf97revansmid.html
+	2 web/alumni.html
+	=24
+	(2)
+ito
+	2 web/shobbs.html
+	=2
+	(0)
+its
+	ignored (5)
+itself
+	2 web/brain8c_98.html
+	2 web/rlibby.html
+	=4
+	(0)
+j.w
+	4 web/20c.html
+	4 web/20c.html
+	4 web/20c.html
+	3 web/20a.html
+	3 web/20a.html
+	2 web/20b.html
+	=20
+	(2)
+james
+	2 web/alumni.html
+	=2
+	(0)
+jankowski
+	2 web/alumni.html
+	=2
+	(0)
+java
+	2 web/msutton.html
+	=2
+	(0)
+javascript
+	2 web/msutton.html
+	=2
+	(0)
+jeffrey
+	2 web/alumni.html
+	=2
+	(0)
+jennifer
+	2 web/alumni.html
+	=2
+	(0)
+job
+	ignored (32)
+jobs
+	4 web/ktsai.html
+	4 web/ktsai.html
+	4 web/ktsai.html
+	=12
+	(1)
+jobtrak
+	2 web/intern_overview.html
+	=2
+	(0)
+joe
+	ignored (18)
+john
+	4 web/brain8b_98.html
+	4 web/brain8b_98.html
+	4 web/brain8b_98.html
+	4 web/jcolletto.html
+	4 web/jcolletto.html
+	4 web/jcolletto.html
+	2 web/alumni.html
+	2 web/brain_archive.html
+	2 web/member_form.html
+	2 web/membership_form.html
+	2 web/mlainer.html
+	=34
+	(3)
+johnson
+	2 web/alumni.html
+	=2
+	(0)
+join
+	2 web/member_form.html
+	=2
+	(0)
+joining
+	2 web/membership_form.html
+	2 web/rlibby.html
+	=4
+	(0)
+jolla
+	2 web/member_form.html
+	=2
+	(0)
+joseph
+	2 web/alumni.html
+	=2
+	(0)
+journals
+	6 web/articles.html
+	6 web/articles.html
+	6 web/articles.html
+	6 web/articles.html
+	6 web/articles.html
+	=30
+	(3)
+july
+	2 web/brain_archive.html
+	=2
+	(0)
+june
+	2 web/brain_archive.html
+	2 web/lyu.html
+	=4
+	(0)
+just
+	4 web/shobbs.html
+	4 web/shobbs.html
+	4 web/shobbs.html
+	2 web/brain8d_98.html
+	2 web/daspaas.html
+	2 web/intern_overview.html
+	2 web/msutton.html
+	2 web/rlibby.html
+	=22
+	(2)
+k-1
+	2 web/brain9a_98.html
+	=2
+	(0)
+kao-tai
+	4 web/ktsai.html
+	4 web/ktsai.html
+	4 web/ktsai.html
+	2 web/alumni.html
+	=14
+	(1)
+kathy
+	2 web/alumni.html
+	=2
+	(0)
+keep
+	2 web/brain8a_98.html
+	2 web/ktsai.html
+	2 web/msutton.html
+	=6
+	(0)
+kellie
+	2 web/alumni.html
+	=2
+	(0)
+kent
+	4 web/brain8d_98.html
+	4 web/brain8d_98.html
+	4 web/brain8d_98.html
+	2 web/alumni.html
+	2 web/brain_archive.html
+	=16
+	(1)
+kept
+	3 web/brain8a_98.html
+	3 web/brain8a_98.html
+	2 web/daspaas.html
+	=8
+	(0)
+kevin
+	2 web/alumni.html
+	=2
+	(0)
+key
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	=6
+	(0)
+khayyam
+	2 web/articles.html
+	=2
+	(0)
+kilkenny
+	2 web/alumni.html
+	=2
+	(0)
+kimmelman
+	2 web/alumni.html
+	=2
+	(0)
+know
+	4 web/jcolletto.html
+	4 web/jcolletto.html
+	4 web/jcolletto.html
+	3 web/brain7_98.html
+	3 web/brain7_98.html
+	3 web/brain8b_98.html
+	3 web/brain8b_98.html
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	=30
+	(3)
+knowledge
+	2 web/ktsai.html
+	2 web/shobbs.html
+	=4
+	(0)
+known
+	4 web/100a97revan.html
+	4 web/100a97revan.html
+	4 web/100a97revan.html
+	4 web/100a97revan.html
+	4 web/100a97revan.html
+	4 web/100a97revan.html
+	=24
+	(2)
+koike
+	2 web/alumni.html
+	=2
+	(0)
+kosko
+	2 web/alumni.html
+	=2
+	(0)
+kostyshak
+	2 web/alumni.html
+	=2
+	(0)
+kth
+	5 web/brain9a_98.html
+	5 web/brain9a_98.html
+	5 web/brain9a_98.html
+	5 web/brain9a_98.html
+	=20
+	(2)
+lab
+	3 web/shobbs.html
+	3 web/shobbs.html
+	2 web/daspaas.html
+	=8
+	(0)
+label
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+labor
+	2 web/articles.html
+	=2
+	(0)
+labs
+	3 web/ktsai.html
+	3 web/ktsai.html
+	=6
+	(0)
+lainer
+	5 web/mlainer.html
+	5 web/mlainer.html
+	5 web/mlainer.html
+	5 web/mlainer.html
+	2 web/alumni.html
+	=22
+	(2)
+lake
+	7 web/10csu96revansquiz4.html
+	7 web/10csu96revansquiz4.html
+	7 web/10csu96revansquiz4.html
+	7 web/10csu96revansquiz4.html
+	7 web/10csu96revansquiz4.html
+	7 web/10csu96revansquiz4.html
+	=42
+	(4)
+lama
+	2 web/alumni.html
+	=2
+	(0)
+lan
+	2 web/msutton.html
+	=2
+	(0)
+languages
+	2 web/shobbs.html
+	=2
+	(0)
+lars
+	2 web/shobbs.html
+	=2
+	(0)
+last
+	2 web/brain9a_98.html
+	2 web/intern_overview.html
+	2 web/msutton.html
+	=6
+	(0)
+lasting
+	2 web/shobbs.html
+	=2
+	(0)
+later
+	3 web/brain10_98.html
+	3 web/brain10_98.html
+	2 web/10csu96revansquiz4.html
+	=8
+	(0)
+latest
+	2 web/math.html
+	2 web/rlibby.html
+	=4
+	(0)
+law
+	2 web/10csu96revansquiz4.html
+	=2
+	(0)
+lead
+	2 web/intern_overview.html
+	=2
+	(0)
+learn
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	3 web/msutton.html
+	3 web/msutton.html
+	3 web/shobbs.html
+	3 web/shobbs.html
+	=32
+	(3)
+learned
+	2 web/rlibby.html
+	=2
+	(0)
+learning
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	2 web/mlainer.html
+	2 web/shobbs.html
+	=10
+	(1)
+least
+	4 web/brain6_98.html
+	4 web/brain6_98.html
+	4 web/brain6_98.html
+	4 web/brain6_98.html
+	4 web/brain6_98.html
+	4 web/brain6_98.html
+	3 web/shobbs.html
+	3 web/shobbs.html
+	2 web/brain7_98.html
+	2 web/intern_overview.html
+	2 web/jcolletto.html
+	=36
+	(4)
+lecture
+	2 web/shobbs.html
+	=2
+	(0)
+lectures
+	2 web/shobbs.html
+	=2
+	(0)
+led
+	2 web/rlibby.html
+	=2
+	(0)
+left
+	3 web/shobbs.html
+	3 web/shobbs.html
+	2 web/brain8a_98.html
+	=8
+	(0)
+leg
+	2 web/intern_overview.html
+	=2
+	(0)
+length
+	5 web/brain8b_98.html
+	5 web/brain8b_98.html
+	5 web/brain8b_98.html
+	5 web/brain8b_98.html
+	=20
+	(2)
+less
+	3 web/brain8d_98.html
+	3 web/brain8d_98.html
+	=6
+	(0)
+let
+	3 web/100a97revan.html
+	3 web/100a97revan.html
+	3 web/100a97revan.html
+	3 web/100a97revan.html
+	3 web/10bf97revansmid.html
+	3 web/10bf97revansmid.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	2 web/10csu96revansquiz4.html
+	2 web/brain10_98.html
+	2 web/brain8b_98.html
+	=36
+	(4)
+letter
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+letters
+	3 web/100a97revan.html
+	3 web/100a97revan.html
+	3 web/100a97revan.html
+	3 web/100a97revan.html
+	=12
+	(1)
+level
+	2 web/dbuckley.html
+	2 web/lyu.html
+	2 web/shobbs.html
+	=6
+	(0)
+levels
+	2 web/jcolletto.html
+	=2
+	(0)
+libby
+	4 web/rlibby.html
+	4 web/rlibby.html
+	4 web/rlibby.html
+	2 web/alumni.html
+	=14
+	(1)
+libraries
+	2 web/intern_overview.html
+	=2
+	(0)
+library
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	=6
+	(0)
+lie
+	2 web/articles.html
+	=2
+	(0)
+life
+	4 web/ktsai.html
+	4 web/ktsai.html
+	4 web/ktsai.html
+	2 web/articles.html
+	=14
+	(1)
+like
+	ignored (7)
+liked
+	2 web/msutton.html
+	=2
+	(0)
+likelihood
+	2 web/shobbs.html
+	=2
+	(0)
+likely
+	2 web/articles.html
+	2 web/brain7_98.html
+	=4
+	(0)
+limit
+	2 web/articles.html
+	=2
+	(0)
+limited
+	2 web/daspaas.html
+	=2
+	(0)
+lin
+	4 web/20c.html
+	4 web/20c.html
+	4 web/20c.html
+	3 web/lin97su.html
+	3 web/lin97su.html
+	3 web/test.html
+	3 web/test.html
+	2 web/109.html
+	2 web/109f97lin.html
+	2 web/20a.html
+	2 web/20e.html
+	=32
+	(3)
+linear
+	3 web/shobbs.html
+	3 web/shobbs.html
+	=6
+	(0)
+link
+	2 web/166.html
+	=2
+	(0)
+linkabit
+	2 web/daspaas.html
+	=2
+	(0)
+linked
+	2 web/alumni.html
+	2 web/index-3.html
+	2 web/index.html
+	=6
+	(0)
+list
+	4 web/articles.html
+	4 web/articles.html
+	4 web/articles.html
+	=12
+	(1)
+listed
+	2 web/brain9a_98.html
+	=2
+	(0)
+listing
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	=6
+	(0)
+listings
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	=6
+	(0)
+lists
+	2 web/articles.html
+	=2
+	(0)
+little
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	=6
+	(0)
+living
+	2 web/rlibby.html
+	=2
+	(0)
+load
+	2 web/shobbs.html
+	=2
+	(0)
+local
+	3 web/10bf97revansmid.html
+	3 web/10bf97revansmid.html
+	=6
+	(0)
+locate
+	2 web/articles.html
+	=2
+	(0)
+located
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	2 web/msutton.html
+	=8
+	(0)
+location
+	2 web/jcolletto.html
+	=2
+	(0)
+logical
+	2 web/articles.html
+	2 web/shobbs.html
+	=4
+	(0)
+lois
+	ignored (5)
+loma
+	2 web/dbuckley.html
+	=2
+	(0)
+london
+	2 web/daspaas.html
+	2 web/societies.html
+	=4
+	(0)
+long
+	4 web/brain8b_98.html
+	4 web/brain8b_98.html
+	4 web/brain8b_98.html
+	3 web/10csu96revansquiz4.html
+	3 web/10csu96revansquiz4.html
+	2 web/brain8d_98.html
+	2 web/jcolletto.html
+	=22
+	(2)
+looking
+	2 web/shobbs.html
+	=2
+	(0)
+loss
+	2 web/intern_overview.html
+	=2
+	(0)
+lot
+	3 web/shobbs.html
+	3 web/shobbs.html
+	2 web/ktsai.html
+	=8
+	(0)
+lots
+	4 web/shobbs.html
+	4 web/shobbs.html
+	4 web/shobbs.html
+	2 web/jcolletto.html
+	2 web/ktsai.html
+	=16
+	(1)
+love
+	3 web/shobbs.html
+	3 web/shobbs.html
+	=6
+	(0)
+lower
+	2 web/test.html
+	=2
+	(0)
+luck
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	2 web/ktsai.html
+	=6
+	(0)
+lucky
+	2 web/daspaas.html
+	=2
+	(0)
+m.a
+	5 web/alumni.html
+	5 web/alumni.html
+	5 web/alumni.html
+	5 web/alumni.html
+	2 web/rlibby.html
+	=22
+	(2)
+m.s
+	3 web/lyu.html
+	3 web/lyu.html
+	2 web/alumni.html
+	=8
+	(0)
+macdonald
+	2 web/mzabrocki.html
+	=2
+	(0)
+made
+	2 web/articles.html
+	2 web/intern_overview.html
+	=4
+	(0)
+maggie
+	ignored (10)
+mail
+	2 web/intern_overview.html
+	2 web/member_form.html
+	=4
+	(0)
+mainly
+	2 web/jcolletto.html
+	=2
+	(0)
+maintain
+	2 web/intern_overview.html
+	=2
+	(0)
+maintaining
+	2 web/rlibby.html
+	=2
+	(0)
+major
+	3 web/articles.html
+	3 web/articles.html
+	3 web/ktsai.html
+	3 web/ktsai.html
+	2 web/intern_overview.html
+	2 web/jcolletto.html
+	2 web/lyu.html
+	2 web/member_form.html
+	2 web/membership_form.html
+	2 web/msutton.html
+	2 web/rlibby.html
+	2 web/shobbs.html
+	=28
+	(3)
+majoring
+	2 web/articles.html
+	=2
+	(0)
+majors
+	ignored (5)
+make
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	2 web/ktsai.html
+	2 web/test.html
+	=16
+	(1)
+makes
+	ignored (6)
+making
+	3 web/brain9a_98.html
+	3 web/brain9a_98.html
+	=6
+	(0)
+males
+	2 web/articles.html
+	=2
+	(0)
+malley
+	2 web/alumni.html
+	=2
+	(0)
+man
+	3 web/brain7_98.html
+	3 web/brain7_98.html
+	2 web/10csu96revansquiz4.html
+	2 web/brain8a_98.html
+	=10
+	(1)
+manage
+	3 web/dbuckley.html
+	3 web/dbuckley.html
+	2 web/msutton.html
+	=8
+	(0)
+management
+	2 web/dbuckley.html
+	2 web/rlibby.html
+	2 web/shobbs.html
+	=6
+	(0)
+manager
+	4 web/dbuckley.html
+	4 web/dbuckley.html
+	4 web/dbuckley.html
+	2 web/rlibby.html
+	=14
+	(1)
+managers
+	2 web/jcolletto.html
+	2 web/shobbs.html
+	=4
+	(0)
+manages
+	2 web/rlibby.html
+	=2
+	(0)
+managingthis
+	2 web/dbuckley.html
+	=2
+	(0)
+manifolds
+	2 web/shobbs.html
+	=2
+	(0)
+manuel
+	4 web/msutton.html
+	4 web/msutton.html
+	4 web/msutton.html
+	2 web/alumni.html
+	=14
+	(1)
+many
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	4 web/shobbs.html
+	4 web/shobbs.html
+	4 web/shobbs.html
+	3 web/articles.html
+	3 web/articles.html
+	2 web/msutton.html
+	=32
+	(3)
+march
+	2 web/brain8d_98.html
+	=2
+	(0)
+marches
+	2 web/brain8d_98.html
+	=2
+	(0)
+marching
+	4 web/brain8d_98.html
+	4 web/brain8d_98.html
+	4 web/brain8d_98.html
+	2 web/brain_archive.html
+	=14
+	(1)
+mariel
+	2 web/alumni.html
+	=2
+	(0)
+market
+	4 web/rlibby.html
+	4 web/rlibby.html
+	4 web/rlibby.html
+	2 web/dbuckley.html
+	2 web/intern_overview.html
+	=16
+	(1)
+marketplace
+	2 web/intern_overview.html
+	=2
+	(0)
+marshall
+	2 web/member_form.html
+	2 web/membership_form.html
+	=4
+	(0)
+marty
+	2 web/alumni.html
+	=2
+	(0)
+mass
+	2 web/intern_overview.html
+	=2
+	(0)
+master
+	2 web/mlainer.html
+	=2
+	(0)
+material
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	=12
+	(1)
+math
+	ignored (374)
+math-computer
+	6 web/alumni.html
+	6 web/alumni.html
+	6 web/alumni.html
+	6 web/alumni.html
+	6 web/alumni.html
+	=30
+	(3)
+math.ucsd.edu
+	2 web/mzabrocki.html
+	=2
+	(0)
+mathclub
+	2 web/math.html
+	=2
+	(0)
+mathematica
+	2 web/articles.html
+	=2
+	(0)
+mathematical
+	ignored (32)
+mathematically
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	=4
+	(0)
+mathematician
+	4 web/shobbs.html
+	4 web/shobbs.html
+	4 web/shobbs.html
+	2 web/jcolletto.html
+	2 web/rlibby.html
+	=16
+	(1)
+mathematics
+	ignored (30)
+matiques
+	2 web/societies.html
+	=2
+	(0)
+matlab
+	2 web/shobbs.html
+	=2
+	(0)
+max
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+maxim
+	ignored (6)
+maximize
+	2 web/brain8c_98.html
+	=2
+	(0)
+maximized
+	3 web/brain8c_98.html
+	3 web/brain8c_98.html
+	2 web/10bf97revansmid.html
+	=8
+	(0)
+maximum
+	3 web/brain8c_98.html
+	3 web/brain8c_98.html
+	2 web/10bf97revansmid.html
+	2 web/shobbs.html
+	=10
+	(1)
+may
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	2 web/10bf97revansmid.html
+	2 web/10csu96revansquiz4.html
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	2 web/brain8c_98.html
+	2 web/daspaas.html
+	2 web/may.html
+	2 web/may.html
+	=40
+	(4)
+maybe
+	2 web/jcolletto.html
+	=2
+	(0)
+means
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	2 web/rlibby.html
+	=6
+	(0)
+measure
+	3 web/rlibby.html
+	3 web/rlibby.html
+	=6
+	(0)
+media
+	2 web/articles.html
+	2 web/intern_overview.html
+	=4
+	(0)
+median
+	2 web/articles.html
+	=2
+	(0)
+medrano
+	2 web/alumni.html
+	=2
+	(0)
+meet
+	2 web/intern_overview.html
+	=2
+	(0)
+meeting
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	2 web/may.html
+	2 web/may.html
+	=8
+	(0)
+member...fill
+	2 web/index-2.html
+	=2
+	(0)
+membership
+	3 web/member_form.html
+	3 web/member_form.html
+	3 web/membership_form.html
+	3 web/membership_form.html
+	2 web/index-2.html
+	2 web/index-3.html
+	2 web/index.html
+	2 web/rlibby.html
+	=20
+	(2)
+men
+	6 web/brain8a_98.html
+	6 web/brain8a_98.html
+	6 web/brain8a_98.html
+	6 web/brain8a_98.html
+	6 web/brain8a_98.html
+	2 web/brain7_98.html
+	=32
+	(3)
+mental
+	2 web/shobbs.html
+	=2
+	(0)
+mentions
+	2 web/brain7_98.html
+	=2
+	(0)
+methods
+	3 web/rlibby.html
+	3 web/rlibby.html
+	2 web/shobbs.html
+	=8
+	(0)
+meticulous
+	2 web/shobbs.html
+	=2
+	(0)
+metron
+	5 web/lyu.html
+	5 web/lyu.html
+	5 web/lyu.html
+	5 web/lyu.html
+	=20
+	(2)
+mexico
+	2 web/daspaas.html
+	=2
+	(0)
+michael
+	2 web/alumni.html
+	2 web/rlibby.html
+	=4
+	(0)
+micheal
+	2 web/alumni.html
+	=2
+	(0)
+microsoft
+	2 web/jcolletto.html
+	2 web/rlibby.html
+	=4
+	(0)
+midterm
+	ignored (6)
+might
+	2 web/intern_overview.html
+	2 web/shobbs.html
+	=4
+	(0)
+mike
+	4 web/mzabrocki.html
+	4 web/mzabrocki.html
+	4 web/mzabrocki.html
+	=12
+	(1)
+miller
+	2 web/alumni.html
+	=2
+	(0)
+min
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+minimum
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	=6
+	(0)
+minor
+	2 web/jcolletto.html
+	2 web/msutton.html
+	=4
+	(0)
+minus
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+minute
+	ignored (6)
+minutes
+	5 web/brain8d_98.html
+	5 web/brain8d_98.html
+	5 web/brain8d_98.html
+	5 web/brain8d_98.html
+	=20
+	(2)
+miss
+	4 web/brain9a_98.html
+	4 web/brain9a_98.html
+	4 web/brain9a_98.html
+	4 web/shobbs.html
+	4 web/shobbs.html
+	4 web/shobbs.html
+	=24
+	(2)
+misses
+	4 web/brain9a_98.html
+	4 web/brain9a_98.html
+	4 web/brain9a_98.html
+	=12
+	(1)
+missile
+	2 web/mlainer.html
+	=2
+	(0)
+missing
+	5 web/brain8a_98.html
+	5 web/brain8a_98.html
+	5 web/brain8a_98.html
+	5 web/brain8a_98.html
+	2 web/brain9a_98.html
+	2 web/brain_archive.html
+	=24
+	(2)
+mission
+	3 web/dbuckley.html
+	3 web/dbuckley.html
+	=6
+	(0)
+mistake
+	2 web/brain8a_98.html
+	=2
+	(0)
+mistakes
+	3 web/articles.html
+	3 web/articles.html
+	=6
+	(0)
+mix
+	2 web/10csu96revansquiz4.html
+	=2
+	(0)
+mixture
+	2 web/10csu96revansquiz4.html
+	=2
+	(0)
+mock
+	2 web/intern_overview.html
+	=2
+	(0)
+mod
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	=4
+	(0)
+modern
+	2 web/articles.html
+	2 web/msutton.html
+	=4
+	(0)
+monday
+	2 web/may.html
+	2 web/may.html
+	=4
+	(0)
+money
+	2 web/ktsai.html
+	=2
+	(0)
+monitoring
+	2 web/dbuckley.html
+	=2
+	(0)
+monkey
+	ignored (39)
+month
+	2 web/intern_overview.html
+	=2
+	(0)
+monthly
+	3 web/jcolletto.html
+	3 web/jcolletto.html
+	=6
+	(0)
+montreal
+	3 web/mzabrocki.html
+	3 web/mzabrocki.html
+	=6
+	(0)
+more
+	ignored (8)
+morning
+	2 web/brain10_98.html
+	=2
+	(0)
+morrison
+	2 web/alumni.html
+	=2
+	(0)
+most
+	ignored (5)
+mother
+	ignored (8)
+motion
+	2 web/articles.html
+	2 web/lyu.html
+	=4
+	(0)
+motivated
+	2 web/daspaas.html
+	=2
+	(0)
+move
+	2 web/shobbs.html
+	=2
+	(0)
+moved
+	2 web/brain8d_98.html
+	2 web/daspaas.html
+	=4
+	(0)
+movies
+	2 web/articles.html
+	=2
+	(0)
+much
+	4 web/shobbs.html
+	4 web/shobbs.html
+	4 web/shobbs.html
+	3 web/brain10_98.html
+	3 web/brain10_98.html
+	2 web/10csu96revansquiz4.html
+	2 web/brain8b_98.html
+	=22
+	(2)
+muir
+	2 web/member_form.html
+	2 web/membership_form.html
+	2 web/mlainer.html
+	=6
+	(0)
+multiplication
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	=4
+	(0)
+multiplied
+	3 web/math.html
+	3 web/math.html
+	=6
+	(0)
+multiply
+	3 web/brain8d_98.html
+	3 web/brain8d_98.html
+	=6
+	(0)
+multisensor
+	2 web/mlainer.html
+	=2
+	(0)
+multivariate
+	2 web/shobbs.html
+	=2
+	(0)
+munitions
+	2 web/mlainer.html
+	=2
+	(0)
+murder
+	2 web/10csu96revansquiz4.html
+	=2
+	(0)
+murdered
+	2 web/10csu96revansquiz4.html
+	=2
+	(0)
+music
+	2 web/articles.html
+	=2
+	(0)
+must
+	4 web/brain8c_98.html
+	4 web/brain8c_98.html
+	4 web/brain8c_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain7_98.html
+	3 web/brain7_98.html
+	2 web/jcolletto.html
+	=32
+	(3)
+mutually
+	2 web/intern_overview.html
+	=2
+	(0)
+nacm.com
+	2 web/dbuckley.html
+	=2
+	(0)
+name
+	3 web/math.html
+	3 web/math.html
+	2 web/jcolletto.html
+	2 web/member_form.html
+	2 web/membership_form.html
+	2 web/shobbs.html
+	=14
+	(1)
+names
+	2 web/shobbs.html
+	=2
+	(0)
+national
+	2 web/intern_overview.html
+	=2
+	(0)
+nature
+	2 web/brain8c_98.html
+	=2
+	(0)
+naval
+	4 web/lyu.html
+	4 web/lyu.html
+	4 web/lyu.html
+	2 web/dbuckley.html
+	2 web/shobbs.html
+	=16
+	(1)
+navy
+	4 web/shobbs.html
+	4 web/shobbs.html
+	4 web/shobbs.html
+	=12
+	(1)
+nbsp
+	ignored (630)
+necessarily
+	2 web/shobbs.html
+	=2
+	(0)
+need
+	3 web/jcolletto.html
+	3 web/jcolletto.html
+	2 web/brain8d_98.html
+	=8
+	(0)
+needed
+	3 web/ktsai.html
+	3 web/ktsai.html
+	=6
+	(0)
+negative
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+network
+	3 web/dbuckley.html
+	3 web/dbuckley.html
+	=6
+	(0)
+networking
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	2 web/daspaas.html
+	=8
+	(0)
+never
+	2 web/brain8c_98.html
+	=2
+	(0)
+new
+	2 web/articles.html
+	2 web/brain8d_98.html
+	2 web/daspaas.html
+	2 web/intern_overview.html
+	2 web/math.html
+	2 web/rlibby.html
+	2 web/societies.html
+	=14
+	(1)
+newly
+	2 web/index-3.html
+	2 web/index.html
+	=4
+	(0)
+newsletter
+	2 web/index-3.html
+	2 web/index.html
+	2 web/member_form.html
+	2 web/membership_form.html
+	=8
+	(0)
+newton
+	2 web/10csu96revansquiz4.html
+	2 web/jcolletto.html
+	=4
+	(0)
+next
+	2 web/brain8d_98.html
+	2 web/intern_overview.html
+	2 web/jcolletto.html
+	2 web/math.html
+	=8
+	(0)
+nguyen
+	2 web/alumni.html
+	=2
+	(0)
+nicholas
+	ignored (5)
+night
+	2 web/brain8a_98.html
+	=2
+	(0)
+non-academic
+	2 web/rlibby.html
+	=2
+	(0)
+non-math
+	2 web/articles.html
+	=2
+	(0)
+non-technical
+	2 web/shobbs.html
+	=2
+	(0)
+nonzero
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+noon
+	2 web/10csu96revansquiz4.html
+	=2
+	(0)
+normal
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	2 web/10csu96revansquiz4.html
+	=6
+	(0)
+not
+	ignored (14)
+not-so-practical
+	2 web/articles.html
+	=2
+	(0)
+notation
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	=4
+	(0)
+note
+	2 web/10.html
+	2 web/10.html
+	2 web/10bf97revansmid.html
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	2 web/brain8d_98.html
+	=12
+	(1)
+notebooks
+	2 web/articles.html
+	=2
+	(0)
+notes
+	2 web/brain7_98.html
+	2 web/shobbs.html
+	=4
+	(0)
+notice
+	2 web/brain8d_98.html
+	=2
+	(0)
+notoriety
+	2 web/math.html
+	=2
+	(0)
+november
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+now
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	2 web/10bf97revansmid.html
+	2 web/brain8b_98.html
+	2 web/brain9a_98.html
+	2 web/daspaas.html
+	2 web/rlibby.html
+	=22
+	(2)
+nowhere
+	2 web/jcolletto.html
+	=2
+	(0)
+nth
+	2 web/brain8d_98.html
+	=2
+	(0)
+number
+	3 web/10bf97revansmid.html
+	3 web/10bf97revansmid.html
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	2 web/10csu96revansquiz4.html
+	2 web/articles.html
+	2 web/brain8d_98.html
+	=18
+	(2)
+numbers
+	3 web/ktsai.html
+	3 web/ktsai.html
+	2 web/10bf97revansmid.html
+	=8
+	(0)
+numerical
+	2 web/alumni.html
+	2 web/msutton.html
+	2 web/shobbs.html
+	=6
+	(0)
+observe
+	2 web/intern_overview.html
+	=2
+	(0)
+obtain
+	2 web/mlainer.html
+	=2
+	(0)
+obtained
+	3 web/mzabrocki.html
+	3 web/mzabrocki.html
+	=6
+	(0)
+obtaining
+	2 web/rlibby.html
+	=2
+	(0)
+occasionally
+	2 web/shobbs.html
+	=2
+	(0)
+occassionally
+	2 web/jcolletto.html
+	=2
+	(0)
+occupational
+	3 web/articles.html
+	3 web/articles.html
+	=6
+	(0)
+occur
+	2 web/brain8c_98.html
+	=2
+	(0)
+ocean
+	2 web/dbuckley.html
+	=2
+	(0)
+october
+	2 web/brain_archive.html
+	=2
+	(0)
+odbc
+	2 web/msutton.html
+	=2
+	(0)
+odes
+	3 web/shobbs.html
+	3 web/shobbs.html
+	=6
+	(0)
+off
+	2 web/intern_overview.html
+	2 web/member_form.html
+	=4
+	(0)
+offer
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	=12
+	(1)
+offered
+	2 web/articles.html
+	=2
+	(0)
+offers
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	=6
+	(0)
+office
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	2 web/articles.html
+	2 web/daspaas.html
+	2 web/member_form.html
+	2 web/shobbs.html
+	=28
+	(3)
+offices
+	2 web/dbuckley.html
+	=2
+	(0)
+offsite
+	2 web/msutton.html
+	=2
+	(0)
+often
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	=12
+	(1)
+okay
+	2 web/math.html
+	=2
+	(0)
+old
+	ignored (13)
+oldest
+	4 web/brain7_98.html
+	4 web/brain7_98.html
+	4 web/brain7_98.html
+	=12
+	(1)
+olds
+	2 web/brain7_98.html
+	=2
+	(0)
+olzer
+	2 web/alumni.html
+	=2
+	(0)
+omar
+	2 web/articles.html
+	=2
+	(0)
+on-line
+	2 web/intern_overview.html
+	=2
+	(0)
+on-the-job
+	2 web/intern_overview.html
+	=2
+	(0)
+once
+	2 web/10csu96revansquiz4.html
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	=6
+	(0)
+one
+	ignored (16)
+one-third
+	3 web/brain8d_98.html
+	3 web/brain8d_98.html
+	=6
+	(0)
+online
+	2 web/articles.html
+	=2
+	(0)
+only
+	4 web/10csu96revansquiz4.html
+	4 web/10csu96revansquiz4.html
+	4 web/10csu96revansquiz4.html
+	3 web/brain7_98.html
+	3 web/brain7_98.html
+	3 web/brain8a_98.html
+	3 web/brain8a_98.html
+	3 web/brain8c_98.html
+	3 web/brain8c_98.html
+	2 web/brain10_98.html
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	2 web/brain9a_98.html
+	2 web/intern_overview.html
+	=40
+	(4)
+operation
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	2 web/jcolletto.html
+	=6
+	(0)
+operations
+	2 web/daspaas.html
+	=2
+	(0)
+opportunities
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	3 web/daspaas.html
+	3 web/daspaas.html
+	2 web/articles.html
+	2 web/dbuckley.html
+	2 web/ktsai.html
+	2 web/rlibby.html
+	=26
+	(3)
+opportunity
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	=6
+	(0)
+opposite
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	=4
+	(0)
+options
+	2 web/articles.html
+	2 web/lyu.html
+	2 web/mlainer.html
+	=6
+	(0)
+order
+	ignored (13)
+orders
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	=4
+	(0)
+organization
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	=6
+	(0)
+organizations
+	2 web/articles.html
+	=2
+	(0)
+organized
+	2 web/intern_overview.html
+	=2
+	(0)
+original
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	=4
+	(0)
+other
+	4 web/brain8d_98.html
+	4 web/brain8d_98.html
+	4 web/brain8d_98.html
+	3 web/msutton.html
+	3 web/msutton.html
+	2 web/articles.html
+	2 web/brain10_98.html
+	2 web/brain7_98.html
+	2 web/brain8b_98.html
+	2 web/intern_overview.html
+	2 web/mlainer.html
+	=30
+	(3)
+ounces
+	2 web/brain8b_98.html
+	=2
+	(0)
+our
+	3 web/msutton.html
+	3 web/msutton.html
+	3 web/shobbs.html
+	3 web/shobbs.html
+	2 web/intern_overview.html
+	2 web/member_form.html
+	2 web/membership_form.html
+	=18
+	(2)
+out
+	4 web/shobbs.html
+	4 web/shobbs.html
+	4 web/shobbs.html
+	3 web/brain8c_98.html
+	3 web/brain8c_98.html
+	2 web/10csu96revansquiz4.html
+	2 web/brain10_98.html
+	2 web/brain7_98.html
+	2 web/index-2.html
+	2 web/ktsai.html
+	2 web/rlibby.html
+	=30
+	(3)
+outcome
+	ignored (10)
+outcomes
+	6 web/brain9a_98.html
+	6 web/brain9a_98.html
+	6 web/brain9a_98.html
+	6 web/brain9a_98.html
+	6 web/brain9a_98.html
+	=30
+	(3)
+outlook
+	3 web/articles.html
+	3 web/articles.html
+	=6
+	(0)
+outside
+	2 web/10csu96revansquiz4.html
+	2 web/daspaas.html
+	2 web/jcolletto.html
+	=6
+	(0)
+over
+	4 web/articles.html
+	4 web/articles.html
+	4 web/articles.html
+	3 web/msutton.html
+	3 web/msutton.html
+	2 web/brain8b_98.html
+	2 web/brain8c_98.html
+	2 web/brain8d_98.html
+	2 web/daspaas.html
+	=26
+	(3)
+overcharged
+	2 web/brain8a_98.html
+	=2
+	(0)
+overview
+	2 web/intern_overview.html
+	=2
+	(0)
+owes
+	2 web/shobbs.html
+	=2
+	(0)
+own
+	3 web/daspaas.html
+	3 web/daspaas.html
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	=12
+	(1)
+owned
+	2 web/daspaas.html
+	=2
+	(0)
+p.o
+	2 web/mlainer.html
+	=2
+	(0)
+packages
+	3 web/shobbs.html
+	3 web/shobbs.html
+	=6
+	(0)
+page
+	ignored (6)
+pages
+	2 web/articles.html
+	2 web/index-3.html
+	2 web/index.html
+	=6
+	(0)
+paid
+	6 web/intern_overview.html
+	6 web/intern_overview.html
+	6 web/intern_overview.html
+	6 web/intern_overview.html
+	6 web/intern_overview.html
+	4 web/brain8a_98.html
+	4 web/brain8a_98.html
+	4 web/brain8a_98.html
+	=42
+	(4)
+paper
+	ignored (5)
+papers
+	5 web/articles.html
+	5 web/articles.html
+	5 web/articles.html
+	5 web/articles.html
+	=20
+	(2)
+paperwork
+	2 web/intern_overview.html
+	=2
+	(0)
+parameter
+	2 web/mlainer.html
+	=2
+	(0)
+parekh
+	2 web/alumni.html
+	=2
+	(0)
+parent
+	2 web/mlainer.html
+	=2
+	(0)
+part
+	ignored (5)
+part-time
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	=6
+	(0)
+participate
+	2 web/intern_overview.html
+	=2
+	(0)
+participated
+	2 web/intern_overview.html
+	=2
+	(0)
+participating
+	2 web/intern_overview.html
+	=2
+	(0)
+partners
+	2 web/intern_overview.html
+	=2
+	(0)
+passage
+	2 web/brain8b_98.html
+	=2
+	(0)
+passed
+	2 web/brain8d_98.html
+	=2
+	(0)
+past
+	2 web/brain_archive.html
+	2 web/intern_overview.html
+	2 web/math.html
+	=6
+	(0)
+paste
+	2 web/member_form.html
+	=2
+	(0)
+path
+	2 web/intern_overview.html
+	2 web/rlibby.html
+	=4
+	(0)
+paths
+	2 web/msutton.html
+	=2
+	(0)
+pattern
+	2 web/brain8d_98.html
+	=2
+	(0)
+pay
+	2 web/intern_overview.html
+	=2
+	(0)
+paying
+	2 web/jcolletto.html
+	=2
+	(0)
+pays
+	2 web/intern_overview.html
+	=2
+	(0)
+pde
+	3 web/shobbs.html
+	3 web/shobbs.html
+	=6
+	(0)
+pdes
+	2 web/shobbs.html
+	=2
+	(0)
+people
+	6 web/shobbs.html
+	6 web/shobbs.html
+	6 web/shobbs.html
+	6 web/shobbs.html
+	6 web/shobbs.html
+	2 web/articles.html
+	2 web/intern_overview.html
+	2 web/jcolletto.html
+	2 web/ktsai.html
+	2 web/msutton.html
+	=40
+	(4)
+per
+	5 web/10csu96revansquiz4.html
+	5 web/10csu96revansquiz4.html
+	5 web/10csu96revansquiz4.html
+	5 web/10csu96revansquiz4.html
+	3 web/brain8b_98.html
+	3 web/brain8b_98.html
+	3 web/brain8d_98.html
+	3 web/brain8d_98.html
+	2 web/10bf97revansmid.html
+	2 web/brain10_98.html
+	=36
+	(4)
+perceived
+	2 web/shobbs.html
+	=2
+	(0)
+perform
+	2 web/brain8c_98.html
+	=2
+	(0)
+performance
+	2 web/jcolletto.html
+	=2
+	(0)
+performed
+	2 web/intern_overview.html
+	=2
+	(0)
+perhaps
+	2 web/shobbs.html
+	=2
+	(0)
+permutation
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	=4
+	(0)
+person
+	4 web/daspaas.html
+	4 web/daspaas.html
+	4 web/daspaas.html
+	3 web/shobbs.html
+	3 web/shobbs.html
+	2 web/brain9a_98.html
+	2 web/jcolletto.html
+	2 web/math.html
+	=24
+	(2)
+personal
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	2 web/alumni.html
+	2 web/ktsai.html
+	=10
+	(1)
+personally
+	2 web/daspaas.html
+	=2
+	(0)
+ph.d
+	ignored (5)
+pham
+	2 web/alumni.html
+	=2
+	(0)
+pharmaceutical
+	3 web/ktsai.html
+	3 web/ktsai.html
+	=6
+	(0)
+phase
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	=4
+	(0)
+phd
+	2 web/mzabrocki.html
+	=2
+	(0)
+phenomenology
+	2 web/mlainer.html
+	=2
+	(0)
+phone
+	2 web/intern_overview.html
+	2 web/mlainer.html
+	2 web/msutton.html
+	=6
+	(0)
+physics
+	2 web/articles.html
+	2 web/intern_overview.html
+	2 web/shobbs.html
+	=6
+	(0)
+pictures
+	2 web/articles.html
+	=2
+	(0)
+pie
+	2 web/msutton.html
+	=2
+	(0)
+piece
+	2 web/brain8c_98.html
+	=2
+	(0)
+piele
+	2 web/alumni.html
+	=2
+	(0)
+pines
+	2 web/daspaas.html
+	=2
+	(0)
+place
+	2 web/10csu96revansquiz4.html
+	2 web/intern_overview.html
+	=4
+	(0)
+placed
+	2 web/msutton.html
+	=2
+	(0)
+places
+	2 web/daspaas.html
+	=2
+	(0)
+placid
+	3 web/10csu96revansquiz4.html
+	3 web/10csu96revansquiz4.html
+	=6
+	(0)
+plan
+	3 web/articles.html
+	3 web/articles.html
+	2 web/intern_overview.html
+	=8
+	(0)
+players
+	2 web/brain9a_98.html
+	=2
+	(0)
+please
+	2 web/dbuckley.html
+	2 web/lyu.html
+	2 web/member_form.html
+	2 web/mlainer.html
+	=8
+	(0)
+plow
+	6 web/brain10_98.html
+	6 web/brain10_98.html
+	6 web/brain10_98.html
+	6 web/brain10_98.html
+	6 web/brain10_98.html
+	=30
+	(3)
+plugging
+	2 web/brain8c_98.html
+	=2
+	(0)
+plus
+	2 web/brain8b_98.html
+	=2
+	(0)
+pockets
+	2 web/brain8a_98.html
+	=2
+	(0)
+poincare
+	2 web/rlibby.html
+	=2
+	(0)
+point
+	ignored (7)
+points
+	3 web/10bf97revansmid.html
+	3 web/10bf97revansmid.html
+	=6
+	(0)
+politicians
+	2 web/articles.html
+	=2
+	(0)
+polynomial
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+polynomials
+	2 web/mzabrocki.html
+	=2
+	(0)
+poor
+	2 web/shobbs.html
+	=2
+	(0)
+posed
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	=4
+	(0)
+position
+	5 web/brain8d_98.html
+	5 web/brain8d_98.html
+	5 web/brain8d_98.html
+	5 web/brain8d_98.html
+	3 web/rlibby.html
+	3 web/rlibby.html
+	2 web/daspaas.html
+	=28
+	(3)
+positions
+	2 web/intern_overview.html
+	=2
+	(0)
+possible
+	2 web/shobbs.html
+	2 web/test.html
+	=4
+	(0)
+possibly
+	2 web/intern_overview.html
+	=2
+	(0)
+post
+	2 web/shobbs.html
+	=2
+	(0)
+postdoc
+	2 web/mzabrocki.html
+	=2
+	(0)
+posted
+	3 web/math.html
+	3 web/math.html
+	=6
+	(0)
+postulate
+	2 web/articles.html
+	=2
+	(0)
+pound
+	2 web/brain8b_98.html
+	=2
+	(0)
+pounds
+	2 web/brain7_98.html
+	=2
+	(0)
+pouring
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+power
+	2 web/articles.html
+	=2
+	(0)
+practical
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	2 web/articles.html
+	=22
+	(2)
+practice
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	=6
+	(0)
+precise
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+preferable
+	2 web/intern_overview.html
+	=2
+	(0)
+prepare
+	2 web/intern_overview.html
+	=2
+	(0)
+prepares
+	2 web/intern_overview.html
+	=2
+	(0)
+preparing
+	2 web/daspaas.html
+	=2
+	(0)
+preprints
+	3 web/articles.html
+	3 web/articles.html
+	=6
+	(0)
+present
+	2 web/math.html
+	2 web/shobbs.html
+	=4
+	(0)
+presentation
+	2 web/shobbs.html
+	=2
+	(0)
+presents
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	=12
+	(1)
+president
+	2 web/jcolletto.html
+	2 web/rlibby.html
+	=4
+	(0)
+pressure
+	2 web/intern_overview.html
+	=2
+	(0)
+prestigious
+	2 web/intern_overview.html
+	=2
+	(0)
+pretty
+	2 web/shobbs.html
+	=2
+	(0)
+preview
+	2 web/intern_overview.html
+	=2
+	(0)
+previous
+	2 web/articles.html
+	2 web/dbuckley.html
+	=4
+	(0)
+price
+	4 web/10bf97revansmid.html
+	4 web/10bf97revansmid.html
+	4 web/10bf97revansmid.html
+	2 web/intern_overview.html
+	=14
+	(1)
+prices
+	4 web/math.html
+	4 web/math.html
+	4 web/math.html
+	=12
+	(1)
+pricing
+	2 web/rlibby.html
+	=2
+	(0)
+primarily
+	2 web/ktsai.html
+	=2
+	(0)
+principal
+	2 web/rlibby.html
+	=2
+	(0)
+print
+	2 web/member_form.html
+	=2
+	(0)
+printed
+	2 web/articles.html
+	=2
+	(0)
+prior
+	3 web/brain8d_98.html
+	3 web/brain8d_98.html
+	=6
+	(0)
+prize
+	2 web/math.html
+	=2
+	(0)
+probabilities
+	4 web/brain9a_98.html
+	4 web/brain9a_98.html
+	4 web/brain9a_98.html
+	=12
+	(1)
+probability
+	ignored (32)
+problem
+	ignored (33)
+problems
+	5 web/shobbs.html
+	5 web/shobbs.html
+	5 web/shobbs.html
+	5 web/shobbs.html
+	2 web/brain_archive.html
+	2 web/jcolletto.html
+	2 web/math.html
+	=26
+	(3)
+procedure
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+proceed
+	2 web/intern_overview.html
+	=2
+	(0)
+processes
+	2 web/dbuckley.html
+	2 web/jcolletto.html
+	2 web/shobbs.html
+	=6
+	(0)
+processing
+	3 web/ktsai.html
+	3 web/ktsai.html
+	3 web/shobbs.html
+	3 web/shobbs.html
+	=12
+	(1)
+produce
+	2 web/msutton.html
+	=2
+	(0)
+product
+	4 web/brain7_98.html
+	4 web/brain7_98.html
+	4 web/brain7_98.html
+	2 web/10bf97revansmid.html
+	2 web/msutton.html
+	=16
+	(1)
+prof
+	2 web/mzabrocki.html
+	2 web/rlibby.html
+	2 web/shobbs.html
+	=6
+	(0)
+profession
+	2 web/rlibby.html
+	=2
+	(0)
+professional
+	2 web/intern_overview.html
+	2 web/shobbs.html
+	=4
+	(0)
+professionally
+	2 web/daspaas.html
+	=2
+	(0)
+professor
+	ignored (6)
+professors
+	2 web/rlibby.html
+	2 web/test.html
+	=4
+	(0)
+profiles
+	2 web/rlibby.html
+	=2
+	(0)
+profit
+	2 web/intern_overview.html
+	=2
+	(0)
+program
+	ignored (13)
+programming
+	ignored (16)
+programs
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	=12
+	(1)
+progress
+	2 web/brain8d_98.html
+	=2
+	(0)
+project
+	3 web/msutton.html
+	3 web/msutton.html
+	2 web/rlibby.html
+	2 web/shobbs.html
+	=10
+	(1)
+projects
+	3 web/lyu.html
+	3 web/lyu.html
+	2 web/daspaas.html
+	2 web/intern_overview.html
+	2 web/jcolletto.html
+	2 web/mlainer.html
+	2 web/msutton.html
+	2 web/shobbs.html
+	=18
+	(2)
+proof
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	2 web/articles.html
+	=18
+	(2)
+proofs
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	2 web/shobbs.html
+	=6
+	(0)
+propagation
+	3 web/shobbs.html
+	3 web/shobbs.html
+	=6
+	(0)
+proportional
+	2 web/brain10_98.html
+	2 web/brain8d_98.html
+	=4
+	(0)
+propose
+	2 web/intern_overview.html
+	=2
+	(0)
+propulsion
+	2 web/mlainer.html
+	=2
+	(0)
+prospective
+	2 web/intern_overview.html
+	=2
+	(0)
+protested
+	2 web/math.html
+	=2
+	(0)
+proud
+	2 web/daspaas.html
+	=2
+	(0)
+prove
+	ignored (8)
+proved
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	2 web/intern_overview.html
+	=6
+	(0)
+provide
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	4 web/msutton.html
+	4 web/msutton.html
+	4 web/msutton.html
+	2 web/articles.html
+	2 web/shobbs.html
+	=36
+	(4)
+provided
+	2 web/intern_overview.html
+	2 web/mlainer.html
+	=4
+	(0)
+provides
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	2 web/articles.html
+	2 web/daspaas.html
+	2 web/jcolletto.html
+	=18
+	(2)
+providing
+	2 web/articles.html
+	2 web/daspaas.html
+	=4
+	(0)
+prudential.com
+	2 web/ktsai.html
+	=2
+	(0)
+public
+	2 web/intern_overview.html
+	=2
+	(0)
+publication
+	2 web/articles.html
+	=2
+	(0)
+puha
+	2 web/alumni.html
+	=2
+	(0)
+pumpkin
+	5 web/10bf97revansmid.html
+	5 web/10bf97revansmid.html
+	5 web/10bf97revansmid.html
+	5 web/10bf97revansmid.html
+	=20
+	(2)
+pure
+	ignored (7)
+put
+	2 web/brain8d_98.html
+	2 web/test.html
+	=4
+	(0)
+putnam
+	2 web/articles.html
+	=2
+	(0)
+puzzles
+	2 web/shobbs.html
+	=2
+	(0)
+quadratic
+	2 web/brain10_98.html
+	=2
+	(0)
+quantitative
+	2 web/rlibby.html
+	2 web/shobbs.html
+	=4
+	(0)
+quantum
+	3 web/articles.html
+	3 web/articles.html
+	=6
+	(0)
+quarter
+	2 web/intern_overview.html
+	2 web/jcolletto.html
+	=4
+	(0)
+quarterly
+	2 web/jcolletto.html
+	=2
+	(0)
+query
+	2 web/msutton.html
+	=2
+	(0)
+question
+	3 web/shobbs.html
+	3 web/shobbs.html
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	2 web/index-3.html
+	2 web/index.html
+	=14
+	(1)
+questions
+	4 web/articles.html
+	4 web/articles.html
+	4 web/articles.html
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	3 web/msutton.html
+	3 web/msutton.html
+	3 web/shobbs.html
+	3 web/shobbs.html
+	2 web/dbuckley.html
+	2 web/jcolletto.html
+	2 web/lyu.html
+	=36
+	(4)
+quick
+	2 web/ktsai.html
+	=2
+	(0)
+quite
+	3 web/shobbs.html
+	3 web/shobbs.html
+	=6
+	(0)
+quiz
+	4 web/10.html
+	4 web/10.html
+	4 web/10.html
+	4 web/10.html
+	4 web/10.html
+	4 web/10.html
+	2 web/100.html
+	2 web/20a.html
+	=28
+	(3)
+quotations
+	3 web/articles.html
+	3 web/articles.html
+	=6
+	(0)
+rabin
+	3 web/109.html
+	3 web/109.html
+	2 web/109w98rabinfinal.html
+	2 web/rabin93sfinal.html
+	2 web/rabin93smid1.html
+	2 web/rabin93smid2.html
+	2 web/rabin95sfinal.html
+	2 web/rabin95smid1.html
+	2 web/rabin95smid1.html
+	=20
+	(2)
+radar
+	2 web/shobbs.html
+	=2
+	(0)
+radians
+	3 web/brain8c_98.html
+	3 web/brain8c_98.html
+	=6
+	(0)
+radius
+	2 web/10bf97revansmid.html
+	2 web/brain8c_98.html
+	=4
+	(0)
+randall
+	2 web/alumni.html
+	=2
+	(0)
+range
+	2 web/brain8c_98.html
+	2 web/mlainer.html
+	=4
+	(0)
+rat
+	2 web/daspaas.html
+	=2
+	(0)
+rate
+	5 web/10csu96revansquiz4.html
+	5 web/10csu96revansquiz4.html
+	5 web/10csu96revansquiz4.html
+	5 web/10csu96revansquiz4.html
+	3 web/brain10_98.html
+	3 web/brain10_98.html
+	2 web/10bf97revansmid.html
+	2 web/brain8d_98.html
+	=30
+	(3)
+rather
+	2 web/intern_overview.html
+	2 web/ktsai.html
+	2 web/shobbs.html
+	=6
+	(0)
+re-joined
+	2 web/daspaas.html
+	=2
+	(0)
+reach
+	2 web/brain8d_98.html
+	=2
+	(0)
+reached
+	2 web/rlibby.html
+	=2
+	(0)
+reaches
+	3 web/brain8d_98.html
+	3 web/brain8d_98.html
+	=6
+	(0)
+reading
+	2 web/rlibby.html
+	=2
+	(0)
+real
+	2 web/10bf97revansmid.html
+	2 web/articles.html
+	2 web/daspaas.html
+	2 web/dbuckley.html
+	2 web/intern_overview.html
+	2 web/shobbs.html
+	=12
+	(1)
+real-world
+	2 web/daspaas.html
+	=2
+	(0)
+realization
+	2 web/articles.html
+	=2
+	(0)
+really
+	4 web/shobbs.html
+	4 web/shobbs.html
+	4 web/shobbs.html
+	2 web/intern_overview.html
+	2 web/ktsai.html
+	=16
+	(1)
+reasoned
+	2 web/brain8a_98.html
+	=2
+	(0)
+reasoning
+	2 web/brain9a_98.html
+	=2
+	(0)
+receive
+	2 web/intern_overview.html
+	=2
+	(0)
+received
+	2 web/lyu.html
+	2 web/mlainer.html
+	=4
+	(0)
+recent
+	2 web/intern_overview.html
+	2 web/rlibby.html
+	=4
+	(0)
+recently
+	2 web/rlibby.html
+	=2
+	(0)
+red
+	2 web/rlibby.html
+	=2
+	(0)
+refer
+	3 web/100a97revan.html
+	3 web/100a97revan.html
+	3 web/100a97revan.html
+	3 web/100a97revan.html
+	2 web/brain7_98.html
+	=14
+	(1)
+reference
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	2 web/articles.html
+	=8
+	(0)
+reflective
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	=4
+	(0)
+regards
+	2 web/daspaas.html
+	=2
+	(0)
+regression
+	2 web/shobbs.html
+	=2
+	(0)
+regular
+	2 web/intern_overview.html
+	=2
+	(0)
+relate
+	2 web/shobbs.html
+	=2
+	(0)
+related
+	2 web/intern_overview.html
+	2 web/lyu.html
+	=4
+	(0)
+relationship
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	=6
+	(0)
+relative
+	2 web/10csu96revansquiz4.html
+	=2
+	(0)
+relevance
+	2 web/intern_overview.html
+	=2
+	(0)
+relevant
+	2 web/intern_overview.html
+	=2
+	(0)
+reliability
+	2 web/shobbs.html
+	=2
+	(0)
+remaining
+	ignored (18)
+remedies
+	2 web/articles.html
+	=2
+	(0)
+remember
+	2 web/ktsai.html
+	=2
+	(0)
+remembers
+	2 web/rlibby.html
+	=2
+	(0)
+remote
+	3 web/mlainer.html
+	3 web/mlainer.html
+	=6
+	(0)
+remove
+	2 web/brain10_98.html
+	=2
+	(0)
+rep
+	4 web/jcolletto.html
+	4 web/jcolletto.html
+	4 web/jcolletto.html
+	=12
+	(1)
+report
+	4 web/msutton.html
+	4 web/msutton.html
+	4 web/msutton.html
+	3 web/jcolletto.html
+	3 web/jcolletto.html
+	=18
+	(2)
+reporters
+	2 web/articles.html
+	=2
+	(0)
+reporting
+	2 web/jcolletto.html
+	=2
+	(0)
+reports
+	2 web/articles.html
+	2 web/jcolletto.html
+	2 web/msutton.html
+	=6
+	(0)
+representatives
+	2 web/jcolletto.html
+	=2
+	(0)
+represented
+	2 web/brain9a_98.html
+	=2
+	(0)
+reps
+	3 web/jcolletto.html
+	3 web/jcolletto.html
+	=6
+	(0)
+required
+	4 web/msutton.html
+	4 web/msutton.html
+	4 web/msutton.html
+	2 web/intern_overview.html
+	2 web/mlainer.html
+	=16
+	(1)
+requirement
+	2 web/brain8c_98.html
+	=2
+	(0)
+requires
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	=12
+	(1)
+reseach
+	2 web/mzabrocki.html
+	=2
+	(0)
+research
+	5 web/rlibby.html
+	5 web/rlibby.html
+	5 web/rlibby.html
+	5 web/rlibby.html
+	2 web/articles.html
+	2 web/intern_overview.html
+	2 web/ktsai.html
+	=26
+	(3)
+resources
+	2 web/articles.html
+	2 web/intern_overview.html
+	=4
+	(0)
+respect
+	2 web/shobbs.html
+	=2
+	(0)
+responsible
+	3 web/dbuckley.html
+	3 web/dbuckley.html
+	2 web/daspaas.html
+	2 web/jcolletto.html
+	=10
+	(1)
+rest
+	2 web/brain8d_98.html
+	=2
+	(0)
+restricted
+	2 web/rlibby.html
+	=2
+	(0)
+result
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain8d_98.html
+	3 web/brain8d_98.html
+	2 web/math.html
+	=20
+	(2)
+resulting
+	2 web/articles.html
+	=2
+	(0)
+results
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	2 web/shobbs.html
+	=6
+	(0)
+resume
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	=20
+	(2)
+resumes
+	2 web/jcolletto.html
+	=2
+	(0)
+retired
+	2 web/daspaas.html
+	=2
+	(0)
+return
+	3 web/brain8a_98.html
+	3 web/brain8a_98.html
+	=6
+	(0)
+revelle
+	2 web/lyu.html
+	2 web/member_form.html
+	2 web/membership_form.html
+	2 web/rlibby.html
+	=8
+	(0)
+revenue
+	3 web/jcolletto.html
+	3 web/jcolletto.html
+	2 web/10bf97revansmid.html
+	=8
+	(0)
+review
+	3 web/100.html
+	3 web/100.html
+	=6
+	(0)
+reward
+	2 web/intern_overview.html
+	=2
+	(0)
+richard
+	ignored (9)
+right
+	3 web/daspaas.html
+	3 web/daspaas.html
+	=6
+	(0)
+right-angled
+	2 web/brain8c_98.html
+	=2
+	(0)
+risk
+	3 web/rlibby.html
+	3 web/rlibby.html
+	=6
+	(0)
+river
+	6 web/10csu96revansquiz4.html
+	6 web/10csu96revansquiz4.html
+	6 web/10csu96revansquiz4.html
+	6 web/10csu96revansquiz4.html
+	6 web/10csu96revansquiz4.html
+	=30
+	(3)
+rivers
+	2 web/10csu96revansquiz4.html
+	=2
+	(0)
+rocket
+	2 web/mlainer.html
+	=2
+	(0)
+room
+	6 web/brain8a_98.html
+	6 web/brain8a_98.html
+	6 web/brain8a_98.html
+	6 web/brain8a_98.html
+	6 web/brain8a_98.html
+	2 web/intern_overview.html
+	2 web/member_form.html
+	=34
+	(3)
+roosevelt
+	2 web/member_form.html
+	2 web/membership_form.html
+	=4
+	(0)
+root
+	2 web/articles.html
+	=2
+	(0)
+roots
+	2 web/daspaas.html
+	=2
+	(0)
+rope
+	6 web/brain8b_98.html
+	6 web/brain8b_98.html
+	6 web/brain8b_98.html
+	6 web/brain8b_98.html
+	6 web/brain8b_98.html
+	=30
+	(3)
+rostoker
+	2 web/alumni.html
+	=2
+	(0)
+rothschild
+	3 web/142.html
+	3 web/142.html
+	2 web/100.html
+	2 web/20f.html
+	=10
+	(1)
+rough
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+roughly
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+round
+	3 web/brain9a_98.html
+	3 web/brain9a_98.html
+	=6
+	(0)
+rounded
+	2 web/jcolletto.html
+	=2
+	(0)
+royal
+	2 web/societies.html
+	=2
+	(0)
+rubber
+	3 web/brain8d_98.html
+	3 web/brain8d_98.html
+	=6
+	(0)
+run
+	2 web/10csu96revansquiz4.html
+	=2
+	(0)
+s.i.a.m
+	2 web/rlibby.html
+	=2
+	(0)
+said
+	3 web/math.html
+	3 web/math.html
+	2 web/shobbs.html
+	=8
+	(0)
+salaries
+	2 web/articles.html
+	=2
+	(0)
+sales
+	6 web/jcolletto.html
+	6 web/jcolletto.html
+	6 web/jcolletto.html
+	6 web/jcolletto.html
+	6 web/jcolletto.html
+	2 web/daspaas.html
+	2 web/msutton.html
+	=34
+	(3)
+salt
+	6 web/10csu96revansquiz4.html
+	6 web/10csu96revansquiz4.html
+	6 web/10csu96revansquiz4.html
+	6 web/10csu96revansquiz4.html
+	6 web/10csu96revansquiz4.html
+	=30
+	(3)
+salty
+	2 web/10csu96revansquiz4.html
+	=2
+	(0)
+same
+	5 web/brain7_98.html
+	5 web/brain7_98.html
+	5 web/brain7_98.html
+	5 web/brain7_98.html
+	3 web/brain8b_98.html
+	3 web/brain8b_98.html
+	3 web/math.html
+	3 web/math.html
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	2 web/brain9a_98.html
+	=38
+	(4)
+sample
+	2 web/articles.html
+	2 web/brain9a_98.html
+	=4
+	(0)
+san
+	2 web/shobbs.html
+	=2
+	(0)
+santa
+	2 web/rlibby.html
+	=2
+	(0)
+satisfaction
+	2 web/ktsai.html
+	=2
+	(0)
+satisfies
+	2 web/10csu96revansquiz4.html
+	=2
+	(0)
+saturday
+	2 web/may.html
+	2 web/may.html
+	=4
+	(0)
+savings
+	2 web/10csu96revansquiz4.html
+	=2
+	(0)
+say
+	2 web/daspaas.html
+	2 web/mzabrocki.html
+	2 web/shobbs.html
+	=6
+	(0)
+saying
+	2 web/jcolletto.html
+	=2
+	(0)
+says
+	3 web/brain7_98.html
+	3 web/brain7_98.html
+	=6
+	(0)
+scenes
+	2 web/articles.html
+	=2
+	(0)
+schofield
+	2 web/alumni.html
+	=2
+	(0)
+school
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	3 web/articles.html
+	3 web/articles.html
+	3 web/shobbs.html
+	3 web/shobbs.html
+	2 web/index-2.html
+	2 web/mzabrocki.html
+	2 web/rlibby.html
+	=30
+	(3)
+science
+	6 web/alumni.html
+	6 web/alumni.html
+	6 web/alumni.html
+	6 web/alumni.html
+	6 web/alumni.html
+	3 web/msutton.html
+	3 web/msutton.html
+	2 web/articles.html
+	2 web/ktsai.html
+	2 web/shobbs.html
+	=42
+	(4)
+sciences
+	2 web/societies.html
+	=2
+	(0)
+scientific
+	ignored (7)
+scientist
+	2 web/shobbs.html
+	=2
+	(0)
+script
+	2 web/10.html
+	2 web/10.html
+	2 web/100.html
+	2 web/170.html
+	2 web/test.html
+	=10
+	(1)
+search
+	3 web/msutton.html
+	3 web/msutton.html
+	2 web/articles.html
+	=8
+	(0)
+second
+	ignored (6)
+seconds
+	3 web/brain8d_98.html
+	3 web/brain8d_98.html
+	2 web/10bf97revansmid.html
+	=8
+	(0)
+section
+	2 web/intern_overview.html
+	=2
+	(0)
+secure
+	2 web/intern_overview.html
+	=2
+	(0)
+security
+	2 web/mlainer.html
+	=2
+	(0)
+see
+	2 web/intern_overview.html
+	=2
+	(0)
+seem
+	2 web/shobbs.html
+	=2
+	(0)
+seen
+	2 web/articles.html
+	2 web/brain8c_98.html
+	2 web/shobbs.html
+	=6
+	(0)
+selected
+	2 web/math.html
+	=2
+	(0)
+seminars
+	2 web/rlibby.html
+	=2
+	(0)
+send
+	2 web/member_form.html
+	=2
+	(0)
+sending
+	2 web/intern_overview.html
+	2 web/jcolletto.html
+	=4
+	(0)
+senior
+	4 web/dbuckley.html
+	4 web/dbuckley.html
+	4 web/dbuckley.html
+	2 web/rlibby.html
+	=14
+	(1)
+sense
+	2 web/brain10_98.html
+	2 web/shobbs.html
+	=4
+	(0)
+sensing
+	3 web/mlainer.html
+	3 web/mlainer.html
+	=6
+	(0)
+september
+	2 web/brain_archive.html
+	2 web/msutton.html
+	=4
+	(0)
+sequence
+	3 web/brain9a_98.html
+	3 web/brain9a_98.html
+	=6
+	(0)
+series
+	ignored (6)
+serve
+	2 web/shobbs.html
+	=2
+	(0)
+server
+	2 web/articles.html
+	=2
+	(0)
+services
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	2 web/dbuckley.html
+	=8
+	(0)
+set
+	2 web/shobbs.html
+	=2
+	(0)
+sets
+	2 web/brain10_98.html
+	=2
+	(0)
+setting
+	2 web/10csu96revansquiz4.html
+	2 web/brain10_98.html
+	2 web/jcolletto.html
+	=6
+	(0)
+seven
+	2 web/articles.html
+	=2
+	(0)
+several
+	2 web/intern_overview.html
+	=2
+	(0)
+shake
+	2 web/societies.html
+	=2
+	(0)
+shantanu
+	5 web/brain6_98.html
+	5 web/brain6_98.html
+	5 web/brain6_98.html
+	5 web/brain6_98.html
+	5 web/brain6_98.html
+	5 web/brain6_98.html
+	5 web/brain6_98.html
+	5 web/brain6_98.html
+	2 web/brain_archive.html
+	=42
+	(4)
+shape
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+shaped
+	2 web/brain8c_98.html
+	=2
+	(0)
+she
+	5 web/brain8b_98.html
+	5 web/brain8b_98.html
+	5 web/brain8b_98.html
+	5 web/brain8b_98.html
+	3 web/lyu.html
+	3 web/lyu.html
+	2 web/daspaas.html
+	=28
+	(3)
+sheet
+	2 web/100.html
+	=2
+	(0)
+sheets
+	2 web/shobbs.html
+	=2
+	(0)
+shooting
+	4 web/brain9a_98.html
+	4 web/brain9a_98.html
+	4 web/brain9a_98.html
+	2 web/brain_archive.html
+	=14
+	(1)
+shoots
+	3 web/brain9a_98.html
+	3 web/brain9a_98.html
+	=6
+	(0)
+short
+	2 web/articles.html
+	2 web/msutton.html
+	=4
+	(0)
+short-term
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	=6
+	(0)
+shot
+	ignored (10)
+shots
+	2 web/brain9a_98.html
+	=2
+	(0)
+should
+	2 web/10bf97revansmid.html
+	2 web/10csu96revansquiz4.html
+	2 web/brain8c_98.html
+	2 web/intern_overview.html
+	2 web/math.html
+	2 web/rlibby.html
+	2 web/shobbs.html
+	=14
+	(1)
+show
+	4 web/10bf97revansmid.html
+	4 web/10bf97revansmid.html
+	4 web/10bf97revansmid.html
+	2 web/10csu96revansquiz4.html
+	2 web/math.html
+	=16
+	(1)
+shows
+	2 web/articles.html
+	2 web/brain9a_98.html
+	=4
+	(0)
+side
+	2 web/brain8b_98.html
+	2 web/daspaas.html
+	=4
+	(0)
+sides
+	2 web/brain10_98.html
+	=2
+	(0)
+signal
+	2 web/shobbs.html
+	=2
+	(0)
+significant
+	3 web/shobbs.html
+	3 web/shobbs.html
+	=6
+	(0)
+similarly
+	2 web/brain9a_98.html
+	=2
+	(0)
+simple
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	2 web/shobbs.html
+	=6
+	(0)
+simplifies
+	2 web/brain10_98.html
+	=2
+	(0)
+simplify
+	2 web/10csu96revansquiz4.html
+	=2
+	(0)
+simply
+	2 web/math.html
+	2 web/shobbs.html
+	=4
+	(0)
+simulation
+	3 web/lyu.html
+	3 web/lyu.html
+	=6
+	(0)
+simulations
+	2 web/lyu.html
+	=2
+	(0)
+since
+	3 web/brain10_98.html
+	3 web/brain10_98.html
+	3 web/brain8c_98.html
+	3 web/brain8c_98.html
+	2 web/brain7_98.html
+	2 web/brain8a_98.html
+	2 web/brain8d_98.html
+	2 web/daspaas.html
+	2 web/lyu.html
+	2 web/mlainer.html
+	2 web/msutton.html
+	=26
+	(3)
+singh
+	2 web/alumni.html
+	=2
+	(0)
+single
+	2 web/shobbs.html
+	=2
+	(0)
+sir
+	2 web/jcolletto.html
+	=2
+	(0)
+site
+	4 web/mlainer.html
+	4 web/mlainer.html
+	4 web/mlainer.html
+	=12
+	(1)
+sites
+	3 web/articles.html
+	3 web/articles.html
+	2 web/intern_overview.html
+	=8
+	(0)
+six
+	2 web/daspaas.html
+	=2
+	(0)
+six-fold
+	2 web/rlibby.html
+	=2
+	(0)
+six-year
+	2 web/brain7_98.html
+	=2
+	(0)
+sixty-one
+	2 web/brain7_98.html
+	=2
+	(0)
+sketch
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+skill
+	2 web/intern_overview.html
+	2 web/msutton.html
+	=4
+	(0)
+skills
+	ignored (7)
+slant
+	2 web/brain8c_98.html
+	=2
+	(0)
+slurpees
+	2 web/math.html
+	=2
+	(0)
+smart
+	2 web/mlainer.html
+	2 web/shobbs.html
+	=4
+	(0)
+smith
+	4 web/brain9a_98.html
+	4 web/brain9a_98.html
+	4 web/brain9a_98.html
+	2 web/alumni.html
+	2 web/brain_archive.html
+	=16
+	(1)
+snow
+	ignored (6)
+snowed
+	2 web/brain10_98.html
+	=2
+	(0)
+snowing
+	3 web/brain10_98.html
+	3 web/brain10_98.html
+	=6
+	(0)
+social
+	2 web/jcolletto.html
+	=2
+	(0)
+sociedad
+	2 web/societies.html
+	=2
+	(0)
+societies
+	4 web/societies.html
+	4 web/societies.html
+	4 web/societies.html
+	=12
+	(1)
+society
+	ignored (24)
+software
+	5 web/msutton.html
+	5 web/msutton.html
+	5 web/msutton.html
+	5 web/msutton.html
+	3 web/shobbs.html
+	3 web/shobbs.html
+	2 web/intern_overview.html
+	2 web/jcolletto.html
+	=30
+	(3)
+solana
+	2 web/lyu.html
+	=2
+	(0)
+solid
+	2 web/jcolletto.html
+	=2
+	(0)
+solution
+	ignored (7)
+solutions
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	2 web/10csu96revansquiz4.html
+	2 web/articles.html
+	2 web/brain10_98.html
+	2 web/brain_archive.html
+	2 web/math.html
+	=22
+	(2)
+solve
+	3 web/10csu96revansquiz4.html
+	3 web/10csu96revansquiz4.html
+	2 web/brain10_98.html
+	2 web/shobbs.html
+	=10
+	(1)
+solve--your
+	2 web/math.html
+	=2
+	(0)
+solved
+	ignored (18)
+solves
+	3 web/math.html
+	3 web/math.html
+	=6
+	(0)
+solving
+	3 web/brain10_98.html
+	3 web/brain10_98.html
+	2 web/10csu96revansquiz4.html
+	2 web/jcolletto.html
+	2 web/shobbs.html
+	=12
+	(1)
+some
+	ignored (6)
+someone
+	3 web/shobbs.html
+	3 web/shobbs.html
+	2 web/brain9a_98.html
+	2 web/jcolletto.html
+	2 web/math.html
+	=12
+	(1)
+sometimes
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	2 web/ktsai.html
+	2 web/shobbs.html
+	=10
+	(1)
+son
+	2 web/brain7_98.html
+	=2
+	(0)
+sonar
+	2 web/shobbs.html
+	=2
+	(0)
+sonn
+	2 web/member_form.html
+	=2
+	(0)
+sons
+	5 web/brain7_98.html
+	5 web/brain7_98.html
+	5 web/brain7_98.html
+	5 web/brain7_98.html
+	2 web/brain_archive.html
+	=22
+	(2)
+soon
+	2 web/index-3.html
+	2 web/index.html
+	2 web/shobbs.html
+	=6
+	(0)
+sorrento
+	2 web/msutton.html
+	=2
+	(0)
+sources
+	2 web/articles.html
+	=2
+	(0)
+space
+	2 web/brain9a_98.html
+	2 web/shobbs.html
+	=4
+	(0)
+space-based
+	3 web/mlainer.html
+	3 web/mlainer.html
+	=6
+	(0)
+spawar
+	2 web/shobbs.html
+	=2
+	(0)
+spawar.navy.mil
+	2 web/shobbs.html
+	=2
+	(0)
+speak
+	2 web/jcolletto.html
+	=2
+	(0)
+special
+	2 web/intern_overview.html
+	2 web/jcolletto.html
+	2 web/shobbs.html
+	2 web/test.html
+	=8
+	(0)
+specified
+	2 web/msutton.html
+	=2
+	(0)
+speed
+	2 web/brain10_98.html
+	=2
+	(0)
+spend
+	2 web/intern_overview.html
+	=2
+	(0)
+spent
+	2 web/mzabrocki.html
+	2 web/rlibby.html
+	=4
+	(0)
+spherical
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+spite
+	2 web/rlibby.html
+	=2
+	(0)
+sports
+	2 web/jcolletto.html
+	=2
+	(0)
+spread
+	2 web/shobbs.html
+	=2
+	(0)
+spreadsheets
+	2 web/jcolletto.html
+	=2
+	(0)
+spreadsheets-microsoft
+	2 web/jcolletto.html
+	=2
+	(0)
+spring
+	2 web/10.html
+	2 web/10.html
+	2 web/100.html
+	2 web/102.html
+	2 web/166.html
+	2 web/170.html
+	2 web/20b.html
+	2 web/20c.html
+	2 web/20d.html
+	2 web/20f.html
+	2 web/intern_overview.html
+	2 web/rabin93sfinal.html
+	2 web/rabin93smid1.html
+	2 web/rabin93smid2.html
+	2 web/rabin95sfinal.html
+	2 web/rabin95smid1.html
+	2 web/rabin95smid1.html
+	2 web/rabin95smid2.html
+	=36
+	(4)
+sql
+	2 web/msutton.html
+	=2
+	(0)
+ssc
+	3 web/shobbs.html
+	3 web/shobbs.html
+	=6
+	(0)
+staff
+	2 web/msutton.html
+	=2
+	(0)
+standards
+	2 web/lyu.html
+	2 web/shobbs.html
+	=4
+	(0)
+stands
+	4 web/brain9a_98.html
+	4 web/brain9a_98.html
+	4 web/brain9a_98.html
+	2 web/brain8d_98.html
+	=14
+	(1)
+start
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	2 web/brain10_98.html
+	2 web/brain8d_98.html
+	=10
+	(1)
+start-up
+	3 web/msutton.html
+	3 web/msutton.html
+	=6
+	(0)
+started
+	4 web/brain10_98.html
+	4 web/brain10_98.html
+	4 web/brain10_98.html
+	3 web/daspaas.html
+	3 web/daspaas.html
+	2 web/msutton.html
+	=20
+	(2)
+starting
+	2 web/jcolletto.html
+	=2
+	(0)
+starts
+	2 web/brain10_98.html
+	2 web/brain8d_98.html
+	=4
+	(0)
+startup
+	2 web/daspaas.html
+	=2
+	(0)
+state
+	2 web/membership_form.html
+	=2
+	(0)
+statements
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	=6
+	(0)
+statistical
+	4 web/societies.html
+	4 web/societies.html
+	4 web/societies.html
+	2 web/mlainer.html
+	=14
+	(1)
+statistician
+	2 web/ktsai.html
+	=2
+	(0)
+statistics
+	4 web/alumni.html
+	4 web/alumni.html
+	4 web/alumni.html
+	3 web/ktsai.html
+	3 web/ktsai.html
+	3 web/lyu.html
+	3 web/lyu.html
+	3 web/shobbs.html
+	3 web/shobbs.html
+	2 web/articles.html
+	2 web/mlainer.html
+	2 web/msutton.html
+	2 web/societies.html
+	=38
+	(4)
+statstics
+	2 web/msutton.html
+	=2
+	(0)
+status
+	2 web/articles.html
+	=2
+	(0)
+stay
+	2 web/shobbs.html
+	=2
+	(0)
+ste
+	2 web/lyu.html
+	=2
+	(0)
+stephan
+	2 web/shobbs.html
+	=2
+	(0)
+stephen
+	4 web/shobbs.html
+	4 web/shobbs.html
+	4 web/shobbs.html
+	3 web/alumni.html
+	3 web/alumni.html
+	=18
+	(2)
+steven
+	2 web/alumni.html
+	=2
+	(0)
+stick
+	2 web/societies.html
+	=2
+	(0)
+still
+	3 web/daspaas.html
+	3 web/daspaas.html
+	3 web/shobbs.html
+	3 web/shobbs.html
+	2 web/brain7_98.html
+	2 web/brain8d_98.html
+	2 web/math.html
+	=18
+	(2)
+stimulate
+	2 web/intern_overview.html
+	=2
+	(0)
+stochastic
+	3 web/shobbs.html
+	3 web/shobbs.html
+	=6
+	(0)
+stop
+	3 web/brain7_98.html
+	3 web/brain7_98.html
+	=6
+	(0)
+store
+	3 web/math.html
+	3 web/math.html
+	2 web/jcolletto.html
+	2 web/msutton.html
+	=10
+	(1)
+story
+	2 web/daspaas.html
+	=2
+	(0)
+straight
+	2 web/brain10_98.html
+	2 web/brain8c_98.html
+	=4
+	(0)
+street
+	2 web/brain10_98.html
+	=2
+	(0)
+stretch
+	ignored (8)
+stretched
+	5 web/brain8d_98.html
+	5 web/brain8d_98.html
+	5 web/brain8d_98.html
+	5 web/brain8d_98.html
+	=20
+	(2)
+stretches
+	3 web/brain8d_98.html
+	3 web/brain8d_98.html
+	=6
+	(0)
+stretching
+	5 web/brain8d_98.html
+	5 web/brain8d_98.html
+	5 web/brain8d_98.html
+	5 web/brain8d_98.html
+	=20
+	(2)
+strip
+	ignored (18)
+stronger
+	2 web/articles.html
+	=2
+	(0)
+structure
+	2 web/msutton.html
+	=2
+	(0)
+student
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	5 web/intern_overview.html
+	3 web/shobbs.html
+	3 web/shobbs.html
+	2 web/articles.html
+	=28
+	(3)
+students
+	ignored (13)
+studies
+	3 web/lyu.html
+	3 web/lyu.html
+	2 web/mlainer.html
+	=8
+	(0)
+study
+	4 web/rlibby.html
+	4 web/rlibby.html
+	4 web/rlibby.html
+	2 web/intern_overview.html
+	=14
+	(1)
+studying
+	2 web/msutton.html
+	=2
+	(0)
+stuff
+	2 web/daspaas.html
+	2 web/shobbs.html
+	=4
+	(0)
+styles
+	2 web/intern_overview.html
+	=2
+	(0)
+subgroups
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	=4
+	(0)
+subject
+	2 web/10csu96revansquiz4.html
+	2 web/articles.html
+	=4
+	(0)
+subjects
+	2 web/ktsai.html
+	=2
+	(0)
+submissions
+	2 web/articles.html
+	=2
+	(0)
+submit
+	3 web/math.html
+	3 web/math.html
+	=6
+	(0)
+subscriptions
+	2 web/articles.html
+	=2
+	(0)
+substantial
+	2 web/rlibby.html
+	=2
+	(0)
+subtract
+	3 web/brain8d_98.html
+	3 web/brain8d_98.html
+	=6
+	(0)
+successful
+	2 web/intern_overview.html
+	=2
+	(0)
+succession
+	2 web/brain9a_98.html
+	=2
+	(0)
+such
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	3 web/mlainer.html
+	3 web/mlainer.html
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	2 web/daspaas.html
+	2 web/msutton.html
+	=20
+	(2)
+suggest
+	2 web/ktsai.html
+	=2
+	(0)
+suite
+	2 web/msutton.html
+	=2
+	(0)
+sum
+	4 web/brain9a_98.html
+	4 web/brain9a_98.html
+	4 web/brain9a_98.html
+	2 web/brain7_98.html
+	=14
+	(1)
+summarizes
+	2 web/articles.html
+	=2
+	(0)
+summary
+	2 web/brain9a_98.html
+	=2
+	(0)
+summber
+	2 web/10csu96revansfinal.html
+	=2
+	(0)
+summer
+	3 web/10csu96revansquiz4.html
+	3 web/10csu96revansquiz4.html
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	2 web/10.html
+	2 web/10.html
+	2 web/20e.html
+	2 web/20f.html
+	2 web/test.html
+	=22
+	(2)
+sums
+	2 web/brain9a_98.html
+	=2
+	(0)
+sun
+	2 web/may.html
+	2 web/may.html
+	=4
+	(0)
+sunday
+	2 web/may.html
+	2 web/may.html
+	=4
+	(0)
+superior
+	2 web/intern_overview.html
+	=2
+	(0)
+supermodel
+	2 web/mzabrocki.html
+	=2
+	(0)
+supple
+	4 web/brain8a_98.html
+	4 web/brain8a_98.html
+	4 web/brain8a_98.html
+	2 web/brain_archive.html
+	=14
+	(1)
+supplement
+	2 web/intern_overview.html
+	=2
+	(0)
+support
+	2 web/daspaas.html
+	2 web/dbuckley.html
+	2 web/mlainer.html
+	2 web/msutton.html
+	2 web/rlibby.html
+	2 web/shobbs.html
+	=12
+	(1)
+supported
+	2 web/daspaas.html
+	=2
+	(0)
+supporting
+	2 web/daspaas.html
+	=2
+	(0)
+supports
+	2 web/dbuckley.html
+	=2
+	(0)
+suppose
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+sure
+	2 web/10bf97revansmid.html
+	2 web/intern_overview.html
+	=4
+	(0)
+surrounding
+	2 web/intern_overview.html
+	=2
+	(0)
+susannah
+	2 web/alumni.html
+	=2
+	(0)
+sutton
+	4 web/msutton.html
+	4 web/msutton.html
+	4 web/msutton.html
+	2 web/alumni.html
+	=14
+	(1)
+suzanne
+	2 web/alumni.html
+	=2
+	(0)
+sybase
+	3 web/jcolletto.html
+	3 web/jcolletto.html
+	=6
+	(0)
+sybase.com
+	2 web/jcolletto.html
+	=2
+	(0)
+system
+	2 web/lyu.html
+	2 web/rlibby.html
+	=4
+	(0)
+systems
+	ignored (8)
+ta-dah
+	2 web/brain8b_98.html
+	=2
+	(0)
+table
+	3 web/msutton.html
+	3 web/msutton.html
+	2 web/brain8d_98.html
+	2 web/daspaas.html
+	=10
+	(1)
+tables
+	2 web/articles.html
+	2 web/msutton.html
+	=4
+	(0)
+take
+	2 web/10csu96revansquiz4.html
+	2 web/brain10_98.html
+	2 web/daspaas.html
+	2 web/intern_overview.html
+	=8
+	(0)
+taken
+	3 web/msutton.html
+	3 web/msutton.html
+	=6
+	(0)
+taking
+	2 web/articles.html
+	2 web/intern_overview.html
+	=4
+	(0)
+talked
+	2 web/shobbs.html
+	=2
+	(0)
+talking
+	2 web/brain7_98.html
+	=2
+	(0)
+tamsen
+	4 web/brain10_98.html
+	4 web/brain10_98.html
+	4 web/brain10_98.html
+	2 web/brain_archive.html
+	2 web/math.html
+	=16
+	(1)
+tasks
+	2 web/msutton.html
+	=2
+	(0)
+taught
+	2 web/mzabrocki.html
+	=2
+	(0)
+teachers
+	2 web/mzabrocki.html
+	=2
+	(0)
+teaching
+	2 web/ktsai.html
+	2 web/shobbs.html
+	=4
+	(0)
+team
+	2 web/intern_overview.html
+	2 web/rlibby.html
+	=4
+	(0)
+teaser
+	ignored (25)
+tech
+	2 web/jcolletto.html
+	=2
+	(0)
+technical
+	ignored (7)
+technically
+	2 web/brain7_98.html
+	=2
+	(0)
+technique
+	2 web/intern_overview.html
+	=2
+	(0)
+technology
+	2 web/daspaas.html
+	2 web/intern_overview.html
+	2 web/shobbs.html
+	=6
+	(0)
+telephone
+	2 web/member_form.html
+	2 web/membership_form.html
+	=4
+	(0)
+tell
+	2 web/daspaas.html
+	=2
+	(0)
+tells
+	2 web/shobbs.html
+	=2
+	(0)
+temperature
+	4 web/10csu96revansquiz4.html
+	4 web/10csu96revansquiz4.html
+	4 web/10csu96revansquiz4.html
+	4 web/brain6_98.html
+	4 web/brain6_98.html
+	4 web/brain6_98.html
+	4 web/brain6_98.html
+	4 web/brain6_98.html
+	4 web/brain6_98.html
+	2 web/brain_archive.html
+	=38
+	(4)
+tends
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+tenfold
+	2 web/10csu96revansquiz4.html
+	=2
+	(0)
+term
+	2 web/intern_overview.html
+	=2
+	(0)
+terminating
+	2 web/brain9a_98.html
+	=2
+	(0)
+test
+	ignored (27)
+tests
+	2 web/shobbs.html
+	2 web/test.html
+	=4
+	(0)
+text
+	3 web/msutton.html
+	3 web/msutton.html
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	=10
+	(1)
+than
+	ignored (5)
+thanks
+	2 web/test.html
+	=2
+	(0)
+that
+	ignored (93)
+the
+	ignored (2476)
+their
+	ignored (13)
+them
+	4 web/shobbs.html
+	4 web/shobbs.html
+	4 web/shobbs.html
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	2 web/brain8a_98.html
+	=20
+	(2)
+then
+	2 web/brain8c_98.html
+	2 web/brain8d_98.html
+	2 web/brain9a_98.html
+	2 web/lyu.html
+	2 web/msutton.html
+	2 web/mzabrocki.html
+	2 web/rlibby.html
+	=14
+	(1)
+theorems
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	=4
+	(0)
+theory
+	2 web/articles.html
+	2 web/intern_overview.html
+	=4
+	(0)
+there
+	ignored (5)
+thereby
+	2 web/intern_overview.html
+	=2
+	(0)
+therefore
+	5 web/brain8c_98.html
+	5 web/brain8c_98.html
+	5 web/brain8c_98.html
+	5 web/brain8c_98.html
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	2 web/brain8d_98.html
+	=26
+	(3)
+these
+	2 web/articles.html
+	2 web/brain7_98.html
+	2 web/intern_overview.html
+	2 web/lyu.html
+	2 web/msutton.html
+	=10
+	(1)
+theta
+	2 web/articles.html
+	=2
+	(0)
+they
+	ignored (14)
+thing
+	2 web/ktsai.html
+	=2
+	(0)
+things
+	2 web/msutton.html
+	2 web/shobbs.html
+	=4
+	(0)
+think
+	3 web/msutton.html
+	3 web/msutton.html
+	2 web/daspaas.html
+	=8
+	(0)
+thinking
+	2 web/ktsai.html
+	2 web/shobbs.html
+	=4
+	(0)
+third
+	3 web/brain8b_98.html
+	3 web/brain8b_98.html
+	2 web/brain7_98.html
+	2 web/brain9a_98.html
+	2 web/member_form.html
+	2 web/membership_form.html
+	=14
+	(1)
+thirteen
+	2 web/brain7_98.html
+	=2
+	(0)
+thirty
+	2 web/brain8b_98.html
+	=2
+	(0)
+this
+	ignored (29)
+those
+	3 web/articles.html
+	3 web/articles.html
+	=6
+	(0)
+three
+	ignored (9)
+thriving
+	2 web/daspaas.html
+	=2
+	(0)
+through
+	3 web/jcolletto.html
+	3 web/jcolletto.html
+	2 web/10csu96revansquiz4.html
+	2 web/articles.html
+	2 web/intern_overview.html
+	2 web/ktsai.html
+	2 web/msutton.html
+	=16
+	(1)
+throughout
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	=4
+	(0)
+throw
+	3 web/brain9a_98.html
+	3 web/brain9a_98.html
+	=6
+	(0)
+thurgood
+	2 web/member_form.html
+	2 web/membership_form.html
+	=4
+	(0)
+thursday
+	2 web/may.html
+	2 web/may.html
+	=4
+	(0)
+thus
+	4 web/brain9a_98.html
+	4 web/brain9a_98.html
+	4 web/brain9a_98.html
+	2 web/brain8a_98.html
+	=14
+	(1)
+tica
+	2 web/societies.html
+	=2
+	(0)
+time
+	ignored (11)
+times
+	4 web/brain8b_98.html
+	4 web/brain8b_98.html
+	4 web/brain8b_98.html
+	=12
+	(1)
+timothy
+	2 web/alumni.html
+	=2
+	(0)
+titan
+	3 web/daspaas.html
+	3 web/daspaas.html
+	=6
+	(0)
+title
+	2 web/dbuckley.html
+	2 web/jcolletto.html
+	2 web/ktsai.html
+	2 web/shobbs.html
+	=8
+	(0)
+today
+	2 web/intern_overview.html
+	=2
+	(0)
+together
+	2 web/brain8d_98.html
+	2 web/intern_overview.html
+	=4
+	(0)
+told
+	2 web/brain8a_98.html
+	2 web/math.html
+	=4
+	(0)
+tolerate
+	2 web/shobbs.html
+	=2
+	(0)
+tom
+	4 web/brain8a_98.html
+	4 web/brain8a_98.html
+	4 web/brain8a_98.html
+	2 web/brain_archive.html
+	=14
+	(1)
+too
+	2 web/jcolletto.html
+	2 web/ktsai.html
+	2 web/msutton.html
+	=6
+	(0)
+took
+	2 web/10csu96revansquiz4.html
+	2 web/daspaas.html
+	=4
+	(0)
+tools
+	2 web/msutton.html
+	2 web/shobbs.html
+	=4
+	(0)
+top
+	2 web/10bf97revansmid.html
+	2 web/brain8b_98.html
+	2 web/intern_overview.html
+	=6
+	(0)
+topic
+	2 web/shobbs.html
+	=2
+	(0)
+torrey
+	2 web/daspaas.html
+	=2
+	(0)
+total
+	4 web/brain8a_98.html
+	4 web/brain8a_98.html
+	4 web/brain8a_98.html
+	3 web/brain8d_98.html
+	3 web/brain8d_98.html
+	2 web/math.html
+	=20
+	(2)
+tracking
+	2 web/jcolletto.html
+	2 web/lyu.html
+	2 web/mlainer.html
+	=6
+	(0)
+trading
+	2 web/dbuckley.html
+	2 web/rlibby.html
+	=4
+	(0)
+train
+	2 web/intern_overview.html
+	=2
+	(0)
+training
+	2 web/shobbs.html
+	=2
+	(0)
+transactional
+	2 web/dbuckley.html
+	=2
+	(0)
+transactions
+	2 web/rlibby.html
+	=2
+	(0)
+transfer
+	2 web/daspaas.html
+	=2
+	(0)
+transforms
+	2 web/shobbs.html
+	=2
+	(0)
+travel
+	3 web/brain8d_98.html
+	3 web/brain8d_98.html
+	=6
+	(0)
+travelled
+	2 web/brain8d_98.html
+	=2
+	(0)
+travels
+	2 web/brain8d_98.html
+	=2
+	(0)
+tria
+	2 web/alumni.html
+	=2
+	(0)
+trick
+	2 web/brain8d_98.html
+	=2
+	(0)
+tricks
+	2 web/articles.html
+	=2
+	(0)
+triplets
+	3 web/brain7_98.html
+	3 web/brain7_98.html
+	=6
+	(0)
+tritons
+	2 web/articles.html
+	=2
+	(0)
+true
+	2 web/brain7_98.html
+	=2
+	(0)
+trung
+	2 web/alumni.html
+	=2
+	(0)
+truth
+	2 web/shobbs.html
+	=2
+	(0)
+truthfulness
+	2 web/shobbs.html
+	=2
+	(0)
+trying
+	2 web/intern_overview.html
+	2 web/shobbs.html
+	=4
+	(0)
+tsai
+	4 web/ktsai.html
+	4 web/ktsai.html
+	4 web/ktsai.html
+	2 web/alumni.html
+	=14
+	(1)
+tuan
+	2 web/alumni.html
+	=2
+	(0)
+tuesday
+	2 web/may.html
+	2 web/may.html
+	=4
+	(0)
+turn
+	2 web/intern_overview.html
+	=2
+	(0)
+tutorials
+	2 web/lyu.html
+	=2
+	(0)
+twice
+	3 web/brain10_98.html
+	3 web/brain10_98.html
+	2 web/brain8b_98.html
+	=8
+	(0)
+twin
+	2 web/brain7_98.html
+	=2
+	(0)
+two
+	4 web/brain7_98.html
+	4 web/brain7_98.html
+	4 web/brain7_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	2 web/10bf97revansmid.html
+	2 web/10csu96revansquiz4.html
+	2 web/brain8b_98.html
+	2 web/brain8c_98.html
+	2 web/intern_overview.html
+	2 web/msutton.html
+	=36
+	(4)
+type
+	2 web/daspaas.html
+	=2
+	(0)
+typical
+	2 web/jcolletto.html
+	=2
+	(0)
+ubiquitous
+	2 web/shobbs.html
+	=2
+	(0)
+ucsd
+	ignored (13)
+ucsd.edu
+	2 web/member_form.html
+	=2
+	(0)
+under
+	5 web/test.html
+	5 web/test.html
+	5 web/test.html
+	5 web/test.html
+	2 web/100a97revan.html
+	2 web/100a97revan.html
+	2 web/intern_overview.html
+	=26
+	(3)
+undergrads
+	2 web/jcolletto.html
+	2 web/shobbs.html
+	=4
+	(0)
+undergraduate
+	3 web/articles.html
+	3 web/articles.html
+	2 web/mzabrocki.html
+	2 web/shobbs.html
+	=10
+	(1)
+undergraduates
+	2 web/articles.html
+	=2
+	(0)
+understand
+	3 web/shobbs.html
+	3 web/shobbs.html
+	=6
+	(0)
+understanding
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	=6
+	(0)
+unified
+	2 web/articles.html
+	=2
+	(0)
+uniformly
+	2 web/brain8d_98.html
+	=2
+	(0)
+unimportant
+	2 web/brain8c_98.html
+	=2
+	(0)
+union
+	2 web/societies.html
+	=2
+	(0)
+unit
+	2 web/brain10_98.html
+	=2
+	(0)
+universities
+	2 web/intern_overview.html
+	=2
+	(0)
+university
+	3 web/rlibby.html
+	3 web/rlibby.html
+	2 web/articles.html
+	2 web/mzabrocki.html
+	=10
+	(1)
+unix
+	5 web/dbuckley.html
+	5 web/dbuckley.html
+	5 web/dbuckley.html
+	5 web/dbuckley.html
+	=20
+	(2)
+unknown
+	2 web/10csu96revansquiz4.html
+	=2
+	(0)
+unless
+	2 web/brain8c_98.html
+	2 web/intern_overview.html
+	=4
+	(0)
+unlikely
+	2 web/brain7_98.html
+	=2
+	(0)
+unpaid
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	4 web/intern_overview.html
+	=12
+	(1)
+until
+	2 web/brain9a_98.html
+	2 web/math.html
+	=4
+	(0)
+updated
+	ignored (7)
+updating
+	2 web/ktsai.html
+	=2
+	(0)
+upper
+	2 web/test.html
+	=2
+	(0)
+use
+	ignored (6)
+used
+	3 web/shobbs.html
+	3 web/shobbs.html
+	2 web/jcolletto.html
+	2 web/mlainer.html
+	2 web/msutton.html
+	=12
+	(1)
+useful
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	2 web/articles.html
+	2 web/msutton.html
+	=10
+	(1)
+users
+	2 web/msutton.html
+	=2
+	(0)
+using
+	2 web/daspaas.html
+	2 web/shobbs.html
+	=4
+	(0)
+usually
+	2 web/intern_overview.html
+	=2
+	(0)
+vacation
+	2 web/intern_overview.html
+	=2
+	(0)
+valentine
+	2 web/alumni.html
+	=2
+	(0)
+valle
+	2 web/lyu.html
+	=2
+	(0)
+valley
+	2 web/msutton.html
+	=2
+	(0)
+valuable
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	=6
+	(0)
+value
+	4 web/brain8c_98.html
+	4 web/brain8c_98.html
+	4 web/brain8c_98.html
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	=18
+	(2)
+variance
+	2 web/shobbs.html
+	=2
+	(0)
+variations
+	2 web/shobbs.html
+	=2
+	(0)
+varies
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	2 web/jcolletto.html
+	=6
+	(0)
+variety
+	3 web/msutton.html
+	3 web/msutton.html
+	2 web/intern_overview.html
+	2 web/mlainer.html
+	=10
+	(1)
+various
+	3 web/articles.html
+	3 web/articles.html
+	2 web/lyu.html
+	=8
+	(0)
+velocity
+	2 web/brain10_98.html
+	=2
+	(0)
+version
+	5 web/20c.html
+	5 web/20c.html
+	5 web/20c.html
+	5 web/20c.html
+	3 web/20a.html
+	3 web/20a.html
+	=26
+	(3)
+versky
+	2 web/alumni.html
+	=2
+	(0)
+very
+	3 web/100a97revan.html
+	3 web/100a97revan.html
+	3 web/100a97revan.html
+	3 web/100a97revan.html
+	3 web/jcolletto.html
+	3 web/jcolletto.html
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	2 web/shobbs.html
+	=24
+	(2)
+via
+	2 web/lyu.html
+	2 web/rlibby.html
+	=4
+	(0)
+vice
+	2 web/jcolletto.html
+	2 web/rlibby.html
+	=4
+	(0)
+victoria
+	2 web/societies.html
+	=2
+	(0)
+vidaver
+	4 web/brain8b_98.html
+	4 web/brain8b_98.html
+	4 web/brain8b_98.html
+	2 web/brain_archive.html
+	=14
+	(1)
+videotapes
+	2 web/articles.html
+	=2
+	(0)
+view
+	2 web/articles.html
+	2 web/brain10_98.html
+	2 web/brain6_98.html
+	2 web/brain6_98.html
+	2 web/brain7_98.html
+	2 web/brain8a_98.html
+	2 web/brain8b_98.html
+	2 web/brain8c_98.html
+	2 web/brain8d_98.html
+	2 web/brain9a_98.html
+	=20
+	(2)
+vinit
+	2 web/alumni.html
+	=2
+	(0)
+visit
+	ignored (6)
+visiting
+	2 web/intern_overview.html
+	=2
+	(0)
+volume
+	2 web/brain10_98.html
+	2 web/brain8c_98.html
+	=4
+	(0)
+volunteer
+	2 web/intern_overview.html
+	=2
+	(0)
+vugraphs
+	2 web/shobbs.html
+	=2
+	(0)
+wage
+	2 web/intern_overview.html
+	=2
+	(0)
+want
+	3 web/shobbs.html
+	3 web/shobbs.html
+	2 web/brain10_98.html
+	2 web/brain7_98.html
+	2 web/jcolletto.html
+	=12
+	(1)
+wanted
+	3 web/jcolletto.html
+	3 web/jcolletto.html
+	2 web/shobbs.html
+	=8
+	(0)
+wants
+	2 web/shobbs.html
+	=2
+	(0)
+warfare
+	2 web/lyu.html
+	2 web/shobbs.html
+	=4
+	(0)
+warning
+	2 web/mlainer.html
+	=2
+	(0)
+warren
+	2 web/brain8a_98.html
+	2 web/member_form.html
+	2 web/membership_form.html
+	=6
+	(0)
+warschowski
+	3 web/shobbs.html
+	3 web/shobbs.html
+	=6
+	(0)
+was
+	ignored (37)
+wasserman
+	2 web/alumni.html
+	=2
+	(0)
+water
+	3 web/10bf97revansmid.html
+	3 web/10bf97revansmid.html
+	3 web/10csu96revansquiz4.html
+	3 web/10csu96revansquiz4.html
+	3 web/brain8c_98.html
+	3 web/brain8c_98.html
+	=18
+	(2)
+waters
+	2 web/10csu96revansquiz4.html
+	=2
+	(0)
+wave
+	3 web/shobbs.html
+	3 web/shobbs.html
+	=6
+	(0)
+way
+	3 web/brain8d_98.html
+	3 web/brain8d_98.html
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	=12
+	(1)
+ways
+	2 web/brain8a_98.html
+	=2
+	(0)
+web
+	4 web/articles.html
+	4 web/articles.html
+	4 web/articles.html
+	2 web/index-3.html
+	2 web/index.html
+	2 web/may.html
+	2 web/may.html
+	2 web/mlainer.html
+	=22
+	(2)
+website
+	2 web/member_form.html
+	2 web/membership_form.html
+	=4
+	(0)
+websites
+	2 web/articles.html
+	=2
+	(0)
+wedge
+	5 web/brain8c_98.html
+	5 web/brain8c_98.html
+	5 web/brain8c_98.html
+	5 web/brain8c_98.html
+	=20
+	(2)
+wednesday
+	2 web/may.html
+	2 web/may.html
+	=4
+	(0)
+week
+	2 web/intern_overview.html
+	=2
+	(0)
+weeks
+	2 web/intern_overview.html
+	=2
+	(0)
+weighs
+	3 web/brain8b_98.html
+	3 web/brain8b_98.html
+	2 web/brain7_98.html
+	=8
+	(0)
+weight
+	ignored (18)
+welcome
+	2 web/articles.html
+	2 web/index-3.html
+	2 web/index.html
+	=6
+	(0)
+well
+	4 web/brain6_98.html
+	4 web/brain6_98.html
+	4 web/brain6_98.html
+	4 web/brain6_98.html
+	4 web/brain6_98.html
+	4 web/brain6_98.html
+	2 web/intern_overview.html
+	2 web/jcolletto.html
+	2 web/shobbs.html
+	=30
+	(3)
+went
+	3 web/brain8a_98.html
+	3 web/brain8a_98.html
+	2 web/mzabrocki.html
+	=8
+	(0)
+were
+	2 web/brain7_98.html
+	2 web/brain8a_98.html
+	2 web/math.html
+	2 web/msutton.html
+	2 web/shobbs.html
+	=10
+	(1)
+what
+	ignored (13)
+when
+	ignored (17)
+where
+	ignored (23)
+which
+	ignored (21)
+while
+	2 web/intern_overview.html
+	=2
+	(0)
+who
+	ignored (5)
+whoever
+	2 web/brain9a_98.html
+	=2
+	(0)
+whose
+	2 web/brain7_98.html
+	=2
+	(0)
+why
+	3 web/100a97revan.html
+	3 web/100a97revan.html
+	3 web/100a97revan.html
+	3 web/100a97revan.html
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	2 web/jcolletto.html
+	2 web/ktsai.html
+	2 web/shobbs.html
+	=24
+	(2)
+wide
+	2 web/brain8d_98.html
+	2 web/mlainer.html
+	=4
+	(0)
+will
+	ignored (8)
+willing
+	2 web/daspaas.html
+	=2
+	(0)
+willingness
+	2 web/daspaas.html
+	=2
+	(0)
+winner
+	2 web/brain9a_98.html
+	=2
+	(0)
+wins
+	ignored (21)
+winter
+	4 web/brain10_98.html
+	4 web/brain10_98.html
+	4 web/brain10_98.html
+	3 web/109.html
+	3 web/109.html
+	2 web/100.html
+	2 web/170.html
+	2 web/20a.html
+	2 web/20c.html
+	2 web/brain_archive.html
+	2 web/math.html
+	=30
+	(3)
+wireless
+	2 web/daspaas.html
+	=2
+	(0)
+wisdom
+	2 web/jcolletto.html
+	=2
+	(0)
+wish
+	2 web/brain8c_98.html
+	=2
+	(0)
+with
+	ignored (23)
+within
+	3 web/jcolletto.html
+	3 web/jcolletto.html
+	=6
+	(0)
+without
+	2 web/intern_overview.html
+	2 web/math.html
+	=4
+	(0)
+women
+	2 web/societies.html
+	=2
+	(0)
+won
+	2 web/shobbs.html
+	=2
+	(0)
+wonderland
+	4 web/brain10_98.html
+	4 web/brain10_98.html
+	4 web/brain10_98.html
+	2 web/brain_archive.html
+	2 web/math.html
+	=16
+	(1)
+word
+	2 web/shobbs.html
+	=2
+	(0)
+words
+	2 web/10bf97revansmid.html
+	2 web/brain10_98.html
+	2 web/jcolletto.html
+	=6
+	(0)
+work
+	ignored (12)
+worked
+	2 web/daspaas.html
+	2 web/dbuckley.html
+	=4
+	(0)
+workforce
+	2 web/daspaas.html
+	=2
+	(0)
+working
+	4 web/msutton.html
+	4 web/msutton.html
+	4 web/msutton.html
+	3 web/shobbs.html
+	3 web/shobbs.html
+	2 web/daspaas.html
+	2 web/index-3.html
+	2 web/index.html
+	2 web/intern_overview.html
+	2 web/jcolletto.html
+	=28
+	(3)
+works
+	2 web/rlibby.html
+	=2
+	(0)
+world
+	3 web/intern_overview.html
+	3 web/intern_overview.html
+	3 web/jcolletto.html
+	3 web/jcolletto.html
+	2 web/daspaas.html
+	2 web/dbuckley.html
+	=16
+	(1)
+worldwide
+	2 web/dbuckley.html
+	=2
+	(0)
+worn
+	2 web/shobbs.html
+	=2
+	(0)
+would
+	3 web/brain8a_98.html
+	3 web/brain8a_98.html
+	3 web/shobbs.html
+	3 web/shobbs.html
+	2 web/10bf97revansmid.html
+	2 web/brain7_98.html
+	2 web/brain8d_98.html
+	2 web/ktsai.html
+	2 web/msutton.html
+	=22
+	(2)
+write
+	2 web/10csu96revansquiz4.html
+	2 web/intern_overview.html
+	2 web/msutton.html
+	=6
+	(0)
+x-axis
+	2 web/10bf97revansmid.html
+	=2
+	(0)
+yard
+	3 web/brain8d_98.html
+	3 web/brain8d_98.html
+	=6
+	(0)
+yards
+	3 web/brain8d_98.html
+	3 web/brain8d_98.html
+	=6
+	(0)
+year
+	2 web/10csu96revansquiz4.html
+	2 web/intern_overview.html
+	2 web/member_form.html
+	2 web/membership_form.html
+	2 web/mzabrocki.html
+	=10
+	(1)
+years
+	3 web/daspaas.html
+	3 web/daspaas.html
+	2 web/articles.html
+	2 web/brain8b_98.html
+	2 web/dbuckley.html
+	2 web/intern_overview.html
+	2 web/mzabrocki.html
+	2 web/shobbs.html
+	=18
+	(2)
+yes
+	2 web/intern_overview.html
+	=2
+	(0)
+you
+	ignored (86)
+young
+	2 web/alumni.html
+	2 web/intern_overview.html
+	2 web/shobbs.html
+	=6
+	(0)
+youngest
+	2 web/brain9a_98.html
+	=2
+	(0)
+your
+	ignored (12)
+yourself
+	2 web/ktsai.html
+	=2
+	(0)
+youth
+	2 web/intern_overview.html
+	=2
+	(0)
+zabrocki
+	4 web/mzabrocki.html
+	4 web/mzabrocki.html
+	4 web/mzabrocki.html
+	2 web/alumni.html
+	=14
+	(1)
+zealand
+	2 web/societies.html
+	=2
+	(0)
+zero
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain6_98.html
+	3 web/brain8c_98.html
+	3 web/brain8c_98.html
+	=18
+	(2)
+zip
+	2 web/membership_form.html
+web/100a97revan.html
+	3 web/100a97revan.html
+	2 web/10csu96revansquiz4.html
+	2 web/articles.html
+	2 web/brain7_98.html
+	2 web/intern_overview.html
+	=104
+
+	13 web/jcolletto.html
+	13 web/jcolletto.html
+	13 web/jcolletto.html
+	13 web/jcolletto.html
+	10 web/shobbs.html
+	10 web/shobbs.html
+	10 web/shobbs.html
+	10 web/shobbs.html
+	10 web/shobbs.html
+	10 web/shobbs.html
+	10 web/shobbs.html
+	10 web/shobbs.html
+	10 web/shobbs.html
+	8 web/ktsai.html
+	8 web/ktsai.html
+	8 web/ktsai.html
+	8 web/ktsai.html
+	8 web/ktsai.html
+	8 web/ktsai.html
+	8 web/ktsai.html
+	5 web/brain8c_98.html
+	5 web/brain8c_98.html
+	5 web/brain8c_98.html
+	5 web/brain8c_98.html
+	4 web/10bf97revansmid.html
+	4 web/10bf97revansmid.html
+	4 web/10bf97revansmid.html
+	3 web/brain7_98.html
+	3 web/brain7_98.html
+	3 web/math.html
+	3 web/math.html
+	2 web/articles.html
+	2 web/dbuckley.html
+	2 web/lyu.html
+	2 web/member_form.html
+	2 web/membership_form.html
+	2 web/mlainer.html
+	2 web/msutton.html
+	2 web/societies.html
+	=742

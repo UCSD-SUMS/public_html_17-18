@@ -1,0 +1,263 @@
+<HTML>
+<!--This file created 9/17/98 1:05 PM by Claris Home Page version 3.0-->
+
+<!-- Mirrored from www.math.ucsd.edu/~sums/archive/97-98/brain_teaser/brain9a_98.htm by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 27 Jul 2017 04:47:53 GMT -->
+<HEAD>
+   <TITLE>Shooting Hoops</TITLE>
+   <META NAME=GENERATOR CONTENT="Claris Home Page 3.0">
+   <X-CLARIS-WINDOW TOP=43 BOTTOM=614 LEFT=3 RIGHT=533>
+   <X-CLARIS-TAGVIEW MODE=minimal>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="whtpaper.html">
+<CENTER><FONT SIZE="+4"><B>The Math Club Brain Teaser</B></FONT>
+
+<P><FONT SIZE="+2">Shooting Hoops has been solved!</FONT><BR>
+<FONT SIZE="+2">Congratulations</FONT><FONT SIZE="+2" COLOR="#993300">
+Barry Smith</FONT><FONT SIZE="+2">!</FONT></P></CENTER>
+
+<P>
+
+<HR>
+
+<A NAME=problem></A></P>
+
+<P><FONT SIZE="+3">The Problem:</FONT></P>
+
+<P><FONT SIZE="+2">Shooting Hoops</FONT></P>
+
+<P>Joe, Ben, and Maggie have a free throw contest. Whoever makes the
+first free throw is the winner. Being the youngest, Joe, who only
+makes 40% of his baskets, gets the first shot. Ben, who makes 60% of
+his baskets, then shoots, followed by Maggie, who makes 70% of her
+baskets. If all three players miss, Joe shoots again and they
+continue until someone wins.</P>
+
+<P>What is the probability that Joe wins the game?</P>
+
+<P>What is the probability that Ben wins the game?</P>
+
+<P>What is the probability that Maggie wins the game?</P>
+
+<P>&nbsp;</P>
+
+<P>This problem was solved by <B>Barry Smith</B>.</P>
+
+<P>Click <A HREF="#solution">here</A> to view the solution.</P>
+
+<P>Visit the <A HREF="brain_archive.html">brain teaser
+archive</A>.</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P>
+
+<HR>
+
+<A NAME=solution></A></P>
+
+<P>&nbsp;</P>
+
+<P><FONT SIZE="+3">The Solution:</FONT></P>
+
+<P>&nbsp;</P>
+
+<P>The sample space for the experiment described can be represented
+as</P>
+
+<BLOCKQUOTE>J<BR>
+   J B<BR>
+   J B M<BR>
+   J B M J<BR>
+   J B M J B<BR>
+   J B M J B M<BR>
+   J B M J B M J<BR>
+   ...</BLOCKQUOTE>
+
+<P>where J stands for Joe, B stands for Ben, and M stands for Maggie,
+and each outcome listed shows the succession of free-throws shot
+terminating in the person who finally makes the shot.</P>
+
+<P>&nbsp;</P>
+
+<P>Now the series of outcomes where Joe wins is</P>
+
+<BLOCKQUOTE>J<BR>
+   J B M J<BR>
+   J B M J B M J<BR>
+   ...</BLOCKQUOTE>
+
+<P>&nbsp;</P>
+
+<P>The probability Joe makes the initial shot is given as 0.4<BR>
+The probability that Joe misses a shot is 1-0.4 = 0.6,<BR>
+The probability that Ben misses a shot is 1-0.6 = 0.4,<BR>
+and the probability that Maggie misses a shot is 1-0.7 = 0.3</P>
+
+<P>&nbsp;</P>
+
+<P>Thus, the first outcome in this series has a probability of </P>
+
+<BLOCKQUOTE>0.4</BLOCKQUOTE>
+
+<P>&nbsp;</P>
+
+<P>The second outcome has a probability of </P>
+
+<BLOCKQUOTE>(0.6)(0.4)(0.3)*0.4 = 0.072 * 0.4</BLOCKQUOTE>
+
+<P>&nbsp;</P>
+
+<P>The third outcome has a probability of</P>
+
+<BLOCKQUOTE>(0.6)(0.4)(0.3)(0.6)(0.4)(0.3)*0.4 = (0.072)^2 * 0.4</BLOCKQUOTE>
+
+<P>&nbsp;</P>
+
+<P>Similarly, the kth outcome consists of k-1 appearances of J B M
+where all three miss, followed by J making the basket, so the
+probability for the kth outcome is</P>
+
+<BLOCKQUOTE>((0.6)(0.4)(0.3))^(k-1) * 0.4 = (0.072)^(k-1) * 0.4</BLOCKQUOTE>
+
+<P>&nbsp;</P>
+
+<P>Thus, the sums of the probabilities of every outcome where Joe
+wins is </P>
+
+<BLOCKQUOTE>(0.4) + (0.4)(0.072) + (0.4)(0.072)^2 + ... +
+   (0.4)(0.072)^(k-1) + ...</BLOCKQUOTE>
+
+<P>&nbsp;</P>
+
+<P>This is a geometric series where the factor is 0.072 &lt; 1, so
+the sum is</P>
+
+<BLOCKQUOTE> (0.4)/(1 - 0.072)
+   
+   <BLOCKQUOTE>= (0.4)/(0.928)
+      
+      <P>= 25/58</P></BLOCKQUOTE></BLOCKQUOTE>
+
+<P>&nbsp;</P>
+
+<P>The sequence of outcomes where Ben wins is</P>
+
+<BLOCKQUOTE>J B<BR>
+   J B M J B<BR>
+   J B M J B M J B<BR>
+   ...</BLOCKQUOTE>
+
+<P>&nbsp;</P>
+
+<P>The kth outcome this time has a probability of </P>
+
+<BLOCKQUOTE>(0.072)^(k-1) * (0.6)(0.6) </BLOCKQUOTE>
+
+<P>by the same reasoning as above, where the 0.6 * 0.6 is the
+combination of Joe missing his shot and Ben making his shot in the
+last round. Thus, the sum of the probabilities for outcomes where Ben
+wins is again a geometric series:</P>
+
+<BLOCKQUOTE>(0.6)(0.6) + (0.6)(0.6)(0.072) + (0.6)(0.6)(0.072)^2 +
+   ... + (0.6)(0.6)(0.072)^(k-1) + ...
+   
+   <BLOCKQUOTE>= (0.6)(0.6)/(1 - 0.072)
+      
+      <P>= (0.36)/(0.928)</P>
+      
+      <P>= 90/232</P></BLOCKQUOTE></BLOCKQUOTE>
+
+<P>&nbsp;</P>
+
+<P>Finally the sequence of outcomes where Maggie wins is</P>
+
+<BLOCKQUOTE>J B M<BR>
+   J B M J B M<BR>
+   J B M J B M J B M<BR>
+   ...</BLOCKQUOTE>
+
+<P>&nbsp;</P>
+
+<P>The kth outcome this time has a probability of </P>
+
+<BLOCKQUOTE>(0.072)^(k-1) * (0.6)(0.4)(0.7)
+   
+   <BLOCKQUOTE>= (0.072)^(k-1) * (0.168)</BLOCKQUOTE></BLOCKQUOTE>
+
+<P>where the (0.6)(0.4)(0.7) comes from the final round where Joe and
+Ben miss their shots, and Maggie makes hers.</P>
+
+<P>&nbsp;</P>
+
+<P>The sum of the probabilities for outcomes where Maggie wins is
+again a geometric series</P>
+
+<BLOCKQUOTE>(0.168) + (0.168)(0.072) + (0.168)(0.072)^2 + ... +
+   (0.168) (0.072)^(k-1) + ...
+   
+   <BLOCKQUOTE>= (0.168)/(1 - 0.072)
+      
+      <P>= (0.168)/(0.928)</P>
+      
+      <P>= 21/116</P></BLOCKQUOTE></BLOCKQUOTE>
+
+<P>&nbsp;</P>
+
+<P>In summary, the probability that Joe wins the game is 25/58
+<FONT COLOR="#990000">(~ 43%)</FONT></P>
+
+<P>	    the probability that Ben wins the game is 90/232
+<FONT COLOR="#990000">(~ 39%)</FONT></P>
+
+<P>     and the probability that Maggie wins the game is 21/116
+<FONT COLOR="#990000">(~ 18%)</FONT></P>
+
+<P>&nbsp;</P>
+
+<P>--Barry Smith</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P><A HREF="#problem">Back to the problem</A></P>
+
+<P>Visit the <A HREF="brain_archive.html">brain teaser
+archive</A>.</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P>Updated: 9/17/98</P>
+
+<CENTER>
+
+<HR>
+
+<A HREF="index-3.html"><IMG SRC="home1.html" ALT="[Home]" WIDTH=32 HEIGHT=32 X-CLARIS-USEIMAGEWIDTH X-CLARIS-USEIMAGEHEIGHT ALIGN=bottom></A><BR>
+<A HREF="index-3.html">Math Club Home</A></CENTER>
+
+<P>&nbsp;</P>
+
+<P></P>
+</BODY>
+
+<!-- Mirrored from www.math.ucsd.edu/~sums/archive/97-98/brain_teaser/brain9a_98.htm by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 27 Jul 2017 04:47:53 GMT -->
+</HTML>
