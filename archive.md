@@ -34,7 +34,7 @@ img {
         <div id="collapse1" class="panel-collapse collapse in">
             <div class="panel-body">
 
-                <a href="static/archive/15-16">Archived Website<a>
+                <a href="static/archive/15-16">Archived Website</a>
 
             </div>
         </div>
@@ -52,7 +52,7 @@ img {
         <div id="collapse3" class="panel-collapse collapse">
             <div class="panel-body">
             
-                <a href="static/archive/12-13">Archived Website<a>
+                <a href="static/archive/12-13">Archived Website</a>
                 
             </div>
         </div>
@@ -70,7 +70,7 @@ img {
         <div id="collapse4" class="panel-collapse collapse">
             <div class="panel-body">
             
-                <a href="static/archive/07-09">Archived Website<a>
+                <a href="static/archive/07-09">Archived Website</a>
                 
             </div>
         </div>
@@ -88,7 +88,7 @@ img {
         <div id="collapse5" class="panel-collapse collapse">
             <div class="panel-body">
             
-               <a href="static/archive/06-07">Archived Website<a>
+               <a href="static/archive/06-07">Archived Website</a>
                 
             </div>
         </div>
@@ -106,7 +106,7 @@ img {
         <div id="collapse6" class="panel-collapse collapse">
             <div class="panel-body">
             
-                <a href="static/archive/04-05">Archived Website<a>
+                <a href="static/archive/04-05">Archived Website</a>
                 
             </div>
         </div>
@@ -124,7 +124,7 @@ img {
         <div id="collapse7" class="panel-collapse collapse">
             <div class="panel-body">
             
-                <a href="static/archive/03-04">Archived Website<a>
+                <a href="static/archive/03-04">Archived Website</a>
                 
             </div>
         </div>
@@ -142,7 +142,7 @@ img {
         <div id="collapse8" class="panel-collapse collapse">
             <div class="panel-body">
             
-                <a href="static/archive/98-99">Archived Website<a>
+                <a href="static/archive/98-99">Archived Website</a>
                 
             </div>
         </div>
@@ -160,7 +160,7 @@ img {
         <div id="collapse9" class="panel-collapse collapse">
             <div class="panel-body">
             
-                <a href="static/archive/97-98">Archived Website<a>
+                <a href="static/archive/97-98">Archived Website</a>
                 
             </div>
         </div>
