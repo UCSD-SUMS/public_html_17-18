@@ -1,0 +1,296 @@
+<HTML>
+<!--This file created 9/16/98 1:01 PM by Claris Home Page version 3.0-->
+
+<!-- Mirrored from www.math.ucsd.edu/~sums/archive/97-98/brain_teaser/brain8d_98.htm by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 27 Jul 2017 04:47:52 GMT -->
+<HEAD>
+   <TITLE>Marching Ants</TITLE>
+   <META NAME=GENERATOR CONTENT="Claris Home Page 3.0">
+   <X-CLARIS-WINDOW TOP=59 BOTTOM=560 LEFT=26 RIGHT=556>
+   <X-CLARIS-TAGVIEW MODE=minimal>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="whtpaper.html">
+<CENTER><FONT SIZE="+4"><B>The Math Club Brain Teaser</B></FONT>
+
+<P><FONT SIZE="+2">Marching Ants has been solved!</FONT><BR>
+<FONT SIZE="+2">Congratulations</FONT><FONT SIZE="+2" COLOR="#993300">
+</FONT><FONT SIZE="+2" COLOR="#990000">Kent
+Hartman</FONT><FONT SIZE="+2">!</FONT></P></CENTER>
+
+<P>
+
+<HR>
+
+<A NAME=problem></A><FONT SIZE="+3"><IMG SRC="black-ant.html" WIDTH=88 HEIGHT=91 X-CLARIS-USEIMAGEWIDTH X-CLARIS-USEIMAGEHEIGHT ALIGN=right></FONT></P>
+
+<P><FONT SIZE="+3">The Problem:</FONT></P>
+
+<P>&nbsp;</P>
+
+<P><FONT SIZE="+2">Marching Ants<BR>
+</FONT></P>
+
+<P>An ant is crawling at a rate of one foot per minute along a strip
+of rubber which can be infinitely and uniformly stretched. The strip
+is initially one yard long and one inch wide and is stretched an
+additional yard at the end of each minute. If the ant starts at one
+end of the strip of rubber, will it ever reach the other end, and if
+so when?</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P>Congratulations <B>Kent Hartman</B>!<BR>
+Click <A HREF="#solution">here</A> to view the
+solution.<FONT SIZE="+3"><IMG SRC="black-ant.html" WIDTH=88 HEIGHT=91 X-CLARIS-USEIMAGEWIDTH X-CLARIS-USEIMAGEHEIGHT ALIGN=right></FONT></P>
+
+<P>Visit the <A HREF="brain_archive.html">brain teaser
+archive</A>.</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P>
+
+<HR>
+
+<A NAME=solution></A><IMG SRC="black-ant.html" WIDTH=88 HEIGHT=91 X-CLARIS-USEIMAGEWIDTH X-CLARIS-USEIMAGEHEIGHT ALIGN=right></P>
+
+<P>&nbsp;</P>
+
+<P><FONT SIZE="+3">The Solution:</FONT></P>
+
+<P>&nbsp;</P>
+
+<P>We need to find if and when the ant first has less than one foot
+remaining after the instant when the strip has been stretched.</P>
+
+<P>When the strip is stretched, the ants's new position is
+proportional to its position prior to the stretching. At the end of
+nth stretching, the distance remaining for the ant to march is (n +
+1)/n of the distance remaining immediately before stretching, as the
+strip has grown to (s + 1) yards from s yards.</P>
+
+<P>The rest is an exercise in brute force.</P>
+
+<P>Start: 3-1 = 2 feet (the distance remaining prior to the
+stretch)</P>
+
+<P>2 * 2/1 = 4 feet remaining after the stretch at the end of minute
+1.</P>
+
+<P>Subtract 1 foot (the distance the ant travels), multiply by 3/2 =
+4.5 feet remaining after the stretch at the end of minute 2.</P>
+
+<P>Continuing this pattern, subtract 1, multiply by (n + 1)/n,
+compare the result with 1. The result is first below 1 after the 10th
+minute, and the distance remaining at that point is 0.78 and change.
+The ant marches this distance before the next stretching, and
+therefore reaches the other end of the strip in just over 10.78
+minutes.</P>
+
+<P>&nbsp;</P>
+
+<P>--Kent Hartman</P>
+
+<P>&nbsp;</P>
+
+<P><FONT COLOR="#990000"><B>Note:</B></FONT></P>
+
+<P><FONT COLOR="#990000">The trick of this problem is to notice that
+the point at which the ant stands also would be moved forward during
+each stretch. If the ant is at a position that is one-third of the
+way into the strip before the stretch, then he's still at a position
+that is one-third of the way into the strip even after the
+stretch.</FONT></P>
+
+<P><FONT COLOR="#990000">Here's a table we put together to illustrate
+the ant's progress on the strip after each minute:</FONT></P>
+
+<CENTER><TABLE BORDER=1 CELLPADDING=3 WIDTH="100%">
+   <TR>
+      <TD VALIGN=top WIDTH="20%">
+         <P>Total time passed (in minutes) </P>
+         
+         <P>= Total number of stretches </P>
+         
+         <P>= n</P>
+      </TD>
+      <TD VALIGN=top WIDTH="35%">
+         <P>Distance remaining before stretch (in feet)</P>
+         
+         <P>= distance remaining - distance travelled</P>
+         
+         <P>= distance remaining -1</P>
+      </TD>
+      <TD VALIGN=top WIDTH="45%">
+         <P>Distance remaining after stretch (in feet)</P>
+         
+         <P>= (n+1)/n * distance remaining before stretch</P>
+         
+         <P></P>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="20%">
+         <CENTER>1</CENTER>
+      </TD>
+      <TD WIDTH="35%">
+         <CENTER>3 - 1 = 2</CENTER>
+      </TD>
+      <TD WIDTH="45%">
+         <CENTER>2/1 * 2 = 4</CENTER>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="20%">
+         <CENTER>2</CENTER>
+      </TD>
+      <TD WIDTH="35%">
+         <CENTER>4 - 1 = 3</CENTER>
+      </TD>
+      <TD WIDTH="45%">
+         <CENTER>3/2 * 3 = 9/2 = 4.5</CENTER>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="20%">
+         <CENTER>3</CENTER>
+      </TD>
+      <TD WIDTH="35%">
+         <CENTER>9/2 - 1 = 7/2 = 4.5</CENTER>
+      </TD>
+      <TD WIDTH="45%">
+         <CENTER>4/3 * 7/2 = 14/3 = 4.67</CENTER>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="20%">
+         <CENTER>4</CENTER>
+      </TD>
+      <TD WIDTH="35%">
+         <CENTER>14/3 - 1 = 11/3 = 3.667</CENTER>
+      </TD>
+      <TD WIDTH="45%">
+         <CENTER>5/4 * 11/3 = 55/12 = 4.583</CENTER>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="20%">
+         <CENTER>5</CENTER>
+      </TD>
+      <TD WIDTH="35%">
+         <CENTER>55/12 - 1 = 43/12 = 3.583</CENTER>
+      </TD>
+      <TD WIDTH="45%">
+         <CENTER>6/5 * 43/12 = 43/10 = 4.300</CENTER>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="20%">
+         <CENTER>6</CENTER>
+      </TD>
+      <TD WIDTH="35%">
+         <CENTER>43/10 - 1 = 33/10 = 3.300</CENTER>
+      </TD>
+      <TD WIDTH="45%">
+         <CENTER>7/6 * 33/10 = 231/60 = 3.850</CENTER>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="20%">
+         <CENTER>7</CENTER>
+      </TD>
+      <TD WIDTH="35%">
+         <CENTER>231/60 -1 = 171/60 = 2.850</CENTER>
+      </TD>
+      <TD WIDTH="45%">
+         <CENTER>8/7 * 171/60 = 342/105 = 3.257</CENTER>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="20%">
+         <CENTER>8</CENTER>
+      </TD>
+      <TD WIDTH="35%">
+         <CENTER>342/105 -1 = 237/105 = 2.257</CENTER>
+      </TD>
+      <TD WIDTH="45%">
+         <CENTER>9/8 * 237/105 = 711/280= 2.539</CENTER>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="20%">
+         <CENTER>9</CENTER>
+      </TD>
+      <TD WIDTH="35%">
+         <CENTER>711/280 - 1 = 431/280 = 1.539</CENTER>
+      </TD>
+      <TD WIDTH="45%">
+         <CENTER>10/9 * 431/280 = 431/252 = 1.710</CENTER>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="20%">
+         <CENTER>10</CENTER>
+      </TD>
+      <TD WIDTH="35%">
+         <CENTER>431/252 - 1 = 179/252 = 0.710</CENTER>
+      </TD>
+      <TD WIDTH="45%">
+         <CENTER>11/10 * 179/252 = 1969/2520 = 0.7813</CENTER>
+      </TD>
+   </TR>
+</TABLE>
+</CENTER>
+
+<P><FONT COLOR="#990000">So after 10 minutes, the ant has less than
+one foot to travel, which it can do before the strip stretches again.
+Since the ant travels 1 foot per minute, it can travel 0.7813 feet in
+0.7813 minutes, or approximately 47 seconds. So the ant reaches the
+other end of the strip in about 10 minutes and 47 seconds.</FONT></P>
+
+<P>&nbsp;</P>
+
+<P><FONT COLOR="#990000">--Math Club</FONT></P>
+
+<P>&nbsp;</P>
+
+<P><FONT SIZE="+3"><IMG SRC="black-ant.html" WIDTH=88 HEIGHT=91 X-CLARIS-USEIMAGEWIDTH X-CLARIS-USEIMAGEHEIGHT ALIGN=right></FONT></P>
+
+<P><A HREF="#problem">Back to the problem</A></P>
+
+<P>Visit the <A HREF="brain_archive.html">brain teaser
+archive</A>.</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P>Updated: 9/16/98</P>
+
+<CENTER>
+
+<HR>
+
+<A HREF="index-3.html"><IMG SRC="home1.html" ALT="[Home]" WIDTH=32 HEIGHT=32 X-CLARIS-USEIMAGEWIDTH X-CLARIS-USEIMAGEHEIGHT ALIGN=bottom></A><BR>
+<A HREF="index-3.html">Math Club Home</A></CENTER>
+</BODY>
+
+<!-- Mirrored from www.math.ucsd.edu/~sums/archive/97-98/brain_teaser/brain8d_98.htm by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 27 Jul 2017 04:47:53 GMT -->
+</HTML>

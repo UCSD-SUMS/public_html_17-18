@@ -1,0 +1,279 @@
+<HTML>
+<!--This file created 11/3/98 11:59 AM by Claris Home Page version 3.0-->
+
+<!-- Mirrored from www.math.ucsd.edu/~sums/archive/97-98/brain_teaser/brain10_98.htm by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 27 Jul 2017 04:47:38 GMT -->
+<HEAD>
+   <TITLE>Winter Wonderland</TITLE>
+   <META NAME=GENERATOR CONTENT="Claris Home Page 3.0">
+   <X-CLARIS-WINDOW TOP=45 BOTTOM=616 LEFT=47 RIGHT=577>
+   <X-CLARIS-TAGVIEW MODE=minimal>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="whtpaper.html">
+<CENTER><FONT SIZE="+4"><B>The Math Club Brain Teaser</B></FONT>
+
+<P><FONT SIZE="+2">Winter Wonderland has been solved!</FONT><BR>
+<FONT SIZE="+2">Congratulations</FONT><FONT SIZE="+2" COLOR="#993300">
+Tamsen Dunn</FONT><FONT SIZE="+2">!</FONT></P></CENTER>
+
+<P>
+
+<HR>
+
+<A NAME=problem></A></P>
+
+<P><FONT SIZE="+3">The Problem:</FONT></P>
+
+<P><FONT SIZE="+2">Winter Wonderland</FONT></P>
+
+<P>One morning is starts to snow at a constant rate. Later, at
+6:00am, a snow plow sets out to clear a straight street. The plow can
+remove a fixed volume of snow per unit time, in other words its speed
+is inversely proportional to the depth of the snow. If the plow
+covered twice as much distance in the first hour as the second hour,
+what time did it start snowing?</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P>This problem was solved by <B>Tamsen Dunn</B>.</P>
+
+<P>Click <A HREF="#solution">here</A> to view the solution.</P>
+
+<P>Visit the <A HREF="brain_archive.html">brain teaser
+archive</A>.</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P>
+
+<HR>
+
+<A NAME=solution></A></P>
+
+<P>&nbsp;</P>
+
+<P><FONT SIZE="+3">The Solution:</FONT></P>
+
+<P>&nbsp;</P>
+
+<P>Let the snow be falling at rate r.</P>
+
+<P>The snow depth at time t is:</P>
+
+<P><TABLE BORDER=0 WIDTH="100%">
+   <TR>
+      <TD WIDTH="40%">
+         <P ALIGN=right>s =</P>
+      </TD>
+      <TD WIDTH="60%">
+         <P>r * ( t - ts)</P>
+      </TD>
+   </TR>
+</TABLE>
+</P>
+
+<P>where the snow has started falling at time ts (which is what we
+want to find).</P>
+
+<P>The velocity of the plow is:</P>
+
+<P><TABLE BORDER=0 WIDTH="100%">
+   <TR>
+      <TD WIDTH="40%">
+         <P ALIGN=right>v =</P>
+      </TD>
+      <TD WIDTH="60%">
+         <P>c / s</P>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="40%">
+         <P ALIGN=right>=</P>
+      </TD>
+      <TD WIDTH="60%">
+         <P>c / ( r * ( t - ts ) ) , where c is a constant</P>
+      </TD>
+   </TR>
+</TABLE>
+</P>
+
+<P>&nbsp;</P>
+
+<P>The distance covered in the first hour is the integral from 6am to
+7am of v, which is:</P>
+
+<P><TABLE BORDER=0 WIDTH="100%">
+   <TR>
+      <TD WIDTH="40%">
+         <P ALIGN=right>d1 =</P>
+      </TD>
+      <TD WIDTH="60%">
+         <P>( c / r )*log( ( 7 - ts ) / ( 6 - ts ) )</P>
+      </TD>
+   </TR>
+</TABLE>
+</P>
+
+<P>and the distance covered in the second hour is the integral from
+7am to 8am of v, which is:</P>
+
+<P><TABLE BORDER=0 WIDTH="100%">
+   <TR>
+      <TD WIDTH="40%">
+         <P ALIGN=right>d2 =</P>
+      </TD>
+      <TD WIDTH="60%">
+         <P>( c / r )*log( ( 8 - ts ) / ( 7 -t s) )</P>
+      </TD>
+   </TR>
+</TABLE>
+</P>
+
+<P>Setting d1 = 2 *d2 (since the plow covered twice as much distance
+in the first hour as the second hour) gives the equation to solve for
+ts:</P>
+
+<P><TABLE BORDER=0 WIDTH="100%">
+   <TR>
+      <TD WIDTH="40%">
+         <P ALIGN=right>log( ( 7 - ts ) / ( 6 - ts ) ) =</P>
+      </TD>
+      <TD WIDTH="60%">
+         <P>2 * log( ( 8 - ts ) / ( 7 - ts ) )</P>
+      </TD>
+   </TR>
+</TABLE>
+</P>
+
+<P>Take Exp of boths sides to get:</P>
+
+<P><TABLE BORDER=0 WIDTH="100%">
+   <TR>
+      <TD WIDTH="40%">
+         <P ALIGN=right>( 7 - ts) / ( 6 - ts) =</P>
+      </TD>
+      <TD WIDTH="60%">
+         <P>( ( 8 - ts ) / ( 7 - ts ) )^2</P>
+      </TD>
+   </TR>
+</TABLE>
+</P>
+
+<P>Solving for ts, this simplifies to solving the quadratic
+equation:</P>
+
+<P><TABLE BORDER=0 WIDTH="100%">
+   <TR>
+      <TD WIDTH="40%">
+         <P ALIGN=right>0 =</P>
+      </TD>
+      <TD WIDTH="60%">
+         <P>ts^2 - 13* ts + 41</P>
+      </TD>
+   </TR>
+</TABLE>
+</P>
+
+<P>giving the solutions for when it could have started snowing:</P>
+
+<P><TABLE BORDER=0 WIDTH="100%">
+   <TR>
+      <TD WIDTH="40%">
+         <P ALIGN=right>ts =</P>
+      </TD>
+      <TD WIDTH="60%">
+         <P>13/2 + sqrt(5)/2 or 13/2 - sqrt(5)/2</P>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="40%">
+         <P ALIGN=right>=</P>
+      </TD>
+      <TD WIDTH="60%">
+         <P>(~ 7.62 or ~ 5.38)</P>
+      </TD>
+   </TR>
+</TABLE>
+</P>
+
+<P>of which only the later makes sense (since it snowed before 6am,
+the time at which they started plowing), so</P>
+
+<P><TABLE BORDER=0 WIDTH="100%">
+   <TR>
+      <TD WIDTH="40%">
+         <P ALIGN=right>ts =</P>
+      </TD>
+      <TD WIDTH="60%">
+         <P>13/2 - sqrt(5)/2</P>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="40%">
+         <P ALIGN=right>=</P>
+      </TD>
+      <TD WIDTH="60%">
+         <P>~5.38</P>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="40%">
+         <P ALIGN=right>=</P>
+      </TD>
+      <TD WIDTH="60%">
+         <P>~5:23 am</P>
+      </TD>
+   </TR>
+</TABLE>
+</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P>-Tamsen Dunn</P>
+
+<P>&nbsp;</P>
+
+<P><A HREF="#problem">Back to the problem</A></P>
+
+<P>Visit the <A HREF="brain_archive.html">brain teaser
+archive</A>.</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P>Updated: 10/29/98</P>
+
+<CENTER>
+
+<HR>
+
+<A HREF="index-3.html"><IMG SRC="home1.html" ALT="[Home]" WIDTH=32 HEIGHT=32 X-CLARIS-USEIMAGEWIDTH X-CLARIS-USEIMAGEHEIGHT ALIGN=bottom></A><BR>
+<A HREF="index-3.html">Math Club Home</A></CENTER>
+
+<P>&nbsp;</P>
+
+<P></P>
+</BODY>
+
+<!-- Mirrored from www.math.ucsd.edu/~sums/archive/97-98/brain_teaser/brain10_98.htm by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 27 Jul 2017 04:47:38 GMT -->
+</HTML>
