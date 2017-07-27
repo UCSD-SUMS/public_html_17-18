@@ -19,151 +19,32 @@ img {
 .col {}
 
 </style>
+<h3>03-04</h3>
+<p><a href='static/03-04'>03-04</a></p>
 
-<div class="panel-group" id="accordion">
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
+<h3>04-05</h3>
+<p><a href='static/04-05'>04-05</a></p>
 
-                    2015 - 2016
+<h3>06-07</h3>
+<p><a href='static/06-07'>06-07</a></p>
 
-                </a>
-            </h4>
-        </div>
-        <div id="collapse1" class="panel-collapse collapse in">
-            <div class="panel-body">
+<h3>07-09</h3>
+<p><a href='static/07-09'>07-09</a></p>
 
-                <a href="static/archive/15-16">Archived Website</a>
+<h3>12-13</h3>
+<p><a href='static/12-13'>12-13</a></p>
 
-            </div>
-        </div>
-    </div>
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
-                
-                    2012 - 2013
-                    
-                </a>
-            </h4>
-        </div>
-        <div id="collapse3" class="panel-collapse collapse">
-            <div class="panel-body">
-            
-                <a href="static/archive/12-13">Archived Website</a>
-                
-            </div>
-        </div>
-    </div>
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">
-                
-                    2007 - 2009
-                    
-                </a>
-            </h4>
-        </div>
-        <div id="collapse4" class="panel-collapse collapse">
-            <div class="panel-body">
-            
-                <a href="static/archive/07-09">Archived Website</a>
-                
-            </div>
-        </div>
-    </div>
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#collapse5">
-                
-                    2006 - 2007
-                    
-                </a>
-            </h4>
-        </div>
-        <div id="collapse5" class="panel-collapse collapse">
-            <div class="panel-body">
-            
-                <a href="https://www.flickr.com/photos/ucsdmath">Photo Gallery</a>
-               <a href="static/archive/06-07">Archived Website</a>
-                
-            </div>
-        </div>
-    </div>
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#collapse6">
-                
-                    2004 - 2005
-                    
-                </a>
-            </h4>
-        </div>
-        <div id="collapse6" class="panel-collapse collapse">
-            <div class="panel-body">
-            
-                <a href="static/archive/04-05">Archived Website</a>
-                
-            </div>
-        </div>
-    </div>
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#collapse7">
-                
-                    2003 - 2004
-                    
-                </a>
-            </h4>
-        </div>
-        <div id="collapse7" class="panel-collapse collapse">
-            <div class="panel-body">
-            
-                <a href="static/archive/03-04">Archived Website</a>
-                
-            </div>
-        </div>
-    </div>
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#collapse8">
-                
-                    1998 - 1999
-                    
-                </a>
-            </h4>
-        </div>
-        <div id="collapse8" class="panel-collapse collapse">
-            <div class="panel-body">
-            
-                <a href="static/archive/98-99">Archived Website</a>
-                
-            </div>
-        </div>
-    </div>
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#collapse9">
-                
-                    1997 - 1998
-                    
-                </a>
-            </h4>
-        </div>
-        <div id="collapse9" class="panel-collapse collapse">
-            <div class="panel-body">
-            
-                <a href="static/archive/97-98">Archived Website</a>
-                
-            </div>
-        </div>
-    </div>
-</div>
+<h3>15-16</h3>
+<p><a href='static/15-16'>15-16</a></p>
+
+<h3>16-17</h3>
+<p><a href='static/16-17'>16-17</a></p>
+
+<h3>97-98</h3>
+<p><a href='static/97-98'>97-98</a></p>
+
+<h3>98-99</h3>
+<p><a href='static/98-99'>98-99</a></p>
+
+<h3>99-04</h3>
+<p><a href='static/99-04'>99-04</a></p>
