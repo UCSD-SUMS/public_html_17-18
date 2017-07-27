@@ -1,0 +1,109 @@
+<html>
+
+<!-- Mirrored from www.math.ucsd.edu/~sums/archive/04-05/oct04soln.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 27 Jul 2017 03:34:34 GMT -->
+<head><title>UCSD Mathematics Club::Brainteasers::Archives::October 2004 Solution</title>
+
+<base >
+<link rel="stylesheet" href="style.html" type="text/css" id="style">
+
+<style>
+
+A:link
+{
+	font-family: verdana;
+	font-size: 7pt;
+	color: #94aaad;
+	text-decoration: none;
+}
+
+A:visited
+{
+	font-family: verdana;
+	font-size: 7pt;
+	color: #94aaad;
+	text-decoration: none;
+}
+
+A:hover
+{
+	font-family: verdana;
+	font-size: 7pt;
+	color: #78A07D;
+	font-weight: bold;
+}
+</style>
+</head>
+<body>
+<span class="head">Solution by Wolfgang Kais</span><BR>
+<BR>
+<span class="subhead">Part (a):</span><BR>
+<span class="text">
+ Given any positive integer p, there is exactly one interpolytion
+ polynomial S(x,p) of degree at most (p+1) such that
+ S(n,p) = 1^p + 2^p + ... + n^p for all evaluations at n=0,..,(p+1).
+ The coefficients are all rational, because the linear equation system
+ that leads to these coefficients only contains rational elements. If we 
+ can
+ show, that the equality is true for all natural n, then of course S(x,p) 
+ is
+ the only polynomial that meets this condition (there is only one 
+ polynomial
+ of degree at most p+k that complies with the equation also for n up to 
+ p+k,
+ and our S(x,p) will do).
+ There can only be one polynomial F of degree at most p with F(n) = (n+1)^p
+ for n=0,...p. Therefore, F(x) = (x+1)^p for all x. S(x+1,p) - S(x,p) also
+ is a polynomial of degree at most p that meets this condition, so
+ S(x+1,p) - S(x) = (x+1)^p for all x. This can be used for the induction:
+ If we already know, that 1^p + 2^p + ... + n^p = S(n,p) for an integer n
+ (and we do know this for n=0,...,p+1), then:
+ S(n+1,p) = S(n,p) + (n+1)^p = 1^p + 2^p + ... + n^p + (n+1)^p.
+ So indeed S(n,p) = 1^p + 2^p + ... + n^p for all positive integers n.<BR>
+qed.<BR>
+<BR></span>
+ <span class="subhead">Part (b):</span><BR>
+<span class="text">
+ Let p be a positive integer. As shown above, S(x+1,p) - S(x,p) = (x+1)^p
+ for all (rational) x. Especially:
+ S(1,p) - S(0,p) = 1^p = S(1,p), so S(0,p) = 0 (0 is a root of S(x,p)).
+ 0 - S(-1,p) = S(0,p) - S(-1,p) = 0^p = 0, so -1 also is a root of S(x,p).
+ For any positive integer n, if we add S(-k,p) - S(-k-1,p) = (-k)^p for all
+ k=1,..,n, we get:
+ S(-1,p) - S(-n-1,p) = (-1)^p + (-2)^p + ... + (-n)^p = (-1)^p * S(n,p), so
+ S(-n-1,p) + (-1)^p * S(n,p) = 0, and therefore for all (rational) x:<BR>
+<blockquote>
+ (*)  S(-x-1,p) + (-1)^p * S(x,p) = 0
+</blockquote>
+ If p > 0 is even, then for x = -1/2, this evaluates to:
+ S(-(-1/2)-1,p) + (-1)^p * S(-1/2,p) = 0, so S(-1/2,p) + S(-1/2,p) = 0, and
+ thus S(-1/2,p) = 0, so -1/2 indeed is a root of S(x,p).
+ Now, let p > 1 be odd.
+ Then, (*) becomes S(-x-1,p) = S(x,p), that means that S(x,p) is symmetric
+ to the axis x = -1/2. Therefore, differentiating by x, S'(-1/2,p) = 0.
+ To show that 0 is a double root, we must show that S'(0,p) = 0 (we already
+ know that S(0,p)=0). From S(x+1,p) - S(x,p) = (x+1)^p, it follows that
+ S'(x+1,p) - S'(x,p) = p*(x+1)^p, and therefore S'(x,p) = p*S(x,p-1) + c
+ for some constant c. Since S(-1/2),p-1) = 0 (p-1 is even), we see that
+ c also must be 0, so 0 is a double root of S(x,p). Because of the symmetry
+ of S(x,p), also -1 must be a double root.<BR>
+qed.
+</span>
+
+</center>
+
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript" language="javascript">
+var sc_project=663163; 
+var sc_partition=5; 
+var sc_security="e4bd771d"; 
+var sc_invisible=1; 
+</script>
+
+<script type="text/javascript" language="javascript" src="js/counter.js"></script><noscript><a href="../external.html?link=http://www.statcounter.com/" target="_blank"><img  src="gif/counter016b.gif?sc_project=663163&amp;java=0&amp;security=e4bd771d&amp;invisible=1" alt="free statistics" border="0"></a> </noscript>
+<!-- End of StatCounter Code -->
+
+</body>
+
+<!-- Mirrored from www.math.ucsd.edu/~sums/archive/04-05/oct04soln.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 27 Jul 2017 03:34:34 GMT -->
+</html>
