@@ -25,7 +25,7 @@ img {
             <h4 class="panel-title">
                 <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
                 
-                    insert dates here
+                    16-17
                 
                 </a>
             </h4>
@@ -43,7 +43,7 @@ img {
             <h4 class="panel-title">
                 <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
                 
-                    insert dates here
+                    15-16
                     
                 </a>
             </h4>
@@ -61,12 +61,120 @@ img {
             <h4 class="panel-title">
                 <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
                 
-                    insert dates here
+                    12-13
                     
                 </a>
             </h4>
         </div>
         <div id="collapse3" class="panel-collapse collapse">
+            <div class="panel-body">
+            
+                insert link here
+                
+            </div>
+        </div>
+    </div>
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">
+                
+                    07-09
+                    
+                </a>
+            </h4>
+        </div>
+        <div id="collapse4" class="panel-collapse collapse">
+            <div class="panel-body">
+            
+                insert link here
+                
+            </div>
+        </div>
+    </div>
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapse5">
+                
+                    06-07
+                    
+                </a>
+            </h4>
+        </div>
+        <div id="collapse5" class="panel-collapse collapse">
+            <div class="panel-body">
+            
+                insert link here
+                
+            </div>
+        </div>
+    </div>
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapse6">
+                
+                    04-05
+                    
+                </a>
+            </h4>
+        </div>
+        <div id="collapse6" class="panel-collapse collapse">
+            <div class="panel-body">
+            
+                insert link here
+                
+            </div>
+        </div>
+    </div>
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapse7">
+                
+                    03-04
+                    
+                </a>
+            </h4>
+        </div>
+        <div id="collapse7" class="panel-collapse collapse">
+            <div class="panel-body">
+            
+                insert link here
+                
+            </div>
+        </div>
+    </div>
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapse8">
+                
+                    98-99
+                    
+                </a>
+            </h4>
+        </div>
+        <div id="collapse8" class="panel-collapse collapse">
+            <div class="panel-body">
+            
+                insert link here
+                
+            </div>
+        </div>
+    </div>
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapse9">
+                
+                    97-98
+                    
+                </a>
+            </h4>
+        </div>
+        <div id="collapse9" class="panel-collapse collapse">
             <div class="panel-body">
             
                 insert link here
