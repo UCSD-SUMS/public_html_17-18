@@ -1,0 +1,54 @@
+This is TeX, Version 3.1415 (C version 6.1) (format=amstex 95.6.26)  13 MAY 1998 15:31
+**170AFinal.96.tex
+(170AFinal.96.tex
+
+AmS-TeX- Version 2.1
+COPYRIGHT 1985, 1990, 1991 - AMERICAN MATHEMATICAL SOCIETY
+Use of this macro package is not restricted provided
+each use is acknowledged upon publication.
+
+! Undefined control sequence.
+\Bbb@@ #1->\noaccents@ \fam \msbfam 
+                                    \relax #1
+\Bbb@ #1->{\Bbb@@ {#1}
+                      }
+l.81 ...  \hangindent=19pt  Given $x, y \in \Bbb R
+                                                  ^n$,
+? q
+OK, entering \batchmode...
+! Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+\Bbb@@ #1->\noaccents@ \fam \msbfam \relax 
+                                           #1
+\Bbb@ #1->{\Bbb@@ {#1}
+                      }
+l.81 ...  \hangindent=19pt  Given $x, y \in \Bbb R
+                                                  ^n$,
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(542.025+2.5)x391.46176, glue set 7.00636
+.\glue(\topskip) 0.0
+.\hbox(10.34946+5.34944)x391.46176, glue set 27.76067fil
+..\tenrm M
+..\tenrm a
+..\tenrm t
+..\tenrm h
+..\glue 3.33333 plus 1.66666 minus 1.11111
+..etc.
+.\glue -7.82954
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [1])
+! Emergency stop.
+<*> 170AFinal.96.tex
+                    
+*** (job aborted, no legal \end found)
+
+Output written on 170AFinal.96.dvi (1 page, 4328 bytes).
