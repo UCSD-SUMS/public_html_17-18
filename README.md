@@ -12,6 +12,7 @@ The most up-to-date technical documentation is on the
 ## TL;DR
 
 ```
+export GIT_LFS_SKIP_SMUDGE=1
 git clone https://github.com/UCSD-SUMS/UCSD-SUMS.github.io
 curl -sSL https://get.haskellstack.org/ | sh
 npm install -g yarn
@@ -29,23 +30,19 @@ npm run watchSite
 stack setup
 ```
 
-- Clone this repository:
+- Clone this repository
+(Note: binary files such as images and pdfs are stored in [git-lfs](https://git-lfs.github.com/). The first line prevents you from cloning all of these files.)
 ```
+export GIT_LFS_SKIP_SMUDGE=1
 git clone https://github.com/UCSD-SUMS/UCSD-SUMS.github.io
 ```
 
-- Use Yarn to install frontend dependencies
+- Install [NPM](https://www.npmjs.com/) and use [Yarn](https://yarnpkg.com/en/) to install frontend dependencies
 ```
 npm install -g yarn
 yarn install
 ```
-
 (This takes care of building/generating minified JS files for certain parts of the site.)
-
-  - Alternatively, just use NPM directly (note: this can be much slower than using Yarn!)
-  ```
-  npm install
-  ```
 
 - Start the local webserver
 ```
@@ -82,8 +79,6 @@ using standard markdown syntax - just upload images to the `static` folder throu
 
 # Adding a New Page
 To add an entirely new page, contact the web coordinator!
-
-(ToDo: describe guidelines for where new pages should go, how to ensure they're included in the build, etc)
 
 # Other Notes
 All changes should be pushed to the `hakyll` branch, which kicks off the automated
