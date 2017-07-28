@@ -3,15 +3,18 @@ title: "Talks"
 ---
 
 # Talks
+A lightning talk is a short presentation meant to quickly introduce a topic or concept to an audience.
 
-If you'd like to give a talk this quarter, just fill out the form below!
+These talks are held monthly and are entirely student-run. Attendance is open to any and all students, with any level of mathematical background.
 
-This quarter's talks will be in AP&M 7421, and will be at the following
-dates and times:
+We also hold raffles for math-related books and provide light refreshments.
 
-- Friday, April 28th, 5-6:30pm
 
-- Friday, May 26th, 5-6:30pm
+This quarter's talks will be held on the following dates:
+- Friday, October 27th
+- Friday, November 24th
+
+If you'd like to give a talk, just fill out the form below.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScvZBygq498xuoHpTXOkkHfwFx9JU_KYSmaUtcXKwgr3ml71Q/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
@@ -108,3 +111,18 @@ properties. Its connections to other areas in mathematics will also be
 mentioned, for example, harmonic analysis and PDE.
 
 If time permits, we will get a glimpse of stochastic calculus as well.
+
+## Vibrations on a Drumhead
+(Simon Hu)
+
+In this talk, we will discuss the problem of vibrations on a drum-head. Specifically, we find an analytical solution to the wave equation in two dimensions by using Bessel's functions.
+
+We first derive the Bessel's function, which is a solution to a Second-Order, Linear, Ordinary Differential Equation. Then we discuss, shortly, the wave equation and the fundamental solution. Finally, we will discuss the problem of vibrations on a drum-head. If time permits, we will discuss applications of this problem.
+
+## Boolean Fourier Analysis
+(Peter Amidon)
+
+Boolean Fourier Analysis has proven to be a remarkably versatile tool in various fields in theoretical computer science.
+In this talk I will introduce the basics of the technique and show how the simple change-of-basis that is Fourier analysis can solve many problems.
+In addition I will show a Fourier-analysis based proof of the famous Arrow's Theorem which shows an approximate version of it:
+if a ranked-choice voting system has a high probably of choosing a Condorcet winner, then in some way it is "close" to being a dictatorship.
