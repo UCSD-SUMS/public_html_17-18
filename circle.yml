@@ -12,6 +12,7 @@ machine:
   post:
     - wget https://downloads.rclone.org/rclone-v$RCLONE_VERSION-linux-amd64.zip -O /dev/shm/rclone.zip
     - unzip -j /dev/shm/rclone.zip rclone-v$RCLONE_VERSION-linux-amd64/rclone -d ~/bin
+    - mkdir -p $(dirname $RCLONE_CONFIG)
     - echo "[ucsdsums]"        >$RCLONE_CONFIG
     - echo "type = drive"     >>$RCLONE_CONFIG
     - echo "client_id = "     >>$RCLONE_CONFIG
