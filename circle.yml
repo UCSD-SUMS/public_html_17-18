@@ -20,7 +20,7 @@ machine:
     - echo "$RCLONE_TOKEN"    >>$RCLONE_CONFIG
 checkout:
   post:
-    - rclone copy ucsdsums:"UCSD SUMS/Static" UCSD-SUMS.github.io/static/
+    - rclone copy ucsdsums:"UCSD SUMS/Static" static/
 test:
   post:
     - cabal run build
