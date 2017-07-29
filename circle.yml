@@ -8,7 +8,7 @@ machine:
   timezone: America/Los_Angeles
   environment:
     RCLONE_VERSION: 1.37
-  pre:
+  post:
     - wget https://downloads.rclone.org/rclone-v$RCLONE_VERSION-linux-amd64.zip -O /dev/shm/rclone.zip
     - unzip -j /dev/shm/rclone.zip rclone-v$RCLONE_VERSION-linux-amd64/rclone -d ~/bin
     - echo "[ucsdsums]"        >$RCLONE_CONFIG
