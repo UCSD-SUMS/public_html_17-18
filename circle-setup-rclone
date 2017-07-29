@@ -1,0 +1,13 @@
+#!/bin/bash
+if [[ $HOSTNAME == box* ]]; then
+  cat >~/.config/rclone/rclone.conf <<EOF
+[ucsdsums]
+type = drive
+client_id = 
+client_secret = 
+$RCLONE_TOKEN
+
+EOF
+else
+  echo "!! This is only to be used from CircleCI!"
+fi
