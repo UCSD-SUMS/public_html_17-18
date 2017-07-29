@@ -6,11 +6,11 @@ general:
     - "_site"
 machine:
   timezone: America/Los_Angeles
+  environment:
+    RCLONE_VERSION: 1.37
   pre:
-    - sudo apt install git-lfs
-checkout:
-  post:
-    - git lfs pull
+    - wget https://downloads.rclone.org/rclone-v${RCLONE_VERSION}-linux-amd64.zip -o /dev/shm/rclone.zip
+    - unzip /dev/shm/rclone.zip rclone-v${RCLONE_VERSION}-linux-amd64/rclone -d ~/bin -j
 test:
   post:
     - cabal run build
