@@ -17,7 +17,7 @@ machine:
     - echo "type = drive"     >>$RCLONE_CONFIG
     - echo "client_id = "     >>$RCLONE_CONFIG
     - echo "client_secret = " >>$RCLONE_CONFIG
-    - echo "$RCLONE_TOKEN"    >>$RCLONE_CONFIG
+    - echo "token = $RCLONE_TOKEN"    >>$RCLONE_CONFIG
 checkout:
   post:
     - rclone copy ucsdsums:"UCSD SUMS/Static" static/
