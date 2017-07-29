@@ -8,6 +8,9 @@ machine:
   timezone: America/Los_Angeles
   pre:
     - sudo apt install git-lfs
+checkout:
+  post:
+    - git lfs pull
 test:
   post:
     - cabal run build
@@ -15,7 +18,7 @@ deployment:
   hakyll:
     branch: hakyll
     commands:
-      - git lfs clone git@github.com:ucsd-sums/ucsd-sums.github.io --branch master deploy
+      - git clone git@github.com:ucsd-sums/ucsd-sums.github.io --branch master deploy
       - cp -r _site/* deploy
       - git config --global user.email circleci@circleci.com
       - git config --global user.name CircleCI
