@@ -9,9 +9,13 @@ machine:
   environment:
     RCLONE_VERSION: 1.37
   pre:
-    - wget https://downloads.rclone.org/rclone-v1.37-linux-amd64.zip -O /dev/shm/rclone.zip
-    - unzip -j /dev/shm/rclone.zip rclone-v1.37-linux-amd64/rclone -d ~/bin
-    - ./circle-setup-rclone
+    - wget https://downloads.rclone.org/rclone-v$RCLONE_VERSION-linux-amd64.zip -O /dev/shm/rclone.zip
+    - unzip -j /dev/shm/rclone.zip rclone-v$RCLONE_VERSION-linux-amd64/rclone -d ~/bin
+    - echo "[ucsdsums]"        >$RCLONE_CONFIG
+    - echo "type = drive"     >>$RCLONE_CONFIG
+    - echo "client_id = "     >>$RCLONE_CONFIG
+    - echo "client_secret = " >>$RCLONE_CONFIG
+    - echo "$RCLONE_token"    >>$RCLONE_CONFIG
 checkout:
   post:
     - rclone copy ucsdsums:"UCSD SUMS/Static" UCSD-SUMS.github.io/static/
