@@ -6,6 +6,8 @@ general:
     - "_site"
 machine:
   timezone: America/Los_Angeles
+  pre:
+    - sudo apt install git-lfs
 test:
   post:
     - cabal run build
