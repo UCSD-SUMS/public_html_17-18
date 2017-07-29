@@ -2,10 +2,10 @@
 This repository contains the files that generate the SUMS website.
 
 Built with [Hakyll](https://jaspervdj.be/hakyll/)
-[![CircleCI](https://circleci.com/gh/UCSD-SUMS/UCSD-SUMS.github.io/tree/hakyll.svg?style=svg)](https://circleci.com/gh/UCSD-SUMS/UCSD-SUMS.github.io/tree/hakyll)
+[![CircleCI](https://circleci.com/gh/UCSD-SUMS/web/tree/hakyll.svg?style=svg)](https://circleci.com/gh/UCSD-SUMS/web/tree/hakyll)
 
 The most up-to-date technical documentation is on the
-[wiki](https://github.com/UCSD-SUMS/UCSD-SUMS.github.io/wiki).
+[wiki](https://github.com/UCSD-SUMS/web/wiki).
 
 # Installation
 
@@ -61,7 +61,7 @@ git lfs pull
 
 
 There may be issues on Windows-based systems. See the
-[wiki](https://github.com/UCSD-SUMS/UCSD-SUMS.github.io/wiki) for
+[wiki](https://github.com/UCSD-SUMS/web/wiki) for
 more information.
 
 # Editing Existing Events
