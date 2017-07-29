@@ -13,6 +13,7 @@ deployment:
   hakyll:
     branch: hakyll
     commands:
+      - export GIT_LFS_SKIP_SMUDGE=1
       - git clone git@github.com:ucsd-sums/ucsd-sums.github.io --branch master deploy
       - cp -r _site/* deploy
       - git config --global user.email circleci@circleci.com
