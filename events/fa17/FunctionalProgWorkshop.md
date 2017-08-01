@@ -1,7 +1,7 @@
 ---
 title: "Workshop: Intro to Functional Programming"
-start: 2017-10-16 16:00:27
-end: 2017-10-16 17:00:27
+start: 2017-10-20 16:00:27
+end: 2017-10-20 17:00:27
 location: To Be Determined
 ---
 
