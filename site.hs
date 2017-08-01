@@ -215,7 +215,7 @@ main = hakyll $ do
 
     match "business.md" $ do
         route   $ setExtension "html"
-        compile $ pandocCompiler
+        compile $ rawHTMLPandocCompiler
             >>= loadAndApplyTemplate "templates/default.html" defaultContext
             >>= relativizeUrls
             
