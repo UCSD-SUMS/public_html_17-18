@@ -5,7 +5,7 @@ end: 2017-10-03 17:00:27
 location: To Be Determined
 ---
 
-![](/static/fa17/GBM.jpg)
+![](/static/fa17/GBM3.png)
 
 The first major GBM of the year. Meet fellow undergraduate mathematicians,  
 both incoming and returning, and learn what SUMS is all about! Fun events  
