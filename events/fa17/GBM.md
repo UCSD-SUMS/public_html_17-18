@@ -1,7 +1,7 @@
 ---
 title: "Fall 2017 GBM"
-start: 2017-10-03 16:00:27
-end: 2017-10-03 17:00:27
+start: 2017-10-09 16:00:27
+end: 2017-10-09 17:00:27
 location: To Be Determined
 ---
 
