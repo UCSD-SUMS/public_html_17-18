@@ -45,7 +45,7 @@
 
       2. **Vice President**
       
-      The Vice President is responsible for assisting the President with all administrative duties within the Organization in their absence. This may include planning or hosting events, working with planning or volunteer committees to carry out events, communicating with Associated Students or the club advisor, and chairing meetings in the president's absence. The Vice President is responsible for assisting in any and all planning efforts, which may include reserving or booking rooms, planning allocation of funding, and stewarding the process of room reservation and/or funding requests through Associated Students. The Vice President shall be accountable for all duties of the president in their absence.
+         The Vice President is responsible for assisting the President with all administrative duties within the Organization in their absence. This may include planning or hosting events, working with planning or volunteer committees to carry out events, communicating with Associated Students or the club advisor, and chairing meetings in the president's absence. The Vice President is responsible for assisting in any and all planning efforts, which may include reserving or booking rooms, planning allocation of funding, and stewarding the process of room reservation and/or funding requests through Associated Students. The Vice President shall be accountable for all duties of the president in their absence.
 
       3. **Treasurer**
 
@@ -63,14 +63,19 @@
 
          This position involves creating and maintaining the various technologies used by the club. This includes managing the build and deployment process of the club's website, stewarding the server access provided to the club via Associated Students, and helping to create tools to improve the club's workflow. This may also involve maintaining any private or school-provided servers used by the club, and managing any digital resources (such as user accounts and login details) provided to club members.
          This position involves adding, updating, and maintaining the content on the website at [sums.ucsd.edu](http://sums.ucsd.edu/). If a page for an event needs to be made, or dates/times/descriptions need to be changed on the website, this position is the first point of contact. This position may also work with the underlying code base for the website, including adding updates/improvements over time. 
+         
+      7. **Website Coordinator**
+      
+         This position assists the Technology Chair on smaller, yet more frequent, tasks with regards to keeping the content of the website regular. This position is also second point of contact for ensuring that events are properly advertised, scheduled, and non-disparate. If there are no other tasks to complete, this position entails continually adding new content to populate the website.
 
-      7. **Historian**
+      8. **Historian**
 
          This position involves attending the events, taking photographs (with the permission of attendees) which can then be added to the website and/or Facebook group. It also involves things like tracking and organizing past meeting minutes and attendance information from previous events, as well as maintaining a history/archive page on the website.
 
-      8. **Publicity Chair**
+      9. **Publicity Chair**
 
          The primary duty of this position is to ensure that event details are communicated to the student body. This involves working with officers to finalize details such as event descriptions, times, and locations. It also includes heading any club advertising efforts, such as designing/printing/posting flyers and creating Facebook events. 
+         
 
    3. ### Requirements
    
