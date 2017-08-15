@@ -23,10 +23,25 @@ img {
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#collapse1"> 2016 - 2017</a>
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
+                    2017-2018
+                </a>
             </h4>
         </div>
         <div id="collapse1" class="panel-collapse collapse in">
+            <div class="panel-body">
+            </div>
+        </div>
+    </div>
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapse2"> 
+                    2016 - 2017
+                </a>
+            </h4>
+        </div>
+        <div id="collapse2" class="panel-collapse collapse">
             <div class="panel-body">
                 <div class="row">
                     <div class ="col">
@@ -141,32 +156,6 @@ img {
                         </p>
                     </div>
                 </div>
-            </div>
-        </div>
-    </div>
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
-                    2017-2018
-                </a>
-            </h4>
-        </div>
-        <div id="collapse2" class="panel-collapse collapse">
-            <div class="panel-body">
-            </div>
-        </div>
-    </div>
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
-                    2018-2019
-                </a>
-            </h4>
-        </div>
-        <div id="collapse3" class="panel-collapse collapse">
-            <div class="panel-body">
             </div>
         </div>
     </div>
