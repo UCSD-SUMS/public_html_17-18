@@ -116,7 +116,7 @@ Suggestions? Please contact us on slack! ucsdmathematics.slack.com
 # Minutes and Agendas
 <iframe src="https://drive.google.com/embeddedfolderview?id=0BwCPreoqG6_cem1vTTlFaGZRbVE#list" style="width:100%; height:150px; border:0;"></iframe>
 
-# Private Planning Calendar
+# Planning Calendar
 Here we organize the events and timing of tasks to complete for events (you can find most tasks starting in September). Feel free to give a shoutout on
 <a href="https://ucsdmathematics.slack.com/">https://ucsdmathematics.slack.com/</a> to participate in or suggest events!
 
