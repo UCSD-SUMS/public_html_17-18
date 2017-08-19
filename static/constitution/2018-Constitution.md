@@ -74,7 +74,7 @@
 
       9. **Publicity Chair**
 
-         The primary duty of this position is to ensure that event details are communicated to the student body. This involves working with officers to finalize details such as event descriptions, times, and locations. It also includes heading any club advertising efforts, such as designing/printing/posting flyers and creating Facebook events. 
+         The primary duty of this position is to ensure that event details are communicated to the student body and the public. This involves working with other officers to finalize details such as event descriptions, times, and locations. It also includes heading any club advertising efforts, such as designing/printing/posting flyers, creating Facebook events, and reaching out to students via email. 
          
 
    3. ### Requirements
