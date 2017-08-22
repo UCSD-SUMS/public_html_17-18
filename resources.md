@@ -8,7 +8,7 @@ Archive of Putnam problems and solutions: [http://kskedlaya.org/putnam-archive/]
 
 ##MATH 140A: Real Analysis
 
-###What is it about? testing
+###What is it about? 
 Part A of the sequence first contends with question: what is a real number? In following this course, it will be revealed that there are actually
 several equivalent answers to this question, whether it be a construction of the real numbers through dedekind cuts or cauchy completion of the
 set of rational numbers. Later on, the course will provide you some basic ideas in topology and an introduction to an important idea: a metric.
