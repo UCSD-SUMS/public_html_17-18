@@ -2,7 +2,7 @@
 
 1. ## Name of Student Organization
 
-- The name of this student organization shall be the Society for Undergraduate Mathematics Students (SUMS) at the Univeristy of California, San Diego (UCSD), hereafter referred to as 'SUMS' and 'The Organization'. 
+- The name of this student organization shall be the Society for Undergraduate Mathematics Students (SUMS) at the University of California, San Diego (UCSD), hereafter referred to as 'SUMS' and 'The Organization'. 
 
 2. ## Statement of Purpose
 
