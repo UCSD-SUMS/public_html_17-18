@@ -106,7 +106,7 @@
       - Any such breach of duty will first be brought to the attention of the club advisor. Pending the approval of the club advisor, the officer removal process will then be started.
       - Removal of an officer can be brought up as an agenda item at any regular business meeting, or a specific meeting may be scheduled to resolve the issue.
       - In such a meeting, any officer may make a motion to remove a specific officer. If this motion is seconded, the motion will be opened for discussion.
-      - After discussion, the motion will be brought to a vote. The motion passes if it receives a 2/3 majority vote.
+      - After discussion, the motion will be brought to a vote. The motion passes if it receives a 2/3 majority vote. Any member or current officer may vote.
       - If the motion passes, the officer in question is immediately removed from their position. Access to all club resources (such as login information, access to organization communication channels, and access to shared resources) will be rescinded. The officer will also be removed from the list of registered principal members (if applicable).
       - The duties of any removed officer will be redistributed among the remaining officers.
 
