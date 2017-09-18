@@ -30,6 +30,198 @@ img {
         </div>
         <div id="collapse1" class="panel-collapse collapse in">
             <div class="panel-body">
+                <div class="row">
+                    <div class ="col">
+                        <img src="/static/officers/Zack.jpg" />
+                    </div>
+                    <div class="col">
+                        <p>
+                            <strong>D. Zack Garza</strong><br>
+                            President
+                        </p>
+                        <p>
+                            <em>Mathematics, Minor in Computer Science</em><br>
+                            <em>4th Year, Muir College</em>
+                        </p>
+                        <p>
+                            Zack joined SUMS to help build a math community at UCSD. He hopes SUMS continues to be a meeting 
+                            place and community of learning where people share their 
+                            love and knowledge of math. His favorite math fact is that the sum of all n of the nth roots of 
+                            unity is exactly zero. He feels that this fact gives rise to so many cool connections between 
+                            algebra and geometry, and contains many nice symmetries--and one can recover Euler's infamous identity 
+                            as a special case! Zack has approximate knowledge of many musical instruments--drums, guitar, and a bit 
+                            of piano. He also cycles often and enjoys restoring/rebuilding old arcade machines.
+                        </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class ="col">
+                        <img src="/static/officers/Empty.jpg" />
+                    </div>
+                    <div class="col">
+                        <p>
+                            <strong>Empty</strong><br>
+                            Vice President
+                        </p>
+                        <p>
+                            <em>N/A</em><br>
+                            <em>N/A</em>
+                        </p>
+                        <p>
+                            N/A
+                        </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class ="col">
+                        <img src="/static/officers/Empty.jpg" />
+                    </div>
+                    <div class="col">
+                        <p>
+                            <strong>Empty</strong><br>
+                            Treasurer
+                        </p>
+                        <p>
+                            <em>N/A</em><br>
+                            <em>N/A</em>
+                        </p>
+                        <p>
+                            N/A
+                        </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class ="col">
+                        <img src="/static/officers/Empty.jpg" />
+                    </div>
+                    <div class="col">
+                        <p>
+                            <strong>Empty</strong><br>
+                            Secretary
+                        </p>
+                        <p>
+                            <em>N/A</em><br>
+                            <em>N/A</em>
+                        </p>
+                        <p>
+                            N/A
+                        </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class ="col">
+                        <img src="/static/officers/Empty.jpg" />
+                    </div>
+                    <div class="col">
+                        <p>
+                            <strong>Guanxin Li</strong><br>
+                            Publicity Chair
+                        </p>
+                        <p>
+                            <em>N/A</em><br>
+                            <em>N/A</em>
+                        </p>
+                        <p>
+                            N/A
+                        </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class ="col">
+                        <img src=/static/officers/Peter.jpg />
+                    </div>
+                    <div class="col">
+                        <p>
+                            <strong>Peter Amidon</strong><br>
+                            Technology Chair
+                        </p>
+                        <p>
+                            <em>Computer Science</em><br>
+                            <em>1st Year, Muir College</em>
+                        </p>
+                        <p>
+                            Peter joined SUMS since he enjoys abstract math and computer science related math, and had been attending Zack's lightning talks 
+                            regularly. As he became more involved with SUMS' lightning talks, he decided to attend meetings and become an officer. He hopes to 
+                            gain lots of fun math learning/teaching experience out of SUMS and hopes to meet other math loving undergrads. His favorite field of 
+                            math is category theory, as it seems to unify all the other fields of mathematics. He finds univalent foundations and homotopy type 
+                            theory cool as well. In addition, his favorite mathematician is either David Hilbert, for introducing formalism into mathematics, or 
+                            Alonzo Church, for introducing math into computer science. Peter's interests include research relating to programing languages, 
+                            reading, and occasional bicycling.
+                        </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class ="col">
+                        <img src="/static/officers/Empty.jpg" />
+                    </div>
+                    <div class="col">
+                        <p>
+                            <strong>Joseph Gilby</strong><br>
+                            Website Coordinator
+                        </p>
+                        <p>
+                            <em>N/A</em><br>
+                            <em>N/A</em>
+                        </p>
+                        <p>
+                            N/A
+                        </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class ="col">
+                        <img src="/static/officers/Empty.jpg" />
+                    </div>
+                    <div class="col">
+                        <p>
+                            <strong>Chengyu Chen</strong><br>
+                            Events Chair
+                        </p>
+                        <p>
+                            <em>N/A</em><br>
+                            <em>N/A</em>
+                        </p>
+                        <p>
+                            N/A
+                        </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class ="col">
+                        <img src="/static/officers/Empty.jpg" />
+                    </div>
+                    <div class="col">
+                        <p>
+                            <strong>Jonathan Lim</strong><br>
+                            Workshop Coordinator
+                        </p>
+                        <p>
+                            <em>N/A</em><br>
+                            <em>N/A</em>
+                        </p>
+                        <p>
+                            N/A
+                        </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class ="col">
+                        <img src="/static/officers/Empty.jpg" />
+                    </div>
+                    <div class="col">
+                        <p>
+                            <strong>Daniel Lee</strong><br>
+                            Historian
+                        </p>
+                        <p>
+                            <em>N/A</em><br>
+                            <em>N/A</em>
+                        </p>
+                        <p>
+                            N/A
+                        </p>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
