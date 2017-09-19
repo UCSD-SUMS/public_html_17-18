@@ -41,7 +41,7 @@ img {
                         </p>
                         <p>
                             <em>Mathematics, Minor in Computer Science</em><br>
-                            <em>4th Year, Muir College</em>
+                            <em>5th Year, Muir College</em>
                         </p>
                         <p>
                             Zack joined SUMS to help build a math community at UCSD. He hopes SUMS continues to be a meeting 
@@ -92,19 +92,23 @@ img {
                 </div>
                 <div class="row">
                     <div class ="col">
-                        <img src="/static/officers/Empty.jpg" />
+                        <img src=/static/officers/Simon.jpg />
                     </div>
                     <div class="col">
                         <p>
-                            <strong>Empty</strong><br>
+                            <strong>Simon Hu</strong><br>
                             Secretary
                         </p>
                         <p>
-                            <em>N/A</em><br>
-                            <em>N/A</em>
+                            <em>Electrical Engineering, Minor in Mathematics</em><br>
+                            <em>3rd Year, Warren College</em>
                         </p>
                         <p>
-                            N/A
+                            Simon decided to get involved with SUMS because he felt UCSD did not have an organization that could provide the 
+                            undergraduate math community with the resources necessary to succeed. He has a deep passion for math and wants to share 
+                            that passion with other math majors at UCSD. His favorite field of math is partial differential equations (PDEs), as they 
+                            help model a lot of physical phenomena, which he thinks is amazing. In particular, PDEs have so many applications for physics 
+                            in engineering (his major). Simon enjoys reading, watching Netflix, and working on personal projects.
                         </p>
                     </div>
                 </div>
@@ -137,7 +141,7 @@ img {
                         </p>
                         <p>
                             <em>Computer Science</em><br>
-                            <em>1st Year, Muir College</em>
+                            <em>2nd Year, Muir College</em>
                         </p>
                         <p>
                             Peter joined SUMS since he enjoys abstract math and computer science related math, and had been attending Zack's lightning talks 
@@ -160,8 +164,8 @@ img {
                             Website Coordinator
                         </p>
                         <p>
-                            <em>N/A</em><br>
-                            <em>N/A</em>
+                            <em>Applied Mathematics</em><br>
+                            <em>2nd Year, Sixth College</em>
                         </p>
                         <p>
                             N/A
