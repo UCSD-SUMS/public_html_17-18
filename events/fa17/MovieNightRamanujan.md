@@ -1,8 +1,8 @@
 ---
 title: "Movie Night"
-start: 2017-10-13 16:00:27
-end: 2017-10-13 17:00:27
-location: To Be Determined
+start: 2017-10-16 18:00:00
+end: 2017-10-16 21:00:00
+location: Price Center Theater
 ---
 
 Come join us for a mathematical movie! Continuing this year's theme  

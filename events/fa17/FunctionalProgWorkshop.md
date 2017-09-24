@@ -1,8 +1,8 @@
 ---
 title: "Workshop: Intro to Functional Programming"
-start: 2017-10-20 16:00:27
-end: 2017-10-20 17:00:27
-location: To Be Determined
+start: 2017-10-16 16:00:00
+end: 2017-10-16 18:00:00
+location: AP&M 6402
 ---
 
 In this workshop, we will be introducing the paradigm of "functional" programming,  

@@ -1,8 +1,8 @@
 ---
 title: "Fall 2017 GBM"
-start: 2017-10-09 16:00:27
-end: 2017-10-09 17:00:27
-location: To Be Determined
+start: 2017-10-09 19:00:00
+end: 2017-10-09 21:00:00
+location: Red Shoe Room (Price Center West)
 ---
 
 <img src="/static/fa17/GBM3.png" style="width: 475px;"/>
