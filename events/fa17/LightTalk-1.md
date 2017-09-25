@@ -1,7 +1,7 @@
 ---
 title: "Lightning Talk"
-start: 2017-10-27 16:00:27
-end: 2017-10-27 17:00:27
+start: 9999-01-01 00:00:00
+end: 9999-01-01 00:00:01
 location: To Be Determined
 ---
 

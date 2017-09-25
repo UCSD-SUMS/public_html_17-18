@@ -12,9 +12,7 @@ We also hold raffles for math-related books and provide light refreshments.
 
 This quarter's talks will be held on the following dates:
 
-- Friday, October 27th
-
-- Friday, November 24th
+- TBA
 
 If you'd like to give a talk, just fill out the form below.
 
