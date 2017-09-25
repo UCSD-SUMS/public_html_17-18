@@ -5,7 +5,7 @@ end: 2017-10-09 21:00:00
 location: Red Shoe Room (Price Center West)
 ---
 
-<img src="/static/fa17/GBM3.png" style="width: 475px;"/>
+<div class="container" style="width: 475px; height: 267px; overflow: hidden; padding:0; margin:0;"> <img src="/static/fa17/GBM3.png" style="width: 100%"/></div>
 
 The first major GBM of the year. Meet fellow undergraduate mathematicians,  
 both incoming and returning, and learn what SUMS is all about! Fun events  
