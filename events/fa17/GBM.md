@@ -1,7 +1,7 @@
 ---
 title: "Fall 2017 GBM"
 start: 2017-10-09 19:00:00
-end: 2017-10-09 21:00:00
+end: 2017-10-09 20:00:00
 location: Red Shoe Room (Price Center West)
 ---
 
