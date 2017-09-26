@@ -1,8 +1,8 @@
 ---
 title: "Lightning Talk"
-start: 9999-01-01 00:00:00
-end: 9999-01-01 00:00:01
-location: To Be Determined
+start: 2017-10-25 16:00:00
+end: 2017-10-25 17:00:00
+location: AP&M 7421
 ---
 
 A lightning talk is a short presentation meant to quickly 
