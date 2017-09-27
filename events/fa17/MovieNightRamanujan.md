@@ -4,7 +4,7 @@ start: 2017-10-16 18:00:00
 end: 2017-10-16 21:00:00
 location: Price Center Theater
 ---
-<div class="container" style="width: 475px; height: 267px; overflow: hidden; padding:0; margin:0;"> <img src="/static/fa17/Movie_Night.png" style="width: 100%"/></div>
+<div class="container" style="width: 250px; height: 140px; overflow: hidden; padding:0; margin:0;"> <img src="/static/fa17/Movie_Night.png" style="width: 100%"/></div>
 
 Come join us for a mathematical movie! Continuing this year's theme  
 of "Infamous 20th Century Mathematicians", we will be screening "The  
