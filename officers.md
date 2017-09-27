@@ -14,8 +14,11 @@ img {
   margin: 10px 10px 30px 10px;
 }
 
-.col {
-
+@media all and (max-width: 50em) {
+  .row {
+    flex-flow: column wrap;
+    padding: 0;
+  }
 }
 </style>
 
