@@ -4,6 +4,7 @@ start: 2017-10-16 16:00:00
 end: 2017-10-16 18:00:00
 location: AP&M 6402
 ---
+<div class="container" style="width: 250px; height: 140px; overflow: hidden; padding:0; margin:0;"> <img src="/static/fa17/fp-workshop.png" style="width: 100%"/></div>
 
 In this workshop, we will be introducing the paradigm of "functional" programming: 
 a programming style that is built upon the idea of composing mathematical functions 
