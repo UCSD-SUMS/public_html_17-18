@@ -43,11 +43,14 @@ img {
                             President
                         </p>
                         <p>
-                            <em>Mathematics, Minor in Computer Science</em><br>
-                            <em>5th Year, Muir College</em>
+                            <em>Mathematics</em><br>
+                            <em>3rd Year Transfer, Muir</em>
                         </p>
                         <p>
-                            Zack joined SUMS to help build a math culture at UCSD and a structured environment for students to pursue  extracurricular math. His primary goal with SUMS is to form a stable organization that will span many generations of students, and to help students explore and discover the kinds of math that excite and inspire them.
+                            Zack joined SUMS to help build a math culture at UCSD and a structured environment for students to pursue 
+                            extracurricular math. His primary goal with SUMS is to form a stable organization that will span many
+                            generations of students, and to help students explore and discover the kinds of math that excite and inspire
+                            them.
                         </p>
                     </div>
                 </div>
@@ -65,11 +68,9 @@ img {
                             <em>3rd Year, Warren College</em>
                         </p>
                         <p>
-                            Simon decided to get involved with SUMS because he felt UCSD did not have an organization that could provide the 
-                            undergraduate math community with the resources necessary to succeed. He has a deep passion for math and wants to share 
-                            that passion with other math majors at UCSD. His favorite field of math is partial differential equations (PDEs), as they 
-                            help model a lot of physical phenomena, which he thinks is amazing. In particular, PDEs have so many applications for physics 
-                            in engineering (his major). Simon enjoys reading, watching Netflix, and working on personal projects.
+                            Simon joined SUMS because he felt that UCSD did not have any other organization that could provide the
+                            undergraduate math community with the resources necessary to succeed. He hopes to share his deep passion of
+                            math with others at UCSD.
                         </p>
                     </div>
                 </div>
@@ -83,11 +84,12 @@ img {
                             Publicity Chair
                         </p>
                         <p>
-                            <em>N/A</em><br>
-                            <em>N/A</em>
+                            <em>Mathematics—Computer Science, Minor in Psychology</em><br>
+                            <em>2nd Year, Revelle</em>
                         </p>
                         <p>
-                            N/A
+                            Guanxin joined SUMS to plan out wonderful events together as a math community, and to share her passion and
+                            gain new perspectives on math from like-minded students.
                         </p>
                     </div>
                 </div>
@@ -105,13 +107,9 @@ img {
                             <em>2nd Year, Muir College</em>
                         </p>
                         <p>
-                            Peter joined SUMS since he enjoys abstract math and computer science related math, and had been attending Zack's lightning talks 
-                            regularly. As he became more involved with SUMS' lightning talks, he decided to attend meetings and become an officer. He hopes to 
-                            gain lots of fun math learning/teaching experience out of SUMS and hopes to meet other math loving undergrads. His favorite field of 
-                            math is category theory, as it seems to unify all the other fields of mathematics. He finds univalent foundations and homotopy type 
-                            theory cool as well. In addition, his favorite mathematician is either David Hilbert, for introducing formalism into mathematics, or 
-                            Alonzo Church, for introducing math into computer science. Peter's interests include research relating to programing languages, 
-                            reading, and occasional bicycling.
+                            Peter joined SUMS because he enjoys various fields of math and had attended many of SUMS' Lightning Talks.
+                            He hopes to gain lots of fun math learning/teaching experience out of SUMS and to meet other math loving
+                            undergraduates.
                         </p>
                     </div>
                 </div>
@@ -126,10 +124,12 @@ img {
                         </p>
                         <p>
                             <em>Applied Mathematics</em><br>
-                            <em>2nd Year, Sixth College</em>
+                            <em>2nd Year, Sixth</em>
                         </p>
                         <p>
-                            N/A
+                            Joseph joined SUMS because he felt UCSD's math department should have more of a presence and because he had
+                            enjoyed the SUMS events so far. Through SUMS, he hopes to establish better communication amongst those who
+                            learn, apply, and contribute to math, and hopes to meet others and grow personally as an officer.
                         </p>
                     </div>
                 </div>
@@ -139,15 +139,17 @@ img {
                     </div>
                     <div class="col">
                         <p>
-                            <strong>Chengyu Chen</strong><br>
+                            <strong>Annie Chen</strong><br>
                             Events Chair
                         </p>
                         <p>
-                            <em>N/A</em><br>
-                            <em>N/A</em>
+                            <em>Applied Mathematics</em><br>
+                            <em>2nd Year, Muir College</em>
                         </p>
                         <p>
-                            N/A
+                            Annie joined SUMS to learn more about math and internship/job opportunities in the field. Through SUMS, she
+                            hopes to meet others with similar interests and to plan out interesting events that would motivate others to
+                            get involved.
                         </p>
                     </div>
                 </div>
@@ -161,11 +163,13 @@ img {
                             Workshop Coordinator
                         </p>
                         <p>
-                            <em>N/A</em><br>
-                            <em>N/A</em>
+                            <em>Mathematics, Minor in Business</em><br>
+                            <em>3rd Year, Warren</em>
                         </p>
                         <p>
-                            N/A
+                            Jonathan joined SUMS to provide opportunities for students to learn math related material outside of class
+                            without having to depend on workshops from UCSD's engineering departments. He hopes to build relationships
+                            with other like-minded math students.
                         </p>
                     </div>
                 </div>
@@ -179,11 +183,12 @@ img {
                             Historian
                         </p>
                         <p>
-                            <em>N/A</em><br>
-                            <em>N/A</em>
+                            <em>Probability and Statistics, Minor in Computer Science</em><br>
+                            <em>2nd Year, Muir</em>
                         </p>
                         <p>
-                            N/A
+                            Daniel joined SUMS to get involved in improving UCSD's math community and department. He hopes to record and
+                            add to SUMS' history, and to help future members continue what has been started.
                         </p>
                     </div>
                 </div>
