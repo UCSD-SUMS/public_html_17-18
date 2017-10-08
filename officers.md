@@ -45,7 +45,7 @@ img {
                     </div>
                     <div class="col">
                         <p>
-                            <h3 strong>D. Zack Garza</h3 /strong><br>
+                            <font size="+2"><strong>D. Zack Garza</strong></font><br>
                             President <a href="mailto:dzgarza@ucsd.edu">dzgarza@ucsd.edu</a>
                         </p>
                         <p>
@@ -53,6 +53,7 @@ img {
                             <em>3rd Year Transfer, Muir</em>
                         </p>
                         <p>
+                            <font size="-1">This is smaller text.</font>
                             Zack joined SUMS to help build a math culture at UCSD and a structured environment for students to pursue 
                             extracurricular math. His primary goal with SUMS is to form a stable organization that will span many
                             generations of students, and to help students explore and discover the kinds of math that excite and inspire
