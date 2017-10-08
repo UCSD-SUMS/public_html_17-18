@@ -49,7 +49,7 @@ img {
                             President <font size="-1"><a href="mailto:dzgarza@ucsd.edu">dzgarza@ucsd.edu</a></font>
                         </p>
                         <p style="font-size:80%;">
-                            <font color="A5A5A5">
+                            <font color="AAAAAA">
                                 Mathematics<br>
                                 3rd Year Transfer, Muir
                             </font>
@@ -81,7 +81,7 @@ img {
                             Secretary <font size="-1"><a href="mailto:jhhu@ucsd.edu">jhhu@ucsd.edu</a></font>
                         </p>
                         <p style="font-size:80%;">
-                            <font color="A5A5A5">
+                            <font color="AAAAAA">
                                 Electrical Engineering, Minor in Mathematics<br>
                                 3rd Year, Warren College
                             </font>
@@ -112,7 +112,7 @@ img {
                             Publicity Chair <font size="-1"><a href="mailto:gul002@ucsd.edu">gul002@ucsd.edu</a></font>
                         </p>
                         <p style="font-size:80%;">
-                            <font color="A5A5A5">
+                            <font color="AAAAAA">
                                 Mathematics—Computer Science, Minor in Psychology<br>
                                 2nd Year, Revelle
                             </font>
@@ -156,7 +156,7 @@ img {
                             Publicity Chair <font size="-1"><a href="mailto:gul002@ucsd.edu">gul002@ucsd.edu</a></font>
                         </p>
                         <p style="font-size:80%;">
-                            <font color="A5A5A5">
+                            <font color="AAAAAA">
                                 Mathematics—Computer Science, Minor in Psychology<br>
                                 2nd Year, Revelle
                             </font>
