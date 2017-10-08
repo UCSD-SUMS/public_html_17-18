@@ -194,7 +194,7 @@ img {
                 </div>
                 <div class="row">
                     <div class ="col">
-                        <img src="/static/officers/Zack.jpg" />
+                        <img src="/static/officers/Empty.jpg" />
                     </div>
                     <div class="col">
                         <p>
@@ -214,7 +214,7 @@ img {
                 </div>
                 <div class="row">
                     <div class ="col">
-                        <img src="/static/officers/Zack.jpg" />
+                        <img src="/static/officers/Empty.jpg" />
                     </div>
                     <div class="col">
                         <p>
