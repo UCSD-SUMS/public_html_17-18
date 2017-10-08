@@ -349,8 +349,8 @@ img {
                         </p>
                         <p style="font-size:75%;">
                             <font color="646464">
-                                <strong>Favorite Fields of Math:</strong> Statistics, Mathematical Modelings of Economics<br>
-                                <strong>Hobbies/Interests:</strong> Listening to Music, Watching Dramas/Movies, Cooking, Jogging, Yoga
+                                <strong>Favorite Fields of Math:</strong> Statistics<br>
+                                <strong>Hobbies/Interests:</strong> Cooking, Photographing, Watching TV Shows/Dramas, Sleeping
                             </font>
                         </p>
                     </div>
