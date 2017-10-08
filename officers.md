@@ -62,7 +62,7 @@ img {
                                 and inspire them.
                             </font>
                         </p>
-                        <p style="font-size:90%;">
+                        <p style="font-size:80%;">
                             <font color="646464">
                                 Favorite fields of math: Algebra, Topology, Algebraic Geometry<br>
                                 Hobbies/interests: Rebuilding/restoring old arcade machines, Playing musical instruments (drums, guitar,                       
