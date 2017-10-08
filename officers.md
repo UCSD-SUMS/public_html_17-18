@@ -57,13 +57,14 @@ img {
                             </font>
                         </p>
                         <p style="font-size:90%;">
-                            <font color="323232">
+                            <font color="4B4B4B">
                                 Zack joined SUMS to help build a math culture at UCSD and a structured environment for students to
                                 pursue extracurricular math. His primary goal with SUMS is to form a stable organization that will span
                                 many generations of students, and to help students explore and discover the kinds of math that excite
                                 and inspire them.
                                 <ul>
                                     <li>Hobbies/interests:
+                                </ul>
                             </font>
                         </p>
                     </div>
