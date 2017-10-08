@@ -45,8 +45,8 @@ img {
                     </div>
                     <div class="col">
                         <p>
-                                <font size="+1"><strong>D. Zack Garza</font></strong><br>
-                                President <font size="-1"><a href="mailto:dzgarza@ucsd.edu">dzgarza@ucsd.edu</a></font>
+                            <font size="+1"><strong>D. Zack Garza</font></strong><br>
+                            President <font size="-1"><a href="mailto:dzgarza@ucsd.edu">dzgarza@ucsd.edu</a></font>
                         </p>
                         <p style="font-size:80%;">
                             <font color="A5A5A5">
@@ -60,6 +60,10 @@ img {
                                 pursue extracurricular math. His primary goal with SUMS is to form a stable organization that will span
                                 many generations of students, and to help students explore and discover the kinds of math that excite
                                 and inspire them.
+                            </font>
+                        </p>
+                        <p style="font-size:90%;">
+                            <font color="4B4B4B">
                                 Favorite fields of math:
                                 Hobbies/interests:
                             </font>
