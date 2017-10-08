@@ -68,9 +68,9 @@ img {
                         </p>
                         <p style="font-size:75%;">
                             <font color="646464">
-                                <strong>Favorite Fields of Math:</strong> Algebra, Topology, Algebraic Geometry.<br>
+                                <strong>Favorite Fields of Math:</strong> Algebra, Topology, Algebraic Geometry<br>
                                 <strong>Hobbies/Interests:</strong> Rebuilding/restoring old arcade machines, Playing musical
-                                instruments (drums, guitar, piano), Bicycling.
+                                instruments (drums, guitar, piano), Bicycling
                             </font>
                         </p>
                     </div>
@@ -100,8 +100,8 @@ img {
                         </p>
                         <p style="font-size:75%;">
                             <font color="646464">
-                                <strong>Favorite Fields of Math:</strong> Partial Differential Equations, Numerical Analysis.<br>
-                                <strong>Hobbies/Interests:</strong> Hiking, Playing the Violin, Working on Personal Projects.
+                                <strong>Favorite Fields of Math:</strong> Partial Differential Equations, Numerical Analysis<br>
+                                <strong>Hobbies/Interests:</strong> Hiking, Playing the Violin, Working on Personal Projects
                             </font>
                         </p>
                     </div>
@@ -130,8 +130,8 @@ img {
                         </p>
                         <p style="font-size:75%;">
                             <font color="646464">
-                                <strong>Favorite Fields of Math:</strong> Statistics.<br>
-                                <strong>Hobbies/Interests:</strong> Drawing, Cooking/Eating, Reading.
+                                <strong>Favorite Fields of Math:</strong> Statistics<br>
+                                <strong>Hobbies/Interests:</strong> Drawing, Cooking/Eating, Reading
                             </font>
                         </p>
                     </div>
@@ -162,8 +162,8 @@ img {
                         <p style="font-size:75%;">
                             <font color="646464">
                                 <strong>Favorite Fields of Math:</strong> Category Theory, Univalent Foundations, Homotopy Type
-                                Theory.<br>
-                                <strong>Hobbies/Interests:</strong> Research on Programming Languages, Reading, Bicycling.
+                                Theory<br>
+                                <strong>Hobbies/Interests:</strong> Research on Programming Languages, Reading, Bicycling
                             </font>
                         </p>
                     </div>
