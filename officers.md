@@ -318,7 +318,7 @@ img {
                         </p>
                         <p style="font-size:75%;">
                             <font color="646464">
-                                <strong>Favorite Fields of Math:</strong> Statistics, Mathematical Modelings of Economics<br>
+                                <strong>Favorite Fields of Math:</strong> Statistics, Mathematical Models of Economics<br>
                                 <strong>Hobbies/Interests:</strong> Listening to Music, Watching Dramas/Movies, Cooking, Jogging, Yoga
                             </font>
                         </p>
