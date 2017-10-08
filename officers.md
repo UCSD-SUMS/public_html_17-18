@@ -68,8 +68,8 @@ img {
                         </p>
                         <p class="hangingindent" style="font-size:75%;">
                             <font color="646464">
-                                <font size="+1">Favorite Fields of Math:</font> Algebra, Topology, Algebraic Geometry<br>
-                                <font size="+1">Hobbies/Interests:</font> Rebuilding/restoring old arcade machines, Playing musical
+                                <strong>Favorite Fields of Math:</strong> Algebra, Topology, Algebraic Geometry<br>
+                                <strong>Hobbies/Interests:</strong> Rebuilding/restoring old arcade machines, Playing musical
                                 instruments (drums, guitar, piano), Bicycling
                             </font>
                         </p>
