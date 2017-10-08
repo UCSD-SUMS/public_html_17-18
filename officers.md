@@ -54,11 +54,10 @@ img {
                             <em>3rd Year Transfer, Muir</em>
                         </p>
                         <p>
-                            <font size="-1"> This is smaller text.</font>
-                            <font size="-0.5">Zack joined SUMS to help build a math culture at UCSD and a structured environment for students to pursue 
+                            Zack joined SUMS to help build a math culture at UCSD and a structured environment for students to pursue 
                             extracurricular math. His primary goal with SUMS is to form a stable organization that will span many
                             generations of students, and to help students explore and discover the kinds of math that excite and inspire
-                            them.</font>
+                            them.
                         </p>
                     </div>
                 </div>
