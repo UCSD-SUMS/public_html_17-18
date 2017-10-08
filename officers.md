@@ -192,6 +192,45 @@ img {
                         </p>
                     </div>
                 </div>
+                <div class="row">
+                    <div class ="col">
+                        <img src="/static/officers/Zack.jpg" />
+                    </div>
+                    <div class="col">
+                        <p>
+                            <strong>Yifan Wu</strong><br>
+                            Outreach Committee
+                        </p>
+                        <p>
+                            <em>Mathematics—Economics, Minor in Psychology</em><br>
+                            <em>2nd Year, ERC</em>
+                        </p>
+                        <p>
+                            Yifan joined SUMS to help build a community of students who love math and who share ideas and connect with
+                            other students from the different branches of the math department. She hopes to encourage students to learn
+                            more about math, especially from the experiences of professors and graduate students.
+                        </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class ="col">
+                        <img src="/static/officers/Zack.jpg" />
+                    </div>
+                    <div class="col">
+                        <p>
+                            <strong>Yijia Yang</strong><br>
+                            Outreach Committee
+                        </p>
+                        <p>
+                            <em>Probability and Statistics</em><br>
+                            <em>2nd Year, Muir</em>
+                        </p>
+                        <p>
+                            Yijia joined SUMS to take part in more math related events and to get to know more about math. She hopes to
+                            join and contribute to the improvement of the UCSD math community and make new friends in the process.
+                        </p>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -244,9 +283,9 @@ img {
                         </p>
                         <p>
                             Upon transferring to UCSD, Aiden saw a lack of a mathematics community. He joined SUMS after seeing a chance 
-                            to build and join such a community. His favorite field of mathematics is probability, as it forces us to abandon 
-                            our intuitions and to instead focus on mathematical reasoning. Aiden enjoys snowboarding, listening to music, and 
-                            playing video games.
+                            to build and join such a community. His favorite field of mathematics is probability, as it forces us to
+                            abandon our intuitions and to instead focus on mathematical reasoning. Aiden enjoys snowboarding, listening
+                            to music, and playing video games.
                         </p>
                     </div>
                 </div>
@@ -264,11 +303,12 @@ img {
                             <em>2nd Year, Warren College</em>
                         </p>
                         <p>
-                            Simon decided to get involved with SUMS because he felt UCSD did not have an organization that could provide the 
-                            undergraduate math community with the resources necessary to succeed. He has a deep passion for math and wants to share 
-                            that passion with other math majors at UCSD. His favorite field of math is partial differential equations (PDEs), as they 
-                            help model a lot of physical phenomena, which he thinks is amazing. In particular, PDEs have so many applications for physics 
-                            in engineering (his major). Simon enjoys reading, watching Netflix, and working on personal projects.
+                            Simon decided to get involved with SUMS because he felt UCSD did not have an organization that could provide
+                            the undergraduate math community with the resources necessary to succeed. He has a deep passion for math and
+                            wants to share that passion with other math majors at UCSD. His favorite field of math is partial
+                            differential equations (PDEs), as they help model a lot of physical phenomena, which he thinks is amazing.
+                            In particular, PDEs have so many applications for physics and in engineering (his major). Simon enjoys
+                            reading, watching Netflix, and working on personal projects.
                         </p>
                     </div>
                 </div>
@@ -286,13 +326,15 @@ img {
                             <em>1st Year, Muir College</em>
                         </p>
                         <p>
-                            Peter joined SUMS since he enjoys abstract math and computer science related math, and had been attending Zack's lightning talks 
-                            regularly. As he became more involved with SUMS' lightning talks, he decided to attend meetings and become an officer. He hopes to 
-                            gain lots of fun math learning/teaching experience out of SUMS and hopes to meet other math loving undergrads. His favorite field of 
-                            math is category theory, as it seems to unify all the other fields of mathematics. He finds univalent foundations and homotopy type 
-                            theory cool as well. In addition, his favorite mathematician is either David Hilbert, for introducing formalism into mathematics, or 
-                            Alonzo Church, for introducing math into computer science. Peter's interests include research relating to programing languages, 
-                            reading, and occasional bicycling.
+                            Peter joined SUMS since he enjoys abstract math and computer science related math, and had been attending
+                            Zack's lightning talks regularly. As he became more involved with SUMS' lightning talks, he decided to
+                            attend meetings and become an officer. He hopes to gain lots of fun math learning/teaching experience out of
+                            SUMS and hopes to meet other math loving undergrads. His favorite field of 
+                            math is category theory, as it seems to unify all the other fields of mathematics. He finds univalent
+                            foundations and homotopy type theory cool as well. In addition, his favorite mathematician is either David
+                            Hilbert, for introducing formalism into mathematics, or Alonzo Church, for introducing math into computer
+                            science. Peter's interests include research relating to programing languages, reading, and occasional
+                            bicycling.
                         </p>
                     </div>
                 </div>
@@ -310,11 +352,12 @@ img {
                             <em>1st Year, Muir College</em>
                         </p>
                         <p>
-                            Being a Math–CS Major at UCSD, Keenan was dismayed at the lack of a strong community of math students. Being a part of SUMS has 
-                            allowed him to change this, and and has allowed him to encourage a community more welcoming to math students. From what little 
-                            college math he has covered so far, he has found himself enjoying abstract algebra a lot. He cannot wait to take the MATH 100 
-                            sequence (Abstract Algebra) at UCSD. Keenan enjoys hiking, biking, and traveling around in general. In fact, he has been learning 
-                            to drive recently, as it is his dream to go on a road trip in the U.S.
+                            Being a Math–CS Major at UCSD, Keenan was dismayed at the lack of a strong community of math students. Being
+                            a part of SUMS has allowed him to change this, and and has allowed him to encourage a community more
+                            welcoming to math students. From what little college math he has covered so far, he has found himself
+                            enjoying abstract algebra a lot. He cannot wait to take the MATH 100 sequence (Abstract Algebra) at UCSD.
+                            Keenan enjoys hiking, biking, and traveling around in general. In fact, he has been learning to drive
+                            recently, as it is his dream to go on a road trip in the U.S.
                         </p>
                     </div>
                 </div>
