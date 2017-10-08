@@ -139,33 +139,20 @@ img {
                     </div>
                     <div class="col">
                         <p>
-                            <strong>Peter Amidon</strong><br>
-                            Technology Chair
-                        </p>
-                        <p>
-                            <em>Computer Science</em><br>
-                            <em>2nd Year, Muir College</em>
-                        </p>
-                        <p>
-                            Peter joined SUMS because he enjoys various fields of math and had attended many of SUMS' Lightning Talks.
-                            He hopes to gain lots of fun math learning/teaching experience out of SUMS and to meet other math loving
-                            undergraduates.
-                        </p>
-                        
-                        <p>
-                            <font size="+1"><strong>Guanxin Li</font></strong><br>
-                            Publicity Chair <font size="-1"><a href="mailto:gul002@ucsd.edu">gul002@ucsd.edu</a></font>
+                            <font size="+1"><strong>Peter Amidon</font></strong><br>
+                            Technology Chair <font size="-1"><a href="mailto:pamidon@ucsd.edu">pamidon@ucsd.edu</a></font>
                         </p>
                         <p style="font-size:80%;">
                             <font color="AAAAAA">
-                                Mathematics—Computer Science, Minor in Psychology<br>
-                                2nd Year, Revelle
+                                Computer Science<br>
+                                2nd Year, Muir
                             </font>
                         </p>
                         <p style="font-size:90%;">
                             <font color="646464">
-                                Guanxin joined SUMS to plan out wonderful events together as a math community, and to share her passion and
-                            gain new perspectives on math from like-minded students.
+                                Peter joined SUMS because he enjoys various fields of math and had attended many of SUMS' Lightning Talks.
+                            He hopes to gain lots of fun math learning/teaching experience out of SUMS and to meet other math loving
+                            undergraduates.
                             </font>
                         </p>
                         <p style="font-size:90%;">
