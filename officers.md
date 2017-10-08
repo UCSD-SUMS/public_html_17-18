@@ -171,124 +171,187 @@ img {
                 <!--------------------------------------------------------------------------------------------------------------------->
                 <div class="row">
                     <div class ="col">
-                        <img src="/static/officers/16-17/Empty.jpg" />
+                        <img src="/static/officers/17-18/Joseph.jpg" />
                     </div>
                     <div class="col">
                         <p>
-                            <strong>Joseph Gilby</strong><br>
-                            Website Coordinator
+                            <font size="+1"><strong>Joseph Gilby</font></strong><br>
+                            Website Coordinator <font size="-1"><a href="mailto:jgilby@ucsd.edu">jgilby@ucsd.edu</a></font>
                         </p>
-                        <p>
-                            <em>Applied Mathematics</em><br>
-                            <em>2nd Year, Sixth</em>
+                        <p style="font-size:75%;">
+                            <font color="AAAAAA">
+                                Applied Mathematics<br>
+                                2nd Year Transfer, Sixth
+                            </font>
                         </p>
-                        <p>
-                            Joseph joined SUMS because he felt UCSD's math department should have more of a presence and because he had
-                            enjoyed the SUMS events so far. Through SUMS, he hopes to establish better communication amongst those who
-                            learn, apply, and contribute to math, and hopes to meet others and grow personally as an officer.
+                        <p style="font-size:90%;">
+                            <font color="646464">
+                                Joseph joined SUMS because he felt UCSD's math department should have more of a presence and because he
+                                had enjoyed the SUMS events so far. Through SUMS, he hopes to establish better communication amongst
+                                those who learn, apply, and contribute to math, and hopes to meet others and grow personally as an
+                                officer.
+                            </font>
+                        </p>
+                        <p style="font-size:75%;">
+                            <font color="646464">
+                                <strong>Favorite Fields of Math:</strong> Analysis, Differential Equations, Probability, Stochastic
+                                Processes<br>
+                                <strong>Hobbies/Interests:</strong> Walking/Hiking, Watching TV, YouTube
+                            </font>
                         </p>
                     </div>
                 </div>
                 <!--------------------------------------------------------------------------------------------------------------------->
                 <div class="row">
                     <div class ="col">
-                        <img src="/static/officers/16-17/Empty.jpg" />
+                        <img src="/static/officers/17-18/Annie.jpg" />
                     </div>
                     <div class="col">
                         <p>
-                            <strong>Annie Chen</strong><br>
-                            Events Chair
+                            <font size="+1"><strong>Annie Chen</font></strong><br>
+                            Events Chair <font size="-1"><a href="mailto:chc401@ucsd.edu">chc401@ucsd.edu</a></font>
                         </p>
-                        <p>
-                            <em>Applied Mathematics</em><br>
-                            <em>2nd Year, Muir College</em>
+                        <p style="font-size:75%;">
+                            <font color="AAAAAA">
+                                Applied Mathematics<br>
+                                2nd Year, Muir
+                            </font>
                         </p>
-                        <p>
-                            Annie joined SUMS to learn more about math and internship/job opportunities in the field. Through SUMS, she
-                            hopes to meet others with similar interests and to plan out interesting events that would motivate others to
-                            get involved.
+                        <p style="font-size:90%;">
+                            <font color="646464">
+                                Annie joined SUMS to learn more about math and internship/job opportunities in the field. Through SUMS,
+                                she hopes to meet people with similar interests and to plan out interesting events that would motivate
+                                others to get involved.
+                            </font>
+                        </p>
+                        <p style="font-size:75%;">
+                            <font color="646464">
+                                <strong>Favorite Fields of Math:</strong> Various Applied Math (e.g., Data Science)<br>
+                                <strong>Hobbies/Interests:</strong> Swimming, Tennis, Watching TV Shows, Eating, Sleeping
+                            </font>
                         </p>
                     </div>
                 </div>
                 <!--------------------------------------------------------------------------------------------------------------------->
                 <div class="row">
                     <div class ="col">
-                        <img src="/static/officers/16-17/Empty.jpg" />
+                        <img src="/static/officers/17-18/Jonathan.jpg" />
                     </div>
                     <div class="col">
                         <p>
-                            <strong>Jonathan Lim</strong><br>
-                            Workshop Coordinator
+                            <font size="+1"><strong>Jonathan Lim</font></strong><br>
+                            Workshop Coordinator <font size="-1"><a href="mailto:jzlim@ucsd.edu">jzlim@ucsd.edu</a></font>
                         </p>
-                        <p>
-                            <em>Mathematics, Minor in Business</em><br>
-                            <em>3rd Year, Warren</em>
+                        <p style="font-size:75%;">
+                            <font color="AAAAAA">
+                                Mathematics, Minor in Business<br>
+                                3rd Year, Warren
+                            </font>
                         </p>
-                        <p>
-                            Jonathan joined SUMS to provide opportunities for students to learn math related material outside of class
-                            without having to depend on workshops from UCSD's engineering departments. He hopes to build relationships
-                            with other like-minded math students.
+                        <p style="font-size:90%;">
+                            <font color="646464">
+                                Jonathan joined SUMS to provide opportunities for students to learn math related material outside of
+                                class, without having to depend on workshops from UCSD's engineering departments. He hopes to build
+                                relationships with other like-minded math students.
+                            </font>
+                        </p>
+                        <p style="font-size:75%;">
+                            <font color="646464">
+                                <strong>Favorite Fields of Math:</strong> Measure Theory, Numerical Analysis<br>
+                                <strong>Hobbies/Interests:</strong> Anime, Guitar, Video Games, Sleeping
+                            </font>
                         </p>
                     </div>
                 </div>
                 <!--------------------------------------------------------------------------------------------------------------------->
                 <div class="row">
                     <div class ="col">
-                        <img src="/static/officers/16-17/Empty.jpg" />
+                        <img src="/static/officers/17-18/Daniel.jpg" />
                     </div>
                     <div class="col">
                         <p>
-                            <strong>Daniel Lee</strong><br>
-                            Historian
+                            <font size="+1"><strong>Daniel Lee</font></strong><br>
+                            Historian <font size="-1"><a href="mailto:dhl011@ucsd.edu">dhl011@ucsd.edu</a></font>
                         </p>
-                        <p>
-                            <em>Probability and Statistics, Minor in Computer Science</em><br>
-                            <em>2nd Year, Muir</em>
+                        <p style="font-size:75%;">
+                            <font color="AAAAAA">
+                                Probability and Statistics, Minor in Computer Science<br>
+                                2nd Year, Muir
+                            </font>
                         </p>
-                        <p>
-                            Daniel joined SUMS to get involved in improving UCSD's math community and department. He hopes to record and
-                            add to SUMS' history, and to help future members continue what has been started.
+                        <p style="font-size:90%;">
+                            <font color="646464">
+                                Daniel joined SUMS to get involved in improving UCSD's math community and department. He hopes to record
+                                and add to SUMS' history, and to help future members continue what has been started.
+                            </font>
+                        </p>
+                        <p style="font-size:75%;">
+                            <font color="646464">
+                                <strong>Favorite Fields of Math:</strong> Statistics<br>
+                                <strong>Hobbies/Interests:</strong> Tennis, Cooking, Driving, Sleeping
+                            </font>
                         </p>
                     </div>
                 </div>
                 <!--------------------------------------------------------------------------------------------------------------------->
                 <div class="row">
                     <div class ="col">
-                        <img src="/static/officers/16-17/Empty.jpg" />
+                        <img src="/static/officers/17-18/Yifan.jpg" />
                     </div>
                     <div class="col">
                         <p>
-                            <strong>Yifan Wu</strong><br>
-                            Outreach Committee
+                            <font size="+1"><strong>Yifan Wu</font></strong><br>
+                            Outreach Committee <font size="-1"><a href="mailto:yiw500@ucsd.edu">yiw500@ucsd.edu</a></font>
                         </p>
-                        <p>
-                            <em>Mathematics—Economics, Minor in Psychology</em><br>
-                            <em>2nd Year, ERC</em>
+                        <p style="font-size:75%;">
+                            <font color="AAAAAA">
+                                Mathematics—Economics, Minor in Psychology<br>
+                                2nd Year, ERC
+                            </font>
                         </p>
-                        <p>
-                            Yifan joined SUMS to help build a community of students who love math and who share ideas and connect with
-                            other students from the different branches of the math department. She hopes to encourage students to learn
-                            more about math, especially from the experiences of professors and graduate students.
+                        <p style="font-size:90%;">
+                            <font color="646464">
+                                Yifan joined SUMS to help build a community of students who love math, and who share ideas and connect
+                                with others from the different branches of the math department. She hopes to encourage students to learn
+                                more about math, especially from the ideas and experiences of professors and graduate students.
+                            </font>
+                        </p>
+                        <p style="font-size:75%;">
+                            <font color="646464">
+                                <strong>Favorite Fields of Math:</strong> Statistics, Mathematical Modelings of Economics<br>
+                                <strong>Hobbies/Interests:</strong> Listening to Music, Watching Dramas/Movies, Cooking, Jogging, Yoga
+                            </font>
                         </p>
                     </div>
                 </div>
                 <!--------------------------------------------------------------------------------------------------------------------->
                 <div class="row">
                     <div class ="col">
-                        <img src="/static/officers/16-17/Empty.jpg" />
+                        <img src="/static/officers/17-18/Yijia.jpg" />
                     </div>
                     <div class="col">
                         <p>
-                            <strong>Yijia Yang</strong><br>
-                            Outreach Committee
+                            <font size="+1"><strong>Yijia Yang</font></strong><br>
+                            Outreach Committee <font size="-1"><a href="mailto:yiy208@ucsd.edu">yiy208@ucsd.edu</a></font>
                         </p>
-                        <p>
-                            <em>Probability and Statistics</em><br>
-                            <em>2nd Year, Muir</em>
+                        <p style="font-size:75%;">
+                            <font color="AAAAAA">
+                                Probability and Statistics, Minor in Psychology<br>
+                                2nd Year, Muir
+                            </font>
                         </p>
-                        <p>
-                            Yijia joined SUMS to take part in more math related events and to get to know more about math. She hopes to
-                            join and contribute to the improvement of the UCSD math community and make new friends in the process.
+                        <p style="font-size:90%;">
+                            <font color="646464">
+                                Yijia joined SUMS to take part in more math related events and to get to know more about math. She hopes
+                                to join and contribute to the improvement of the UCSD math community and make new friends in the
+                                process.
+                            </font>
+                        </p>
+                        <p style="font-size:75%;">
+                            <font color="646464">
+                                <strong>Favorite Fields of Math:</strong> Statistics, Mathematical Modelings of Economics<br>
+                                <strong>Hobbies/Interests:</strong> Listening to Music, Watching Dramas/Movies, Cooking, Jogging, Yoga
+                            </font>
                         </p>
                     </div>
                 </div>
