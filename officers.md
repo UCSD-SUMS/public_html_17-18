@@ -45,7 +45,7 @@ img {
                 <!--------------------------------------------------------------------------------------------------------------------->
                 <div class="row">
                     <div class ="col">
-                        <img src="/static/officers/16-17/Zack.jpg" />
+                        <img src="/static/officers/17-18/Zack.jpg" />
                     </div>
                     <div class="col">
                         <p>
