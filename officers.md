@@ -45,7 +45,7 @@ img {
                 <!--------------------------------------------------------------------------------------------------------------------->
                 <div class="row">
                     <div class ="col">
-                        <img src="/static/officers/Zack.jpg" />
+                        <img src="/static/officers/16-17/Zack.jpg" />
                     </div>
                     <div class="col">
                         <p>
@@ -78,7 +78,7 @@ img {
                 <!--------------------------------------------------------------------------------------------------------------------->
                 <div class="row">
                     <div class ="col">
-                        <img src=/static/officers/Simon.jpg />
+                        <img src=/static/officers/16-17/Simon.jpg />
                     </div>
                     <div class="col">
                         <p>
@@ -109,7 +109,7 @@ img {
                 <!--------------------------------------------------------------------------------------------------------------------->
                 <div class="row">
                     <div class ="col">
-                        <img src="/static/officers/Empty.jpg" />
+                        <img src="/static/officers/16-17/Empty.jpg" />
                     </div>
                     <div class="col">
                         <p>
@@ -139,7 +139,7 @@ img {
                 <!--------------------------------------------------------------------------------------------------------------------->
                 <div class="row">
                     <div class ="col">
-                        <img src=/static/officers/Peter.jpg />
+                        <img src=/static/officers/16-17/Peter.jpg />
                     </div>
                     <div class="col">
                         <p>
@@ -170,7 +170,7 @@ img {
                 <!--------------------------------------------------------------------------------------------------------------------->
                 <div class="row">
                     <div class ="col">
-                        <img src="/static/officers/Empty.jpg" />
+                        <img src="/static/officers/16-17/Empty.jpg" />
                     </div>
                     <div class="col">
                         <p>
@@ -191,7 +191,7 @@ img {
                 <!--------------------------------------------------------------------------------------------------------------------->
                 <div class="row">
                     <div class ="col">
-                        <img src="/static/officers/Empty.jpg" />
+                        <img src="/static/officers/16-17/Empty.jpg" />
                     </div>
                     <div class="col">
                         <p>
@@ -212,7 +212,7 @@ img {
                 <!--------------------------------------------------------------------------------------------------------------------->
                 <div class="row">
                     <div class ="col">
-                        <img src="/static/officers/Empty.jpg" />
+                        <img src="/static/officers/16-17/Empty.jpg" />
                     </div>
                     <div class="col">
                         <p>
@@ -233,7 +233,7 @@ img {
                 <!--------------------------------------------------------------------------------------------------------------------->
                 <div class="row">
                     <div class ="col">
-                        <img src="/static/officers/Empty.jpg" />
+                        <img src="/static/officers/16-17/Empty.jpg" />
                     </div>
                     <div class="col">
                         <p>
@@ -253,7 +253,7 @@ img {
                 <!--------------------------------------------------------------------------------------------------------------------->
                 <div class="row">
                     <div class ="col">
-                        <img src="/static/officers/Empty.jpg" />
+                        <img src="/static/officers/16-17/Empty.jpg" />
                     </div>
                     <div class="col">
                         <p>
@@ -274,7 +274,7 @@ img {
                 <!--------------------------------------------------------------------------------------------------------------------->
                 <div class="row">
                     <div class ="col">
-                        <img src="/static/officers/Empty.jpg" />
+                        <img src="/static/officers/16-17/Empty.jpg" />
                     </div>
                     <div class="col">
                         <p>
@@ -313,7 +313,7 @@ img {
                 <!--------------------------------------------------------------------------------------------------------------------->
                 <div class="row">
                     <div class ="col">
-                        <img src="/static/officers/Zack.jpg" />
+                        <img src="/static/officers/16-17/Zack.jpg" />
                     </div>
                     <div class="col">
                         <p>
@@ -338,7 +338,7 @@ img {
                 <!--------------------------------------------------------------------------------------------------------------------->
                 <div class="row">
                     <div class ="col">
-                        <img src="/static/officers/Aiden.jpg" />
+                        <img src="/static/officers/16-17/Aiden.jpg" />
                     </div>
                     <div class="col">
                         <p>
@@ -360,7 +360,7 @@ img {
                 <!--------------------------------------------------------------------------------------------------------------------->
                 <div class="row">
                     <div class ="col">
-                        <img src=/static/officers/Simon.jpg />
+                        <img src=/static/officers/16-17/Simon.jpg />
                     </div>
                     <div class="col">
                         <p>
@@ -384,7 +384,7 @@ img {
                 <!--------------------------------------------------------------------------------------------------------------------->
                 <div class="row">
                     <div class ="col">
-                        <img src=/static/officers/Peter.jpg />
+                        <img src=/static/officers/16-17/Peter.jpg />
                     </div>
                     <div class="col">
                         <p>
@@ -411,7 +411,7 @@ img {
                 <!--------------------------------------------------------------------------------------------------------------------->
                 <div class="row">
                     <div class ="col">
-                        <img src=/static/officers/Keenan.jpg />
+                        <img src=/static/officers/16-17/Keenan.jpg />
                     </div>
                     <div class="col">
                         <p>
