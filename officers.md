@@ -20,6 +20,9 @@ img {
     padding: 0;
   }
 }
+.indent {
+    text-indent: 10px;
+}
 </style>
 
 <div class="panel-group" id="accordion">
@@ -62,7 +65,7 @@ img {
                                 and inspire them.
                             </font>
                         </p>
-                        <p style="font-size:75%;">
+                        <p class="indent" style="font-size:75%;">
                             <font color="646464">
                                 Favorite Fields of Math: Algebra, Topology, Algebraic Geometry<br>
                                 Hobbies/Interests: Rebuilding/restoring old arcade machines, Playing musical instruments (drums, guitar,                       
