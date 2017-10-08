@@ -68,9 +68,9 @@ img {
                         </p>
                         <p style="font-size:75%;">
                             <font color="646464">
-                                <strong>Favorite Fields of Math:</strong> Algebra, Topology, Algebraic Geometry<br>
+                                <strong>Favorite Fields of Math:</strong> Algebra, Topology, Algebraic Geometry.<br>
                                 <strong>Hobbies/Interests:</strong> Rebuilding/restoring old arcade machines, Playing musical
-                                instruments (drums, guitar, piano), Bicycling
+                                instruments (drums, guitar, piano), Bicycling.
                             </font>
                         </p>
                     </div>
