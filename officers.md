@@ -50,7 +50,7 @@ img {
                                 President <font size="-1"><a href="mailto:dzgarza@ucsd.edu">dzgarza@ucsd.edu</a></font>
                             
                         </p>
-                        <p style="font-size:90%;">
+                        <p style="font-size:80%;">
                             <font color="A5A5A5">
                                 Mathematics<br>
                                 3rd Year Transfer, Muir
