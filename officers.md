@@ -45,7 +45,7 @@ img {
                     </div>
                     <div class="col">
                         <p>
-                            <font size="+1"><strong>D. Zack Garza</font></strong> <font size="-1"><a href="mailto:dzgarza@ucsd.edu">dzgarza@ucsd.edu</a></font>
+                            <font size="+1"><strong>D. Zack Garza</font></strong> <font size="-1"><a href="mailto:dzgarza@ucsd.edu">dzgarza@ucsd.edu</a></font><br>
                             President
                         </p>
                         <p style="font-size:90%;">
