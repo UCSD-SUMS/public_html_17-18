@@ -5,6 +5,8 @@ end: 2017-10-25 17:00:00
 location: AP&M 7421
 ---
 
+<div class="container" style="width: 250px; height: 140px; overflow: hidden; padding:0; margin:0;"> <img src="/static/fa17/Lightning_Talks.png" style="width: 100%"/></div>
+
 A lightning talk is a short presentation meant to quickly 
 introduce a topic or concept to an audience.
 
