@@ -48,7 +48,7 @@ img {
                             <font size="+1"><strong>D. Zack Garza</font></strong><br>
                             President <font size="-1"><a href="mailto:dzgarza@ucsd.edu">dzgarza@ucsd.edu</a></font>
                         </p>
-                        <p style="font-size:80%;">
+                        <p style="font-size:75%;">
                             <font color="AAAAAA">
                                 Mathematics<br>
                                 3rd Year Transfer, Muir
