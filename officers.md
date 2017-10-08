@@ -50,8 +50,8 @@ img {
                         </p>
                         <p style="font-size:90%;">
                             <font color="cccccc">
-                                <em>Mathematics</em><br>
-                                <em>3rd Year Transfer, Muir</em>
+                                Mathematics<br>
+                                3rd Year Transfer, Muir
                             </font>
                         </p>
                         <p style="font-size:90%;">
