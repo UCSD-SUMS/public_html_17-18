@@ -49,7 +49,7 @@ img {
                             President
                         </p>
                         <p style="font-size:90%;">
-                            <font color="cccccc">
+                            <font color="b2b2b2">
                                 Mathematics<br>
                                 3rd Year Transfer, Muir
                             </font>
@@ -59,6 +59,8 @@ img {
                             extracurricular math. His primary goal with SUMS is to form a stable organization that will span many
                             generations of students, and to help students explore and discover the kinds of math that excite and inspire
                             them.
+                            <ul>
+                                <li>
                         </p>
                     </div>
                 </div>
