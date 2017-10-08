@@ -67,6 +67,7 @@ img {
                             <font size="6"> This is smaller text.</font>
                             <font size="7"> This is smaller text.</font>
                             <font size="8"> This is smaller text 8.</font>
+                            <font size="80%"> smaller text.</font>
                         </p>
                     </div>
                 </div>
