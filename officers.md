@@ -66,7 +66,7 @@ img {
                                 and inspire them.
                             </font>
                         </p>
-                        <p class="hangingindent" style="font-size:75%;">
+                        <p style="font-size:75%;">
                             <font color="646464">
                                 <strong>Favorite Fields of Math:</strong> Algebra, Topology, Algebraic Geometry<br>
                                 <strong>Hobbies/Interests:</strong> Rebuilding/restoring old arcade machines, Playing musical
