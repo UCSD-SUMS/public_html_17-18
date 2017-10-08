@@ -51,7 +51,7 @@ img {
                             
                         </p>
                         <p style="font-size:90%;">
-                            <font color="b2b2b2">
+                            <font color="A5A5A5">
                                 Mathematics<br>
                                 3rd Year Transfer, Muir
                             </font>
