@@ -73,12 +73,14 @@ img {
                     </div>
                     <div class="col">
                         <p>
-                            <strong>Simon Hu</strong><br>
-                            Secretary
+                            <font size="+1"><strong>Simon Hu</font></strong><br>
+                            Secretary <font size="-1"><a href="mailto:jhhu@ucsd.edu">jhhu@ucsd.edu</a></font>
                         </p>
-                        <p>
-                            <em>Electrical Engineering, Minor in Mathematics</em><br>
-                            <em>3rd Year, Warren College</em>
+                        <p style="font-size:80%;">
+                            <font color="A5A5A5">
+                                Electrical Engineering, Minor in Mathematics<br>
+                                3rd Year, Warren College
+                            </font>
                         </p>
                         <p>
                             Simon joined SUMS because he felt that UCSD did not have any other organization that could provide the
