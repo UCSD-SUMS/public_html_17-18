@@ -20,7 +20,7 @@ img {
     padding: 0;
   }
 }
-.indent {
+.hangingindent {
     padding-left: 22px ;
     text-indent: -22px ;
 }
