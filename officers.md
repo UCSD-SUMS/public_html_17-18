@@ -58,6 +58,15 @@ img {
                             extracurricular math. His primary goal with SUMS is to form a stable organization that will span many
                             generations of students, and to help students explore and discover the kinds of math that excite and inspire
                             them.</font>
+                            <font size="0"> This is smaller text 0.</font>
+                            <font size="1"> This is smaller text.</font>
+                            <font size="2"> This is smaller text.</font>
+                            <font size="3"> This is smaller text.</font>
+                            <font size="4"> This is smaller text.</font>
+                            <font size="5"> This is smaller text.</font>
+                            <font size="6"> This is smaller text.</font>
+                            <font size="7"> This is smaller text.</font>
+                            <font size="8"> This is smaller text 8.</font>
                         </p>
                     </div>
                 </div>
