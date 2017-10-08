@@ -64,7 +64,7 @@ img {
                         </p>
                         <p style="font-size:90%;">
                             <font color="4B4B4B">
-                                Favorite fields of math:
+                                Favorite fields of math:<br>
                                 Hobbies/interests:
                             </font>
                         </p>
