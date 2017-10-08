@@ -49,7 +49,7 @@ img {
                             President
                         </p>
                         <p style="font-size:90%;">
-                            <font color="808080">
+                            <font color="cccccc">
                                 <em>Mathematics</em><br>
                                 <em>3rd Year Transfer, Muir</em>
                             </font>
