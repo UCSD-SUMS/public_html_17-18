@@ -47,49 +47,7 @@ img {
                             <em>5th Year, Muir College</em>
                         </p>
                         <p>
-                            Zack joined SUMS to help build a math community at UCSD. He hopes SUMS continues to be a meeting 
-                            place and community of learning where people share their 
-                            love and knowledge of math. His favorite math fact is that the sum of all n of the nth roots of 
-                            unity is exactly zero. He feels that this fact gives rise to so many cool connections between 
-                            algebra and geometry, and contains many nice symmetries--and one can recover Euler's infamous identity 
-                            as a special case! Zack has approximate knowledge of many musical instruments--drums, guitar, and a bit 
-                            of piano. He also cycles often and enjoys restoring/rebuilding old arcade machines.
-                        </p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class ="col">
-                        <img src="/static/officers/Empty.jpg" />
-                    </div>
-                    <div class="col">
-                        <p>
-                            <strong>Empty</strong><br>
-                            Vice President
-                        </p>
-                        <p>
-                            <em>N/A</em><br>
-                            <em>N/A</em>
-                        </p>
-                        <p>
-                            N/A
-                        </p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class ="col">
-                        <img src="/static/officers/Empty.jpg" />
-                    </div>
-                    <div class="col">
-                        <p>
-                            <strong>Empty</strong><br>
-                            Treasurer
-                        </p>
-                        <p>
-                            <em>N/A</em><br>
-                            <em>N/A</em>
-                        </p>
-                        <p>
-                            N/A
+                            Zack joined SUMS to help build a math culture at UCSD and a structured environment for students to pursue  extracurricular math. His primary goal with SUMS is to form a stable organization that will span many generations of students, and to help students explore and discover the kinds of math that excite and inspire them.
                         </p>
                     </div>
                 </div>
