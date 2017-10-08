@@ -45,8 +45,10 @@ img {
                     </div>
                     <div class="col">
                         <p>
-                            <font size="+1"><strong>D. Zack Garza</font></strong> <font size="-1"><a href="mailto:dzgarza@ucsd.edu">dzgarza@ucsd.edu</a></font><br>
-                            President
+                            <font color="b2b2b2">
+                                <font size="+1"><strong>D. Zack Garza</font></strong> <font size="-1"><a href="mailto:dzgarza@ucsd.edu">dzgarza@ucsd.edu</a></font><br>
+                                President
+                            </font>
                         </p>
                         <p style="font-size:90%;">
                             <font color="b2b2b2">
@@ -60,7 +62,7 @@ img {
                             generations of students, and to help students explore and discover the kinds of math that excite and inspire
                             them.
                             <ul>
-                                <li>
+                                <li>Hobbies/interests:
                         </p>
                     </div>
                 </div>
