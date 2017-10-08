@@ -78,14 +78,14 @@ img {
                 <!--------------------------------------------------------------------------------------------------------------------->
                 <div class="row">
                     <div class ="col">
-                        <img src=/static/officers/16-17/Simon.jpg />
+                        <img src=/static/officers/17-18/Simon.jpg />
                     </div>
                     <div class="col">
                         <p>
                             <font size="+1"><strong>Simon Hu</font></strong><br>
                             Secretary <font size="-1"><a href="mailto:jhhu@ucsd.edu">jhhu@ucsd.edu</a></font>
                         </p>
-                        <p style="font-size:80%;">
+                        <p style="font-size:75%;">
                             <font color="AAAAAA">
                                 Electrical Engineering, Minor in Mathematics<br>
                                 3rd Year, Warren College
@@ -94,14 +94,14 @@ img {
                         <p style="font-size:90%;">
                             <font color="646464">
                                 Simon joined SUMS because he felt that UCSD did not have any other organization that could provide the
-                                undergraduate math community with the resources necessary to succeed. He hopes to share his deep passion of
-                                math with others at UCSD.
+                                undergraduate math community with the resources necessary to succeed. He hopes to share his deep passion
+                                of math with others at UCSD.
                             </font>
                         </p>
-                        <p style="font-size:90%;">
+                        <p style="font-size:75%;">
                             <font color="646464">
-                                Favorite fields of math:<br>
-                                Hobbies/interests:
+                                <strong>Favorite Fields of Math:</strong> Partial Differential Equations, Numerical Analysis.<br>
+                                <strong>Hobbies/Interests:</strong> Hiking, Playing the Violin, Working on Personal Projects.
                             </font>
                         </p>
                     </div>
@@ -109,14 +109,14 @@ img {
                 <!--------------------------------------------------------------------------------------------------------------------->
                 <div class="row">
                     <div class ="col">
-                        <img src="/static/officers/16-17/Empty.jpg" />
+                        <img src="/static/officers/17-18/Guanxin.jpg" />
                     </div>
                     <div class="col">
                         <p>
                             <font size="+1"><strong>Guanxin Li</font></strong><br>
                             Publicity Chair <font size="-1"><a href="mailto:gul002@ucsd.edu">gul002@ucsd.edu</a></font>
                         </p>
-                        <p style="font-size:80%;">
+                        <p style="font-size:75%;">
                             <font color="AAAAAA">
                                 Mathematics—Computer Science, Minor in Psychology<br>
                                 2nd Year, Revelle
@@ -124,14 +124,14 @@ img {
                         </p>
                         <p style="font-size:90%;">
                             <font color="646464">
-                                Guanxin joined SUMS to plan out wonderful events together as a math community, and to share her passion and
-                            gain new perspectives on math from like-minded students.
+                                Guanxin joined SUMS to plan out wonderful events together as a math community, and to share her passion
+                                and gain new perspectives on math from like-minded students.
                             </font>
                         </p>
-                        <p style="font-size:90%;">
+                        <p style="font-size:75%;">
                             <font color="646464">
-                                Favorite fields of math:<br>
-                                Hobbies/interests:
+                                <strong>Favorite Fields of Math:</strong> Statistics.<br>
+                                <strong>Hobbies/Interests:</strong> Drawing, Cooking/Eating, Reading.
                             </font>
                         </p>
                     </div>
@@ -139,14 +139,14 @@ img {
                 <!--------------------------------------------------------------------------------------------------------------------->
                 <div class="row">
                     <div class ="col">
-                        <img src=/static/officers/16-17/Peter.jpg />
+                        <img src=/static/officers/Empty.jpg />
                     </div>
                     <div class="col">
                         <p>
                             <font size="+1"><strong>Peter Amidon</font></strong><br>
                             Technology Chair <font size="-1"><a href="mailto:pamidon@ucsd.edu">pamidon@ucsd.edu</a></font>
                         </p>
-                        <p style="font-size:80%;">
+                        <p style="font-size:75%;">
                             <font color="AAAAAA">
                                 Computer Science<br>
                                 2nd Year, Muir
@@ -154,15 +154,16 @@ img {
                         </p>
                         <p style="font-size:90%;">
                             <font color="646464">
-                                Peter joined SUMS because he enjoys various fields of math and had attended many of SUMS' Lightning Talks.
-                            He hopes to gain lots of fun math learning/teaching experience out of SUMS and to meet other math loving
-                            undergraduates.
+                                Peter joined SUMS because he enjoys various fields of math and had attended many of SUMS' Lightning
+                                Talks. He hopes to gain lots of fun math learning and teaching experience out of SUMS, and to meet other
+                                math loving undergraduates.
                             </font>
                         </p>
-                        <p style="font-size:90%;">
+                        <p style="font-size:75%;">
                             <font color="646464">
-                                Favorite fields of math:<br>
-                                Hobbies/interests:
+                                <strong>Favorite Fields of Math:</strong> Category Theory, Univalent Foundations, Homotopy Type
+                                Theory.<br>
+                                <strong>Hobbies/Interests:</strong> Research on Programming Languages, Reading, Bicycling.
                             </font>
                         </p>
                     </div>
