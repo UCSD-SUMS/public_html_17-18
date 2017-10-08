@@ -60,9 +60,8 @@ img {
                                 pursue extracurricular math. His primary goal with SUMS is to form a stable organization that will span
                                 many generations of students, and to help students explore and discover the kinds of math that excite
                                 and inspire them.
-                                <ul>
-                                    <li>Hobbies/interests:
-                                </ul>
+                                Favorite fields of math:
+                                Hobbies/interests:
                             </font>
                         </p>
                     </div>
