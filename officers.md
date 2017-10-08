@@ -69,6 +69,7 @@ img {
                             <font size="8"> This is smaller text 8.</font>
                             <font size="80%"> smaller text.</font>
                             <p style="font-size:0.9em;">Font size specified at 1.2em</p>
+                        <p style="font-size:90%;">Smaller font size specified using percentage values - 90%</p>
                         </p>
                     </div>
                 </div>
