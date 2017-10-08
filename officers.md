@@ -45,10 +45,10 @@ img {
                     </div>
                     <div class="col">
                         <p>
-                            <font color="323232">
+                            
                                 <font size="+1"><strong>D. Zack Garza</font></strong><br>
                                 President <font size="-1"><a href="mailto:dzgarza@ucsd.edu">dzgarza@ucsd.edu</a></font>
-                            </font>
+                            
                         </p>
                         <p style="font-size:90%;">
                             <font color="b2b2b2">
@@ -57,12 +57,14 @@ img {
                             </font>
                         </p>
                         <p style="font-size:90%;">
-                            Zack joined SUMS to help build a math culture at UCSD and a structured environment for students to pursue 
-                            extracurricular math. His primary goal with SUMS is to form a stable organization that will span many
-                            generations of students, and to help students explore and discover the kinds of math that excite and inspire
-                            them.
-                            <ul>
-                                <li>Hobbies/interests:
+                            <font color="323232">
+                                Zack joined SUMS to help build a math culture at UCSD and a structured environment for students to
+                                pursue extracurricular math. His primary goal with SUMS is to form a stable organization that will span
+                                many generations of students, and to help students explore and discover the kinds of math that excite
+                                and inspire them.
+                                <ul>
+                                    <li>Hobbies/interests:
+                            </font>
                         </p>
                     </div>
                 </div>
