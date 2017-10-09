@@ -358,7 +358,7 @@ img {
                 <!--------------------------------------------------------------------------------------------------------------------->
                 <div class="row">
                     <div class ="col">
-                        <img src="/static/officers/17-18/Empty.jpg" />
+                        <img src="/static/officers/Empty.jpg" />
                     </div>
                     <div class="col">
                         <p>
@@ -511,6 +511,22 @@ img {
                             enjoying abstract algebra a lot. He cannot wait to take the MATH 100 sequence (Abstract Algebra) at UCSD.
                             Keenan enjoys hiking, biking, and traveling around in general. In fact, he has been learning to drive
                             recently, as it is his dream to go on a road trip in the U.S.
+                        </p>
+                    </div>
+                </div>
+                <!--------------------------------------------------------------------------------------------------------------------->
+                <div class="row">
+                    <div class ="col">
+                        <img src=/static/officers/Empty.jpg />
+                    </div>
+                    <div class="col">
+                        <p>
+                            <strong>Jeffrey Saikali</strong><br>
+                            Publicity Chair
+                        </p>
+                        <p>
+                            Jeffrey is the Community Advisor of SUMS as well as one of the Undergraduate/Graduate Advisors of UCSD's
+                            Mathematics Department.
                         </p>
                     </div>
                 </div>
