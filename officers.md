@@ -227,7 +227,7 @@ img {
                         <p style="font-size:75%;">
                             <font color="646464">
                                 <strong>Favorite Fields of Math:</strong> Various Applied Math (e.g., Data Science)<br>
-                                <strong>Hobbies/Interests:</strong> Swimming, Tennis, Watching TV Shows, Eating, Sleeping
+                                <strong>Hobbies/Interests:</strong> Swimming, Tennis, Watching TV Shows, Eating
                             </font>
                         </p>
                     </div>
