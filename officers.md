@@ -356,6 +356,24 @@ img {
                     </div>
                 </div>
                 <!--------------------------------------------------------------------------------------------------------------------->
+                <div class="row">
+                    <div class ="col">
+                        <img src="/static/officers/17-18/Blank.jpg" />
+                    </div>
+                    <div class="col">
+                        <p>
+                            <font size="+1"><strong>Jeffrey Saikali</font></strong><br>
+                            Community Advisor <font size="-1"><a href="mailto:yiy208@ucsd.edu">yiy208@ucsd.edu</a></font>
+                        </p>
+                        <p style="font-size:90%;">
+                            <font color="646464">
+                                Jeffrey is the Community Advisor of SUMS as well as one of the Undergraduate/Graduate Advisors of UCSD's
+                                Mathematics Department.
+                            </font>
+                        </p>
+                    </div>
+                </div>
+                <!--------------------------------------------------------------------------------------------------------------------->
             </div>
         </div>
     </div>
