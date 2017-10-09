@@ -358,12 +358,12 @@ img {
                 <!--------------------------------------------------------------------------------------------------------------------->
                 <div class="row">
                     <div class ="col">
-                        <img src="/static/officers/17-18/Blank.jpg" />
+                        <img src="/static/officers/17-18/Empty.jpg" />
                     </div>
                     <div class="col">
                         <p>
                             <font size="+1"><strong>Jeffrey Saikali</font></strong><br>
-                            Community Advisor <font size="-1"><a href="mailto:yiy208@ucsd.edu">yiy208@ucsd.edu</a></font>
+                            Community Advisor <font size="-1"><a href="mailto:saikali@ucsd.edu">saikali@ucsd.edu</a></font>
                         </p>
                         <p style="font-size:90%;">
                             <font color="646464">
