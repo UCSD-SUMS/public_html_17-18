@@ -522,7 +522,7 @@ img {
                     <div class="col">
                         <p>
                             <strong>Jeffrey Saikali</strong><br>
-                            Community Advisor
+                            Community Adviso
                         </p>
                         <p>
                             Jeffrey is the Community Advisor of SUMS as well as one of the Undergraduate/Graduate Advisors of UCSD's
