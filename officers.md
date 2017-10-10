@@ -526,7 +526,7 @@ img {
                         </p>
                         <p>
                             Jeffrey is the Community Advisor of SUMS as well as one of the Undergraduate/Graduate Advisors of UCSD's
-                            Mathematics Department.
+                            Mathematics Department. 
                         </p>
                     </div>
                 </div>
