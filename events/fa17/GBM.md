@@ -4,7 +4,7 @@ start: 2017-10-09 19:00:00
 end: 2017-10-09 20:00:00
 location: Red Shoe Room (Price Center West)
 ---
-
+<a href="/static/fa17/slides-fall-2017-sums-gbm.html"> (Slides from GBM) </a>
 <div class="container" style="width: 250px; height: 210px; overflow: hidden; padding:0; margin:0;"> <img src="/static/fa17/GBM3.png" style="width: 100%"/></div>
 
 The first major GBM of the year. Meet fellow undergraduate mathematicians,  
