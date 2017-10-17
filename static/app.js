@@ -20,7 +20,10 @@ const initCalendar = (events) => {
 		defaultView: 'month',
 		selectable: false,
 		editable: false,
-		events: events
+		events: events,
+		eventRender: function(event, element) {
+			$(element).tooltip({title: event.title});
+		}
 	});
 };
 

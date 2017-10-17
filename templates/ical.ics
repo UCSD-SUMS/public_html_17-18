@@ -14,4 +14,12 @@ LOCATION:$location$$endif$
 SUMMARY:$title$
 URL:$url$
 END:VEVENT
+$endfor$$for(calevents)$BEGIN:VEVENT
+UID:event-$uidtime$-$uidname$@sums.ucsd.edu
+DTSTAMP$lastmodified$
+DTSTART$start$$if(end)$
+DTEND$end$$endif$$if(location)$
+LOCATION:$location$$endif$
+SUMMARY:$title$
+END:VEVENT
 $endfor$END:VCALENDAR

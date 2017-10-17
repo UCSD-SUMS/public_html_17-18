@@ -11,6 +11,7 @@ import           Control.Arrow
 import           Control.Applicative
 import           Data.Maybe
 import           Data.List
+import           Data.List.Split
 import           Data.Ord
 import           Data.Function
 import qualified Data.Map as M
@@ -53,6 +54,11 @@ rawHTMLPandocCompiler =
                         }
     in pandocCompilerWith readerOptions writerOptions
 
+data CalEvt = CalEvt { calEvtName  :: String
+                     , calEvtStart :: UTCTime
+                     , calEvtEnd   :: UTCTime
+                     } deriving (Show)
+
 main :: IO ()
 main = hakyll $ do
     match "static/**" $ do
@@ -65,9 +71,7 @@ main = hakyll $ do
 
     match "events/past" $ do
       -- INTENTIONAL: Do not route. Just using this to allow loading
-      -- when deciding whether or not events are upcoming (below). We
-      -- could route this to htaccess, but in the future might want to
-      -- combine multiple pieces of data there.
+      -- when deciding whether or not events are upcoming (below).
       compile getResourceBody
 
     match "events/*/*" $ do
@@ -147,6 +151,11 @@ main = hakyll $ do
             makeItem (unlines [toFilePath id, ts]) :: Compiler (Item String)
           Nothing -> makeItem "" :: Compiler (Item String)
 
+    match "calendar-events" $ do
+      -- INTENTIONAL: Do not route. Just using this to allow loading
+      -- in events.ics (below)
+      compile getResourceBody
+
     create ["events.ics"] $ do
       route idRoute
       compile $ do
@@ -155,25 +164,49 @@ main = hakyll $ do
             icalDateFmt = ";VALUE=DATE:%Y%m%d"
             fmtDateTime = fmap (formatTime defaultTimeLocale icalDateTimeFmt)
             fmtDate     = fmap (formatTime defaultTimeLocale icalDateFmt)
+
+            urlEncode' = BS_U8.toString . urlEncode True . BS_U8.fromString
+
             fmtdTime f = liftA2 (<|>)
               (fmtDateTime . itemTime' [dateTimeFormat] f)
               (fmtDate     . itemTime' [dateFormat] f)
-            uidName = return
-                    . BS_U8.toString
-                    . urlEncode True
-                    . BS_U8.fromString
-                    . toFilePath
-                    . itemIdentifier
+            uidName = return . urlEncode' . toFilePath . itemIdentifier
             icalEvCtx =
-              field "uidname" uidName                                `mappend`
-              field "uidtime" (fmtDateTime . itemTime "start")       `mappend`
-              field "start"   (fmtdTime "start")                     `mappend`
-              field "end"     (fmtdTime "end")                       `mappend`
-              modificationTimeField "lastmodified" icalDateTimeFmt   `mappend`
+              field "uidname" uidName                              `mappend`
+              field "uidtime" (fmtDateTime . itemTime "start")     `mappend`
+              field "start"   (fmtdTime "start")                   `mappend`
+              field "end"     (fmtdTime "end")                     `mappend`
+              modificationTimeField "lastmodified" icalDateTimeFmt `mappend`
               eventCtx
+
+            parseCalEvt s = CalEvt { calEvtName  = intercalate " " name'
+                                   , calEvtStart = mkT $ date ++ ' ':start
+                                   , calEvtEnd   = mkT $ date ++ ' ':end
+                                   }
+              where date:time:name' = splitOn " " s
+                    [start, end]    = splitOn "--" time
+                    mkT = parseTimeOrError True defaultTimeLocale dateTimeFormat
+            getCalEvents = do
+              i <- (load "calendar-events" :: Compiler (Item String))
+              return . fmap (Item (itemIdentifier i) . parseCalEvt)
+                     . lines
+                     $ itemBody i
+            calEvtUidName = pure . urlEncode' . calEvtName . itemBody
+            calEvtStart' = pure . calEvtStart . itemBody
+            calEvtEnd' = pure . calEvtEnd . itemBody
+            icalCalEvCtx =
+              field "title"   (pure . calEvtName . itemBody)       `mappend`
+              field "uidname" calEvtUidName                        `mappend`
+              field "uidtime" (fmtDateTime . calEvtStart')         `mappend`
+              field "start"   (fmtDateTime . calEvtStart')         `mappend`
+              field "end"     (fmtDateTime . calEvtEnd')           `mappend`
+              modificationTimeField "lastmodified" icalDateTimeFmt `mappend`
+              missingField
             eventsCtx =
-              listField "events" icalEvCtx (return events) `mappend`
+              listField "calevents" icalCalEvCtx (getCalEvents)    `mappend`
+              listField "events" icalEvCtx (return events)         `mappend`
               defaultContext
+        _ <- getCalEvents
         makeItem ""
           >>= loadAndApplyTemplate "templates/ical.ics" eventsCtx
 
