@@ -260,8 +260,9 @@ main = hakyll $ do
 
     match "officers.md" $ do
         route   $ setExtension "html"
+        let officersCtx = extraCss ["css/officers.css"] `mappend` defaultContext
         compile $ rawHTMLPandocCompiler
-            >>= loadAndApplyTemplate "templates/default.html" defaultContext
+            >>= loadAndApplyTemplate "templates/default.html" officersCtx
             >>= relativizeUrls
 
     match "resources.md" $ do

@@ -1,0 +1,21 @@
+img {
+    float: left;
+    margin-right: 20px;
+    width: 200px;
+    align-self: center;
+}
+.row {
+  display: flex; /* equal height of the children */
+  margin: 10px 10px 30px 10px;
+}
+
+@media all and (max-width: 50em) {
+  .row {
+    flex-flow: column wrap;
+    padding: 0;
+  }
+}
+.hangingindent {
+    padding-left: 22px ;
+    text-indent: -22px ;
+}
