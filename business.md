@@ -2,6 +2,8 @@
 title: "Business"
 ---
 
+# <a href="https://goo.gl/forms/XdL1fQ0Klr2L2Zzq2"> Meeting Sign in </a>
+
 # Our Purpose
 We, the Society of Undergraduate Mathematics Students, would like to serve as a gathering place, as well as an academic and career resource, where all students interested in mathematics can further their involvement in the subject, meet other people with similar interests, and discover some of the opportunities mathematics has to offer.
 
