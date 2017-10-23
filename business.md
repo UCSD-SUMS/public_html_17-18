@@ -125,7 +125,7 @@ For details on the individual board positions, see the
         <div class="panel-heading">
             <h4 class="panel-title">
                 <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">
-                    Planning Calendar
+                    Master Calendar
                 </a>
             </h4>
         </div>
@@ -134,7 +134,7 @@ For details on the individual board positions, see the
                 Here we organize the events and timing of tasks to complete for events (you can find most tasks starting in September). Feel free to give a shoutout on
                 <a href="https://ucsdmathematics.slack.com/">https://ucsdmathematics.slack.com/</a> to participate in or suggest events!
 
-                <iframe src="https://calendar.google.com/calendar/embed?src=gb14smolcj03842int7jmrm43c%40group.calendar.google.com" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+                <iframe src="https://calendar.google.com/calendar/embed?src=slpj546eineo7jbkr2cqvmtcm0%40group.calendar.google.com&ctz=America/Los_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
             </div>
         </div>
     </div>
