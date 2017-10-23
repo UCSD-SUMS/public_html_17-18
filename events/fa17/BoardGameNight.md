@@ -1,7 +1,7 @@
 ---
 title: "Board Game Night"
-start: 2017-11-17 18:00:00
-end: 2017-11-17 21:00:00
+start: 2017-12-01 18:00:00
+end: 2017-11-01 21:00:00
 location: Green Table Room (Price Center West)
 ---
 <div class="container" style="width: 250px; height: 210px; overflow: hidden; padding:0; margin:0;"> <img src="/static/fa17/board-games.jpg" style="width: 100%"/></div>
