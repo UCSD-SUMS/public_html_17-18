@@ -1,7 +1,7 @@
 ---
 title: "Burn-out Social"
-start: 2017-12-16 16:00:00
-end: 2017-12-16 17:00:00
+start: 2017-12-08 16:00:00
+end: 2017-12-08 17:00:00
 location: Price Center West Bear Room
 ---
 <div class="container" style="width: 250px; height: 140px; overflow: hidden; padding:0; margin:0;"> <img src="/static/fa17/Burn-out Social.png" style="width: 100%"/></div>
