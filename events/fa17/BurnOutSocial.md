@@ -4,7 +4,7 @@ start: 2017-12-08 16:00:00
 end: 2017-12-08 17:00:00
 location: Price Center West Bear Room
 ---
-<div class="container" style="width: 250px; height: 140px; overflow: hidden; padding:0; margin:0;"> <img src="/static/fa17/Burn-out Social.png" style="width: 100%"/></div>
+<div class="container" style="width: 250px; height: 210px; overflow: hidden; padding:0; margin:0;"> <img src="/static/fa17/Burn-out Social.png" style="width: 100%"/></div>
 
 Burnout Social is an event held near the end of the quarter, after the second round 
 of midterms and before finals week. It’s meant to give “burned out” mathematics 
