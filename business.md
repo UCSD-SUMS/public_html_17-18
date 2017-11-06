@@ -139,7 +139,8 @@ For details on the individual board positions, see the
         </div>
     </div>
 </div>
-#Primary Member Guide
+
+#Principle Member Guide
 
 ## Overview
 
@@ -164,17 +165,17 @@ Finally, you publicize your event. You can do this out of pocket for less than $
 ## Logistics
 
 * Booking a Small Room (Small Events, 1-25 people)
-  * You can always book a room (for any reason)  in the AP&M building by just walking up to the front desk on the 7th floor of AP&M and asking.
-  * You can get an idea of what room availability is like by looking through <http://www.math.ucsd.edu/announcements/seminar-room-schedules/index.html>
-  * Have an idea of what resources you need - most rooms have things like projectors, but some might not.
-  * Also have an idea of approximately how many people you expect to attend. This may influence your room choices - for example, AP&M 5402 seats 10-15 comfortably and is good for talks/lectures involving the blackboard, while AP&M 6402 is more spacious, seats 20-30 people, and is better for things like presentations or small social events.
-  * There's no real time restriction on these bookings, as it's mostly subject to availability. You can book a room as little as a day in advance or even several months in advance.
+    * You can always book a room (for any reason)  in the AP&M building by just walking up to the front desk on the 7th floor of AP&M and asking.
+    * You can get an idea of what room availability is like by looking through <http://www.math.ucsd.edu/announcements/seminar-room-schedules/index.html>
+    * Have an idea of what resources you need - most rooms have things like projectors, but some might not.
+    * Also have an idea of approximately how many people you expect to attend. This may influence your room choices - for example, AP&M 5402 seats 10-15 comfortably and is good for talks/lectures involving the blackboard, while AP&M 6402 is more spacious, seats 20-30 people, and is better for things like presentations or small social events.
+    * There's no real time restriction on these bookings, as it's mostly subject to availability. You can book a room as little as a day in advance or even several months in advance.
 * Booking a Large Room (Large Events, >25 people)
-  * It is possible to book larger rooms outside of AP&M (such as the larger lecture halls), but this is done through the Center for Student Involvement (CSI)
-  * Only principal members can request these reservations, and there are also time restraints - events must occur after 8pm M-Th, after 5pm Friday, or on a weekend.
-* In this case, you only need to have an idea of which building(s) you'd be interested in using, and what the room's minimum capacity should be.
-* Availability is generally very open for these types of bookings (due to the time restraints), but it's still best to submit a request early. In the worst case, though, it can be 3-5 days before the event.
-* You can find all of the bookable spaces at <http://getinvolved.ucsd.edu/pdf/ProgrammingSpaces.pdf>
+    * It is possible to book larger rooms outside of AP&M (such as the larger lecture halls), but this is done through the Center for Student Involvement (CSI)
+    * Only principal members can request these reservations, and there are also time restraints - events must occur after 8pm M-Th, after 5pm Friday, or on a weekend.
+    * In this case, you only need to have an idea of which building(s) you'd be interested in using, and what the room's minimum capacity should be.
+    * Availability is generally very open for these types of bookings (due to the time restraints), but it's still best to submit a request early. In the worst case, though, it can be 3-5 days before the event.
+    * You can find all of the bookable spaces at <http://getinvolved.ucsd.edu/pdf/ProgrammingSpaces.pdf>
 
 ## Apply for Funding
 
@@ -182,19 +183,19 @@ Finally, you publicize your event. You can do this out of pocket for less than $
 
 * AS Funding
 
-  * For smaller and less formal events that rely on volunteer work (workshops, presentations, grad student / alum / industry presentations), you might not necessarily need any funding just to put on the event. 
+    * For smaller and less formal events that rely on volunteer work (workshops, presentations, grad student / alum / industry presentations), you might not necessarily need any funding just to put on the event. 
 
     But! AS has funding allotted for small events, and has things like food and beverage provisions on the order of roughly $85 per 25 attendees. Since offers of food are a fantastic way to increase event turnout, I *highly reccommend* going through the planning process and submitting funding requests, even for small events.
 
-  * You'll need to sit down and come up with a **price estimate** in order to submit a funding request. The requirements are very stringent! 
+    * You'll need to sit down and come up with a **price estimate** in order to submit a funding request. The requirements are very stringent! 
 
     You can't just estimate what things will cost, you'll have to find out the vendor's **exact** price and submit proof along with your request. (For example, if it's food then you can include a picture of the menu with item names/prices detailed.)
 
-  * Note - using off-campus food vendors can be **complicated**. It's much easier to go with on-campus vendors if possible. (See TAP FAQs for more details).
+    * Note - using off-campus food vendors can be **complicated**. It's much easier to go with on-campus vendors if possible. (See TAP FAQs for more details).
 
-  * You then  need to submit a TAP form at <http://tap.ucsd.edu/portal/>
+    * You then  need to submit a TAP form at <http://tap.ucsd.edu/portal/>
 
-​    
+    ​    
 
 ​            This needs to be done more than **3 weeks in advance**, and can only be filled out by a **principal member**. Also, you should have your room booking confirmed **before** submitting a TAP. Get a confirmation in writing or print, room conflicts are an unnecessary pain!
 
@@ -202,16 +203,12 @@ Finally, you publicize your event. You can do this out of pocket for less than $
 
 There are a couple of standard ways to advertise, but you're free to be as creative as you'd like in this area.    
 
-* **E-mail**: The easiest (and cheapest!) way to advertise is to let one of the faculty members at the front desk on AP&M 7th floor know what the event is, and ask if they can include it in one of their semi-regular e-mails that go out to all math students.     
-
-  All you have to do for this is type up a brief description and talk to someone at the front desk (at least 2-3 weeks in advance if possible). They'll probably just have you e-mail over the description
+* **E-mail**: The easiest (and cheapest!) way to advertise is to let one of the faculty members at the front desk on AP&M 7th floor know what the event is, and ask if they can include it in one of their semi-regular e-mails that go out to all math students. All you have to do for this is type up a brief description and talk to someone at the front desk (at least 2-3 weeks in advance if possible). They'll probably just have you e-mail over the description
 
 
 * **Flyers**: Another easy option is to make and post flyers. Be sure to ask the club advisor or someone at the front desk first, but they'll probably let you stick them up near the elevators, on the basement door, etc.
 
-* You can create flyers however you'd like, but one easy/cheap option is <https://www.canva.com/create/flyers/>
-
-  Pick a template, add some text, and edit it however you'd like. When you're 100% sure it's complete, you can export it as PDF for $1 (You're then free to edit it and redownload for another 24 hours for free). Choose the "PDF Print" export option, check the "Crop marks and bleed" option, and save the PDF to a flash drive.
+* You can create flyers however you'd like, but one easy/cheap option is <https://www.canva.com/create/flyers/> Pick a template, add some text, and edit it however you'd like. When you're 100% sure it's complete, you can export it as PDF for $1 (You're then free to edit it and redownload for another 24 hours for free). Choose the "PDF Print" export option, check the "Crop marks and bleed" option, and save the PDF to a flash drive.
 
 
 * Then take the drive over to **Imprints**, which is the print shop located underneath the campus book store (near the coffee shop). Ask them (nicely!) to print off color copies and crop them for you. If you're just canvassing the math building, 5-7 copies is probably enough. This runs a few dollars
@@ -232,4 +229,62 @@ A couple of quick notes: A few of these options cost money, which means you'll n
 
 ​        This is pretty easy to do, as long as you're going through either Imprints or AS Graphics Studio on campus. Generally, you'll just drop off you print job, grab a "Standard Print and Copy Order Form" (Imprints has these on hand), fill it out, and get it approved by AS (third floor of the Price Center)
 
+# Notes from PM Meeting and Helpful Links
+
+- Disclaimer: I am just a student!
+    - I'm only sharing things that I've learned by doing this myself. I am not the definitive source of information, and I make no guarantees that any of this info is perfectly correct
+    - The resources you should be using:
+        - Googling "UCSD AS" and reading their website
+        - Onestop, Price Center 3rd Floor
+        - CSI Advisor: Kristen Disbro
+        - Funding Manager: Anna
+        - <http://studentorg.ucsd.edu/Home/Details/5649>
+- What is a PM
+- How to become a PM
+    - Workshop: Art of Inclusive Communication <http://tritonstogether.ucsd.edu/>
+    - Get signed on: <http://studentorgregistration.ucsd.edu/>
+- Timeline
+    - Planning Events
+    - Funding Request
+        - Funding Guide: <http://as2.ucsd.edu/Content/docs/AS%20Funding%20Guide%202017-2018.pdf>
+        - Ultimate arbiter: go by dates set in the PDF
+        - Quick heuristic: count 6 school weeks (42 calendar days) back, funding is due on the **Friday** of whatever week that lands in (modulo boundary cases between quarters)
+    - TAP form
+        - 3 weeks (21 calendar days) before event: need to start the form, and at least add room/venue information
+        - 2 weeks (14 calendar days) before event: need to finalize all modules
+    - Advertising
+        - Flyers and FB event should go up 2 weeks (14 days) before events
+        - Print through Imprints on campus to get reimbursed (must be PM)
+            - Go to Imprints, give them PDF, have them fill out invoice
+            - Take invoice up to funding office, have them sign
+            - Take signed form back to Imprints, they 
+    - Event
+    - PEEF
+        - Within 10 A.S. days
+    - Reimbursements
+        - Need to go in within 14 days
+- Tools
+    - Trello: <https://trello.com/b/G7baiPAi/sums-events>
+        - For those who don't see the value: 
+            - <https://trello.com/b/9WhchzaT/ubucon-summit> 
+            - <https://trello.com/b/0T55ivzN/ubuntu-desktop-1710-cycle>
+- Funding Requests
+    - What you'll need:
+        - Room reserved with confirmation
+            - AP&M: <http://www.math.ucsd.edu/announcements/seminar-room-schedules/index.html>
+            - University Centers: <https://reservations.ucsd.edu/>
+            - Registrar: <https://saforms.ucsd.edu/Public/REG/ClassRoomSpaceRequest/ClassroomSpaceRequestForm.aspx>
+    - Full food order with invoices or proof of cost
+        - Reimbursements vs. A.S. coverage
+        - Approved vendors: <http://tap.ucsd.edu/vendor/>
+        - Need specific line items, and all costs
+    - Caveats
+        - Won't fund travel, unless it's a competition
+        - Won't fund permanent items that exist after the event: no prizes, trinkets, gift bags, decorations
+        - Won't fund alcohol
+        - Must include tax, extra charges, gratuity iff delivered on funding request!!
+    - Brackets
+        - See funding guide. Not difference between maximum allocations and maximum **food** allocations
+- TAPs
+    - <http://tap.ucsd.edu/portal/?eid=f2kC7Rsh>
 <br><br><br><br><br><br><br><br>
