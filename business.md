@@ -140,7 +140,7 @@ For details on the individual board positions, see the
     </div>
 </div>
 
-#Principle Member Guide
+#Principal Member Guide
 
 ## Overview
 
