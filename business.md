@@ -139,5 +139,97 @@ For details on the individual board positions, see the
         </div>
     </div>
 </div>
+#Primary Member Guide
+
+## Overview
+
+The whole process is going to look something like this:
+
+First, you'll need to sit down and actually plan the event, usually more 8 weeks in advance for big events, at least 6 weeks in advance for any event requiring funding, and 2-4 weeks in advance for smaller events that don't require funding (like big planning meetings, elections, GBMs, etc).
+
+Then, you'll need to reserve a room. You can do so this like 8 months in advance if you want, so do it as soon as you have SOME idea of how many attendees you're aiming for.
+
+Then you can (optionally) request funding. You must have a room booked and confirmed first, and the deadline to get your request in is 5 weeks before the actual event date.
+
+Finally, you publicize your event. You can do this out of pocket for less than $5 (super easy), or tap into the student org's operating funds (requires some forms).
+
+## Preliminaries
+
+​    1. Have specific ideas of what events you want to pull off. The club should ideally have almost all of its events for a quarter planned **before the quarter starts**. This is especially true for big events!
+
+​    2. Smaller events can be done on shorter notice, but in the absolute worst case you'll want to plan *at least* two weeks in advance. If you advertise for less than a week, turnout tends to be very poor.
+
+​    3. If the event requires funding of any kind, you'll want to plan these **at least 7-8 weeks in advance**. This is because if you want to get funding from AS, you'll need to have a proposal submitted **5 weeks in advance**, and you'll usually need 1-2 weeks to plan out enough concrete details to submit a proposal.
+
+## Logistics
+
+* Booking a Small Room (Small Events, 1-25 people)
+  * You can always book a room (for any reason)  in the AP&M building by just walking up to the front desk on the 7th floor of AP&M and asking.
+  * You can get an idea of what room availability is like by looking through <http://www.math.ucsd.edu/announcements/seminar-room-schedules/index.html>
+  * Have an idea of what resources you need - most rooms have things like projectors, but some might not.
+  * Also have an idea of approximately how many people you expect to attend. This may influence your room choices - for example, AP&M 5402 seats 10-15 comfortably and is good for talks/lectures involving the blackboard, while AP&M 6402 is more spacious, seats 20-30 people, and is better for things like presentations or small social events.
+  * There's no real time restriction on these bookings, as it's mostly subject to availability. You can book a room as little as a day in advance or even several months in advance.
+* Booking a Large Room (Large Events, >25 people)
+  * It is possible to book larger rooms outside of AP&M (such as the larger lecture halls), but this is done through the Center for Student Involvement (CSI)
+  * Only principal members can request these reservations, and there are also time restraints - events must occur after 8pm M-Th, after 5pm Friday, or on a weekend.
+* In this case, you only need to have an idea of which building(s) you'd be interested in using, and what the room's minimum capacity should be.
+* Availability is generally very open for these types of bookings (due to the time restraints), but it's still best to submit a request early. In the worst case, though, it can be 3-5 days before the event.
+* You can find all of the bookable spaces at <http://getinvolved.ucsd.edu/pdf/ProgrammingSpaces.pdf>
+
+## Apply for Funding
+
+* There are essentially two options for funding: AS, or fundraising
+
+* AS Funding
+
+  * For smaller and less formal events that rely on volunteer work (workshops, presentations, grad student / alum / industry presentations), you might not necessarily need any funding just to put on the event. 
+
+    But! AS has funding allotted for small events, and has things like food and beverage provisions on the order of roughly $85 per 25 attendees. Since offers of food are a fantastic way to increase event turnout, I *highly reccommend* going through the planning process and submitting funding requests, even for small events.
+
+  * You'll need to sit down and come up with a **price estimate** in order to submit a funding request. The requirements are very stringent! 
+
+    You can't just estimate what things will cost, you'll have to find out the vendor's **exact** price and submit proof along with your request. (For example, if it's food then you can include a picture of the menu with item names/prices detailed.)
+
+  * Note - using off-campus food vendors can be **complicated**. It's much easier to go with on-campus vendors if possible. (See TAP FAQs for more details).
+
+  * You then  need to submit a TAP form at <http://tap.ucsd.edu/portal/>
+
+​    
+
+​            This needs to be done more than **3 weeks in advance**, and can only be filled out by a **principal member**. Also, you should have your room booking confirmed **before** submitting a TAP. Get a confirmation in writing or print, room conflicts are an unnecessary pain!
+
+## Publicize
+
+There are a couple of standard ways to advertise, but you're free to be as creative as you'd like in this area.    
+
+* **E-mail**: The easiest (and cheapest!) way to advertise is to let one of the faculty members at the front desk on AP&M 7th floor know what the event is, and ask if they can include it in one of their semi-regular e-mails that go out to all math students.     
+
+  All you have to do for this is type up a brief description and talk to someone at the front desk (at least 2-3 weeks in advance if possible). They'll probably just have you e-mail over the description
+
+
+* **Flyers**: Another easy option is to make and post flyers. Be sure to ask the club advisor or someone at the front desk first, but they'll probably let you stick them up near the elevators, on the basement door, etc.
+
+* You can create flyers however you'd like, but one easy/cheap option is <https://www.canva.com/create/flyers/>
+
+  Pick a template, add some text, and edit it however you'd like. When you're 100% sure it's complete, you can export it as PDF for $1 (You're then free to edit it and redownload for another 24 hours for free). Choose the "PDF Print" export option, check the "Crop marks and bleed" option, and save the PDF to a flash drive.
+
+
+* Then take the drive over to **Imprints**, which is the print shop located underneath the campus book store (near the coffee shop). Ask them (nicely!) to print off color copies and crop them for you. If you're just canvassing the math building, 5-7 copies is probably enough. This runs a few dollars
+* If you are planning a bigger event, you can also place flyers around campus. There are restrictions on where they can be placed, however, so you'll want to research this a little.
+* **Faculty**: Another option, especially if it's a particularly math-y event, is to get in touch with a few faculty members teaching some of the bigger classes (the 20 series, 109, 184, etc) and see if they'll let you do a brief announcement at the beginning of one of their classes. (This is actually very common at other schools!)
+* **Signage**: For big events, you may want to consider pamphlets, posters, signage, banners, that kind of stuff. These can all be done through Imprints, so your first step would be contacting them. 
+* **Other**: Other options include putting a blurb on the television marquees in the price center, placing a "teaser" on the tritonlink home page, getting spots on "This Week@UCSD" (goes out to all faculty+students), etc. See <http://blink.ucsd.edu/sponsor/marketing-council/publicize-on-campus.html> for more info
+
+​     
+
+## Other Notes
+
+A couple of quick notes: A few of these options cost money, which means you'll need to submit some forms to get the costs covered by student org funds. 
+
+​        If you're just printing a few flyers, it might be easier just to shell out the \$3-4 yourself and not worry about it. Anything more than that, though, and you'll want to make sure it comes out of the org's operating funds. (You get about \$100 annually as a registered org)
+
+​        
+
+​        This is pretty easy to do, as long as you're going through either Imprints or AS Graphics Studio on campus. Generally, you'll just drop off you print job, grab a "Standard Print and Copy Order Form" (Imprints has these on hand), fill it out, and get it approved by AS (third floor of the Price Center)
 
 <br><br><br><br><br><br><br><br>
