@@ -34,6 +34,9 @@ function goToConstitution() {
     .collapse('show');
 }
 </script>
+
+If you are interested in becoming a member, please fill out the <a href="https://goo.gl/forms/FyqkTyLZzYm1m5Qi2">member interest form</a>.
+
 Taken from our
 <a href="#constitution" onclick="goToConstitution()">Constitution</a>
 below:
@@ -51,6 +54,7 @@ In order to maintain membership status, members must attend at least three (3) e
 Any member may have their membership revoked for the remainder of the academic quarter or year for any violation of University of California San Diego policy, at the discretion of the officers and community advisor of SUMS.
 
 ## <a name="become-officer"></a>Becoming an officer
+
 Taken from our
 <a href="#constitution" onclick="goToConstitution()">Constitution</a>
 below:
