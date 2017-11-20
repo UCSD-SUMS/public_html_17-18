@@ -102,7 +102,7 @@ main = hakyll $ do
                 $ paginateMap pag
       let allQItems = sequence $ map makeItem allQs
       compile $ do
-        events <- chronological' =<< loadAll pat
+        events <- recentFirst' =<< loadAll pat
         let pageCtx =
               boolField "isCurrent" ((num==) . fst . itemBody)     `mappend`
               field "qa"  (return . fromQuarter . snd . itemBody)  `mappend`
@@ -322,12 +322,16 @@ autoTeaserField key snapshot = field key $ \item -> do
     body <- itemBody <$> loadSnapshot (itemIdentifier item) snapshot
     return $ (unwords . take 50 . words) body
 
+annotateTimes :: MonadMetadata m => [Item a] -> m [(Item a, UTCTime)]
+annotateTimes = mapM $ sequence . (id &&& itemTime "start")
 chronological' :: MonadMetadata m => [Item a] -> m [Item a]
 chronological' = fmap sortNewest . annotateTimes
-  where annotateTimes :: MonadMetadata m => [Item a] -> m [(Item a, UTCTime)]
-        annotateTimes = mapM $ sequence . (id &&& itemTime "start")
-        sortNewest :: [(Item a, UTCTime)] -> [Item a]
+  where sortNewest :: [(Item a, UTCTime)] -> [Item a]
         sortNewest = map fst . sortOn snd
+recentFirst' :: MonadMetadata m => [Item a] -> m [Item a]
+recentFirst' = fmap sortOldest . annotateTimes
+  where sortOldest :: [(Item a, UTCTime)] -> [Item a]
+        sortOldest = map fst . sortOn (Down . snd)
 nextNEvents :: Int -> [Item a] -> Compiler [Item a]
 nextNEvents n is = do
   past <- load "events/past"
