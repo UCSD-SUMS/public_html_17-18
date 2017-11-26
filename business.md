@@ -55,6 +55,8 @@ Any member may have their membership revoked for the remainder of the academic q
 
 ## <a name="become-officer"></a>Becoming an officer
 
+If you are interested in becoming a officer, please fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSeRbnRy-wB59AL27OOF1FGrXgkpL847NGfj3Xr2dcaSc7savg/viewform?usp=sf_link">officer interest form</a>.
+
 Taken from our
 <a href="#constitution" onclick="goToConstitution()">Constitution</a>
 below:
