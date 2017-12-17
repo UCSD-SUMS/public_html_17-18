@@ -69,8 +69,9 @@ title: Officers
                         </p>
                         <p style="font-size:90%;">
                             <font color="646464">
-                                Daniel joined SUMS to get involved in improving UCSD's math community and department. He hopes to record
-                                and add to SUMS' history, and to help future members continue what has been started.
+                                Daniel joined SUMS to get involved in improving UCSD's math community and department. He hopes to
+                                support math students via events and workshops, and to help future SUMS members continue what has been
+                                started.
                             </font>
                         </p>
                         <p style="font-size:75%;">
