@@ -126,3 +126,17 @@ Boolean Fourier Analysis has proven to be a remarkably versatile tool in various
 In this talk I will introduce the basics of the technique and show how the simple change-of-basis that is Fourier analysis can solve many problems.
 In addition I will show a Fourier-analysis based proof of the famous Arrow's Theorem which shows an approximate version of it:
 if a ranked-choice voting system has a high probably of choosing a Condorcet winner, then in some way it is "close" to being a dictatorship.
+
+## Algebraic Geometry: A Historical Primer
+(Zack Garza)
+Algebraic Geometry is often touted as an abstruse, difficult to penetrate subject - however, these two branches of Mathematics have been intertwined since the time of the Greeks! In this talks, we will discuss Algebraic Geometry from a historical perspective, leading up to a brief, high-level modern overview of "the Nullstellensatz", a theorem which provides a dictionary between the worlds of algebra and geometry.
+
+## Homology and the Snake Lemma
+(Zack Garza)
+Homology is an algebraic tool that has proved to be useful in many areas of Mathematics, and in recent years has even been used in applied settings such as large scale data analysis.
+
+This talk is motivated by the movie "It's My Turn" from 1980, which features an infamous scene involving a result known as "The Snake Lemma." Surprisingly, this scene is mathematically precise, and is even referenced as a proof in a text by Weibel's "Introduction to Homological Algebra"!
+
+The goal of this talk will be to provide a brief overview of some of the mathematics used in this scene, and ultimately to formulate what the Snake Lemma is and an example of how it can be used. In the process, we will also cover some of the basics of homology and its generalization in homological algebra.
+
+
