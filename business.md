@@ -47,9 +47,9 @@ A member of SUMS shall have one (1) vote in all officer elections.
 
 A member of SUMS shall have one (1) vote in any vote opened to the membership by the Officer Board.
 
-In order to become a member of SUMS, a student must first submit an interest form. Then, they must attend at least three (3) Organization events and two (2) Organization meetings, and ensure that their attendance is noted. After these requirements are met, the student will be added to the list of active members for the next academic quarter.
+In order to become a member of SUMS, a student must first submit an interest form. Then, they must attend at least two (2) Organization events and two (2) Organization meetings, and ensure that their attendance is noted. The officers of the club may also institute alternative ways to meet these requirements, communicated to members in advance, such as participation in special meetings or volunteer projects. After these requirements are met, the student will be added to the list of active members for the next academic quarter.
 
-In order to maintain membership status, members must attend at least three (3) events and two (2) business meetings each academic quarter. Membership requirements will be reviewed after each academic quarter. Any member that fails to meet these requirements will be marked as an inactive member for the following quarter, and will not be allowed the aforementioned benefits of membership. Any inactive member completing membership requirements for a quarter will be marked as active for the following quarter.
+In order to maintain membership status, members must attend at least two (2) Organization events and two (2) Organization meetings each academic quarter, or fulfill alternative requirements set forth by the officers. Membership requirements will be reviewed after each academic quarter. Any member that fails to meet these requirements will be marked as an inactive member for the following quarter, and will not be allowed the aforementioned benefits of membership. Any inactive member completing membership requirements for a quarter will be marked as active for the following quarter.
 
 Any member may have their membership revoked for the remainder of the academic quarter or year for any violation of University of California San Diego policy, at the discretion of the officers and community advisor of SUMS.
 
