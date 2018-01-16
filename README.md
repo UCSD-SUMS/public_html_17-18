@@ -51,14 +51,6 @@ npm run watchSite
 
 Once this has finished, you can then navigate to `localhost:8000` to see the site.
 
-- (Optional) Download the site's binary files separately.
-
-Follow the instructions at [git-lfs.github.com](https://git-lfs.github.com/) to install, then in the
-repository run
-```
-git lfs pull
-```
-
 
 There may be issues on Windows-based systems. See the
 [wiki](https://github.com/UCSD-SUMS/web/wiki) for
