@@ -211,7 +211,7 @@ title: Officers
                 <!--------------------------------------------------------------------------------------------------------------------->
                 <div class="row">
                     <div class ="col">
-                        <img src=/static/officers/Empty.jpg />
+                        <img src=/static/officers/16-17/Peter.jpg />
                     </div>
                     <div class="col">
                         <p>
