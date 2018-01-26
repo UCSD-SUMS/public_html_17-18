@@ -120,12 +120,12 @@ title: Officers
                     </div>
                     <div class="col">
                         <p>
-                            <font size="+1"><strong>Annie Chen</font></strong><br>
+                            <font size="+1"><strong>Chengyu (Annie) Chen</font></strong><br>
                             Events Chair <font size="-1"><a href="mailto:chc401@ucsd.edu">chc401@ucsd.edu</a></font>
                         </p>
                         <p style="font-size:75%;">
                             <font color="AAAAAA">
-                                Applied Mathematics<br>
+                                Applied Mathematics, Minor in Data Science<br>
                                 2nd Year, Muir
                             </font>
                         </p>
